@@ -1,0 +1,11 @@
+https://learn.microsoft.com/en-us/officeupdates/sharepoint-updates
+https://learn.microsoft.com/en-us/sql/database-engine/install-windows/latest-updates-for-microsoft-sql-server?view=sql-server-ver16
+https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information
+https://learn.microsoft.com/en-us/windows/release-health/release-information
+https://learn.microsoft.com/en-us/troubleshoot/developer/browsers/installation/prerequisite-updates-for-ie-11
+https://learn.microsoft.com/en-us/Exchange/new-features/build-numbers-and-release-dates?view=exchserver-2019
+https://learn.microsoft.com/en-us/officeupdates/office-updates-msi
+https://learn.microsoft.com/en-us/officeupdates/office-msi-non-security-updates
+https://learn.microsoft.com/en-us/officeupdates/project-server-updates
+https://learn.microsoft.com/en-us/SkypeForBusiness/sfb-server-updates
+https://learn.microsoft.com/en-us/SkypeForBusiness/sfb-client-updates
