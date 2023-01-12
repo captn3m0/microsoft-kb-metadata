@@ -3,45 +3,81 @@ import json
 import re
 import datetime
 from bs4 import BeautifulSoup
-import urllib.request
-DATE_REGEX = r'(?:(?P<year>\d{4})-)?(?P<month>january|february|march|april|may|june|july|august|september|october|november|december)-(?P<date>\d+)(?:-(?P<year2>\d{4}))?'
+from urllib import request
+import urllib.error
 
-# load data from data.yml
-redirect_data = yaml.safe_load(open('data.yml'))
+class NoRedirect(request.HTTPRedirectHandler):
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        return None
 
-def parse_redirect(slug):
+
+
+DATE_REGEX = r'(?:(?P<year>\d{4})-)?(?P<month>january|february|march|april|may|june|july|august|september|october|november|december)-(?P<date>\d+)(?:-(?P<year2>\d{4})-)?'
+
+def parse_redirect(kb_id, slug):
     m = re.search(DATE_REGEX, slug)
     if m == None:
         return None
     else:
         y  = m.group('year') or m.group('year2')
-        date_s = f"{m.group('date')} {m.group('month').title()} {y}"
+        d = int(m.group('date'))
+        if y == None:
+            # if date actually contains the year
+            # set date to 1, and set year to date
+            if d>1900 and d<2030:
+                y = d
+                d = 1
+            else:
+                return None
+        if d>30:
+            return None
+        date_s = f"{d} {m.group('month').title()} {y}"
         date = datetime.datetime.strptime(date_s, "%d %B %Y").strftime("%Y-%m-%d")
         return {
             "date": date,
             "uuid": slug[-36:],
             "slug": slug,
-            "url": f"https://support.microsoft.com/en-us/topic/{slug}"
+            "url": f"https://support.microsoft.com/help/{kb_id}"
         }
 
 def get_url_slug(kb_id):
-    return redirect_data[int(kb_id)]['redirect']
+    request.install_opener(request.build_opener(NoRedirect))
+    url = f"https://support.microsoft.com/help/{kb_id}"
+    r = urllib.request.Request(url, method="HEAD")
+    try:
+        response = urllib.request.urlopen(r, data=None, timeout=5)
+    except urllib.error.HTTPError as response:
+        if 'location' in response.headers:
+            l = response.headers['location']
+            print(l)
+            return l.split('/')[-1]
+        else:
+            return None
+    return None
 
 def update_mapping(kb_ids):
+    print(f"Total Count: {len(kb_ids)}")
     kb = None
     updated = False
     with open('data.json', 'r') as f:
         kb = json.load(f)
 
-    with open(kb_json_file, 'r') as f:
-        for kb_id in kb_ids:
-            if kb_id not in kb:
-                
-                slug = get_url_slug(kb_id)
-                new_data = parse_redirect(slug)
+    i = 0
+    for kb_id in kb_ids:
+        i=i+1
+        if kb_id not in kb:
+            print(kb_id)
+            slug = get_url_slug(kb_id)
+            if slug:
+                print(slug)
+                new_data = parse_redirect(kb_id, slug)
+                print(new_data)
                 if new_data:
                     updated = True
                     kb[kb_id] = new_data
+                    print(f"Status: {i}/{len(kb_ids)}")
+            else:
+                print("no slug")
 
     if updated:
         with open('data.json', 'w') as f:
