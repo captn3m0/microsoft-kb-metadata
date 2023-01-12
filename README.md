@@ -12,4 +12,4 @@ mapping to other projects.
 
 ## license
 
-Data and code in this repository is licensed under [Creative Commons Zero v1.0 Universal](https://choosealicense.com/licenses/cc0-1.0/#).
+Data and code in this repository is licensed under [Creative Commons Zero v1.0 Universal](https://choosealicense.com/licenses/cc0-1.0/).
