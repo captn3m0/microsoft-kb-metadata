@@ -49,7 +49,6 @@ def get_url_slug(kb_id):
     except urllib.error.HTTPError as response:
         if 'location' in response.headers:
             l = response.headers['location']
-            print(l)
             return l.split('/')[-1]
         else:
             return None
@@ -66,18 +65,13 @@ def update_mapping(kb_ids):
     for kb_id in kb_ids:
         i=i+1
         if kb_id not in kb:
-            print(kb_id)
             slug = get_url_slug(kb_id)
             if slug:
-                print(slug)
                 new_data = parse_redirect(kb_id, slug)
-                print(new_data)
                 if new_data:
                     updated = True
                     kb[kb_id] = new_data
                     print(f"Status: {i}/{len(kb_ids)}")
-            else:
-                print("no slug")
 
     if updated:
         with open('data.json', 'w') as f:
