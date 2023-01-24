@@ -10450,5 +10450,17 @@
     "uuid": "a3cd659c-ba93-c86b-b30f-58fbb8f27a2c",
     "slug": "description-of-the-cumulative-update-for-the-lync-2010-attendee-user-level-installation-june-2016-a3cd659c-ba93-c86b-b30f-58fbb8f27a2c",
     "url": "https://support.microsoft.com/help/3171496"
+  },
+  "5019274": {
+    "date": "2023-01-19",
+    "uuid": "ace2511d-586e-41b0-b213-3a89d97565a4",
+    "slug": "january-19-2023-kb5019274-os-build-22000-1516-preview-ace2511d-586e-41b0-b213-3a89d97565a4",
+    "url": "https://support.microsoft.com/help/5019274"
+  },
+  "5019275": {
+    "date": "2023-01-19",
+    "uuid": "8ae1b678-d38c-4249-848d-06b722e7c0ad",
+    "slug": "january-19-2023-kb5019275-os-builds-19042-2546-19044-2546-and-19045-2546-preview-8ae1b678-d38c-4249-848d-06b722e7c0ad",
+    "url": "https://support.microsoft.com/help/5019275"
   }
 }
