@@ -10462,5 +10462,11 @@
     "uuid": "8ae1b678-d38c-4249-848d-06b722e7c0ad",
     "slug": "january-19-2023-kb5019275-os-builds-19042-2546-19044-2546-and-19045-2546-preview-8ae1b678-d38c-4249-848d-06b722e7c0ad",
     "url": "https://support.microsoft.com/help/5019275"
+  },
+  "5022360": {
+    "date": "2023-01-26",
+    "uuid": "f6973dbe-bcc4-402a-8b9a-0541b0959403",
+    "slug": "january-26-2023-kb5022360-os-build-22621-1194-preview-f6973dbe-bcc4-402a-8b9a-0541b0959403",
+    "url": "https://support.microsoft.com/help/5022360"
   }
 }
