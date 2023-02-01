@@ -9,3 +9,11 @@ https://learn.microsoft.com/en-us/officeupdates/office-msi-non-security-updates
 https://learn.microsoft.com/en-us/officeupdates/project-server-updates
 https://learn.microsoft.com/en-us/SkypeForBusiness/sfb-server-updates
 https://learn.microsoft.com/en-us/SkypeForBusiness/sfb-client-updates
+https://learn.microsoft.com/en-us/troubleshoot/sql/releases/download-and-install-latest-updates
+https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2019/build-versions
+https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2017/build-versions
+https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2016/build-versions
+https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2014/build-versions
+https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-release-history-2022
+https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-release-history-2019
+https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-release-history-2017
