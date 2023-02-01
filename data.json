@@ -10468,5 +10468,527 @@
     "uuid": "f6973dbe-bcc4-402a-8b9a-0541b0959403",
     "slug": "january-26-2023-kb5022360-os-build-22621-1194-preview-f6973dbe-bcc4-402a-8b9a-0541b0959403",
     "url": "https://support.microsoft.com/help/5022360"
+  },
+  "5014353": {
+    "date": "2022-06-14",
+    "uuid": "f0afe659-bd19-4c87-a417-a4c67a47e644",
+    "slug": "kb5014353-description-of-the-security-update-for-sql-server-2019-cu16-june-14-2022-f0afe659-bd19-4c87-a417-a4c67a47e644",
+    "url": "https://support.microsoft.com/help/5014353"
+  },
+  "5014553": {
+    "date": "2022-06-14",
+    "uuid": "024a90f1-1173-4ade-9c18-816ee7150458",
+    "slug": "kb5014553-description-of-the-security-update-for-sql-server-2017-cu29-june-14-2022-024a90f1-1173-4ade-9c18-816ee7150458",
+    "url": "https://support.microsoft.com/help/5014553"
+  },
+  "4019091": {
+    "date": "2017-08-08",
+    "uuid": "fa35160c-8344-4786-7f5d-7f9192aaf07a",
+    "slug": "kb4019091-description-of-the-security-update-for-sql-server-2014-service-pack-1-gdr-august-8-2017-fa35160c-8344-4786-7f5d-7f9192aaf07a",
+    "url": "https://support.microsoft.com/help/4019091"
+  },
+  "4583459": {
+    "date": "2021-01-12",
+    "uuid": "6a4cb3cc-6185-386b-be7b-ca1d6e652d16",
+    "slug": "kb4583459-description-of-the-security-update-for-sql-server-2019-cu8-january-12-2021-6a4cb3cc-6185-386b-be7b-ca1d6e652d16",
+    "url": "https://support.microsoft.com/help/4583459"
+  },
+  "4583458": {
+    "date": "2021-01-12",
+    "uuid": "65859e33-296d-0b7d-5e13-69bbb6fb6974",
+    "slug": "kb4583458-description-of-the-security-update-for-sql-server-2019-gdr-january-12-2021-65859e33-296d-0b7d-5e13-69bbb6fb6974",
+    "url": "https://support.microsoft.com/help/4583458"
+  },
+  "4583457": {
+    "date": "2021-01-12",
+    "uuid": "0cd203cb-a728-ef64-d4be-b45eaf00f50a",
+    "slug": "kb4583457-description-of-the-security-update-for-sql-server-2017-cu22-january-12-2021-0cd203cb-a728-ef64-d4be-b45eaf00f50a",
+    "url": "https://support.microsoft.com/help/4583457"
+  },
+  "4583456": {
+    "date": "2021-01-12",
+    "uuid": "158deb0c-2050-4563-9413-d79dfc3075e2",
+    "slug": "kb4583456-description-of-the-security-update-for-sql-server-2017-gdr-january-12-2021-158deb0c-2050-4563-9413-d79dfc3075e2",
+    "url": "https://support.microsoft.com/help/4583456"
+  },
+  "4505225": {
+    "date": "2019-07-09",
+    "uuid": "950a174e-badb-aa65-ebac-a93c96c56402",
+    "slug": "kb4505225-description-of-the-security-update-for-sql-server-2017-cu15-july-9-2019-950a174e-badb-aa65-ebac-a93c96c56402",
+    "url": "https://support.microsoft.com/help/4505225"
+  },
+  "4505224": {
+    "date": "2019-07-09",
+    "uuid": "eef4d1c7-96db-cdce-eedd-ccc54d7fba45",
+    "slug": "kb4505224-description-of-the-security-update-for-sql-server-2017-gdr-july-9-2019-eef4d1c7-96db-cdce-eedd-ccc54d7fba45",
+    "url": "https://support.microsoft.com/help/4505224"
+  },
+  "4494352": {
+    "date": "2019-05-14",
+    "uuid": "a262662f-a8fc-253a-2d40-32c276612736",
+    "slug": "kb4494352-description-of-the-security-update-for-sql-server-2017-cu-14-gdr-may-14-2019-a262662f-a8fc-253a-2d40-32c276612736",
+    "url": "https://support.microsoft.com/help/4494352"
+  },
+  "4494351": {
+    "date": "2019-05-14",
+    "uuid": "3cc3768d-3b32-ca2d-f894-3a102695ea24",
+    "slug": "kb4494351-description-of-the-security-update-for-sql-server-2017-gdr-may-14-2019-3cc3768d-3b32-ca2d-f894-3a102695ea24",
+    "url": "https://support.microsoft.com/help/4494351"
+  },
+  "4293803": {
+    "date": "2018-08-14",
+    "uuid": "c3d94f57-ae45-56e4-f0fe-8a9db1f70c43",
+    "slug": "kb4293803-description-of-the-security-update-for-the-remote-code-execution-vulnerability-in-sql-server-2017-gdr-august-14-2018-c3d94f57-ae45-56e4-f0fe-8a9db1f70c43",
+    "url": "https://support.microsoft.com/help/4293803"
+  },
+  "4293805": {
+    "date": "2018-08-14",
+    "uuid": "c2e05ac7-486e-c43d-1caa-56898463e9fc",
+    "slug": "kb4293805-description-of-the-security-update-for-the-remote-code-execution-vulnerability-in-sql-server-2017-cu-august-14-2018-c2e05ac7-486e-c43d-1caa-56898463e9fc",
+    "url": "https://support.microsoft.com/help/4293805"
+  },
+  "4058562": {
+    "date": "2018-01-03",
+    "uuid": "38b203f0-5867-cf30-43c1-dfa9d339c860",
+    "slug": "description-of-the-security-update-for-sql-server-2017-rtm-cu3-january-3-2018-38b203f0-5867-cf30-43c1-dfa9d339c860",
+    "url": "https://support.microsoft.com/help/4058562"
+  },
+  "4057122": {
+    "date": "2018-01-03",
+    "uuid": "70e47be9-aa41-9eef-91aa-cc75d1cb8ae8",
+    "slug": "description-of-the-security-update-for-sql-server-2017-gdr-january-3-2018-70e47be9-aa41-9eef-91aa-cc75d1cb8ae8",
+    "url": "https://support.microsoft.com/help/4057122"
+  },
+  "4583461": {
+    "date": "2021-01-12",
+    "uuid": "f36acdc4-f016-aeb1-e954-16a4494eaed6",
+    "slug": "kb4583461-description-of-the-security-update-for-sql-server-2016-sp2-cu15-january-12-2021-f36acdc4-f016-aeb1-e954-16a4494eaed6",
+    "url": "https://support.microsoft.com/help/4583461"
+  },
+  "4583460": {
+    "date": "2021-01-12",
+    "uuid": "8cef231b-d13e-a29d-352b-d1ade3c23bcd",
+    "slug": "kb4583460-description-of-the-security-update-for-sql-server-2016-sp2-gdr-january-12-2021-8cef231b-d13e-a29d-352b-d1ade3c23bcd",
+    "url": "https://support.microsoft.com/help/4583460"
+  },
+  "4535706": {
+    "date": "2020-02-11",
+    "uuid": "dd41febf-e25e-4171-d43e-6cca29f0ce07",
+    "slug": "kb4535706-description-of-the-security-update-for-sql-server-2016-sp2-cu11-february-11-2020-dd41febf-e25e-4171-d43e-6cca29f0ce07",
+    "url": "https://support.microsoft.com/help/4535706"
+  },
+  "4532097": {
+    "date": "2020-02-11",
+    "uuid": "59a00802-508a-596b-7c2e-ee25ba458df1",
+    "slug": "kb4532097-description-of-the-security-update-for-sql-server-2016-sp2-gdr-february-11-2020-59a00802-508a-596b-7c2e-ee25ba458df1",
+    "url": "https://support.microsoft.com/help/4532097"
+  },
+  "4505222": {
+    "date": "2019-07-09",
+    "uuid": "2225008e-7131-081d-ab18-e74a905c42c9",
+    "slug": "kb4505222-description-of-the-security-update-for-sql-server-2016-sp2-cu7-july-9-2019-2225008e-7131-081d-ab18-e74a905c42c9",
+    "url": "https://support.microsoft.com/help/4505222"
+  },
+  "4505220": {
+    "date": "2019-07-09",
+    "uuid": "834e6b78-ff51-4066-06fa-f9f3bb2afcb7",
+    "slug": "kb4505220-description-of-the-security-update-for-sql-server-2016-sp2-gdr-july-9-2019-834e6b78-ff51-4066-06fa-f9f3bb2afcb7",
+    "url": "https://support.microsoft.com/help/4505220"
+  },
+  "4458621": {
+    "date": "2018-08-21",
+    "uuid": "753ccf49-0265-0c0b-0c24-77915a092970",
+    "slug": "kb4458621-description-of-the-security-update-for-the-remote-code-execution-vulnerability-in-sql-server-2016-sp2-cu-august-21-2018-753ccf49-0265-0c0b-0c24-77915a092970",
+    "url": "https://support.microsoft.com/help/4458621"
+  },
+  "4293802": {
+    "date": "2018-08-14",
+    "uuid": "7b986e67-53f2-d6c3-284e-a68f0bdaa2ac",
+    "slug": "kb4293802-description-of-the-security-update-for-the-remote-code-execution-vulnerability-in-sql-server-2016-sp2-gdr-august-14-2018-7b986e67-53f2-d6c3-284e-a68f0bdaa2ac",
+    "url": "https://support.microsoft.com/help/4293802"
+  },
+  "4458842": {
+    "date": "2018-08-22",
+    "uuid": "3ec4f0ff-8a13-981c-3186-25b57aa1a0cb",
+    "slug": "kb4458842-description-of-the-security-update-for-the-remote-code-execution-vulnerability-in-sql-server-2016-sp1-gdr-august-22-2018-3ec4f0ff-8a13-981c-3186-25b57aa1a0cb",
+    "url": "https://support.microsoft.com/help/4458842"
+  },
+  "4293808": {
+    "date": "2018-08-14",
+    "uuid": "4c31a227-ab3d-8a29-9f8b-742c6353bb5b",
+    "slug": "kb4293808-description-of-the-security-update-for-the-remote-code-execution-vulnerability-in-sql-server-2016-sp1-cu-august-14-2018-4c31a227-ab3d-8a29-9f8b-742c6353bb5b",
+    "url": "https://support.microsoft.com/help/4293808"
+  },
+  "4057118": {
+    "date": "2018-01-03",
+    "uuid": "a20280e3-5540-5487-877a-51e0ccc032ae",
+    "slug": "description-of-the-security-update-for-sql-server-2016-sp1-gdr-january-3-2018-a20280e3-5540-5487-877a-51e0ccc032ae",
+    "url": "https://support.microsoft.com/help/4057118"
+  },
+  "4019089": {
+    "date": "2017-08-08",
+    "uuid": "29151091-13df-237a-be1c-e2a4521b4b76",
+    "slug": "kb4019089-description-of-the-security-update-for-sql-server-2016-service-pack-1-gdr-august-8-2017-29151091-13df-237a-be1c-e2a4521b4b76",
+    "url": "https://support.microsoft.com/help/4019089"
+  },
+  "3194717": {
+    "date": "2016-11-08",
+    "uuid": "1e1ea475-e4da-dd1b-5844-21ecbc2ab9d7",
+    "slug": "kb3194717-ms16-136-description-of-the-security-update-for-sql-server-2016-cu-november-8-2016-1e1ea475-e4da-dd1b-5844-21ecbc2ab9d7",
+    "url": "https://support.microsoft.com/help/3194717"
+  },
+  "3194716": {
+    "date": "2016-11-08",
+    "uuid": "b7d8ad47-51cd-a49b-eb18-d1e354cadf88",
+    "slug": "kb3194716-ms16-136-description-of-the-security-update-for-sql-server-2016-gdr-november-8-2016-b7d8ad47-51cd-a49b-eb18-d1e354cadf88",
+    "url": "https://support.microsoft.com/help/3194716"
+  },
+  "4583462": {
+    "date": "2021-01-12",
+    "uuid": "a791987a-d823-4a86-d573-6f11f646267f",
+    "slug": "kb4583462-description-of-the-security-update-for-sql-server-2014-sp3-cu4-january-12-2021-a791987a-d823-4a86-d573-6f11f646267f",
+    "url": "https://support.microsoft.com/help/4583462"
+  },
+  "4583463": {
+    "date": "2021-01-12",
+    "uuid": "047d755e-410c-ea34-8cd8-8cb84e7e6cc6",
+    "slug": "kb4583463-description-of-the-security-update-for-sql-server-2014-sp3-gdr-january-12-2021-047d755e-410c-ea34-8cd8-8cb84e7e6cc6",
+    "url": "https://support.microsoft.com/help/4583463"
+  },
+  "4535288": {
+    "date": "2020-02-11",
+    "uuid": "8cb465f1-9a4e-4295-af22-1ae627a15df6",
+    "slug": "kb4535288-description-of-the-security-update-for-sql-server-2014-sp3-cu4-february-11-2020-8cb465f1-9a4e-4295-af22-1ae627a15df6",
+    "url": "https://support.microsoft.com/help/4535288"
+  },
+  "4532095": {
+    "date": "2020-02-11",
+    "uuid": "37060bd6-dc1e-b3fa-28a4-792c32f5500c",
+    "slug": "kb4532095-description-of-the-security-update-for-sql-server-2014-sp3-gdr-february-11-2020-37060bd6-dc1e-b3fa-28a4-792c32f5500c",
+    "url": "https://support.microsoft.com/help/4532095"
+  },
+  "4505422": {
+    "date": "2019-07-09",
+    "uuid": "0c65bdec-8044-2317-20d3-ba613ec31b92",
+    "slug": "kb4505422-description-of-the-security-update-for-sql-server-2014-sp3-cu3-july-9-2019-0c65bdec-8044-2317-20d3-ba613ec31b92",
+    "url": "https://support.microsoft.com/help/4505422"
+  },
+  "4505218": {
+    "date": "2019-07-09",
+    "uuid": "8a85201a-e6e4-8672-064c-a926dae2f769",
+    "slug": "kb4505218-description-of-the-security-update-for-sql-server-2014-sp3-gdr-july-9-2019-8a85201a-e6e4-8672-064c-a926dae2f769",
+    "url": "https://support.microsoft.com/help/4505218"
+  },
+  "4505419": {
+    "date": "2019-07-09",
+    "uuid": "6637b584-26dd-8399-304c-d89ee776fae4",
+    "slug": "kb4505419-description-of-the-security-update-for-sql-server-2014-sp2-cu17-july-9-2019-6637b584-26dd-8399-304c-d89ee776fae4",
+    "url": "https://support.microsoft.com/help/4505419"
+  },
+  "4057120": {
+    "date": "2018-01-16",
+    "uuid": "69a197cb-5934-fa5f-23e4-0d6573db2624",
+    "slug": "description-of-the-security-update-for-sql-server-2014-sp2-gdr-january-16-2018-69a197cb-5934-fa5f-23e4-0d6573db2624",
+    "url": "https://support.microsoft.com/help/4057120"
+  },
+  "4019093": {
+    "date": "2017-08-08",
+    "uuid": "66edff42-6bf2-225b-def9-d179e3213110",
+    "slug": "kb4019093-description-of-the-security-update-for-sql-server-2014-service-pack-2-gdr-august-8-2017-66edff42-6bf2-225b-def9-d179e3213110",
+    "url": "https://support.microsoft.com/help/4019093"
+  },
+  "3194718": {
+    "date": "2016-11-08",
+    "uuid": "39ef5492-6a5d-be7b-d8a7-26242468e234",
+    "slug": "ms16-136-description-of-the-security-update-for-sql-server-2014-service-pack-2-cu-november-8-2016-39ef5492-6a5d-be7b-d8a7-26242468e234",
+    "url": "https://support.microsoft.com/help/3194718"
+  },
+  "3194714": {
+    "date": "2016-11-08",
+    "uuid": "95ba5a8c-587e-ed60-29f0-f82090cda5b8",
+    "slug": "ms16-136-description-of-the-security-update-for-sql-server-2014-service-pack-2-gdr-november-8-2016-95ba5a8c-587e-ed60-29f0-f82090cda5b8",
+    "url": "https://support.microsoft.com/help/3194714"
+  },
+  "3194722": {
+    "date": "2016-11-08",
+    "uuid": "d19b6e91-2aa8-b18f-c80d-f41b21a8d287",
+    "slug": "ms16-136-description-of-the-security-update-for-sql-server-2014-service-pack-1-cu-november-8-2016-d19b6e91-2aa8-b18f-c80d-f41b21a8d287",
+    "url": "https://support.microsoft.com/help/3194722"
+  },
+  "3194720": {
+    "date": "2016-11-08",
+    "uuid": "4646e579-e10f-d7f6-dcf8-f39fcc9d3e07",
+    "slug": "kb3194720-ms16-136-description-of-the-security-update-for-sql-server-2014-service-pack-1-gdr-november-8-2016-4646e579-e10f-d7f6-dcf8-f39fcc9d3e07",
+    "url": "https://support.microsoft.com/help/3194720"
+  },
+  "3070446": {
+    "date": "2015-07-14",
+    "uuid": "b9639f87-aea7-f397-433f-ec6c18a530db",
+    "slug": "ms15-058-description-of-the-nonsecurity-update-for-sql-server-2014-service-pack-1-gdr-july-14-2015-b9639f87-aea7-f397-433f-ec6c18a530db",
+    "url": "https://support.microsoft.com/help/3070446"
+  },
+  "3045323": {
+    "date": "2015-07-14",
+    "uuid": "f6394daf-6391-1027-76d0-5e3403430fcb",
+    "slug": "kb3045323-ms15-058-description-of-the-security-update-for-sql-server-2014-qfe-july-14-2015-f6394daf-6391-1027-76d0-5e3403430fcb",
+    "url": "https://support.microsoft.com/help/3045323"
+  },
+  "2977316": {
+    "date": "2014-08-12",
+    "uuid": "7d4aab6f-f0b9-d22a-7500-8fe7a3dd77c5",
+    "slug": "ms14-044-description-of-the-security-update-for-sql-server-2014-qfe-august-12-2014-7d4aab6f-f0b9-d22a-7500-8fe7a3dd77c5",
+    "url": "https://support.microsoft.com/help/2977316"
+  },
+  "3045324": {
+    "date": "2015-07-14",
+    "uuid": "c6aa7f2d-701f-09e9-828f-a84d733c7a4d",
+    "slug": "ms15-058-description-of-the-security-update-for-sql-server-2014-gdr-july-14-2015-c6aa7f2d-701f-09e9-828f-a84d733c7a4d",
+    "url": "https://support.microsoft.com/help/3045324"
+  },
+  "2977315": {
+    "date": "2014-08-12",
+    "uuid": "a2f88282-7ee4-6abc-c7cf-7ae1609848a0",
+    "slug": "ms14-044-description-of-the-security-update-for-sql-server-2014-gdr-august-12-2014-a2f88282-7ee4-6abc-c7cf-7ae1609848a0",
+    "url": "https://support.microsoft.com/help/2977315"
+  },
+  "3194721": {
+    "date": "2016-11-08",
+    "uuid": "07383d86-d035-4ee7-7f14-9ef288f41c86",
+    "slug": "ms16-136-description-of-the-security-update-for-sql-server-2012-service-pack-3-gdr-november-8-2016-07383d86-d035-4ee7-7f14-9ef288f41c86",
+    "url": "https://support.microsoft.com/help/3194721"
+  },
+  "3045319": {
+    "date": "2015-07-14",
+    "uuid": "d14a9835-cd0e-0b07-16bd-5f32d7139b2c",
+    "slug": "kb3045319-ms15-058-description-of-the-security-update-for-sql-server-2012-service-pack-2-qfe-july-14-2015-d14a9835-cd0e-0b07-16bd-5f32d7139b2c",
+    "url": "https://support.microsoft.com/help/3045319"
+  },
+  "3045321": {
+    "date": "2015-07-14",
+    "uuid": "671afe3b-6177-a36a-8ee3-2a0ef5b24ac2",
+    "slug": "kb3045321-ms15-058-description-of-the-security-update-for-sql-server-2012-service-pack-2-gdr-july-14-2015-671afe3b-6177-a36a-8ee3-2a0ef5b24ac2",
+    "url": "https://support.microsoft.com/help/3045321"
+  },
+  "3045317": {
+    "date": "2015-07-14",
+    "uuid": "f769ad4f-0c8c-d962-a4e1-60c47bc5169c",
+    "slug": "ms15-058-description-of-the-security-update-for-sql-server-2012-sp1-qfe-july-14-2015-f769ad4f-0c8c-d962-a4e1-60c47bc5169c",
+    "url": "https://support.microsoft.com/help/3045317"
+  },
+  "2977325": {
+    "date": "2014-08-12",
+    "uuid": "22c89f6c-0878-c07f-d5ae-9521596ef67c",
+    "slug": "kb2977325-ms14-044-description-of-the-security-update-for-sql-server-2012-service-pack-1-qfe-august-12-2014-22c89f6c-0878-c07f-d5ae-9521596ef67c",
+    "url": "https://support.microsoft.com/help/2977325"
+  },
+  "3045318": {
+    "date": "2015-07-14",
+    "uuid": "035f5d6e-355b-8fd1-3e51-d95e9abd3ba8",
+    "slug": "kb3045318-ms15-058-description-of-the-security-update-for-sql-server-2012-sp1-gdr-july-14-2015-035f5d6e-355b-8fd1-3e51-d95e9abd3ba8",
+    "url": "https://support.microsoft.com/help/3045318"
+  },
+  "2977326": {
+    "date": "2014-08-12",
+    "uuid": "dee5667c-48a5-1a06-415e-99c3202894d8",
+    "slug": "ms14-044-description-of-the-security-update-for-sql-server-2012-service-pack-1-gdr-august-12-2014-dee5667c-48a5-1a06-415e-99c3202894d8",
+    "url": "https://support.microsoft.com/help/2977326"
+  },
+  "2716441": {
+    "date": "2012-10-09",
+    "uuid": "6686aad0-e684-1696-b105-1c39f229e7b9",
+    "slug": "ms12-070-description-of-the-security-update-for-sql-server-2012-qfe-october-9-2012-6686aad0-e684-1696-b105-1c39f229e7b9",
+    "url": "https://support.microsoft.com/help/2716441"
+  },
+  "2716442": {
+    "date": "2012-10-09",
+    "uuid": "c7a1fc71-120e-317c-d435-9791a0b84965",
+    "slug": "ms12-070-description-of-the-security-update-for-sql-server-2012-gdr-october-9-2012-c7a1fc71-120e-317c-d435-9791a0b84965",
+    "url": "https://support.microsoft.com/help/2716442"
+  },
+  "3045314": {
+    "date": "2015-07-14",
+    "uuid": "76059fe7-9600-4a08-5275-2595912d771a",
+    "slug": "kb3045314-ms15-058-description-of-the-security-update-for-sql-server-2008-r2-service-pack-3-qfe-july-14-2015-76059fe7-9600-4a08-5275-2595912d771a",
+    "url": "https://support.microsoft.com/help/3045314"
+  },
+  "3045316": {
+    "date": "2015-07-14",
+    "uuid": "230cbfd1-9958-80df-9825-2042ad6fa967",
+    "slug": "kb3045316-ms15-058-description-of-the-security-update-for-sql-server-2008-r2-service-pack-3-gdr-july-14-2015-230cbfd1-9958-80df-9825-2042ad6fa967",
+    "url": "https://support.microsoft.com/help/3045316"
+  },
+  "3045312": {
+    "date": "2015-07-14",
+    "uuid": "01d8e3e7-310b-cdd3-4f49-df6091d128c9",
+    "slug": "ms15-058-description-of-the-security-update-for-sql-server-2008-r2-service-pack-2-qfe-july-14-2015-01d8e3e7-310b-cdd3-4f49-df6091d128c9",
+    "url": "https://support.microsoft.com/help/3045312"
+  },
+  "2977319": {
+    "date": "2014-08-12",
+    "uuid": "f3b3e30f-1c41-49a4-af88-6b7f476e5f7b",
+    "slug": "ms14-044-description-of-the-security-update-for-sql-server-2008-r2-service-pack-2-qfe-august-12-2014-f3b3e30f-1c41-49a4-af88-6b7f476e5f7b",
+    "url": "https://support.microsoft.com/help/2977319"
+  },
+  "3045313": {
+    "date": "2015-07-14",
+    "uuid": "4e136062-954a-4cd0-9efd-efcc8c0eb6d8",
+    "slug": "ms15-058-description-of-the-security-update-for-sql-server-2008-r2-service-pack-2-gdr-july-14-2015-4e136062-954a-4cd0-9efd-efcc8c0eb6d8",
+    "url": "https://support.microsoft.com/help/3045313"
+  },
+  "2977320": {
+    "date": "2014-08-12",
+    "uuid": "52312b46-c020-8efe-09d7-9470009bced7",
+    "slug": "ms14-044-description-of-the-security-update-for-sql-server-2008-r2-service-pack-2-gdr-august-12-2014-52312b46-c020-8efe-09d7-9470009bced7",
+    "url": "https://support.microsoft.com/help/2977320"
+  },
+  "2716439": {
+    "date": "2012-10-09",
+    "uuid": "14d4ad22-87a8-3721-a10d-93821d45b977",
+    "slug": "ms12-070-description-of-the-security-update-for-sql-server-2008-r2-service-pack-1-qfe-october-9-2012-14d4ad22-87a8-3721-a10d-93821d45b977",
+    "url": "https://support.microsoft.com/help/2716439"
+  },
+  "2754849": {
+    "date": "2012-10-09",
+    "uuid": "9b2443c4-5a66-6f7a-27d5-753769ffe264",
+    "slug": "ms12-070-vulnerability-in-sql-server-could-allow-elevation-of-privilege-october-9-2012-9b2443c4-5a66-6f7a-27d5-753769ffe264",
+    "url": "https://support.microsoft.com/help/2754849"
+  },
+  "2494086": {
+    "date": "2011-06-14",
+    "uuid": "c4e76891-4258-01e7-5eee-6f69051f1b3c",
+    "slug": "kb2494086-ms11-049-description-of-the-security-update-for-sql-server-2008-r2-qfe-june-14-2011-c4e76891-4258-01e7-5eee-6f69051f1b3c",
+    "url": "https://support.microsoft.com/help/2494086"
+  },
+  "2494088": {
+    "date": "2011-06-14",
+    "uuid": "07cd0e0b-26fa-c427-00e9-e5c74ce46539",
+    "slug": "kb2494088-ms11-049-description-of-the-security-update-for-sql-server-2008-r2-gdr-june-14-2011-07cd0e0b-26fa-c427-00e9-e5c74ce46539",
+    "url": "https://support.microsoft.com/help/2494088"
+  },
+  "3045308": {
+    "date": "2015-07-14",
+    "uuid": "ec167956-3488-78c4-f67d-00f0dac74b3e",
+    "slug": "kb3045308-ms15-058-description-of-the-security-update-for-sql-server-2008-service-pack-4-qfe-july-14-2015-ec167956-3488-78c4-f67d-00f0dac74b3e",
+    "url": "https://support.microsoft.com/help/3045308"
+  },
+  "3045311": {
+    "date": "2015-07-14",
+    "uuid": "526db0e2-aefd-b54f-82bc-554f8aaacdbd",
+    "slug": "kb3045311-ms15-058-description-of-the-security-update-for-sql-server-2008-service-pack-4-gdr-july-14-2015-526db0e2-aefd-b54f-82bc-554f8aaacdbd",
+    "url": "https://support.microsoft.com/help/3045311"
+  },
+  "3045303": {
+    "date": "2015-07-14",
+    "uuid": "9842908a-8d97-e474-aabd-927a3fab4380",
+    "slug": "kb3045303-ms15-058-description-of-the-security-update-for-sql-server-2008-service-pack-3-qfe-july-14-2015-9842908a-8d97-e474-aabd-927a3fab4380",
+    "url": "https://support.microsoft.com/help/3045303"
+  },
+  "2984340": {
+    "date": "2014-08-12",
+    "uuid": "ebc5a4e1-3fb7-70e3-7536-506d20a0862f",
+    "slug": "ms14-044-vulnerabilities-in-sql-server-could-allow-elevation-of-privilege-august-12-2014-ebc5a4e1-3fb7-70e3-7536-506d20a0862f",
+    "url": "https://support.microsoft.com/help/2984340"
+  },
+  "2977322": {
+    "date": "2014-08-12",
+    "uuid": "663f096d-65e2-fc61-341e-1e8d25c1c23e",
+    "slug": "ms14-044-description-of-the-security-update-for-sql-server-2008-service-pack-3-qfe-august-12-2014-663f096d-65e2-fc61-341e-1e8d25c1c23e",
+    "url": "https://support.microsoft.com/help/2977322"
+  },
+  "2716435": {
+    "date": "2012-10-09",
+    "uuid": "872786c7-4e34-3a76-8d6f-24621d7742de",
+    "slug": "ms12-070-description-of-the-security-update-for-sql-server-2008-service-pack-3-qfe-october-9-2012-872786c7-4e34-3a76-8d6f-24621d7742de",
+    "url": "https://support.microsoft.com/help/2716435"
+  },
+  "3045305": {
+    "date": "2015-07-14",
+    "uuid": "b9bf3d3b-3155-0d38-8cfe-6544f02aeb73",
+    "slug": "kb3045305-ms15-058-description-of-the-security-update-for-sql-server-2008-service-pack-3-gdr-july-14-2015-b9bf3d3b-3155-0d38-8cfe-6544f02aeb73",
+    "url": "https://support.microsoft.com/help/3045305"
+  },
+  "2977321": {
+    "date": "2014-08-12",
+    "uuid": "48b45ca1-2089-d265-923d-699e38c286f4",
+    "slug": "ms14-044-description-of-the-security-update-for-sql-server-2008-sp3-gdr-august-12-2014-48b45ca1-2089-d265-923d-699e38c286f4",
+    "url": "https://support.microsoft.com/help/2977321"
+  },
+  "2716436": {
+    "date": "2012-10-09",
+    "uuid": "f9ef0f3b-8248-9ab8-7ebf-328991485c24",
+    "slug": "ms12-070-description-of-the-security-update-for-sql-server-2008-service-pack-3-gdr-october-9-2012-f9ef0f3b-8248-9ab8-7ebf-328991485c24",
+    "url": "https://support.microsoft.com/help/2716436"
+  },
+  "2716433": {
+    "date": "2012-10-09",
+    "uuid": "9cdba4c7-de4c-ebdc-0731-ae0163a964b1",
+    "slug": "ms12-070-description-of-the-security-update-for-sql-server-2008-service-pack-2-qfe-october-9-2012-9cdba4c7-de4c-ebdc-0731-ae0163a964b1",
+    "url": "https://support.microsoft.com/help/2716433"
+  },
+  "2494094": {
+    "date": "2011-06-14",
+    "uuid": "7c1c035c-f5c4-ec3d-d7bf-738ad458573d",
+    "slug": "ms11-049-description-of-the-security-update-for-sql-server-2008-service-pack-2-qfe-june-14-2011-7c1c035c-f5c4-ec3d-d7bf-738ad458573d",
+    "url": "https://support.microsoft.com/help/2494094"
+  },
+  "2716434": {
+    "date": "2012-10-09",
+    "uuid": "fff1d5da-5fb3-11f2-e3c0-01d22f7d25cd",
+    "slug": "ms12-070-description-of-the-security-update-for-sql-server-2008-service-pack-2-gdr-october-9-2012-fff1d5da-5fb3-11f2-e3c0-01d22f7d25cd",
+    "url": "https://support.microsoft.com/help/2716434"
+  },
+  "2494089": {
+    "date": "2011-06-14",
+    "uuid": "39f1f23c-2e64-8469-5a45-5d44915db87b",
+    "slug": "kb2494089-ms11-049-description-of-the-security-update-for-sql-server-2008-service-pack-2-gdr-june-14-2011-39f1f23c-2e64-8469-5a45-5d44915db87b",
+    "url": "https://support.microsoft.com/help/2494089"
+  },
+  "2494100": {
+    "date": "2011-06-14",
+    "uuid": "1df21344-e1dc-31e4-b49d-6a6132e3706c",
+    "slug": "kb2494100-ms11-049-description-of-the-security-update-for-sql-server-2008-service-pack-1-qfe-june-14-2011-1df21344-e1dc-31e4-b49d-6a6132e3706c",
+    "url": "https://support.microsoft.com/help/2494100"
+  },
+  "2494096": {
+    "date": "2011-06-14",
+    "uuid": "874880d6-88d6-861d-289b-708256176931",
+    "slug": "kb2494096-ms11-049-description-of-the-security-update-for-sql-server-2008-service-pack-1-gdr-june-14-2011-874880d6-88d6-861d-289b-708256176931",
+    "url": "https://support.microsoft.com/help/2494096"
+  },
+  "2716427": {
+    "date": "2012-10-09",
+    "uuid": "96c9fc32-33fb-6a37-3034-5d0594d12922",
+    "slug": "ms12-070-description-of-the-security-update-for-sql-server-2005-service-pack-4-qfe-october-9-2012-96c9fc32-33fb-6a37-3034-5d0594d12922",
+    "url": "https://support.microsoft.com/help/2716427"
+  },
+  "2494123": {
+    "date": "2011-06-14",
+    "uuid": "4882207b-f2a5-0462-62f4-f2a950533444",
+    "slug": "kb2494123-ms11-049-description-of-the-security-update-for-sql-server-2005-service-pack-4-qfe-june-14-2011-4882207b-f2a5-0462-62f4-f2a950533444",
+    "url": "https://support.microsoft.com/help/2494123"
+  },
+  "2716429": {
+    "date": "2012-10-09",
+    "uuid": "c4ab8f24-a81d-6315-1dae-963a7404f0b1",
+    "slug": "ms12-070-description-of-the-security-update-for-sql-server-2005-service-pack-4-gdr-october-9-2012-c4ab8f24-a81d-6315-1dae-963a7404f0b1",
+    "url": "https://support.microsoft.com/help/2716429"
+  },
+  "2494120": {
+    "date": "2011-06-14",
+    "uuid": "08d9fd78-8697-c1ba-f99d-48c8f84651bd",
+    "slug": "kb2494120-ms11-049-description-of-the-security-update-for-sql-server-2005-service-pack-4-gdr-june-14-2011-08d9fd78-8697-c1ba-f99d-48c8f84651bd",
+    "url": "https://support.microsoft.com/help/2494120"
+  },
+  "2494113": {
+    "date": "2011-06-14",
+    "uuid": "6e9ae25a-b3b1-b76d-84f0-4608c3a5914e",
+    "slug": "kb2494113-ms11-049-description-of-the-security-update-for-sql-server-2005-service-pack-3-gdr-june-14-2011-6e9ae25a-b3b1-b76d-84f0-4608c3a5914e",
+    "url": "https://support.microsoft.com/help/2494113"
+  },
+  "960089": {
+    "date": "2009-02-10",
+    "uuid": "038f1abe-67e2-b4a3-efb4-1a54bc2c4f4f",
+    "slug": "kb960089-ms09-004-description-of-the-security-update-for-sql-server-2005-gdr-february-10-2009-038f1abe-67e2-b4a3-efb4-1a54bc2c4f4f",
+    "url": "https://support.microsoft.com/help/960089"
   }
 }
