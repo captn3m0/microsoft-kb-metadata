@@ -10990,5 +10990,11 @@
     "uuid": "038f1abe-67e2-b4a3-efb4-1a54bc2c4f4f",
     "slug": "kb960089-ms09-004-description-of-the-security-update-for-sql-server-2005-gdr-february-10-2009-038f1abe-67e2-b4a3-efb4-1a54bc2c4f4f",
     "url": "https://support.microsoft.com/help/960089"
+  },
+  "5023038": {
+    "date": "2013-02-14",
+    "uuid": "2e60d338-dda3-46ed-aed1-4a8bbee87d23",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-2019-2016-and-2013-february-14-2023-kb5023038-2e60d338-dda3-46ed-aed1-4a8bbee87d23",
+    "url": "https://support.microsoft.com/help/5023038"
   }
 }
