@@ -10996,5 +10996,155 @@
     "uuid": "2e60d338-dda3-46ed-aed1-4a8bbee87d23",
     "slug": "description-of-the-security-update-for-microsoft-exchange-server-2019-2016-and-2013-february-14-2023-kb5023038-2e60d338-dda3-46ed-aed1-4a8bbee87d23",
     "url": "https://support.microsoft.com/help/5023038"
+  },
+  "5002353": {
+    "date": "2023-02-14",
+    "uuid": "837bb6b7-4b8d-4974-a2ee-015b0d72d408",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-february-14-2023-kb5002353-837bb6b7-4b8d-4974-a2ee-015b0d72d408",
+    "url": "https://support.microsoft.com/help/5002353"
+  },
+  "5002352": {
+    "date": "2023-02-14",
+    "uuid": "97afbca4-650d-43c1-be2e-b1842452a019",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-language-pack-february-14-2023-kb5002352-97afbca4-650d-43c1-be2e-b1842452a019",
+    "url": "https://support.microsoft.com/help/5002352"
+  },
+  "5002342": {
+    "date": "2019-02-14",
+    "uuid": "abd83b9f-b088-44fb-a583-f45337d83cba",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-february-14-2023-kb5002342-abd83b9f-b088-44fb-a583-f45337d83cba",
+    "url": "https://support.microsoft.com/help/5002342"
+  },
+  "5002330": {
+    "date": "2023-02-14",
+    "uuid": "014791fe-f79e-46d3-a426-f93367884f15",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-language-pack-february-14-2023-kb5002330-014791fe-f79e-46d3-a426-f93367884f15",
+    "url": "https://support.microsoft.com/help/5002330"
+  },
+  "5002350": {
+    "date": "2016-02-14",
+    "uuid": "3c172c0f-813e-4e98-97e2-579234b187af",
+    "slug": "description-of-the-security-update-for-sharepoint-enterprise-server-2016-february-14-2023-kb5002350-3c172c0f-813e-4e98-97e2-579234b187af",
+    "url": "https://support.microsoft.com/help/5002350"
+  },
+  "5002325": {
+    "date": "2023-02-14",
+    "uuid": "c5c23c76-63e8-482b-ad36-4d0a999454cb",
+    "slug": "description-of-the-security-update-for-sharepoint-enterprise-server-2016-language-pack-february-14-2023-kb5002325-c5c23c76-63e8-482b-ad36-4d0a999454cb",
+    "url": "https://support.microsoft.com/help/5002325"
+  },
+  "5002344": {
+    "date": "2023-02-14",
+    "uuid": "2e514480-33cd-4913-9f7d-4d623da90139",
+    "slug": "february-14-2023-cumulative-update-for-sharepoint-foundation-2013-kb5002344-2e514480-33cd-4913-9f7d-4d623da90139",
+    "url": "https://support.microsoft.com/help/5002344"
+  },
+  "5002346": {
+    "date": "2023-02-14",
+    "uuid": "35133157-3b11-414a-b2d7-b0409be5adab",
+    "slug": "february-14-2023-cumulative-update-for-sharepoint-enterprise-server-2013-kb5002346-35133157-3b11-414a-b2d7-b0409be5adab",
+    "url": "https://support.microsoft.com/help/5002346"
+  },
+  "5021522": {
+    "date": "2023-02-14",
+    "uuid": "7a5a84ed-e99c-4537-b064-fa4499549c8e",
+    "slug": "kb5021522-description-of-the-security-update-for-sql-server-2022-gdr-february-14-2023-7a5a84ed-e99c-4537-b064-fa4499549c8e",
+    "url": "https://support.microsoft.com/help/5021522"
+  },
+  "5021125": {
+    "date": "2023-02-14",
+    "uuid": "149e85b7-1507-4364-a881-10b168570065",
+    "slug": "kb5021125-description-of-the-security-update-for-sql-server-2019-gdr-february-14-2023-149e85b7-1507-4364-a881-10b168570065",
+    "url": "https://support.microsoft.com/help/5021125"
+  },
+  "5021124": {
+    "date": "2023-02-14",
+    "uuid": "cfb75a0a-33dc-4e05-8645-4cf16fcec049",
+    "slug": "kb5021124-description-of-the-security-update-for-sql-server-2019-cu18-february-14-2023-cfb75a0a-33dc-4e05-8645-4cf16fcec049",
+    "url": "https://support.microsoft.com/help/5021124"
+  },
+  "5021127": {
+    "date": "2023-02-14",
+    "uuid": "5478ab82-ced2-4a7b-88b1-3bf9dd22abf6",
+    "slug": "kb5021127-description-of-the-security-update-for-sql-server-2017-gdr-february-14-2023-5478ab82-ced2-4a7b-88b1-3bf9dd22abf6",
+    "url": "https://support.microsoft.com/help/5021127"
+  },
+  "5021126": {
+    "date": "2023-02-14",
+    "uuid": "2867280f-e66f-4598-a2f1-3d301e367683",
+    "slug": "kb5021126-description-of-the-security-update-for-sql-server-2017-cu31-february-14-2023-2867280f-e66f-4598-a2f1-3d301e367683",
+    "url": "https://support.microsoft.com/help/5021126"
+  },
+  "5021128": {
+    "date": "2023-02-14",
+    "uuid": "89e54794-460a-41bd-981f-998290e7d46e",
+    "slug": "kb5021128-description-of-the-security-update-for-sql-server-2016-sp3-azure-connect-feature-pack-february-14-2023-89e54794-460a-41bd-981f-998290e7d46e",
+    "url": "https://support.microsoft.com/help/5021128"
+  },
+  "5021129": {
+    "date": "2023-02-14",
+    "uuid": "1a592815-9dc4-434b-9fb2-119339251317",
+    "slug": "kb5021129-description-of-the-security-update-for-sql-server-2016-sp3-gdr-february-14-2023-1a592815-9dc4-434b-9fb2-119339251317",
+    "url": "https://support.microsoft.com/help/5021129"
+  },
+  "5021037": {
+    "date": "2023-02-14",
+    "uuid": "e83e82b3-5d6d-467e-8e48-05fa0b11ebc3",
+    "slug": "kb5021037-description-of-the-security-update-for-sql-server-2014-sp3-gdr-february-14-2023-e83e82b3-5d6d-467e-8e48-05fa0b11ebc3",
+    "url": "https://support.microsoft.com/help/5021037"
+  },
+  "5021045": {
+    "date": "2023-02-14",
+    "uuid": "6c769b6c-beb7-4b65-ae22-29f3bbc2dd31",
+    "slug": "kb5021045-description-of-the-security-update-for-sql-server-2014-sp3-cu4-february-14-2023-6c769b6c-beb7-4b65-ae22-29f3bbc2dd31",
+    "url": "https://support.microsoft.com/help/5021045"
+  },
+  "5022845": {
+    "date": "2023-02-14",
+    "uuid": "90a807f4-d2e8-486e-8a43-d09e66319f38",
+    "slug": "february-14-2023-kb5022845-os-build-22621-1265-90a807f4-d2e8-486e-8a43-d09e66319f38",
+    "url": "https://support.microsoft.com/help/5022845"
+  },
+  "5022836": {
+    "date": "2023-02-14",
+    "uuid": "dfe0c801-e2e0-45dd-bb47-2c2cbea505ed",
+    "slug": "february-14-2023-kb5022836-os-build-22000-1574-dfe0c801-e2e0-45dd-bb47-2c2cbea505ed",
+    "url": "https://support.microsoft.com/help/5022836"
+  },
+  "5022834": {
+    "date": "2023-02-14",
+    "uuid": "ffb56254-3fee-44f1-9574-b8a0c19bde77",
+    "slug": "february-14-2023-kb5022834-os-builds-19042-2604-19044-2604-and-19045-2604-ffb56254-3fee-44f1-9574-b8a0c19bde77",
+    "url": "https://support.microsoft.com/help/5022834"
+  },
+  "5022840": {
+    "date": "2023-02-14",
+    "uuid": "e914539f-d2bc-4af9-bc01-5964c0ab3903",
+    "slug": "february-14-2023-kb5022840-os-build-17763-4010-e914539f-d2bc-4af9-bc01-5964c0ab3903",
+    "url": "https://support.microsoft.com/help/5022840"
+  },
+  "5022838": {
+    "date": "2023-02-14",
+    "uuid": "1b9a609e-7ae7-4102-bad5-5994eddf154b",
+    "slug": "february-14-2023-kb5022838-os-build-14393-5717-1b9a609e-7ae7-4102-bad5-5994eddf154b",
+    "url": "https://support.microsoft.com/help/5022838"
+  },
+  "5022858": {
+    "date": "2023-02-14",
+    "uuid": "e4b2872f-3490-45f4-ad5e-85fdad758bbc",
+    "slug": "february-14-2023-kb5022858-os-build-10240-19747-e4b2872f-3490-45f4-ad5e-85fdad758bbc",
+    "url": "https://support.microsoft.com/help/5022858"
+  },
+  "5002085": {
+    "date": "2023-02-01",
+    "uuid": "fb1b6ab1-d4af-4fba-a4fe-060f7a24bfd8",
+    "slug": "february-2023-updates-for-microsoft-office-fb1b6ab1-d4af-4fba-a4fe-060f7a24bfd8",
+    "url": "https://support.microsoft.com/help/5002085"
+  },
+  "5002345": {
+    "date": "2023-02-14",
+    "uuid": "e8764638-94e3-49e4-a054-f552234dd75a",
+    "slug": "february-14-2023-cumulative-update-for-project-server-2013-kb5002345-e8764638-94e3-49e4-a054-f552234dd75a",
+    "url": "https://support.microsoft.com/help/5002345"
   }
 }
