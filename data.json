@@ -11146,5 +11146,23 @@
     "uuid": "e8764638-94e3-49e4-a054-f552234dd75a",
     "slug": "february-14-2023-cumulative-update-for-project-server-2013-kb5002345-e8764638-94e3-49e4-a054-f552234dd75a",
     "url": "https://support.microsoft.com/help/5002345"
+  },
+  "5021123": {
+    "date": "2023-02-14",
+    "uuid": "74a1bd4d-63c0-41a5-8c9a-12e6b9f9ef43",
+    "slug": "kb5021123-description-of-the-security-update-for-sql-server-2012-sp4-gdr-february-14-2023-74a1bd4d-63c0-41a5-8c9a-12e6b9f9ef43",
+    "url": "https://support.microsoft.com/help/5021123"
+  },
+  "5021112": {
+    "date": "2023-02-14",
+    "uuid": "844419ed-d837-467f-97e8-eed2e281c40c",
+    "slug": "kb5021112-description-of-the-security-update-for-sql-server-2008-r2-sp3-gdr-february-14-2023-844419ed-d837-467f-97e8-eed2e281c40c",
+    "url": "https://support.microsoft.com/help/5021112"
+  },
+  "5020863": {
+    "date": "2023-02-14",
+    "uuid": "87e18005-0ed5-44fe-b369-b5bef7ae5e0c",
+    "slug": "kb5020863-description-of-the-security-update-for-sql-server-2008-sp4-gdr-february-14-2023-87e18005-0ed5-44fe-b369-b5bef7ae5e0c",
+    "url": "https://support.microsoft.com/help/5020863"
   }
 }
