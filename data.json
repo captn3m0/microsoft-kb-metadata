@@ -11164,5 +11164,17 @@
     "uuid": "87e18005-0ed5-44fe-b369-b5bef7ae5e0c",
     "slug": "kb5020863-description-of-the-security-update-for-sql-server-2008-sp4-gdr-february-14-2023-87e18005-0ed5-44fe-b369-b5bef7ae5e0c",
     "url": "https://support.microsoft.com/help/5020863"
+  },
+  "5022905": {
+    "date": "2023-02-21",
+    "uuid": "af27b509-b478-415b-be20-3747f477f3fe",
+    "slug": "february-21-2023-kb5022905-os-build-22000-1641-preview-af27b509-b478-415b-be20-3747f477f3fe",
+    "url": "https://support.microsoft.com/help/5022905"
+  },
+  "5022906": {
+    "date": "2023-02-21",
+    "uuid": "bf72fc27-6222-4f6a-991a-f472b3f9d3fd",
+    "slug": "february-21-2023-kb5022906-os-builds-19042-2673-19044-2673-and-19045-2673-preview-bf72fc27-6222-4f6a-991a-f472b3f9d3fd",
+    "url": "https://support.microsoft.com/help/5022906"
   }
 }
