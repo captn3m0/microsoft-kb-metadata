@@ -11182,5 +11182,11 @@
     "uuid": "3e38c0d9-924d-4f3f-b0b6-3bd49b2657b9",
     "slug": "february-28-2023-kb5022913-os-build-22621-1344-preview-3e38c0d9-924d-4f3f-b0b6-3bd49b2657b9",
     "url": "https://support.microsoft.com/help/5022913"
+  },
+  "5024296": {
+    "date": "2013-03-14",
+    "uuid": "e13b0369-2102-4c95-bee2-456514630727",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-2019-2016-and-2013-march-14-2023-kb5024296-e13b0369-2102-4c95-bee2-456514630727",
+    "url": "https://support.microsoft.com/help/5024296"
   }
 }
