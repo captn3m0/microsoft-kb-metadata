@@ -11188,5 +11188,89 @@
     "uuid": "e13b0369-2102-4c95-bee2-456514630727",
     "slug": "description-of-the-security-update-for-microsoft-exchange-server-2019-2016-and-2013-march-14-2023-kb5024296-e13b0369-2102-4c95-bee2-456514630727",
     "url": "https://support.microsoft.com/help/5024296"
+  },
+  "5002355": {
+    "date": "2023-03-14",
+    "uuid": "9a893845-0b9b-40af-ac82-6f3cd252c378",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-march-14-2023-kb5002355-9a893845-0b9b-40af-ac82-6f3cd252c378",
+    "url": "https://support.microsoft.com/help/5002355"
+  },
+  "5002358": {
+    "date": "2019-03-14",
+    "uuid": "70d7cc76-7246-4179-acff-282f64da1ee1",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-march-14-2023-kb5002358-70d7cc76-7246-4179-acff-282f64da1ee1",
+    "url": "https://support.microsoft.com/help/5002358"
+  },
+  "5002357": {
+    "date": "2023-03-14",
+    "uuid": "c656b164-2419-4a48-b1ac-3d53d1ca2e68",
+    "slug": "march-14-2023-update-for-sharepoint-server-2019-language-pack-kb5002357-c656b164-2419-4a48-b1ac-3d53d1ca2e68",
+    "url": "https://support.microsoft.com/help/5002357"
+  },
+  "5002368": {
+    "date": "2016-03-14",
+    "uuid": "7533719a-54d6-4d60-aebc-0be0de8564db",
+    "slug": "description-of-the-security-update-for-sharepoint-enterprise-server-2016-march-14-2023-kb5002368-7533719a-54d6-4d60-aebc-0be0de8564db",
+    "url": "https://support.microsoft.com/help/5002368"
+  },
+  "5002363": {
+    "date": "2023-03-14",
+    "uuid": "da1386e2-12e5-43f4-828d-c2006bd4913b",
+    "slug": "march-14-2023-cumulative-update-for-sharepoint-foundation-2013-kb5002363-da1386e2-12e5-43f4-828d-c2006bd4913b",
+    "url": "https://support.microsoft.com/help/5002363"
+  },
+  "5002366": {
+    "date": "2023-03-14",
+    "uuid": "dc685470-a908-4663-9a9e-69831ab26844",
+    "slug": "march-14-2023-cumulative-update-for-sharepoint-enterprise-server-2013-kb5002366-dc685470-a908-4663-9a9e-69831ab26844",
+    "url": "https://support.microsoft.com/help/5002366"
+  },
+  "5023706": {
+    "date": "2023-03-14",
+    "uuid": "9d3f2de5-08e7-4462-8fba-d944201f4ae1",
+    "slug": "march-14-2023-kb5023706-os-build-22621-1413-9d3f2de5-08e7-4462-8fba-d944201f4ae1",
+    "url": "https://support.microsoft.com/help/5023706"
+  },
+  "5023698": {
+    "date": "2023-03-14",
+    "uuid": "3e54e715-3d5a-493b-bfad-4bb989516a7b",
+    "slug": "march-14-2023-kb5023698-os-build-22000-1696-3e54e715-3d5a-493b-bfad-4bb989516a7b",
+    "url": "https://support.microsoft.com/help/5023698"
+  },
+  "5023696": {
+    "date": "2023-03-14",
+    "uuid": "9a6dafce-d387-410d-a1bc-9ff5a9cafdc1",
+    "slug": "march-14-2023-kb5023696-os-builds-19042-2728-19044-2728-and-19045-2728-9a6dafce-d387-410d-a1bc-9ff5a9cafdc1",
+    "url": "https://support.microsoft.com/help/5023696"
+  },
+  "5023702": {
+    "date": "2023-03-14",
+    "uuid": "f3e27d13-7dcc-4d32-826b-8d57e1600ccf",
+    "slug": "march-14-2023-kb5023702-os-build-17763-4131-f3e27d13-7dcc-4d32-826b-8d57e1600ccf",
+    "url": "https://support.microsoft.com/help/5023702"
+  },
+  "5023697": {
+    "date": "2023-03-14",
+    "uuid": "d8c0d93c-c58b-4398-9fee-59183e52b20c",
+    "slug": "march-14-2023-kb5023697-os-build-14393-5786-d8c0d93c-c58b-4398-9fee-59183e52b20c",
+    "url": "https://support.microsoft.com/help/5023697"
+  },
+  "5023713": {
+    "date": "2023-03-14",
+    "uuid": "da29aa6a-dbd7-424c-87d0-87b66fe700e0",
+    "slug": "march-14-2023-kb5023713-os-build-10240-19805-da29aa6a-dbd7-424c-87d0-87b66fe700e0",
+    "url": "https://support.microsoft.com/help/5023713"
+  },
+  "5002086": {
+    "date": "2023-03-01",
+    "uuid": "9a711380-cb37-45b0-ba7b-9e03babd7906",
+    "slug": "march-2023-updates-for-microsoft-office-9a711380-cb37-45b0-ba7b-9e03babd7906",
+    "url": "https://support.microsoft.com/help/5002086"
+  },
+  "5002364": {
+    "date": "2023-03-14",
+    "uuid": "97fb6d67-2ac5-44dc-9c7b-4bc84e8fca56",
+    "slug": "march-14-2023-cumulative-update-for-project-server-2013-kb5002364-97fb6d67-2ac5-44dc-9c7b-4bc84e8fca56",
+    "url": "https://support.microsoft.com/help/5002364"
   }
 }
