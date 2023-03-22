@@ -11272,5 +11272,11 @@
     "uuid": "97fb6d67-2ac5-44dc-9c7b-4bc84e8fca56",
     "slug": "march-14-2023-cumulative-update-for-project-server-2013-kb5002364-97fb6d67-2ac5-44dc-9c7b-4bc84e8fca56",
     "url": "https://support.microsoft.com/help/5002364"
+  },
+  "5023773": {
+    "date": "2023-03-21",
+    "uuid": "5850ac11-dd43-4550-89ec-9e63353fef23",
+    "slug": "march-21-2023-kb5023773-os-builds-19042-2788-19044-2788-and-19045-2788-preview-5850ac11-dd43-4550-89ec-9e63353fef23",
+    "url": "https://support.microsoft.com/help/5023773"
   }
 }
