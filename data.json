@@ -11392,5 +11392,17 @@
     "uuid": "a5e3f0ce-b9f1-40b9-a3fa-42b8093f3873",
     "slug": "april-25-2023-kb5025297-os-build-19045-2913-preview-a5e3f0ce-b9f1-40b9-a3fa-42b8093f3873",
     "url": "https://support.microsoft.com/help/5025297"
+  },
+  "5002297": {
+    "date": "2023-05-02",
+    "uuid": "fbadacbf-2593-4be5-914c-f9d783f97286",
+    "slug": "may-2-2023-update-for-office-2013-kb5002297-fbadacbf-2593-4be5-914c-f9d783f97286",
+    "url": "https://support.microsoft.com/help/5002297"
+  },
+  "4504725": {
+    "date": "2023-05-02",
+    "uuid": "0eb0d1ad-bf8e-4579-953b-b5866c6fa954",
+    "slug": "may-2-2023-update-for-powerpoint-2013-kb4504725-0eb0d1ad-bf8e-4579-953b-b5866c6fa954",
+    "url": "https://support.microsoft.com/help/4504725"
   }
 }
