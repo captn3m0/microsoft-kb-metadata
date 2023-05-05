@@ -11404,5 +11404,41 @@
     "uuid": "0eb0d1ad-bf8e-4579-953b-b5866c6fa954",
     "slug": "may-2-2023-update-for-powerpoint-2013-kb4504725-0eb0d1ad-bf8e-4579-953b-b5866c6fa954",
     "url": "https://support.microsoft.com/help/4504725"
+  },
+  "4532098": {
+    "date": "2020-02-11",
+    "uuid": "834157df-0c57-1861-140f-a838e9ec6e69",
+    "slug": "kb4532098-description-of-the-security-update-for-sql-server-2012-sp4-gdr-february-11-2020-834157df-0c57-1861-140f-a838e9ec6e69",
+    "url": "https://support.microsoft.com/help/4532098"
+  },
+  "4057116": {
+    "date": "2018-01-12",
+    "uuid": "06e09180-23a0-6b87-ab4d-f1ff962b27cf",
+    "slug": "description-of-the-security-update-for-sql-server-2012-sp4-gdr-january-12-2018-06e09180-23a0-6b87-ab4d-f1ff962b27cf",
+    "url": "https://support.microsoft.com/help/4057116"
+  },
+  "4019092": {
+    "date": "2017-08-08",
+    "uuid": "d4a3cd6f-2742-5a5f-81a7-68058abbb01b",
+    "slug": "kb4019092-description-of-the-security-update-for-sql-server-2012-service-pack-3-gdr-august-8-2017-d4a3cd6f-2742-5a5f-81a7-68058abbb01b",
+    "url": "https://support.microsoft.com/help/4019092"
+  },
+  "3194724": {
+    "date": "2016-11-08",
+    "uuid": "31c5d66f-4e9b-a805-30ed-64f05ee87a66",
+    "slug": "kb3194724-ms16-136-description-of-the-security-update-for-sql-server-2012-service-pack-3-cu-november-8-2016-31c5d66f-4e9b-a805-30ed-64f05ee87a66",
+    "url": "https://support.microsoft.com/help/3194724"
+  },
+  "3194719": {
+    "date": "2016-11-08",
+    "uuid": "ed0cf43e-ce2b-f752-9e37-080fe236f020",
+    "slug": "kb3194719-ms16-136-description-of-the-security-update-for-sql-server-2012-service-pack-2-gdr-november-8-2016-ed0cf43e-ce2b-f752-9e37-080fe236f020",
+    "url": "https://support.microsoft.com/help/3194719"
+  },
+  "3194725": {
+    "date": "2016-11-08",
+    "uuid": "830dac10-d421-5abc-d359-c3496011bb66",
+    "slug": "kb3194725-ms16-136-description-of-the-security-update-for-sql-server-2012-service-pack-2-cu-november-8-2016-830dac10-d421-5abc-d359-c3496011bb66",
+    "url": "https://support.microsoft.com/help/3194725"
   }
 }
