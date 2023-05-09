@@ -11440,5 +11440,35 @@
     "uuid": "830dac10-d421-5abc-d359-c3496011bb66",
     "slug": "kb3194725-ms16-136-description-of-the-security-update-for-sql-server-2012-service-pack-2-cu-november-8-2016-830dac10-d421-5abc-d359-c3496011bb66",
     "url": "https://support.microsoft.com/help/3194725"
+  },
+  "5002390": {
+    "date": "2023-05-09",
+    "uuid": "5d150cf3-e42d-4a0e-b015-0b4357b8e5ea",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-may-9-2023-kb5002390-5d150cf3-e42d-4a0e-b015-0b4357b8e5ea",
+    "url": "https://support.microsoft.com/help/5002390"
+  },
+  "5002389": {
+    "date": "2019-05-09",
+    "uuid": "e2b77a46-2946-495f-8948-8abdc44aacc3",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-may-9-2023-kb5002389-e2b77a46-2946-495f-8948-8abdc44aacc3",
+    "url": "https://support.microsoft.com/help/5002389"
+  },
+  "5002374": {
+    "date": "2023-05-09",
+    "uuid": "856b9fc0-ad88-4bce-8067-8920172ccee3",
+    "slug": "may-9-2023-update-for-sharepoint-server-2019-language-pack-kb5002374-856b9fc0-ad88-4bce-8067-8920172ccee3",
+    "url": "https://support.microsoft.com/help/5002374"
+  },
+  "5002397": {
+    "date": "2016-05-09",
+    "uuid": "057fb87d-3bed-4607-bff2-b6874fac28be",
+    "slug": "description-of-the-security-update-for-sharepoint-enterprise-server-2016-may-9-2023-kb5002397-057fb87d-3bed-4607-bff2-b6874fac28be",
+    "url": "https://support.microsoft.com/help/5002397"
+  },
+  "5002088": {
+    "date": "2023-05-01",
+    "uuid": "ae1f273c-e093-4482-bc83-f6b48d3244ac",
+    "slug": "may-2023-updates-for-microsoft-office-ae1f273c-e093-4482-bc83-f6b48d3244ac",
+    "url": "https://support.microsoft.com/help/5002088"
   }
 }
