@@ -11470,5 +11470,41 @@
     "uuid": "ae1f273c-e093-4482-bc83-f6b48d3244ac",
     "slug": "may-2023-updates-for-microsoft-office-ae1f273c-e093-4482-bc83-f6b48d3244ac",
     "url": "https://support.microsoft.com/help/5002088"
+  },
+  "5026372": {
+    "date": "2023-05-09",
+    "uuid": "ce93c18e-e819-458f-abcf-dc7154ce7e40",
+    "slug": "may-9-2023-kb5026372-os-build-22621-1702-ce93c18e-e819-458f-abcf-dc7154ce7e40",
+    "url": "https://support.microsoft.com/help/5026372"
+  },
+  "5026368": {
+    "date": "2023-05-09",
+    "uuid": "823b0a40-eb56-4d2e-a3bb-aa0111877802",
+    "slug": "may-9-2023-kb5026368-os-build-22000-1936-823b0a40-eb56-4d2e-a3bb-aa0111877802",
+    "url": "https://support.microsoft.com/help/5026368"
+  },
+  "5026361": {
+    "date": "2023-05-09",
+    "uuid": "3edafffe-c3cc-4010-af43-2097c84c9437",
+    "slug": "may-9-2023-kb5026361-os-builds-19042-2965-19044-2965-and-19045-2965-3edafffe-c3cc-4010-af43-2097c84c9437",
+    "url": "https://support.microsoft.com/help/5026361"
+  },
+  "5026362": {
+    "date": "2023-05-09",
+    "uuid": "b0133287-05dd-4bc5-b1c3-5edaca650afd",
+    "slug": "may-9-2023-kb5026362-os-build-17763-4377-b0133287-05dd-4bc5-b1c3-5edaca650afd",
+    "url": "https://support.microsoft.com/help/5026362"
+  },
+  "5026363": {
+    "date": "2023-05-09",
+    "uuid": "e5c7bc74-7bac-4d82-bce3-676f30f7a701",
+    "slug": "may-9-2023-kb5026363-os-build-14393-5921-e5c7bc74-7bac-4d82-bce3-676f30f7a701",
+    "url": "https://support.microsoft.com/help/5026363"
+  },
+  "5026382": {
+    "date": "2023-05-09",
+    "uuid": "39a0709f-6bf3-47ee-98f7-8189369ce9d9",
+    "slug": "may-9-2023-kb5026382-os-build-10240-19926-39a0709f-6bf3-47ee-98f7-8189369ce9d9",
+    "url": "https://support.microsoft.com/help/5026382"
   }
 }
