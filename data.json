@@ -11506,5 +11506,17 @@
     "uuid": "39a0709f-6bf3-47ee-98f7-8189369ce9d9",
     "slug": "may-9-2023-kb5026382-os-build-10240-19926-39a0709f-6bf3-47ee-98f7-8189369ce9d9",
     "url": "https://support.microsoft.com/help/5026382"
+  },
+  "5026436": {
+    "date": "2023-05-23",
+    "uuid": "46661369-f3dd-4b56-82eb-9f3a44f3fe59",
+    "slug": "may-23-2023-kb5026436-os-build-22000-2003-preview-46661369-f3dd-4b56-82eb-9f3a44f3fe59",
+    "url": "https://support.microsoft.com/help/5026436"
+  },
+  "5026435": {
+    "date": "2023-05-23",
+    "uuid": "2751b693-5544-4110-bc0c-feb8dd7336b3",
+    "slug": "may-23-2023-kb5026435-os-build-19045-3031-preview-2751b693-5544-4110-bc0c-feb8dd7336b3",
+    "url": "https://support.microsoft.com/help/5026435"
   }
 }
