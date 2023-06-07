@@ -11524,5 +11524,29 @@
     "uuid": "3c547100-7a73-4ae6-bb7d-ebd02e87dc04",
     "slug": "may-24-2023-kb5026446-os-build-22621-1778-preview-3c547100-7a73-4ae6-bb7d-ebd02e87dc04",
     "url": "https://support.microsoft.com/help/5026446"
+  },
+  "5002343": {
+    "date": "2023-06-06",
+    "uuid": "cb744db8-8d2f-469d-b785-f42c5408c55e",
+    "slug": "june-6-2023-update-for-visio-2013-kb5002343-cb744db8-8d2f-469d-b785-f42c5408c55e",
+    "url": "https://support.microsoft.com/help/5002343"
+  },
+  "5002308": {
+    "date": "2023-06-06",
+    "uuid": "1b964252-3041-4a59-bb07-9167d6bd72dd",
+    "slug": "june-6-2023-update-for-office-2016-kb5002308-1b964252-3041-4a59-bb07-9167d6bd72dd",
+    "url": "https://support.microsoft.com/help/5002308"
+  },
+  "4011621": {
+    "date": "2023-06-06",
+    "uuid": "32753a86-8e1f-462c-9b0d-e9c3aae56e91",
+    "slug": "june-6-2023-update-for-office-2016-kb4011621-32753a86-8e1f-462c-9b0d-e9c3aae56e91",
+    "url": "https://support.microsoft.com/help/4011621"
+  },
+  "5002349": {
+    "date": "2023-06-06",
+    "uuid": "8aefc287-5478-4446-886d-53ddfbd5f4a5",
+    "slug": "june-6-2023-update-for-visio-2016-kb5002349-8aefc287-5478-4446-886d-53ddfbd5f4a5",
+    "url": "https://support.microsoft.com/help/5002349"
   }
 }
