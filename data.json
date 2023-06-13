@@ -11548,5 +11548,41 @@
     "uuid": "8aefc287-5478-4446-886d-53ddfbd5f4a5",
     "slug": "june-6-2023-update-for-visio-2016-kb5002349-8aefc287-5478-4446-886d-53ddfbd5f4a5",
     "url": "https://support.microsoft.com/help/5002349"
+  },
+  "5027231": {
+    "date": "2023-06-13",
+    "uuid": "8f903600-1293-4431-9c6b-736a4049666c",
+    "slug": "june-13-2023-kb5027231-os-build-22621-1848-8f903600-1293-4431-9c6b-736a4049666c",
+    "url": "https://support.microsoft.com/help/5027231"
+  },
+  "5027223": {
+    "date": "2023-06-13",
+    "uuid": "168b3781-ffd0-4779-83da-162b880a0b24",
+    "slug": "june-13-2023-kb5027223-os-build-22000-2057-168b3781-ffd0-4779-83da-162b880a0b24",
+    "url": "https://support.microsoft.com/help/5027223"
+  },
+  "5027222": {
+    "date": "2023-06-13",
+    "uuid": "8aa0687f-06aa-4789-ab4e-6bff4897a33e",
+    "slug": "june-13-2023-kb5027222-os-build-17763-4499-8aa0687f-06aa-4789-ab4e-6bff4897a33e",
+    "url": "https://support.microsoft.com/help/5027222"
+  },
+  "5027219": {
+    "date": "2023-06-13",
+    "uuid": "e99f2865-6f1a-41e4-9583-c0d00be7468d",
+    "slug": "june-13-2023-kb5027219-os-build-14393-5989-e99f2865-6f1a-41e4-9583-c0d00be7468d",
+    "url": "https://support.microsoft.com/help/5027219"
+  },
+  "5027230": {
+    "date": "2023-06-13",
+    "uuid": "4f2fffba-9ded-4325-932b-82edec3727a5",
+    "slug": "june-13-2023-kb5027230-os-build-10240-19983-4f2fffba-9ded-4325-932b-82edec3727a5",
+    "url": "https://support.microsoft.com/help/5027230"
+  },
+  "5025903": {
+    "date": "2016-06-13",
+    "uuid": "856bb13a-940e-42d8-9bc5-ef8f5b880253",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-2016-june-13-2023-kb5025903-856bb13a-940e-42d8-9bc5-ef8f5b880253",
+    "url": "https://support.microsoft.com/help/5025903"
   }
 }
