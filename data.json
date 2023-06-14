@@ -11584,5 +11584,41 @@
     "uuid": "856bb13a-940e-42d8-9bc5-ef8f5b880253",
     "slug": "description-of-the-security-update-for-microsoft-exchange-server-2016-june-13-2023-kb5025903-856bb13a-940e-42d8-9bc5-ef8f5b880253",
     "url": "https://support.microsoft.com/help/5025903"
+  },
+  "5002416": {
+    "date": "2023-06-13",
+    "uuid": "30534b01-588b-422e-8b87-865d22244a83",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-june-13-2023-kb5002416-30534b01-588b-422e-8b87-865d22244a83",
+    "url": "https://support.microsoft.com/help/5002416"
+  },
+  "5002402": {
+    "date": "2019-06-13",
+    "uuid": "c5d58925-f7be-4d16-a61b-8ce871bbe34d",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-june-13-2023-kb5002402-c5d58925-f7be-4d16-a61b-8ce871bbe34d",
+    "url": "https://support.microsoft.com/help/5002402"
+  },
+  "5002403": {
+    "date": "2023-06-13",
+    "uuid": "ad6c0179-6ee4-48c5-9094-e0bd073df8b4",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-language-pack-june-13-2023-kb5002403-ad6c0179-6ee4-48c5-9094-e0bd073df8b4",
+    "url": "https://support.microsoft.com/help/5002403"
+  },
+  "5027215": {
+    "date": "2023-06-13",
+    "uuid": "079f9f02-fe49-4b25-99a6-c02a16b1f208",
+    "slug": "june-13-2023-kb5027215-os-builds-19044-3086-and-19045-3086-079f9f02-fe49-4b25-99a6-c02a16b1f208",
+    "url": "https://support.microsoft.com/help/5027215"
+  },
+  "5026261": {
+    "date": "2019-06-13",
+    "uuid": "c4abbd97-5afe-4229-9ecf-a0b7c0002a5d",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-2019-june-13-2023-kb5026261-c4abbd97-5afe-4229-9ecf-a0b7c0002a5d",
+    "url": "https://support.microsoft.com/help/5026261"
+  },
+  "5002089": {
+    "date": "2023-06-01",
+    "uuid": "f466c8b3-d320-4844-b97b-16c825d80963",
+    "slug": "june-2023-updates-for-microsoft-office-f466c8b3-d320-4844-b97b-16c825d80963",
+    "url": "https://support.microsoft.com/help/5002089"
   }
 }
