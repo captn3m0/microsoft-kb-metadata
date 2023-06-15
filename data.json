@@ -11620,5 +11620,11 @@
     "uuid": "f466c8b3-d320-4844-b97b-16c825d80963",
     "slug": "june-2023-updates-for-microsoft-office-f466c8b3-d320-4844-b97b-16c825d80963",
     "url": "https://support.microsoft.com/help/5002089"
+  },
+  "5002404": {
+    "date": "2016-06-13",
+    "uuid": "291185ec-900c-49d1-bf36-f2a6b076122e",
+    "slug": "description-of-the-security-update-for-sharepoint-enterprise-server-2016-june-13-2023-kb5002404-291185ec-900c-49d1-bf36-f2a6b076122e",
+    "url": "https://support.microsoft.com/help/5002404"
   }
 }
