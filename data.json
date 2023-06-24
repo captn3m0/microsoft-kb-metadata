@@ -11626,5 +11626,17 @@
     "uuid": "291185ec-900c-49d1-bf36-f2a6b076122e",
     "slug": "description-of-the-security-update-for-sharepoint-enterprise-server-2016-june-13-2023-kb5002404-291185ec-900c-49d1-bf36-f2a6b076122e",
     "url": "https://support.microsoft.com/help/5002404"
+  },
+  "5028623": {
+    "date": "2023-06-23",
+    "uuid": "5fe97283-3caa-4037-a916-ff363073c1e1",
+    "slug": "june-23-2023-kb5028623-os-build-14393-5996-out-of-band-5fe97283-3caa-4037-a916-ff363073c1e1",
+    "url": "https://support.microsoft.com/help/5028623"
+  },
+  "5028622": {
+    "date": "2023-06-23",
+    "uuid": "de9af49b-9cf4-42f7-acf1-fe995ba75e9f",
+    "slug": "june-23-2023-kb5028622-os-build-10240-19986-out-of-band-de9af49b-9cf4-42f7-acf1-fe995ba75e9f",
+    "url": "https://support.microsoft.com/help/5028622"
   }
 }
