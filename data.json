@@ -11650,5 +11650,11 @@
     "uuid": "1c50b938-6a65-4e7e-9fdd-967f391c846f",
     "slug": "june-27-2023-kb5027293-os-build-19045-3155-preview-1c50b938-6a65-4e7e-9fdd-967f391c846f",
     "url": "https://support.microsoft.com/help/5027293"
+  },
+  "5027292": {
+    "date": "2023-06-28",
+    "uuid": "11074490-ad96-4660-b988-1b507ccab80c",
+    "slug": "june-28-2023-kb5027292-os-build-22000-2124-preview-11074490-ad96-4660-b988-1b507ccab80c",
+    "url": "https://support.microsoft.com/help/5027292"
   }
 }
