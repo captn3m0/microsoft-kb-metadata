@@ -11692,5 +11692,29 @@
     "uuid": "fbe56207-ae74-4229-a066-28ba1bc0f69d",
     "slug": "july-11-2023-kb5028186-os-build-10240-20048-fbe56207-ae74-4229-a066-28ba1bc0f69d",
     "url": "https://support.microsoft.com/help/5028186"
+  },
+  "5002424": {
+    "date": "2023-07-11",
+    "uuid": "a5880c63-1550-4f63-b788-9c8e79d05f47",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-july-11-2023-kb5002424-a5880c63-1550-4f63-b788-9c8e79d05f47",
+    "url": "https://support.microsoft.com/help/5002424"
+  },
+  "5002423": {
+    "date": "2019-07-11",
+    "uuid": "40a6e218-abd5-402e-8ecd-ef85b0aa2999",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-july-11-2023-kb5002423-40a6e218-abd5-402e-8ecd-ef85b0aa2999",
+    "url": "https://support.microsoft.com/help/5002423"
+  },
+  "5002425": {
+    "date": "2016-07-11",
+    "uuid": "a85435b9-3590-4587-9c4f-32cd64181063",
+    "slug": "description-of-the-security-update-for-sharepoint-enterprise-server-2016-july-11-2023-kb5002425-a85435b9-3590-4587-9c4f-32cd64181063",
+    "url": "https://support.microsoft.com/help/5002425"
+  },
+  "5002090": {
+    "date": "2023-07-01",
+    "uuid": "827d5944-24f9-41ea-ae02-0fa02f837e8f",
+    "slug": "july-2023-updates-for-microsoft-office-827d5944-24f9-41ea-ae02-0fa02f837e8f",
+    "url": "https://support.microsoft.com/help/5002090"
   }
 }
