@@ -11716,5 +11716,17 @@
     "uuid": "827d5944-24f9-41ea-ae02-0fa02f837e8f",
     "slug": "july-2023-updates-for-microsoft-office-827d5944-24f9-41ea-ae02-0fa02f837e8f",
     "url": "https://support.microsoft.com/help/5002090"
+  },
+  "5028245": {
+    "date": "2023-07-25",
+    "uuid": "bbe6f09f-6cec-4777-a548-d237f5d849d2",
+    "slug": "july-25-2023-kb5028245-os-build-22000-2245-preview-bbe6f09f-6cec-4777-a548-d237f5d849d2",
+    "url": "https://support.microsoft.com/help/5028245"
+  },
+  "5028244": {
+    "date": "2023-07-25",
+    "uuid": "8cf92c9b-3a60-4c6a-8f4c-fc41fe8f4f2c",
+    "slug": "july-25-2023-kb5028244-os-build-19045-3271-preview-8cf92c9b-3a60-4c6a-8f4c-fc41fe8f4f2c",
+    "url": "https://support.microsoft.com/help/5028244"
   }
 }
