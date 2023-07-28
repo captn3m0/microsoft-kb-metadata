@@ -11734,5 +11734,53 @@
     "uuid": "66161ea6-c106-43e9-bef5-8410ccbd34e8",
     "slug": "july-26-2023-kb5028254-os-build-22621-2070-preview-66161ea6-c106-43e9-bef5-8410ccbd34e8",
     "url": "https://support.microsoft.com/help/5028254"
+  },
+  "5002454": {
+    "date": "2023-07-27",
+    "uuid": "c4f849d4-d67f-41d9-8a98-6ab4e4c0ad48",
+    "slug": "july-27-2023-update-for-excel-2016-kb5002454-c4f849d4-d67f-41d9-8a98-6ab4e4c0ad48",
+    "url": "https://support.microsoft.com/help/5002454"
+  },
+  "5002117": {
+    "date": "2023-07-27",
+    "uuid": "74b7083d-0104-46d7-9cc8-268d6733522d",
+    "slug": "july-27-2023-update-for-office-2016-kb5002117-74b7083d-0104-46d7-9cc8-268d6733522d",
+    "url": "https://support.microsoft.com/help/5002117"
+  },
+  "4493158": {
+    "date": "2023-07-27",
+    "uuid": "4cf5120b-287e-5ad2-2e15-aae0700f43fd",
+    "slug": "july-27-2023-update-for-office-2016-kb4493158-4cf5120b-287e-5ad2-2e15-aae0700f43fd",
+    "url": "https://support.microsoft.com/help/4493158"
+  },
+  "5002307": {
+    "date": "2023-07-27",
+    "uuid": "8c71903c-5da5-4588-9d75-2aafd6fa1027",
+    "slug": "july-27-2023-update-for-office-2016-kb5002307-8c71903c-5da5-4588-9d75-2aafd6fa1027",
+    "url": "https://support.microsoft.com/help/5002307"
+  },
+  "4464587": {
+    "date": "2023-07-27",
+    "uuid": "a49b0248-5e3a-b22e-a38d-61ef4df96549",
+    "slug": "july-27-2023-update-for-office-2016-kb4464587-a49b0248-5e3a-b22e-a38d-61ef4df96549",
+    "url": "https://support.microsoft.com/help/4464587"
+  },
+  "5002396": {
+    "date": "2023-07-27",
+    "uuid": "bc1570b9-c3ec-481b-9801-530154d3171c",
+    "slug": "july-27-2023-update-for-publisher-2016-kb5002396-bc1570b9-c3ec-481b-9801-530154d3171c",
+    "url": "https://support.microsoft.com/help/5002396"
+  },
+  "5002458": {
+    "date": "2023-07-27",
+    "uuid": "1e277eee-64e1-4f28-a625-d4f43092cfdb",
+    "slug": "july-27-2023-update-for-office-2016-kb5002458-1e277eee-64e1-4f28-a625-d4f43092cfdb",
+    "url": "https://support.microsoft.com/help/5002458"
+  },
+  "5002456": {
+    "date": "2023-07-27",
+    "uuid": "4cc67c15-03fc-489f-b0ba-5f4a8a4749e8",
+    "slug": "july-27-2023-update-for-word-2016-kb5002456-4cc67c15-03fc-489f-b0ba-5f4a8a4749e8",
+    "url": "https://support.microsoft.com/help/5002456"
   }
 }
