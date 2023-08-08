@@ -11782,5 +11782,11 @@
     "uuid": "4cc67c15-03fc-489f-b0ba-5f4a8a4749e8",
     "slug": "july-27-2023-update-for-word-2016-kb5002456-4cc67c15-03fc-489f-b0ba-5f4a8a4749e8",
     "url": "https://support.microsoft.com/help/5002456"
+  },
+  "5029388": {
+    "date": "2016-08-08",
+    "uuid": "86b365c0-21f1-4a10-a68c-a095536f0171",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-2019-and-2016-august-8-2023-kb5029388-86b365c0-21f1-4a10-a68c-a095536f0171",
+    "url": "https://support.microsoft.com/help/5029388"
   }
 }
