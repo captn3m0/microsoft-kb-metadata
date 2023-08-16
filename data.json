@@ -11860,5 +11860,11 @@
     "uuid": "796da43e-4310-4eab-ba9d-2908bbfe16d5",
     "slug": "august-2023-updates-for-microsoft-office-796da43e-4310-4eab-ba9d-2908bbfe16d5",
     "url": "https://support.microsoft.com/help/5002091"
+  },
+  "5030524": {
+    "date": "2016-08-15",
+    "uuid": "940cdc34-07c4-441e-b0f4-c5a19779d715",
+    "slug": "description-of-version-2-of-the-security-update-for-microsoft-exchange-server-2019-and-2016-august-15-2023-kb5030524-940cdc34-07c4-441e-b0f4-c5a19779d715",
+    "url": "https://support.microsoft.com/help/5030524"
   }
 }
