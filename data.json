@@ -11866,5 +11866,23 @@
     "uuid": "940cdc34-07c4-441e-b0f4-c5a19779d715",
     "slug": "description-of-version-2-of-the-security-update-for-microsoft-exchange-server-2019-and-2016-august-15-2023-kb5030524-940cdc34-07c4-441e-b0f4-c5a19779d715",
     "url": "https://support.microsoft.com/help/5030524"
+  },
+  "5029351": {
+    "date": "2023-08-22",
+    "uuid": "9af25662-083a-43f5-b3a7-975fe25cc692",
+    "slug": "august-22-2023-kb5029351-os-build-22621-2215-preview-9af25662-083a-43f5-b3a7-975fe25cc692",
+    "url": "https://support.microsoft.com/help/5029351"
+  },
+  "5029332": {
+    "date": "2023-08-22",
+    "uuid": "8f8aec64-77b4-4225-9a0f-f0153204ae28",
+    "slug": "august-22-2023-kb5029332-os-build-22000-2360-preview-8f8aec64-77b4-4225-9a0f-f0153204ae28",
+    "url": "https://support.microsoft.com/help/5029332"
+  },
+  "5029331": {
+    "date": "2023-08-22",
+    "uuid": "9f6c1dbd-0ee6-469b-af24-f9d0bf35ca18",
+    "slug": "august-22-2023-kb5029331-os-build-19045-3393-preview-9f6c1dbd-0ee6-469b-af24-f9d0bf35ca18",
+    "url": "https://support.microsoft.com/help/5029331"
   }
 }
