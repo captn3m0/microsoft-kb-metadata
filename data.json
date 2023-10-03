@@ -11974,5 +11974,17 @@
     "uuid": "9d43fdfb-71a1-4a40-b217-4a43d4bd84db",
     "slug": "september-26-2023-kb5030300-os-build-19045-3516-preview-9d43fdfb-71a1-4a40-b217-4a43d4bd84db",
     "url": "https://support.microsoft.com/help/5030300"
+  },
+  "5002479": {
+    "date": "2023-10-03",
+    "uuid": "36f7fe9a-9d5d-4e97-868c-1cdeb3c2c3fc",
+    "slug": "october-3-2023-update-for-visio-2013-kb5002479-36f7fe9a-9d5d-4e97-868c-1cdeb3c2c3fc",
+    "url": "https://support.microsoft.com/help/5002479"
+  },
+  "5002209": {
+    "date": "2023-10-03",
+    "uuid": "dc4d9b3d-d171-4729-b1f3-2f38e60027ad",
+    "slug": "october-3-2023-update-for-access-2016-kb5002209-dc4d9b3d-d171-4729-b1f3-2f38e60027ad",
+    "url": "https://support.microsoft.com/help/5002209"
   }
 }
