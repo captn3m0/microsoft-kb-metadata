@@ -11986,5 +11986,11 @@
     "uuid": "dc4d9b3d-d171-4729-b1f3-2f38e60027ad",
     "slug": "october-3-2023-update-for-access-2016-kb5002209-dc4d9b3d-d171-4729-b1f3-2f38e60027ad",
     "url": "https://support.microsoft.com/help/5002209"
+  },
+  "5030877": {
+    "date": "2013-10-10",
+    "uuid": "ec769ff1-f60f-411e-a7ed-b63b42a686eb",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-2019-2016-and-2013-october-10-2023-kb5030877-ec769ff1-f60f-411e-a7ed-b63b42a686eb",
+    "url": "https://support.microsoft.com/help/5030877"
   }
 }
