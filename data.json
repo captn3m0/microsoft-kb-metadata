@@ -11992,5 +11992,125 @@
     "uuid": "ec769ff1-f60f-411e-a7ed-b63b42a686eb",
     "slug": "description-of-the-security-update-for-microsoft-exchange-server-2019-2016-and-2013-october-10-2023-kb5030877-ec769ff1-f60f-411e-a7ed-b63b42a686eb",
     "url": "https://support.microsoft.com/help/5030877"
+  },
+  "5002506": {
+    "date": "2023-10-10",
+    "uuid": "bb58818d-53a4-4565-88e1-4e8d34d84bdc",
+    "slug": "october-10-2023-update-for-sharepoint-server-subscription-edition-kb5002506-bb58818d-53a4-4565-88e1-4e8d34d84bdc",
+    "url": "https://support.microsoft.com/help/5002506"
+  },
+  "5002504": {
+    "date": "2023-10-10",
+    "uuid": "add00377-7d3e-4bc2-a3ba-60cc2df7cc2a",
+    "slug": "october-10-2023-update-for-sharepoint-server-2019-kb5002504-add00377-7d3e-4bc2-a3ba-60cc2df7cc2a",
+    "url": "https://support.microsoft.com/help/5002504"
+  },
+  "5029379": {
+    "date": "2023-10-10",
+    "uuid": "ed9a177a-451e-4fc8-8008-8a540431ed2f",
+    "slug": "kb5029379-description-of-the-security-update-for-sql-server-2022-gdr-october-10-2023-ed9a177a-451e-4fc8-8008-8a540431ed2f",
+    "url": "https://support.microsoft.com/help/5029379"
+  },
+  "5029503": {
+    "date": "2023-10-10",
+    "uuid": "c9c267e2-adb6-47f1-b7e9-d99d3c9fb081",
+    "slug": "kb5029503-description-of-the-security-update-for-sql-server-2022-cu8-october-10-2023-c9c267e2-adb6-47f1-b7e9-d99d3c9fb081",
+    "url": "https://support.microsoft.com/help/5029503"
+  },
+  "5029377": {
+    "date": "2023-10-10",
+    "uuid": "a646537e-adbc-44e1-9bbb-5508ad35b03b",
+    "slug": "kb5029377-description-of-the-security-update-for-sql-server-2019-gdr-october-10-2023-a646537e-adbc-44e1-9bbb-5508ad35b03b",
+    "url": "https://support.microsoft.com/help/5029377"
+  },
+  "5029378": {
+    "date": "2023-10-10",
+    "uuid": "f4b5c5fb-b4cd-4599-8e5b-2a54dab85a33",
+    "slug": "kb5029378-description-of-the-security-update-for-sql-server-2019-cu22-october-10-2023-f4b5c5fb-b4cd-4599-8e5b-2a54dab85a33",
+    "url": "https://support.microsoft.com/help/5029378"
+  },
+  "5029375": {
+    "date": "2023-10-10",
+    "uuid": "4a9b63a0-0df7-48e9-953b-9bc8c3868f10",
+    "slug": "kb5029375-description-of-the-security-update-for-sql-server-2017-gdr-october-10-2023-4a9b63a0-0df7-48e9-953b-9bc8c3868f10",
+    "url": "https://support.microsoft.com/help/5029375"
+  },
+  "5029376": {
+    "date": "2023-10-10",
+    "uuid": "ce23ddf7-b79e-4ba7-ba9d-2679f23a1ad8",
+    "slug": "kb5029376-description-of-the-security-update-for-sql-server-2017-cu31-october-10-2023-ce23ddf7-b79e-4ba7-ba9d-2679f23a1ad8",
+    "url": "https://support.microsoft.com/help/5029376"
+  },
+  "5029187": {
+    "date": "2023-10-10",
+    "uuid": "e5541468-f243-4000-872c-ac782cfad99f",
+    "slug": "kb5029187-description-of-the-security-update-for-sql-server-2016-sp3-azure-connect-feature-pack-october-10-2023-e5541468-f243-4000-872c-ac782cfad99f",
+    "url": "https://support.microsoft.com/help/5029187"
+  },
+  "5029186": {
+    "date": "2023-10-10",
+    "uuid": "618b034a-d575-48e0-804a-7b481ba2e600",
+    "slug": "kb5029186-description-of-the-security-update-for-sql-server-2016-sp3-gdr-october-10-2023-618b034a-d575-48e0-804a-7b481ba2e600",
+    "url": "https://support.microsoft.com/help/5029186"
+  },
+  "5029184": {
+    "date": "2023-10-10",
+    "uuid": "0678a86f-29aa-4587-9bed-2459b445f480",
+    "slug": "kb5029184-description-of-the-security-update-for-sql-server-2014-sp3-gdr-october-10-2023-0678a86f-29aa-4587-9bed-2459b445f480",
+    "url": "https://support.microsoft.com/help/5029184"
+  },
+  "5029185": {
+    "date": "2023-10-10",
+    "uuid": "ae8f270c-1ef2-440f-90d2-61ae67b39f41",
+    "slug": "kb5029185-description-of-the-security-update-for-sql-server-2014-sp3-cu4-october-10-2023-ae8f270c-1ef2-440f-90d2-61ae67b39f41",
+    "url": "https://support.microsoft.com/help/5029185"
+  },
+  "5031354": {
+    "date": "2023-10-10",
+    "uuid": "ecc07685-218f-4ba9-b3c8-fe2e35059aec",
+    "slug": "october-10-2023-kb5031354-os-build-22621-2428-ecc07685-218f-4ba9-b3c8-fe2e35059aec",
+    "url": "https://support.microsoft.com/help/5031354"
+  },
+  "5031358": {
+    "date": "2023-10-10",
+    "uuid": "fc71bccb-775c-4959-94f3-b0e93a834554",
+    "slug": "october-10-2023-kb5031358-os-build-22000-2538-fc71bccb-775c-4959-94f3-b0e93a834554",
+    "url": "https://support.microsoft.com/help/5031358"
+  },
+  "5031356": {
+    "date": "2023-10-10",
+    "uuid": "951fac64-5bf8-4eba-ba18-a9448920df1a",
+    "slug": "october-10-2023-kb5031356-os-builds-19044-3570-and-19045-3570-951fac64-5bf8-4eba-ba18-a9448920df1a",
+    "url": "https://support.microsoft.com/help/5031356"
+  },
+  "5031361": {
+    "date": "2023-10-10",
+    "uuid": "766593db-b47a-4b18-a698-906426860313",
+    "slug": "october-10-2023-kb5031361-os-build-17763-4974-766593db-b47a-4b18-a698-906426860313",
+    "url": "https://support.microsoft.com/help/5031361"
+  },
+  "5031362": {
+    "date": "2023-10-10",
+    "uuid": "0c6e713e-3d6a-4593-8a75-af0a605f249c",
+    "slug": "october-10-2023-kb5031362-os-build-14393-6351-0c6e713e-3d6a-4593-8a75-af0a605f249c",
+    "url": "https://support.microsoft.com/help/5031362"
+  },
+  "5031377": {
+    "date": "2023-10-10",
+    "uuid": "537f318a-fcbc-49d7-8197-75bd42121244",
+    "slug": "october-10-2023-kb5031377-os-build-10240-20232-537f318a-fcbc-49d7-8197-75bd42121244",
+    "url": "https://support.microsoft.com/help/5031377"
+  },
+  "5002093": {
+    "date": "2023-10-01",
+    "uuid": "1f5e9615-46fb-4d3e-b513-297c961ea1c0",
+    "slug": "october-2023-updates-for-microsoft-office-1f5e9615-46fb-4d3e-b513-297c961ea1c0",
+    "url": "https://support.microsoft.com/help/5002093"
+  },
+  "5032429": {
+    "date": "2023-10-10",
+    "uuid": "b8fab073-61d6-46ad-ab75-0487411f3949",
+    "slug": "description-of-the-security-update-for-skype-for-business-server-october-10-2023-kb5032429-b8fab073-61d6-46ad-ab75-0487411f3949",
+    "url": "https://support.microsoft.com/help/5032429"
   }
 }
