@@ -12112,5 +12112,17 @@
     "uuid": "b8fab073-61d6-46ad-ab75-0487411f3949",
     "slug": "description-of-the-security-update-for-skype-for-business-server-october-10-2023-kb5032429-b8fab073-61d6-46ad-ab75-0487411f3949",
     "url": "https://support.microsoft.com/help/5032429"
+  },
+  "5031455": {
+    "date": "2023-10-26",
+    "uuid": "6513c5ec-c5a2-4aaf-97f5-44c13d29e0d4",
+    "slug": "october-26-2023-kb5031455-os-build-22621-2506-preview-6513c5ec-c5a2-4aaf-97f5-44c13d29e0d4",
+    "url": "https://support.microsoft.com/help/5031455"
+  },
+  "5031445": {
+    "date": "2023-10-26",
+    "uuid": "03f350cb-57f9-45e6-bfd7-438895d3c7fa",
+    "slug": "october-26-2023-kb5031445-os-build-19045-3636-preview-03f350cb-57f9-45e6-bfd7-438895d3c7fa",
+    "url": "https://support.microsoft.com/help/5031445"
   }
 }
