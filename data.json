@@ -12124,5 +12124,23 @@
     "uuid": "03f350cb-57f9-45e6-bfd7-438895d3c7fa",
     "slug": "october-26-2023-kb5031445-os-build-19045-3636-preview-03f350cb-57f9-45e6-bfd7-438895d3c7fa",
     "url": "https://support.microsoft.com/help/5031445"
+  },
+  "5002514": {
+    "date": "2023-11-07",
+    "uuid": "b6e8f50d-8182-47f3-bf27-6f3054bd979d",
+    "slug": "november-7-2023-update-for-outlook-2013-kb5002514-b6e8f50d-8182-47f3-bf27-6f3054bd979d",
+    "url": "https://support.microsoft.com/help/5002514"
+  },
+  "5002523": {
+    "date": "2023-11-07",
+    "uuid": "ab90c2b6-4a36-4467-9d0e-2b30c14f8f5f",
+    "slug": "november-7-2023-update-for-outlook-2016-kb5002523-ab90c2b6-4a36-4467-9d0e-2b30c14f8f5f",
+    "url": "https://support.microsoft.com/help/5002523"
+  },
+  "5002502": {
+    "date": "2023-11-07",
+    "uuid": "fcbdf1ed-4590-4dbd-89ec-00a1aca97287",
+    "slug": "november-7-2023-update-for-project-2016-kb5002502-fcbdf1ed-4590-4dbd-89ec-00a1aca97287",
+    "url": "https://support.microsoft.com/help/5002502"
   }
 }
