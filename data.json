@@ -12220,5 +12220,11 @@
     "uuid": "80ad8349-226a-41ea-93b3-db23311416d7",
     "slug": "november-2023-updates-for-microsoft-office-80ad8349-226a-41ea-93b3-db23311416d7",
     "url": "https://support.microsoft.com/help/5002094"
+  },
+  "5032278": {
+    "date": "2023-11-30",
+    "uuid": "0ae14f06-577e-4eb3-8fcb-c722f3f9dc29",
+    "slug": "november-30-2023-kb5032278-os-build-19045-3758-preview-0ae14f06-577e-4eb3-8fcb-c722f3f9dc29",
+    "url": "https://support.microsoft.com/help/5032278"
   }
 }
