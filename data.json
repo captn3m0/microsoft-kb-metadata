@@ -12232,5 +12232,77 @@
     "uuid": "538fbe4a-e9de-4312-85cd-d870444341d0",
     "slug": "december-4-2023-kb5032288-os-builds-22621-2792-and-22631-2792-preview-538fbe4a-e9de-4312-85cd-d870444341d0",
     "url": "https://support.microsoft.com/help/5032288"
+  },
+  "5002533": {
+    "date": "2023-12-12",
+    "uuid": "dfee4c1b-3cda-4928-b2f9-40fd39d02388",
+    "slug": "december-12-2023-update-for-sharepoint-server-subscription-edition-kb5002533-dfee4c1b-3cda-4928-b2f9-40fd39d02388",
+    "url": "https://support.microsoft.com/help/5002533"
+  },
+  "5002531": {
+    "date": "2023-12-12",
+    "uuid": "2192addb-d18d-4936-82c8-80d564a812cf",
+    "slug": "december-12-2023-update-for-sharepoint-server-2019-kb5002531-2192addb-d18d-4936-82c8-80d564a812cf",
+    "url": "https://support.microsoft.com/help/5002531"
+  },
+  "5002532": {
+    "date": "2023-12-12",
+    "uuid": "b906140b-95c3-4bb4-a956-c6483131efc2",
+    "slug": "december-12-2023-update-for-sharepoint-server-2019-language-pack-kb5002532-b906140b-95c3-4bb4-a956-c6483131efc2",
+    "url": "https://support.microsoft.com/help/5002532"
+  },
+  "5002535": {
+    "date": "2023-12-12",
+    "uuid": "69e199ca-f5bd-478d-85fe-9f62d3006957",
+    "slug": "december-12-2023-update-for-sharepoint-enterprise-server-2016-kb5002535-69e199ca-f5bd-478d-85fe-9f62d3006957",
+    "url": "https://support.microsoft.com/help/5002535"
+  },
+  "5002524": {
+    "date": "2023-12-12",
+    "uuid": "d48c367a-6e43-428b-ad86-ae255e34c696",
+    "slug": "december-12-2023-update-for-sharepoint-enterprise-server-2016-language-pack-kb5002524-d48c367a-6e43-428b-ad86-ae255e34c696",
+    "url": "https://support.microsoft.com/help/5002524"
+  },
+  "5033375": {
+    "date": "2023-12-12",
+    "uuid": "90f983aa-efb6-4caa-9cab-7e5cfa00ed36",
+    "slug": "december-12-2023-kb5033375-os-builds-22621-2861-and-22631-2861-90f983aa-efb6-4caa-9cab-7e5cfa00ed36",
+    "url": "https://support.microsoft.com/help/5033375"
+  },
+  "5033369": {
+    "date": "2023-12-12",
+    "uuid": "b69fad53-d61b-4ed6-898e-1ae6a17dfd13",
+    "slug": "december-12-2023-kb5033369-os-build-22000-2652-b69fad53-d61b-4ed6-898e-1ae6a17dfd13",
+    "url": "https://support.microsoft.com/help/5033369"
+  },
+  "5033372": {
+    "date": "2023-12-12",
+    "uuid": "9cea61c6-072b-41f1-8cf2-7c7bfdd12d5c",
+    "slug": "december-12-2023-kb5033372-os-builds-19044-3803-and-19045-3803-9cea61c6-072b-41f1-8cf2-7c7bfdd12d5c",
+    "url": "https://support.microsoft.com/help/5033372"
+  },
+  "5033371": {
+    "date": "2023-12-12",
+    "uuid": "aeb26a0a-536b-4bf8-9f5a-2749f4ba71fc",
+    "slug": "december-12-2023-kb5033371-os-build-17763-5206-aeb26a0a-536b-4bf8-9f5a-2749f4ba71fc",
+    "url": "https://support.microsoft.com/help/5033371"
+  },
+  "5033373": {
+    "date": "2023-12-12",
+    "uuid": "29226794-12f4-45c5-a92e-ac1ab570e41d",
+    "slug": "december-12-2023-kb5033373-os-build-14393-6529-29226794-12f4-45c5-a92e-ac1ab570e41d",
+    "url": "https://support.microsoft.com/help/5033373"
+  },
+  "5033379": {
+    "date": "2023-12-12",
+    "uuid": "03a11f29-fc6c-47ca-8143-af8e2641033f",
+    "slug": "december-12-2023-kb5033379-os-build-10240-20345-03a11f29-fc6c-47ca-8143-af8e2641033f",
+    "url": "https://support.microsoft.com/help/5033379"
+  },
+  "5002095": {
+    "date": "2023-12-01",
+    "uuid": "fce16c88-1653-455a-8d89-75516504cbf0",
+    "slug": "december-2023-updates-for-microsoft-office-fce16c88-1653-455a-8d89-75516504cbf0",
+    "url": "https://support.microsoft.com/help/5002095"
   }
 }
