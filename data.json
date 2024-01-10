@@ -12310,5 +12310,77 @@
     "uuid": "8c5669be-57e3-4b53-8c1f-a446750735f1",
     "slug": "january-2-2024-update-for-onenote-2016-kb5002500-8c5669be-57e3-4b53-8c1f-a446750735f1",
     "url": "https://support.microsoft.com/help/5002500"
+  },
+  "5002540": {
+    "date": "2024-01-09",
+    "uuid": "a34c5764-cd4a-484b-8bf1-cefd033f8d7e",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-january-9-2024-kb5002540-a34c5764-cd4a-484b-8bf1-cefd033f8d7e",
+    "url": "https://support.microsoft.com/help/5002540"
+  },
+  "5002539": {
+    "date": "2019-01-09",
+    "uuid": "e81dbbc7-fd4e-46f2-9267-6de340f8c96d",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-january-9-2024-kb5002539-e81dbbc7-fd4e-46f2-9267-6de340f8c96d",
+    "url": "https://support.microsoft.com/help/5002539"
+  },
+  "5002541": {
+    "date": "2016-01-09",
+    "uuid": "129d59ea-c575-44a2-a518-9a0f1b91880e",
+    "slug": "description-of-the-security-update-for-sharepoint-enterprise-server-2016-january-9-2024-kb5002541-129d59ea-c575-44a2-a518-9a0f1b91880e",
+    "url": "https://support.microsoft.com/help/5002541"
+  },
+  "5032968": {
+    "date": "2024-01-09",
+    "uuid": "a72c0d8c-ee29-4497-a3a0-79cdc61517d9",
+    "slug": "kb5032968-description-of-the-security-update-for-sql-server-2022-gdr-january-9-2024-a72c0d8c-ee29-4497-a3a0-79cdc61517d9",
+    "url": "https://support.microsoft.com/help/5032968"
+  },
+  "5033592": {
+    "date": "2024-01-09",
+    "uuid": "0d807f8e-fa6a-4d42-88d3-71b101e71d18",
+    "slug": "kb5033592-description-of-the-security-update-for-sql-server-2022-cu10-january-9-2024-0d807f8e-fa6a-4d42-88d3-71b101e71d18",
+    "url": "https://support.microsoft.com/help/5033592"
+  },
+  "5034123": {
+    "date": "2024-01-09",
+    "uuid": "3f7e169f-56e8-4e6e-b6b8-41f4aa4b9b88",
+    "slug": "january-9-2024-kb5034123-os-builds-22621-3007-and-22631-3007-3f7e169f-56e8-4e6e-b6b8-41f4aa4b9b88",
+    "url": "https://support.microsoft.com/help/5034123"
+  },
+  "5034121": {
+    "date": "2024-01-09",
+    "uuid": "f5847e32-0b71-4151-8190-54d3e36386f0",
+    "slug": "january-9-2024-kb5034121-os-build-22000-2713-f5847e32-0b71-4151-8190-54d3e36386f0",
+    "url": "https://support.microsoft.com/help/5034121"
+  },
+  "5034122": {
+    "date": "2024-01-09",
+    "uuid": "7656c6a4-0b06-4424-86a9-d0719f4ac252",
+    "slug": "january-9-2024-kb5034122-os-builds-19044-3930-and-19045-3930-7656c6a4-0b06-4424-86a9-d0719f4ac252",
+    "url": "https://support.microsoft.com/help/5034122"
+  },
+  "5034127": {
+    "date": "2024-01-09",
+    "uuid": "4de58ce5-eb0d-4b9a-95d1-aa15fe30b082",
+    "slug": "january-9-2024-kb5034127-os-build-17763-5329-4de58ce5-eb0d-4b9a-95d1-aa15fe30b082",
+    "url": "https://support.microsoft.com/help/5034127"
+  },
+  "5034119": {
+    "date": "2024-01-09",
+    "uuid": "7e7dae78-5944-4041-bf3d-4660e5ef7bb4",
+    "slug": "january-9-2024-kb5034119-os-build-14393-6614-7e7dae78-5944-4041-bf3d-4660e5ef7bb4",
+    "url": "https://support.microsoft.com/help/5034119"
+  },
+  "5034134": {
+    "date": "2024-01-09",
+    "uuid": "d1ec02fa-4508-44b0-9a59-cb3aca089039",
+    "slug": "january-9-2024-kb5034134-os-build-10240-20402-d1ec02fa-4508-44b0-9a59-cb3aca089039",
+    "url": "https://support.microsoft.com/help/5034134"
+  },
+  "5002096": {
+    "date": "2024-01-01",
+    "uuid": "4f822b78-091e-4a8a-80e1-d6310796ffda",
+    "slug": "january-2024-updates-for-microsoft-office-4f822b78-091e-4a8a-80e1-d6310796ffda",
+    "url": "https://support.microsoft.com/help/5002096"
   }
 }
