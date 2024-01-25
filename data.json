@@ -12382,5 +12382,17 @@
     "uuid": "4f822b78-091e-4a8a-80e1-d6310796ffda",
     "slug": "january-2024-updates-for-microsoft-office-4f822b78-091e-4a8a-80e1-d6310796ffda",
     "url": "https://support.microsoft.com/help/5002096"
+  },
+  "5034204": {
+    "date": "2024-01-23",
+    "uuid": "7652acf2-56dc-430e-b8ef-ec8f56ec1028",
+    "slug": "january-23-2024-kb5034204-os-builds-22621-3085-and-22631-3085-preview-7652acf2-56dc-430e-b8ef-ec8f56ec1028",
+    "url": "https://support.microsoft.com/help/5034204"
+  },
+  "5034203": {
+    "date": "2024-01-23",
+    "uuid": "d9540687-af96-46ba-9192-88fe44833561",
+    "slug": "january-23-2024-kb5034203-os-build-19045-3996-preview-d9540687-af96-46ba-9192-88fe44833561",
+    "url": "https://support.microsoft.com/help/5034203"
   }
 }
