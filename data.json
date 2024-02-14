@@ -12400,5 +12400,47 @@
     "uuid": "f89e7391-131c-40f2-a504-0efb642e72dc",
     "slug": "february-6-2024-update-for-project-2016-kb5002530-f89e7391-131c-40f2-a504-0efb642e72dc",
     "url": "https://support.microsoft.com/help/5002530"
+  },
+  "5002560": {
+    "date": "2024-02-13",
+    "uuid": "d2b9cb2a-a35c-46f3-b863-30f69b8f0b39",
+    "slug": "february-13-2024-update-for-sharepoint-server-subscription-edition-kb5002560-d2b9cb2a-a35c-46f3-b863-30f69b8f0b39",
+    "url": "https://support.microsoft.com/help/5002560"
+  },
+  "5002558": {
+    "date": "2024-02-13",
+    "uuid": "045d5c51-5309-4ca3-b6d5-a5bcb474c92d",
+    "slug": "february-13-2024-update-for-sharepoint-server-2019-kb5002558-045d5c51-5309-4ca3-b6d5-a5bcb474c92d",
+    "url": "https://support.microsoft.com/help/5002558"
+  },
+  "5034765": {
+    "date": "2024-02-13",
+    "uuid": "023d9141-a5b0-470a-b0f5-2ee3b48f48ce",
+    "slug": "february-13-2024-kb5034765-os-builds-22621-3155-and-22631-3155-023d9141-a5b0-470a-b0f5-2ee3b48f48ce",
+    "url": "https://support.microsoft.com/help/5034765"
+  },
+  "5034766": {
+    "date": "2024-02-13",
+    "uuid": "462885bd-8d9a-4521-b940-b7f05740e09f",
+    "slug": "february-13-2024-kb5034766-os-build-22000-2777-462885bd-8d9a-4521-b940-b7f05740e09f",
+    "url": "https://support.microsoft.com/help/5034766"
+  },
+  "5034763": {
+    "date": "2024-02-13",
+    "uuid": "f1c993e4-32b3-4cc8-947a-69e70ae124d5",
+    "slug": "february-13-2024-kb5034763-os-builds-19044-4046-and-19045-4046-f1c993e4-32b3-4cc8-947a-69e70ae124d5",
+    "url": "https://support.microsoft.com/help/5034763"
+  },
+  "5034768": {
+    "date": "2024-02-13",
+    "uuid": "f06ecec0-23b0-4860-880b-74a2fd1b56c0",
+    "slug": "february-13-2024-kb5034768-os-build-17763-5458-f06ecec0-23b0-4860-880b-74a2fd1b56c0",
+    "url": "https://support.microsoft.com/help/5034768"
+  },
+  "5002546": {
+    "date": "2024-02-01",
+    "uuid": "e4fd637b-865a-47b7-b72f-a44766a217e4",
+    "slug": "february-2024-updates-for-microsoft-office-e4fd637b-865a-47b7-b72f-a44766a217e4",
+    "url": "https://support.microsoft.com/help/5002546"
   }
 }
