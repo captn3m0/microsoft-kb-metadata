@@ -12454,5 +12454,17 @@
     "uuid": "4747f1f2-9d1c-480f-b844-289df7d0c3fa",
     "slug": "february-13-2024-kb5034774-os-build-10240-20469-4747f1f2-9d1c-480f-b844-289df7d0c3fa",
     "url": "https://support.microsoft.com/help/5034774"
+  },
+  "5034848": {
+    "date": "2024-02-29",
+    "uuid": "5b718126-82b1-4e14-bf01-da3500a3fc88",
+    "slug": "february-29-2024-kb5034848-os-builds-22621-3235-and-22631-3235-preview-5b718126-82b1-4e14-bf01-da3500a3fc88",
+    "url": "https://support.microsoft.com/help/5034848"
+  },
+  "5034843": {
+    "date": "2024-02-29",
+    "uuid": "c576e1b5-9b0d-4411-9be8-57328f41954d",
+    "slug": "february-29-2024-kb5034843-os-build-19045-4123-preview-c576e1b5-9b0d-4411-9be8-57328f41954d",
+    "url": "https://support.microsoft.com/help/5034843"
   }
 }
