@@ -12466,5 +12466,17 @@
     "uuid": "c576e1b5-9b0d-4411-9be8-57328f41954d",
     "slug": "february-29-2024-kb5034843-os-build-19045-4123-preview-c576e1b5-9b0d-4411-9be8-57328f41954d",
     "url": "https://support.microsoft.com/help/5034843"
+  },
+  "5002569": {
+    "date": "2024-03-05",
+    "uuid": "1b3f005e-784c-41e2-847a-e9afb3b8667f",
+    "slug": "march-5-2024-update-for-excel-2016-kb5002569-1b3f005e-784c-41e2-847a-e9afb3b8667f",
+    "url": "https://support.microsoft.com/help/5002569"
+  },
+  "5002466": {
+    "date": "2024-03-05",
+    "uuid": "f473d060-5d7c-4712-85fc-7b38c4c3ded5",
+    "slug": "march-5-2024-update-for-office-2016-kb5002466-f473d060-5d7c-4712-85fc-7b38c4c3ded5",
+    "url": "https://support.microsoft.com/help/5002466"
   }
 }
