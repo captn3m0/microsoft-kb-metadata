@@ -12478,5 +12478,23 @@
     "uuid": "f473d060-5d7c-4712-85fc-7b38c4c3ded5",
     "slug": "march-5-2024-update-for-office-2016-kb5002466-f473d060-5d7c-4712-85fc-7b38c4c3ded5",
     "url": "https://support.microsoft.com/help/5002466"
+  },
+  "5036401": {
+    "date": "2019-03-12",
+    "uuid": "9160baeb-6306-4384-a5c9-94b0a18cba8e",
+    "slug": "description-of-security-update-1-for-exchange-server-2019-march-12-2024-kb5036401-9160baeb-6306-4384-a5c9-94b0a18cba8e",
+    "url": "https://support.microsoft.com/help/5036401"
+  },
+  "5036402": {
+    "date": "2019-03-12",
+    "uuid": "bb2750a8-f738-4776-85d1-d11bf4cf5b74",
+    "slug": "description-of-security-update-5-for-exchange-server-2019-march-12-2024-kb5036402-bb2750a8-f738-4776-85d1-d11bf4cf5b74",
+    "url": "https://support.microsoft.com/help/5036402"
+  },
+  "5036386": {
+    "date": "2016-03-12",
+    "uuid": "60a770fb-88da-4e46-b51c-1448dd8f8d1d",
+    "slug": "description-of-security-update-12-for-exchange-server-2016-march-12-2024-kb5036386-60a770fb-88da-4e46-b51c-1448dd8f8d1d",
+    "url": "https://support.microsoft.com/help/5036386"
   }
 }
