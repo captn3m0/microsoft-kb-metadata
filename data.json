@@ -12562,5 +12562,11 @@
     "uuid": "1775cda2-4bb6-43a9-9fd4-ddc3528d3408",
     "slug": "march-22-2024-kb5037423-os-build-14393-6799-out-of-band-1775cda2-4bb6-43a9-9fd4-ddc3528d3408",
     "url": "https://support.microsoft.com/help/5037423"
+  },
+  "5037425": {
+    "date": "2024-03-25",
+    "uuid": "fa8fb7fa-8185-408f-bdd6-ea575ce2fcb5",
+    "slug": "march-25-2024-kb5037425-os-build-17763-5579-out-of-band-fa8fb7fa-8185-408f-bdd6-ea575ce2fcb5",
+    "url": "https://support.microsoft.com/help/5037425"
   }
 }
