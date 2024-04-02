@@ -12580,5 +12580,71 @@
     "uuid": "a170797c-503e-4372-b3b6-89f290b4f2cb",
     "slug": "march-26-2024-kb5035941-os-build-19045-4239-preview-a170797c-503e-4372-b3b6-89f290b4f2cb",
     "url": "https://support.microsoft.com/help/5035941"
+  },
+  "5002525": {
+    "date": "2024-04-02",
+    "uuid": "48ae06f3-be21-4d17-9196-da8649a372c9",
+    "slug": "april-2-2024-update-for-access-2016-kb5002525-48ae06f3-be21-4d17-9196-da8649a372c9",
+    "url": "https://support.microsoft.com/help/5002525"
+  },
+  "5002340": {
+    "date": "2024-04-02",
+    "uuid": "ad14d124-1e3f-4f1c-881e-6b4fad111a16",
+    "slug": "april-2-2024-update-for-office-2016-kb5002340-ad14d124-1e3f-4f1c-881e-6b4fad111a16",
+    "url": "https://support.microsoft.com/help/5002340"
+  },
+  "5002577": {
+    "date": "2024-04-02",
+    "uuid": "88c159ca-4d8e-413a-8482-0c75c63bb615",
+    "slug": "april-2-2024-update-for-excel-2016-kb5002577-88c159ca-4d8e-413a-8482-0c75c63bb615",
+    "url": "https://support.microsoft.com/help/5002577"
+  },
+  "5002050": {
+    "date": "2024-04-02",
+    "uuid": "d2d32a99-2b9e-45ca-a156-ede6dcad0c1a",
+    "slug": "april-2-2024-update-for-office-2016-kb5002050-d2d32a99-2b9e-45ca-a156-ede6dcad0c1a",
+    "url": "https://support.microsoft.com/help/5002050"
+  },
+  "5002388": {
+    "date": "2024-04-02",
+    "uuid": "ae1099c4-f96a-46f0-ae67-f6e343b3858d",
+    "slug": "april-2-2024-update-for-office-2016-kb5002388-ae1099c4-f96a-46f0-ae67-f6e343b3858d",
+    "url": "https://support.microsoft.com/help/5002388"
+  },
+  "5002572": {
+    "date": "2024-04-02",
+    "uuid": "d0e44173-5e9b-4baa-b492-f994ad2b3fa5",
+    "slug": "april-2-2024-update-for-office-2016-kb5002572-d0e44173-5e9b-4baa-b492-f994ad2b3fa5",
+    "url": "https://support.microsoft.com/help/5002572"
+  },
+  "5002452": {
+    "date": "2024-04-02",
+    "uuid": "2b4b5181-a3f8-4bc4-a5b1-47f66223230f",
+    "slug": "april-2-2024-update-for-office-2016-kb5002452-2b4b5181-a3f8-4bc4-a5b1-47f66223230f",
+    "url": "https://support.microsoft.com/help/5002452"
+  },
+  "5002545": {
+    "date": "2024-04-02",
+    "uuid": "4aca8201-bcd6-43ca-b39e-80a27b6cb6fc",
+    "slug": "april-2-2024-update-for-onenote-2016-kb5002545-4aca8201-bcd6-43ca-b39e-80a27b6cb6fc",
+    "url": "https://support.microsoft.com/help/5002545"
+  },
+  "5002574": {
+    "date": "2024-04-02",
+    "uuid": "fe864d03-c73c-4f99-b5eb-1db2ef08e21b",
+    "slug": "april-2-2024-update-for-outlook-2016-kb5002574-fe864d03-c73c-4f99-b5eb-1db2ef08e21b",
+    "url": "https://support.microsoft.com/help/5002574"
+  },
+  "5002568": {
+    "date": "2024-04-02",
+    "uuid": "bcd3463c-4953-4c62-8350-d33e50bac669",
+    "slug": "april-2-2024-update-for-powerpoint-2016-kb5002568-bcd3463c-4953-4c62-8350-d33e50bac669",
+    "url": "https://support.microsoft.com/help/5002568"
+  },
+  "5002571": {
+    "date": "2024-04-02",
+    "uuid": "150f43d9-ddbe-4a37-a012-ef8edd5e2e80",
+    "slug": "april-2-2024-update-for-word-2016-kb5002571-150f43d9-ddbe-4a37-a012-ef8edd5e2e80",
+    "url": "https://support.microsoft.com/help/5002571"
   }
 }
