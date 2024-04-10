@@ -12646,5 +12646,95 @@
     "uuid": "150f43d9-ddbe-4a37-a012-ef8edd5e2e80",
     "slug": "april-2-2024-update-for-word-2016-kb5002571-150f43d9-ddbe-4a37-a012-ef8edd5e2e80",
     "url": "https://support.microsoft.com/help/5002571"
+  },
+  "5002581": {
+    "date": "2024-04-09",
+    "uuid": "fdd49ab7-b4be-46d2-aca4-0ac3268e0803",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-april-9-2024-kb5002581-fdd49ab7-b4be-46d2-aca4-0ac3268e0803",
+    "url": "https://support.microsoft.com/help/5002581"
+  },
+  "5002580": {
+    "date": "2019-04-09",
+    "uuid": "a18dcfa0-7bab-4ea2-a43d-b10d687957b5",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-april-9-2024-kb5002580-a18dcfa0-7bab-4ea2-a43d-b10d687957b5",
+    "url": "https://support.microsoft.com/help/5002580"
+  },
+  "5002538": {
+    "date": "2024-04-09",
+    "uuid": "33e94a4d-71ca-44b8-88ac-3bf12384e724",
+    "slug": "april-9-2024-update-for-sharepoint-server-2019-language-pack-kb5002538-33e94a4d-71ca-44b8-88ac-3bf12384e724",
+    "url": "https://support.microsoft.com/help/5002538"
+  },
+  "5002583": {
+    "date": "2016-04-09",
+    "uuid": "d1360e26-7671-439b-8380-9838df839fba",
+    "slug": "description-of-the-security-update-for-sharepoint-enterprise-server-2016-april-9-2024-kb5002583-d1360e26-7671-439b-8380-9838df839fba",
+    "url": "https://support.microsoft.com/help/5002583"
+  },
+  "5035432": {
+    "date": "2024-04-09",
+    "uuid": "1e39247a-9b14-4090-90ab-0fcb96cf239f",
+    "slug": "kb5035432-description-of-the-security-update-for-sql-server-2022-gdr-april-9-2024-1e39247a-9b14-4090-90ab-0fcb96cf239f",
+    "url": "https://support.microsoft.com/help/5035432"
+  },
+  "5036343": {
+    "date": "2024-04-09",
+    "uuid": "e11a0715-435f-42be-89ff-4b3d8f9734fc",
+    "slug": "kb5036343-description-of-the-security-update-for-sql-server-2022-cu12-april-9-2024-e11a0715-435f-42be-89ff-4b3d8f9734fc",
+    "url": "https://support.microsoft.com/help/5036343"
+  },
+  "5035434": {
+    "date": "2024-04-09",
+    "uuid": "0987ffbb-7c9c-4f0a-90a4-fde0f7cb9b3a",
+    "slug": "kb5035434-description-of-the-security-update-for-sql-server-2019-gdr-april-9-2024-0987ffbb-7c9c-4f0a-90a4-fde0f7cb9b3a",
+    "url": "https://support.microsoft.com/help/5035434"
+  },
+  "5036335": {
+    "date": "2024-04-09",
+    "uuid": "eb3571d0-62ee-445e-9681-5715caf9bbc2",
+    "slug": "kb5036335-description-of-the-security-update-for-sql-server-2019-cu25-april-9-2024-eb3571d0-62ee-445e-9681-5715caf9bbc2",
+    "url": "https://support.microsoft.com/help/5036335"
+  },
+  "5036893": {
+    "date": "2024-04-09",
+    "uuid": "a674a67b-85f5-4a40-8d74-5f8af8ead5bb",
+    "slug": "april-9-2024-kb5036893-os-builds-22621-3447-and-22631-3447-a674a67b-85f5-4a40-8d74-5f8af8ead5bb",
+    "url": "https://support.microsoft.com/help/5036893"
+  },
+  "5036894": {
+    "date": "2024-04-09",
+    "uuid": "165dd6e1-74be-45b7-84e3-0f2a25d375f3",
+    "slug": "april-9-2024-kb5036894-os-build-22000-2899-165dd6e1-74be-45b7-84e3-0f2a25d375f3",
+    "url": "https://support.microsoft.com/help/5036894"
+  },
+  "5036892": {
+    "date": "2024-04-09",
+    "uuid": "cb5d2d42-6b10-48f7-829a-be7d416a811b",
+    "slug": "april-9-2024-kb5036892-os-builds-19044-4291-and-19045-4291-cb5d2d42-6b10-48f7-829a-be7d416a811b",
+    "url": "https://support.microsoft.com/help/5036892"
+  },
+  "5036896": {
+    "date": "2024-04-09",
+    "uuid": "efb580f1-2ce4-4695-b76c-d2068a00fb92",
+    "slug": "april-9-2024-kb5036896-os-build-17763-5696-efb580f1-2ce4-4695-b76c-d2068a00fb92",
+    "url": "https://support.microsoft.com/help/5036896"
+  },
+  "5036899": {
+    "date": "2024-04-09",
+    "uuid": "6a0b7cdd-dd67-4ef8-8c38-8a936b2f952c",
+    "slug": "april-9-2024-kb5036899-os-build-14393-6897-6a0b7cdd-dd67-4ef8-8c38-8a936b2f952c",
+    "url": "https://support.microsoft.com/help/5036899"
+  },
+  "5036925": {
+    "date": "2024-04-09",
+    "uuid": "cdb343db-4032-4735-9609-a44a56922f66",
+    "slug": "april-9-2024-kb5036925-os-build-10240-20596-cdb343db-4032-4735-9609-a44a56922f66",
+    "url": "https://support.microsoft.com/help/5036925"
+  },
+  "5002548": {
+    "date": "2024-04-01",
+    "uuid": "b1c90483-408a-4a1c-a576-9eeef3bf8c00",
+    "slug": "april-2024-updates-for-microsoft-office-b1c90483-408a-4a1c-a576-9eeef3bf8c00",
+    "url": "https://support.microsoft.com/help/5002548"
   }
 }
