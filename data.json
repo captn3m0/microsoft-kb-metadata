@@ -12736,5 +12736,11 @@
     "uuid": "b1c90483-408a-4a1c-a576-9eeef3bf8c00",
     "slug": "april-2024-updates-for-microsoft-office-b1c90483-408a-4a1c-a576-9eeef3bf8c00",
     "url": "https://support.microsoft.com/help/5002548"
+  },
+  "5037224": {
+    "date": "2016-04-23",
+    "uuid": "35eddea8-4828-4e38-b462-db89ea1100c9",
+    "slug": "hotfix-update-for-exchange-server-2019-and-2016-april-23-2024-kb5037224-35eddea8-4828-4e38-b462-db89ea1100c9",
+    "url": "https://support.microsoft.com/help/5037224"
   }
 }
