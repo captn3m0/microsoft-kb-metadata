@@ -12760,5 +12760,65 @@
     "uuid": "337da37d-066b-442c-ace4-b386f553bd5b",
     "slug": "may-7-2024-update-for-outlook-2016-kb5002593-337da37d-066b-442c-ace4-b386f553bd5b",
     "url": "https://support.microsoft.com/help/5002593"
+  },
+  "5002599": {
+    "date": "2024-05-14",
+    "uuid": "3e38ec3d-3d59-40d4-8807-0002f89d9ab8",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-may-14-2024-kb5002599-3e38ec3d-3d59-40d4-8807-0002f89d9ab8",
+    "url": "https://support.microsoft.com/help/5002599"
+  },
+  "5002596": {
+    "date": "2019-05-14",
+    "uuid": "eaf74e70-bfc6-447a-bbc8-bc91de1b1490",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-may-14-2024-kb5002596-eaf74e70-bfc6-447a-bbc8-bc91de1b1490",
+    "url": "https://support.microsoft.com/help/5002596"
+  },
+  "5002598": {
+    "date": "2016-05-14",
+    "uuid": "702d4c7c-a232-4be6-aea2-10a04126d4e7",
+    "slug": "description-of-the-security-update-for-sharepoint-enterprise-server-2016-may-14-2024-kb5002598-702d4c7c-a232-4be6-aea2-10a04126d4e7",
+    "url": "https://support.microsoft.com/help/5002598"
+  },
+  "5037771": {
+    "date": "2024-05-14",
+    "uuid": "e633ff2f-a021-4abb-bd2e-7f3687f166fe",
+    "slug": "may-14-2024-kb5037771-os-builds-22621-3593-and-22631-3593-e633ff2f-a021-4abb-bd2e-7f3687f166fe",
+    "url": "https://support.microsoft.com/help/5037771"
+  },
+  "5037770": {
+    "date": "2024-05-14",
+    "uuid": "d0f9634b-e368-4397-96f1-74a42723b12f",
+    "slug": "may-14-2024-kb5037770-os-build-22000-2960-d0f9634b-e368-4397-96f1-74a42723b12f",
+    "url": "https://support.microsoft.com/help/5037770"
+  },
+  "5037768": {
+    "date": "2024-05-14",
+    "uuid": "cb676101-1641-4a6c-b512-8b277606c6e3",
+    "slug": "may-14-2024-kb5037768-os-builds-19044-4412-and-19045-4412-cb676101-1641-4a6c-b512-8b277606c6e3",
+    "url": "https://support.microsoft.com/help/5037768"
+  },
+  "5037765": {
+    "date": "2024-05-14",
+    "uuid": "82d1aefb-093c-4e4a-a729-cd4a829750ad",
+    "slug": "may-14-2024-kb5037765-os-build-17763-5820-82d1aefb-093c-4e4a-a729-cd4a829750ad",
+    "url": "https://support.microsoft.com/help/5037765"
+  },
+  "5037763": {
+    "date": "2024-05-14",
+    "uuid": "0c46e802-c9a9-4ad3-816b-c7fa378d3dd3",
+    "slug": "may-14-2024-kb5037763-os-build-14393-6981-0c46e802-c9a9-4ad3-816b-c7fa378d3dd3",
+    "url": "https://support.microsoft.com/help/5037763"
+  },
+  "5037788": {
+    "date": "2024-05-14",
+    "uuid": "6efe4a43-3962-4585-88af-3a3369ee561c",
+    "slug": "may-14-2024-kb5037788-os-build-10240-20651-6efe4a43-3962-4585-88af-3a3369ee561c",
+    "url": "https://support.microsoft.com/help/5037788"
+  },
+  "5002549": {
+    "date": "2024-05-01",
+    "uuid": "4a6a9970-be68-47f6-9270-62b221d3fcb3",
+    "slug": "may-2024-updates-for-microsoft-office-4a6a9970-be68-47f6-9270-62b221d3fcb3",
+    "url": "https://support.microsoft.com/help/5002549"
   }
 }
