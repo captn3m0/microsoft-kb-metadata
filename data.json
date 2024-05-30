@@ -12826,5 +12826,17 @@
     "uuid": "2285667a-13a3-4fd9-98a0-e980eb996aac",
     "slug": "may-23-2024-kb5039705-os-build-17763-5830-out-of-band-2285667a-13a3-4fd9-98a0-e980eb996aac",
     "url": "https://support.microsoft.com/help/5039705"
+  },
+  "5037853": {
+    "date": "2024-05-29",
+    "uuid": "dcf14fd8-84d6-4234-9d5b-784c319cd7cf",
+    "slug": "may-29-2024-kb5037853-os-builds-22621-3672-and-22631-3672-preview-dcf14fd8-84d6-4234-9d5b-784c319cd7cf",
+    "url": "https://support.microsoft.com/help/5037853"
+  },
+  "5037849": {
+    "date": "2024-05-29",
+    "uuid": "cda7ed71-6202-45ed-a649-63b11fedabfe",
+    "slug": "may-29-2024-kb5037849-os-build-19045-4474-preview-cda7ed71-6202-45ed-a649-63b11fedabfe",
+    "url": "https://support.microsoft.com/help/5037849"
   }
 }
