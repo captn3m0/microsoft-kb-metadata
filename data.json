@@ -12838,5 +12838,29 @@
     "uuid": "cda7ed71-6202-45ed-a649-63b11fedabfe",
     "slug": "may-29-2024-kb5037849-os-build-19045-4474-preview-cda7ed71-6202-45ed-a649-63b11fedabfe",
     "url": "https://support.microsoft.com/help/5037849"
+  },
+  "5002585": {
+    "date": "2024-06-04",
+    "uuid": "20885bf2-1e5e-4f1b-a2b4-70462c4bf41c",
+    "slug": "june-4-2024-update-for-office-2016-kb5002585-20885bf2-1e5e-4f1b-a2b4-70462c4bf41c",
+    "url": "https://support.microsoft.com/help/5002585"
+  },
+  "5002594": {
+    "date": "2024-06-04",
+    "uuid": "d2aaf2b6-9697-428c-baa9-61d1e1a6013d",
+    "slug": "june-4-2024-update-for-onenote-2016-kb5002594-d2aaf2b6-9697-428c-baa9-61d1e1a6013d",
+    "url": "https://support.microsoft.com/help/5002594"
+  },
+  "5002590": {
+    "date": "2024-06-04",
+    "uuid": "c5e414f8-db42-4187-a205-40a1860be51e",
+    "slug": "june-4-2024-update-for-word-2016-kb5002590-c5e414f8-db42-4187-a205-40a1860be51e",
+    "url": "https://support.microsoft.com/help/5002590"
+  },
+  "5002567": {
+    "date": "2024-06-04",
+    "uuid": "5b82ea75-db31-4900-98f7-a87450343c01",
+    "slug": "june-4-2024-update-for-skype-for-business-2016-kb5002567-5b82ea75-db31-4900-98f7-a87450343c01",
+    "url": "https://support.microsoft.com/help/5002567"
   }
 }
