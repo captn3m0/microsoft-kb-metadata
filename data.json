@@ -12862,5 +12862,41 @@
     "uuid": "5b82ea75-db31-4900-98f7-a87450343c01",
     "slug": "june-4-2024-update-for-skype-for-business-2016-kb5002567-5b82ea75-db31-4900-98f7-a87450343c01",
     "url": "https://support.microsoft.com/help/5002567"
+  },
+  "5039212": {
+    "date": "2024-06-11",
+    "uuid": "d7f574c0-2b13-48ca-a9fc-a63093b1a2c2",
+    "slug": "june-11-2024-kb5039212-os-builds-22621-3737-and-22631-3737-d7f574c0-2b13-48ca-a9fc-a63093b1a2c2",
+    "url": "https://support.microsoft.com/help/5039212"
+  },
+  "5039213": {
+    "date": "2024-06-11",
+    "uuid": "162ab53e-6c89-4991-9c16-37633fdb0be0",
+    "slug": "june-11-2024-kb5039213-os-build-22000-3019-162ab53e-6c89-4991-9c16-37633fdb0be0",
+    "url": "https://support.microsoft.com/help/5039213"
+  },
+  "5039211": {
+    "date": "2024-06-11",
+    "uuid": "f7e528c9-5e9f-4cd8-9161-704708448517",
+    "slug": "june-11-2024-kb5039211-os-builds-19044-4529-and-19045-4529-f7e528c9-5e9f-4cd8-9161-704708448517",
+    "url": "https://support.microsoft.com/help/5039211"
+  },
+  "5039217": {
+    "date": "2024-06-11",
+    "uuid": "d435559e-ae16-44d0-b145-027eb4af7f47",
+    "slug": "june-11-2024-kb5039217-os-build-17763-5936-d435559e-ae16-44d0-b145-027eb4af7f47",
+    "url": "https://support.microsoft.com/help/5039217"
+  },
+  "5039214": {
+    "date": "2024-06-11",
+    "uuid": "07836869-b221-42a9-a63a-62f10967068f",
+    "slug": "june-11-2024-kb5039214-os-build-14393-7070-07836869-b221-42a9-a63a-62f10967068f",
+    "url": "https://support.microsoft.com/help/5039214"
+  },
+  "5039225": {
+    "date": "2024-06-11",
+    "uuid": "48d7d7c2-bf55-458b-bdc2-06eb6be3d912",
+    "slug": "june-11-2024-kb5039225-os-build-10240-20680-48d7d7c2-bf55-458b-bdc2-06eb6be3d912",
+    "url": "https://support.microsoft.com/help/5039225"
   }
 }
