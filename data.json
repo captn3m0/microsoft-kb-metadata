@@ -12916,5 +12916,23 @@
     "uuid": "e41d426c-cd7f-4d55-8d34-76f5536557e3",
     "slug": "description-of-the-security-update-for-sharepoint-enterprise-server-2016-june-11-2024-kb5002604-e41d426c-cd7f-4d55-8d34-76f5536557e3",
     "url": "https://support.microsoft.com/help/5002604"
+  },
+  "5039302": {
+    "date": "2024-06-25",
+    "uuid": "0ab34e3f-bca9-4a52-a1a4-404bf8162f58",
+    "slug": "june-25-2024-kb5039302-os-builds-22621-3810-and-22631-3810-preview-0ab34e3f-bca9-4a52-a1a4-404bf8162f58",
+    "url": "https://support.microsoft.com/help/5039302"
+  },
+  "5039299": {
+    "date": "2024-06-25",
+    "uuid": "d4e3e815-fdd8-465e-8144-42afa165efed",
+    "slug": "june-25-2024-kb5039299-os-build-19045-4598-preview-d4e3e815-fdd8-465e-8144-42afa165efed",
+    "url": "https://support.microsoft.com/help/5039299"
+  },
+  "5002550": {
+    "date": "2024-06-01",
+    "uuid": "aed13a2a-3629-4d83-974f-fa9121601663",
+    "slug": "june-2024-updates-for-microsoft-office-aed13a2a-3629-4d83-974f-fa9121601663",
+    "url": "https://support.microsoft.com/help/5002550"
   }
 }
