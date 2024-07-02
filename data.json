@@ -12934,5 +12934,89 @@
     "uuid": "aed13a2a-3629-4d83-974f-fa9121601663",
     "slug": "june-2024-updates-for-microsoft-office-aed13a2a-3629-4d83-974f-fa9121601663",
     "url": "https://support.microsoft.com/help/5002550"
+  },
+  "4032252": {
+    "date": "2019-02-05",
+    "uuid": "76d775e9-c5a7-74de-e288-5dce58bf40c2",
+    "slug": "february-5-2019-update-for-access-2013-kb4032252-76d775e9-c5a7-74de-e288-5dce58bf40c2",
+    "url": "https://support.microsoft.com/help/4032252"
+  },
+  "4484527": {
+    "date": "2013-06-08",
+    "uuid": "40a02b7a-c52d-e789-226c-54405341c20a",
+    "slug": "description-of-the-security-update-for-access-2013-june-8-2021-kb4484527-40a02b7a-c52d-e789-226c-54405341c20a",
+    "url": "https://support.microsoft.com/help/4484527"
+  },
+  "4484366": {
+    "date": "2013-08-11",
+    "uuid": "b71f1e31-a822-bd2c-e124-e6f0e330c959",
+    "slug": "description-of-the-security-update-for-access-2013-august-11-2020-b71f1e31-a822-bd2c-e124-e6f0e330c959",
+    "url": "https://support.microsoft.com/help/4484366"
+  },
+  "5002151": {
+    "date": "2022-02-01",
+    "uuid": "e2014fa5-4318-402d-85d4-f2d3b72b63e1",
+    "slug": "february-1-2022-update-for-office-2013-kb5002151-e2014fa5-4318-402d-85d4-f2d3b72b63e1",
+    "url": "https://support.microsoft.com/help/5002151"
+  },
+  "5002124": {
+    "date": "2013-01-11",
+    "uuid": "d4693c8c-7c92-4379-a51d-02521ffa935d",
+    "slug": "description-of-the-security-update-for-office-2013-january-11-2022-kb5002124-d4693c8c-7c92-4379-a51d-02521ffa935d",
+    "url": "https://support.microsoft.com/help/5002124"
+  },
+  "3062760": {
+    "date": "2015-06-09",
+    "uuid": "d4236c40-d46e-7c69-7d71-695c231217ac",
+    "slug": "microsoft-security-advisory-update-for-vulnerability-in-juniper-networks-windows-in-box-junos-pulse-client-june-9-2015-d4236c40-d46e-7c69-7d71-695c231217ac",
+    "url": "https://support.microsoft.com/help/3062760"
+  },
+  "2962393": {
+    "date": "2014-05-05",
+    "uuid": "e68d2213-3ed8-d891-0a30-71e84f088fca",
+    "slug": "microsoft-security-advisory-update-for-vulnerability-in-juniper-networks-windows-in-box-junos-pulse-client-may-5-2014-e68d2213-3ed8-d891-0a30-71e84f088fca",
+    "url": "https://support.microsoft.com/help/2962393"
+  },
+  "3004375": {
+    "date": "2015-02-10",
+    "uuid": "570edc4b-8ee7-950d-4629-045e308743e4",
+    "slug": "microsoft-security-advisory-update-to-improve-windows-command-line-auditing-february-10-2015-570edc4b-8ee7-950d-4629-045e308743e4",
+    "url": "https://support.microsoft.com/help/3004375"
+  },
+  "3000483": {
+    "date": "2015-02-10",
+    "uuid": "91b4bda2-945d-455b-ebbb-01d1ec191328",
+    "slug": "ms15-011-vulnerability-in-group-policy-could-allow-remote-code-execution-february-10-2015-91b4bda2-945d-455b-ebbb-01d1ec191328",
+    "url": "https://support.microsoft.com/help/3000483"
+  },
+  "3031432": {
+    "date": "2015-02-10",
+    "uuid": "c469a8df-e429-4e64-844a-626b7ec54f15",
+    "slug": "ms15-015-vulnerability-in-microsoft-windows-could-allow-elevation-of-privilege-february-10-2015-c469a8df-e429-4e64-844a-626b7ec54f15",
+    "url": "https://support.microsoft.com/help/3031432"
+  },
+  "3009008": {
+    "date": "2014-10-15",
+    "uuid": "47c30418-f595-6b35-2d5a-d744857ce070",
+    "slug": "microsoft-security-advisory-vulnerability-in-ssl-3-0-could-allow-information-disclosure-october-15-2014-47c30418-f595-6b35-2d5a-d744857ce070",
+    "url": "https://support.microsoft.com/help/3009008"
+  },
+  "3021952": {
+    "date": "2015-02-10",
+    "uuid": "23860210-d9d7-73b6-c703-f182c4c31891",
+    "slug": "ms15-009-description-of-the-security-update-for-internet-explorer-february-10-2015-23860210-d9d7-73b6-c703-f182c4c31891",
+    "url": "https://support.microsoft.com/help/3021952"
+  },
+  "3033929": {
+    "date": "2015-03-10",
+    "uuid": "d1b1b28c-b7fa-2902-f5a2-dc533812df7a",
+    "slug": "microsoft-security-advisory-availability-of-sha-2-code-signing-support-for-windows-7-and-windows-server-2008-r2-march-10-2015-d1b1b28c-b7fa-2902-f5a2-dc533812df7a",
+    "url": "https://support.microsoft.com/help/3033929"
+  },
+  "2949927": {
+    "date": "2014-10-14",
+    "uuid": "e1711cc6-4919-1f77-9878-3d671826d2b2",
+    "slug": "microsoft-security-advisory-availability-of-sha-2-hashing-algorithm-for-windows-7-and-windows-server-2008-r2-october-14-2014-e1711cc6-4919-1f77-9878-3d671826d2b2",
+    "url": "https://support.microsoft.com/help/2949927"
   }
 }
