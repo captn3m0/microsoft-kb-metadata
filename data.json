@@ -13084,5 +13084,35 @@
     "uuid": "7667ab3e-e61f-45c7-dd76-7c551872defa",
     "slug": "ms12-024-vulnerability-in-windows-could-allow-remote-code-execution-april-10-2012-7667ab3e-e61f-45c7-dd76-7c551872defa",
     "url": "https://support.microsoft.com/help/2653956"
+  },
+  "3172545": {
+    "date": "2017-07-11",
+    "uuid": "d6b47054-04d5-5154-40ba-3436d1e0efdb",
+    "slug": "july-11-2017-update-for-office-2013-kb3172545-d6b47054-04d5-5154-40ba-3436d1e0efdb",
+    "url": "https://support.microsoft.com/help/3172545"
+  },
+  "3114488": {
+    "date": "2016-03-08",
+    "uuid": "e3c15826-b427-2b11-2803-1f2f5246f776",
+    "slug": "march-8-2016-update-for-office-2013-kb3114488-e3c15826-b427-2b11-2803-1f2f5246f776",
+    "url": "https://support.microsoft.com/help/3114488"
+  },
+  "3023068": {
+    "date": "2015-12-08",
+    "uuid": "be262d9f-d663-0b12-ccf7-a055cf47dfee",
+    "slug": "december-8-2015-update-for-office-2013-kb3023068-be262d9f-d663-0b12-ccf7-a055cf47dfee",
+    "url": "https://support.microsoft.com/help/3023068"
+  },
+  "3162051": {
+    "date": "2013-06-13",
+    "uuid": "a8561376-b592-e620-bdd1-7191171bd164",
+    "slug": "description-of-the-security-update-for-office-2013-june-13-2017-a8561376-b592-e620-bdd1-7191171bd164",
+    "url": "https://support.microsoft.com/help/3162051"
+  },
+  "2647518": {
+    "date": "2012-03-14",
+    "uuid": "719fb091-e27c-af23-ad78-b5c2b199e161",
+    "slug": "microsoft-security-advisory-cumulative-security-update-for-activex-kill-bits-march-14-2012-719fb091-e27c-af23-ad78-b5c2b199e161",
+    "url": "https://support.microsoft.com/help/2647518"
   }
 }
