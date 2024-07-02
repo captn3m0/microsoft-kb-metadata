@@ -13018,5 +13018,71 @@
     "uuid": "e1711cc6-4919-1f77-9878-3d671826d2b2",
     "slug": "microsoft-security-advisory-availability-of-sha-2-hashing-algorithm-for-windows-7-and-windows-server-2008-r2-october-14-2014-e1711cc6-4919-1f77-9878-3d671826d2b2",
     "url": "https://support.microsoft.com/help/2949927"
+  },
+  "5002104": {
+    "date": "2013-12-14",
+    "uuid": "84005c4a-9bfe-4da6-bd66-240c5c468c7c",
+    "slug": "description-of-the-security-update-for-office-2013-december-14-2021-kb5002104-84005c4a-9bfe-4da6-bd66-240c5c468c7c",
+    "url": "https://support.microsoft.com/help/5002104"
+  },
+  "3172512": {
+    "date": "2017-09-05",
+    "uuid": "ca2c463a-1366-bb48-7382-3b8615162add",
+    "slug": "september-5-2017-update-for-microsoft-audit-and-control-management-server-acm-2013-kb3172512-ca2c463a-1366-bb48-7382-3b8615162add",
+    "url": "https://support.microsoft.com/help/3172512"
+  },
+  "2899522": {
+    "date": "2014-12-09",
+    "uuid": "eae187af-8f15-767c-8f44-b0b20f44dd34",
+    "slug": "december-9-2014-update-for-office-2013-kb2899522-eae187af-8f15-767c-8f44-b0b20f44dd34",
+    "url": "https://support.microsoft.com/help/2899522"
+  },
+  "5001937": {
+    "date": "2021-06-01",
+    "uuid": "9b14b6aa-7c9b-4c64-b0c9-002eae69c1f3",
+    "slug": "june-1-2021-update-for-office-2013-kb5001937-9b14b6aa-7c9b-4c64-b0c9-002eae69c1f3",
+    "url": "https://support.microsoft.com/help/5001937"
+  },
+  "3178639": {
+    "date": "2013-04-13",
+    "uuid": "64284f69-f116-9fa0-61ba-21b0d26d842f",
+    "slug": "description-of-the-security-update-for-office-2013-april-13-2021-kb3178639-64284f69-f116-9fa0-61ba-21b0d26d842f",
+    "url": "https://support.microsoft.com/help/3178639"
+  },
+  "3101503": {
+    "date": "2016-07-05",
+    "uuid": "447bf0b5-26c7-8394-bd7b-aedee6f16b04",
+    "slug": "july-5-2016-update-for-office-2013-kb3101503-447bf0b5-26c7-8394-bd7b-aedee6f16b04",
+    "url": "https://support.microsoft.com/help/3101503"
+  },
+  "3213564": {
+    "date": "2013-09-12",
+    "uuid": "13274341-2cba-a5c1-343a-492311e42dfb",
+    "slug": "description-of-the-security-update-for-office-2013-september-12-2017-13274341-2cba-a5c1-343a-492311e42dfb",
+    "url": "https://support.microsoft.com/help/3213564"
+  },
+  "3203392": {
+    "date": "2013-06-13",
+    "uuid": "ce00c604-55c1-b55b-b73e-28758c02d40e",
+    "slug": "description-of-the-security-update-for-office-2013-june-13-2017-ce00c604-55c1-b55b-b73e-28758c02d40e",
+    "url": "https://support.microsoft.com/help/3203392"
+  },
+  "2345322": {
+    "date": "2010-10-12",
+    "uuid": "7d27c764-e6f6-1d22-861e-ce09eca4b7bb",
+    "slug": "ms10-072-description-of-the-security-update-for-microsoft-sharepoint-foundation-2010-october-12-2010-7d27c764-e6f6-1d22-861e-ce09eca4b7bb",
+    "url": "https://support.microsoft.com/help/2345322"
+  },
+  "2346298": {
+    "date": "2010-10-12",
+    "uuid": "7ddd8bda-f00f-201b-0902-328c30736323",
+    "slug": "ms10-072-description-of-the-security-update-for-microsoft-groove-server-2010-october-12-2010-7ddd8bda-f00f-201b-0902-328c30736323",
+    "url": "https://support.microsoft.com/help/2346298"
+  },
+  "2653956": {
+    "date": "2012-04-10",
+    "uuid": "7667ab3e-e61f-45c7-dd76-7c551872defa",
+    "slug": "ms12-024-vulnerability-in-windows-could-allow-remote-code-execution-april-10-2012-7667ab3e-e61f-45c7-dd76-7c551872defa",
+    "url": "https://support.microsoft.com/help/2653956"
   }
 }
