@@ -6,7 +6,6 @@ on:
 
 jobs:
   publish:
-    needs: update
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -15,18 +14,17 @@ jobs:
       - name: Set up Python 3.12
         uses: actions/setup-python@v4
         with:
-          python-version: '3.12'
-      - name: Install csv-to-sqlite
-        run: pip install csv-to-sqlite
+          python-version: '3.10'
+      - name: Install csvs-to-sqlite
+        run: pip install csvs-to-sqlite
       - name: Convert JSON to CSV
         run: jq -r '"kb,date,url,slug,uuid", keys[] as $k |  [$k]  + [  .[$k].date, .[$k].url, .[$k].slug, .[$k].uuid  ]|@csv' data.json > data.csv
       - name: Convert CSV to SQLite
-        run: csv-to-sqlite -f data.csv -o data.sqlite --tables data --columns "date,uuid,url,slug,kb"
+        run: csvs-to-sqlite --table data --date date data.csv data.db
       - name: Create and push tag
         run: |
           TAG_NAME=v$(date +'%Y.%m.%d')
           git tag $TAG_NAME
           git push origin $TAG_NAME
       - name: Publish files to GitHub Releases
-        run: |
-          gh release create $TAG_NAME data.json data.csv data.sqlite --title "Release $TAG_NAME"
+        run: h release create $TAG_NAME data.json data.csv data.db --title "Release $TAG_NAME"
