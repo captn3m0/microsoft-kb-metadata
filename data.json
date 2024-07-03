@@ -13114,5 +13114,95 @@
     "uuid": "719fb091-e27c-af23-ad78-b5c2b199e161",
     "slug": "microsoft-security-advisory-cumulative-security-update-for-activex-kill-bits-march-14-2012-719fb091-e27c-af23-ad78-b5c2b199e161",
     "url": "https://support.microsoft.com/help/2647518"
+  },
+  "2965214": {
+    "date": "2015-04-14",
+    "uuid": "9b015476-c793-f4c0-aa2b-d65d22e91fb2",
+    "slug": "april-14-2015-update-for-office-2013-kb2965214-9b015476-c793-f4c0-aa2b-d65d22e91fb2",
+    "url": "https://support.microsoft.com/help/2965214"
+  },
+  "3172484": {
+    "date": "2017-09-05",
+    "uuid": "a8da604d-800e-c251-a3bc-61f2feb1071c",
+    "slug": "september-5-2017-update-for-microsoft-discovery-and-risk-assessment-server-dra-2013-kb3172484-a8da604d-800e-c251-a3bc-61f2feb1071c",
+    "url": "https://support.microsoft.com/help/3172484"
+  },
+  "4011580": {
+    "date": "2013-01-09",
+    "uuid": "f493e283-db73-82be-9952-1abf611c3573",
+    "slug": "description-of-the-security-update-for-office-2013-january-9-2018-f493e283-db73-82be-9952-1abf611c3573",
+    "url": "https://support.microsoft.com/help/4011580"
+  },
+  "3162047": {
+    "date": "2013-11-14",
+    "uuid": "2bc2840b-5bd7-2def-198e-563e883dec94",
+    "slug": "description-of-the-security-update-for-office-2013-november-14-2017-2bc2840b-5bd7-2def-198e-563e883dec94",
+    "url": "https://support.microsoft.com/help/3162047"
+  },
+  "3178643": {
+    "date": "2013-04-13",
+    "uuid": "0b385587-1fc3-651a-036f-37a3501a1061",
+    "slug": "description-of-the-security-update-for-office-2013-april-13-2021-kb3178643-0b385587-1fc3-651a-036f-37a3501a1061",
+    "url": "https://support.microsoft.com/help/3178643"
+  },
+  "5002488": {
+    "date": "2013-09-12",
+    "uuid": "f002fa3b-82a6-4712-bbf6-f1e2727148e4",
+    "slug": "description-of-the-security-update-for-excel-2013-september-12-2023-kb5002488-f002fa3b-82a6-4712-bbf6-f1e2727148e4",
+    "url": "https://support.microsoft.com/help/5002488"
+  },
+  "5002451": {
+    "date": "2013-08-08",
+    "uuid": "406a58cc-eeb5-4213-ab5c-3d4fd1989982",
+    "slug": "description-of-the-security-update-for-excel-2013-august-8-2023-kb5002451-406a58cc-eeb5-4213-ab5c-3d4fd1989982",
+    "url": "https://support.microsoft.com/help/5002451"
+  },
+  "3191872": {
+    "date": "2017-06-06",
+    "uuid": "a1a5d975-4392-5eff-ca9e-36b1417b583f",
+    "slug": "june-6-2017-update-for-office-2013-kb3191872-a1a5d975-4392-5eff-ca9e-36b1417b583f",
+    "url": "https://support.microsoft.com/help/3191872"
+  },
+  "3085587": {
+    "date": "2016-04-05",
+    "uuid": "bb68a161-c4ab-99bc-d0fc-48e040b3ddac",
+    "slug": "april-5-2016-update-for-office-2013-kb3085587-bb68a161-c4ab-99bc-d0fc-48e040b3ddac",
+    "url": "https://support.microsoft.com/help/3085587"
+  },
+  "3039756": {
+    "date": "2016-04-05",
+    "uuid": "e588388b-9799-6b46-6104-a80edff0c3fe",
+    "slug": "april-5-2016-update-for-office-2013-kb3039756-e588388b-9799-6b46-6104-a80edff0c3fe",
+    "url": "https://support.microsoft.com/help/3039756"
+  },
+  "3023052": {
+    "date": "2015-07-14",
+    "uuid": "ad5afb83-6d42-4e79-0f43-405a8d700db1",
+    "slug": "july-14-2015-update-for-office-2013-kb3023052-ad5afb83-6d42-4e79-0f43-405a8d700db1",
+    "url": "https://support.microsoft.com/help/3023052"
+  },
+  "2726958": {
+    "date": "2013-12-09",
+    "uuid": "53de38b1-98cb-bb4c-e920-10ec8454fede",
+    "slug": "ms14-082-description-of-the-security-update-for-microsoft-office-2013-december-9-2014-53de38b1-98cb-bb4c-e920-10ec8454fede",
+    "url": "https://support.microsoft.com/help/2726958"
+  },
+  "2760371": {
+    "date": "2014-10-14",
+    "uuid": "72bcb9b9-9918-167a-ed40-e3ddf79c1bd1",
+    "slug": "october-14-2014-update-for-office-2013-kb2760371-72bcb9b9-9918-167a-ed40-e3ddf79c1bd1",
+    "url": "https://support.microsoft.com/help/2760371"
+  },
+  "954430": {
+    "date": "2008-11-11",
+    "uuid": "6b71b256-b869-42df-cce6-fe9b5d9200aa",
+    "slug": "ms08-069-description-of-the-security-update-for-xml-core-services-4-0-november-11-2008-6b71b256-b869-42df-cce6-fe9b5d9200aa",
+    "url": "https://support.microsoft.com/help/954430"
+  },
+  "2724197": {
+    "date": "2012-10-09",
+    "uuid": "dd067c57-d92d-6d0c-2b81-dea95e974b82",
+    "slug": "ms12-068-vulnerability-in-windows-kernel-could-allow-elevation-of-privilege-october-9-2012-dd067c57-d92d-6d0c-2b81-dea95e974b82",
+    "url": "https://support.microsoft.com/help/2724197"
   }
 }
