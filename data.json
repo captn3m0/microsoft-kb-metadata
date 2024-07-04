@@ -13228,5 +13228,209 @@
     "uuid": "9a38f15c-898e-4247-86a7-15b0c2d278b9",
     "slug": "description-of-the-security-update-for-office-2013-march-14-2023-kb5002198-9a38f15c-898e-4247-86a7-15b0c2d278b9",
     "url": "https://support.microsoft.com/help/5002198"
+  },
+  "5002148": {
+    "date": "2013-04-12",
+    "uuid": "79e16706-a7dd-491f-ae72-2d6c6f9d5a7e",
+    "slug": "description-of-the-security-update-for-office-2013-april-12-2022-kb5002148-79e16706-a7dd-491f-ae72-2d6c6f9d5a7e",
+    "url": "https://support.microsoft.com/help/5002148"
+  },
+  "4022226": {
+    "date": "2018-08-07",
+    "uuid": "6163bb26-cbde-eb16-ac42-abfda7afbf68",
+    "slug": "august-7-2018-update-for-onedrive-for-business-for-office-2013-kb4022226-6163bb26-cbde-eb16-ac42-abfda7afbf68",
+    "url": "https://support.microsoft.com/help/4022226"
+  },
+  "3039798": {
+    "date": "2013-08-11",
+    "uuid": "335ea163-8ea5-e6ff-fa84-546a481f0a87",
+    "slug": "ms15-081-description-of-the-security-update-for-office-2013-august-11-2015-335ea163-8ea5-e6ff-fa84-546a481f0a87",
+    "url": "https://support.microsoft.com/help/3039798"
+  },
+  "3114946": {
+    "date": "2016-05-03",
+    "uuid": "dafe2961-69ee-733a-0eac-2dd116817781",
+    "slug": "may-3-2016-update-for-infopath-2013-kb3114946-dafe2961-69ee-733a-0eac-2dd116817781",
+    "url": "https://support.microsoft.com/help/3114946"
+  },
+  "3114833": {
+    "date": "2013-03-08",
+    "uuid": "5cae4eea-498b-8d9e-287f-f52d23ad7d89",
+    "slug": "ms16-029-description-of-the-security-update-for-infopath-2013-march-8-2016-5cae4eea-498b-8d9e-287f-f52d23ad7d89",
+    "url": "https://support.microsoft.com/help/3114833"
+  },
+  "3054793": {
+    "date": "2013-11-10",
+    "uuid": "627b9f5f-e874-08cc-7ebf-417902f5ba3b",
+    "slug": "ms15-116-description-of-the-security-update-for-infopath-2013-november-10-2015-627b9f5f-e874-08cc-7ebf-417902f5ba3b",
+    "url": "https://support.microsoft.com/help/3054793"
+  },
+  "3213536": {
+    "date": "2017-09-05",
+    "uuid": "b0cfdd01-013d-2149-3497-c7bc11db4270",
+    "slug": "september-5-2017-update-for-office-2013-kb3213536-b0cfdd01-013d-2149-3497-c7bc11db4270",
+    "url": "https://support.microsoft.com/help/3213536"
+  },
+  "3181038": {
+    "date": "2016-08-09",
+    "uuid": "4988ed33-5a23-4f33-29a9-125d38722b83",
+    "slug": "august-9-2016-update-for-office-4988ed33-5a23-4f33-29a9-125d38722b83",
+    "url": "https://support.microsoft.com/help/3181038"
+  },
+  "3173835": {
+    "date": "2016-07-12",
+    "uuid": "b41d6b14-4c47-7709-4891-fafdcfcb1156",
+    "slug": "july-12-2016-update-for-office-b41d6b14-4c47-7709-4891-fafdcfcb1156",
+    "url": "https://support.microsoft.com/help/3173835"
+  },
+  "3166910": {
+    "date": "2016-06-14",
+    "uuid": "4cd1c300-3f16-d9ba-b5af-1c2b4b184aa3",
+    "slug": "june-14-2016-update-for-office-4cd1c300-3f16-d9ba-b5af-1c2b4b184aa3",
+    "url": "https://support.microsoft.com/help/3166910"
+  },
+  "3158453": {
+    "date": "2016-05-10",
+    "uuid": "1d0e3ae8-e42a-e4ec-deec-bc1c52f489ca",
+    "slug": "may-10-2016-update-for-office-1d0e3ae8-e42a-e4ec-deec-bc1c52f489ca",
+    "url": "https://support.microsoft.com/help/3158453"
+  },
+  "3150264": {
+    "date": "2016-04-12",
+    "uuid": "43813e58-a487-ec76-4c3f-612967d4d098",
+    "slug": "april-12-2016-update-for-office-43813e58-a487-ec76-4c3f-612967d4d098",
+    "url": "https://support.microsoft.com/help/3150264"
+  },
+  "3143491": {
+    "date": "2016-03-08",
+    "uuid": "141fe734-28e7-0b56-3218-aba6cdb9f78b",
+    "slug": "march-8-2016-update-for-office-141fe734-28e7-0b56-3218-aba6cdb9f78b",
+    "url": "https://support.microsoft.com/help/3143491"
+  },
+  "3137471": {
+    "date": "2016-02-09",
+    "uuid": "5493c91b-f860-e9ba-a3a7-568fadc24620",
+    "slug": "february-9-2016-update-for-office-5493c91b-f860-e9ba-a3a7-568fadc24620",
+    "url": "https://support.microsoft.com/help/3137471"
+  },
+  "3131245": {
+    "date": "2016-01-12",
+    "uuid": "0aaeb393-296c-d8e0-6b0b-64539872c3d1",
+    "slug": "january-12-2016-update-for-office-0aaeb393-296c-d8e0-6b0b-64539872c3d1",
+    "url": "https://support.microsoft.com/help/3131245"
+  },
+  "3121650": {
+    "date": "2015-12-08",
+    "uuid": "1c708e5c-4950-9bc7-d36a-4ac681cb6ede",
+    "slug": "december-8-2015-update-for-office-1c708e5c-4950-9bc7-d36a-4ac681cb6ede",
+    "url": "https://support.microsoft.com/help/3121650"
+  },
+  "3108456": {
+    "date": "2015-11-10",
+    "uuid": "dc4cfddc-7296-aa46-3256-169cb1361e69",
+    "slug": "november-10-2015-update-for-office-dc4cfddc-7296-aa46-3256-169cb1361e69",
+    "url": "https://support.microsoft.com/help/3108456"
+  },
+  "3099951": {
+    "date": "2015-10-13",
+    "uuid": "520906fe-8ccd-7068-fe06-7a6ca4b4b92a",
+    "slug": "october-13-2015-update-for-office-520906fe-8ccd-7068-fe06-7a6ca4b4b92a",
+    "url": "https://support.microsoft.com/help/3099951"
+  },
+  "3092181": {
+    "date": "2015-09-08",
+    "uuid": "123d6c00-db22-0225-9f29-fb68512dc76e",
+    "slug": "september-8-2015-update-for-office-123d6c00-db22-0225-9f29-fb68512dc76e",
+    "url": "https://support.microsoft.com/help/3092181"
+  },
+  "3083805": {
+    "date": "2015-08-11",
+    "uuid": "18dc985a-5b78-6c5f-5a98-5f4cdb271019",
+    "slug": "august-11-2015-update-for-office-18dc985a-5b78-6c5f-5a98-5f4cdb271019",
+    "url": "https://support.microsoft.com/help/3083805"
+  },
+  "3077012": {
+    "date": "2015-07-14",
+    "uuid": "d0561bd2-0b7f-a59d-e685-205b8f516023",
+    "slug": "july-14-2015-update-for-office-d0561bd2-0b7f-a59d-e685-205b8f516023",
+    "url": "https://support.microsoft.com/help/3077012"
+  },
+  "3068507": {
+    "date": "2015-06-09",
+    "uuid": "8d908fe4-4b86-6440-9c1d-f20df8fb4a93",
+    "slug": "june-9-2015-update-for-office-8d908fe4-4b86-6440-9c1d-f20df8fb4a93",
+    "url": "https://support.microsoft.com/help/3068507"
+  },
+  "2560656": {
+    "date": "2011-08-09",
+    "uuid": "68300816-0f89-51d5-1bd8-875eb353c8e6",
+    "slug": "ms11-059-vulnerability-in-data-access-components-could-allow-remote-code-execution-august-9-2011-68300816-0f89-51d5-1bd8-875eb353c8e6",
+    "url": "https://support.microsoft.com/help/2560656"
+  },
+  "2553091": {
+    "date": "2011-09-13",
+    "uuid": "7b6bf967-b3d6-689e-db13-467529aab850",
+    "slug": "ms11-072-description-of-the-security-update-for-office-2010-oart-dll-september-13-2011-7b6bf967-b3d6-689e-db13-467529aab850",
+    "url": "https://support.microsoft.com/help/2553091"
+  },
+  "2553096": {
+    "date": "2011-09-13",
+    "uuid": "cd017b64-c9ca-1561-7111-651c10d5581a",
+    "slug": "ms11-072-description-of-the-security-update-for-office-2010-oartconv-dll-september-13-2011-cd017b64-c9ca-1561-7111-651c10d5581a",
+    "url": "https://support.microsoft.com/help/2553096"
+  },
+  "2553095": {
+    "date": "2010-09-13",
+    "uuid": "9466aea5-8391-f969-b984-7b1624ae4f99",
+    "slug": "ms11-072-description-of-the-security-update-for-office-web-apps-2010-september-13-2011-9466aea5-8391-f969-b984-7b1624ae4f99",
+    "url": "https://support.microsoft.com/help/2553095"
+  },
+  "2553094": {
+    "date": "2010-09-13",
+    "uuid": "c83cfbff-6dc6-4a22-cef9-af1d84a7a276",
+    "slug": "ms11-072-description-of-the-security-update-for-excel-services-in-sharepoint-server-2010-september-13-2011-c83cfbff-6dc6-4a22-cef9-af1d84a7a276",
+    "url": "https://support.microsoft.com/help/2553094"
+  },
+  "2827663": {
+    "date": "2013-04-09",
+    "uuid": "1076d366-9c3b-e04a-457a-86554139343d",
+    "slug": "ms13-030-vulnerability-in-sharepoint-could-allow-information-disclosure-april-9-2013-1076d366-9c3b-e04a-457a-86554139343d",
+    "url": "https://support.microsoft.com/help/2827663"
+  },
+  "2768001": {
+    "date": "2013-03-12",
+    "uuid": "a5ed18dc-cfda-1605-8a89-3c6c869e4c56",
+    "slug": "description-of-the-sharepoint-server-2013-and-project-server-2013-update-march-12-2013-a5ed18dc-cfda-1605-8a89-3c6c869e4c56",
+    "url": "https://support.microsoft.com/help/2768001"
+  },
+  "2737969": {
+    "date": "2013-04-09",
+    "uuid": "8fbcaaeb-20c2-40c2-9b63-b1a68c18d04c",
+    "slug": "ms13-030-description-of-the-security-update-for-sharepoint-server-2013-coreserver-april-9-2013-8fbcaaeb-20c2-40c2-9b63-b1a68c18d04c",
+    "url": "https://support.microsoft.com/help/2737969"
+  },
+  "2984625": {
+    "date": "2014-08-12",
+    "uuid": "3a99fade-d20d-34b4-291a-d19b137e99af",
+    "slug": "ms14-046-vulnerability-in-the-net-framework-could-allow-security-feature-bypass-august-12-2014-3a99fade-d20d-34b4-291a-d19b137e99af",
+    "url": "https://support.microsoft.com/help/2984625"
+  },
+  "2958732": {
+    "date": "2014-05-13",
+    "uuid": "0c1c8c0b-f2cc-6367-e54d-98f827259eab",
+    "slug": "ms14-026-vulnerability-in-the-net-framework-could-allow-elevation-of-privilege-may-13-2014-0c1c8c0b-f2cc-6367-e54d-98f827259eab",
+    "url": "https://support.microsoft.com/help/2958732"
+  },
+  "2978668": {
+    "date": "2014-08-12",
+    "uuid": "b6180e5d-f457-4b09-c7c1-debe3c573937",
+    "slug": "ms14-047-vulnerability-in-lrpc-could-allow-security-feature-bypass-august-12-2014-b6180e5d-f457-4b09-c7c1-debe3c573937",
+    "url": "https://support.microsoft.com/help/2978668"
+  },
+  "2919355": {
+    "date": "2014-04-01",
+    "uuid": "3c9d820b-7079-359d-8660-21de648fa31d",
+    "slug": "windows-rt-8-1-windows-8-1-and-windows-server-2012-r2-update-april-2014-3c9d820b-7079-359d-8660-21de648fa31d",
+    "url": "https://support.microsoft.com/help/2919355"
   }
 }
