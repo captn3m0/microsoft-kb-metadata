@@ -13204,5 +13204,29 @@
     "uuid": "dd067c57-d92d-6d0c-2b81-dea95e974b82",
     "slug": "ms12-068-vulnerability-in-windows-kernel-could-allow-elevation-of-privilege-october-9-2012-dd067c57-d92d-6d0c-2b81-dea95e974b82",
     "url": "https://support.microsoft.com/help/2724197"
+  },
+  "3039795": {
+    "date": "2016-06-07",
+    "uuid": "94876717-ab58-3db7-4f2a-8e0b0efb9e97",
+    "slug": "june-7-2016-update-for-office-2013-kb3039795-94876717-ab58-3db7-4f2a-8e0b0efb9e97",
+    "url": "https://support.microsoft.com/help/3039795"
+  },
+  "3172514": {
+    "date": "2013-02-08",
+    "uuid": "a2403f8c-f06f-3329-5e95-66bcc865e189",
+    "slug": "description-of-the-security-update-for-office-2013-february-8-2022-kb3172514-a2403f8c-f06f-3329-5e95-66bcc865e189",
+    "url": "https://support.microsoft.com/help/3172514"
+  },
+  "4462203": {
+    "date": "2019-04-02",
+    "uuid": "4510ab59-f083-e4e4-150a-0e07e117a95f",
+    "slug": "april-2-2019-update-for-office-2013-kb4462203-4510ab59-f083-e4e4-150a-0e07e117a95f",
+    "url": "https://support.microsoft.com/help/4462203"
+  },
+  "5002198": {
+    "date": "2013-03-14",
+    "uuid": "9a38f15c-898e-4247-86a7-15b0c2d278b9",
+    "slug": "description-of-the-security-update-for-office-2013-march-14-2023-kb5002198-9a38f15c-898e-4247-86a7-15b0c2d278b9",
+    "url": "https://support.microsoft.com/help/5002198"
   }
 }
