@@ -44,7 +44,8 @@ def parse_redirect(kb_id, slug):
         }
 
 def get_url_slug(session, kb_id):
-    response = session.head(link, allow_redirects=False, timeout=5)
+    url = f"https://support.microsoft.com/help/{kb_id}"
+    response = session.head(url, allow_redirects=False, timeout=5)
     if 'location' in response.headers:
         l = response.headers['location']
         return l.split('/')[-1]
