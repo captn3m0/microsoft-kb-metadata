@@ -1,7 +1,11 @@
-beautifulsoup4==4.11.1
+beautifulsoup4==4.12.3
+certifi==2024.7.4
+charset-normalizer==3.3.2
 html5lib==1.1
-pyaml==21.10.1
-PyYAML==6.0
+idna==3.7
+PyYAML==6.0.1
+requests==2.32.3
 six==1.16.0
-soupsieve==2.3.2.post1
+soupsieve==2.5
+urllib3==2.2.2
 webencodings==0.5.1

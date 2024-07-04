@@ -3,10 +3,13 @@ import json
 import re
 import datetime
 from bs4 import BeautifulSoup
-from urllib import request
+from requests.adapters import HTTPAdapter
+from urllib3.util import Retry
+from urllib.request import HTTPRedirectHandler
+from requests import Session
 import urllib.error
 
-class NoRedirect(request.HTTPRedirectHandler):
+class NoRedirect(HTTPRedirectHandler):
     def redirect_request(self, req, fp, code, msg, headers, newurl):
         return None
 
@@ -40,21 +43,13 @@ def parse_redirect(kb_id, slug):
             "url": f"https://support.microsoft.com/help/{kb_id}"
         }
 
-def get_url_slug(kb_id):
-    request.install_opener(request.build_opener(NoRedirect))
-    url = f"https://support.microsoft.com/help/{kb_id}"
-    r = urllib.request.Request(url, method="HEAD")
-    try:
-        response = urllib.request.urlopen(r, data=None, timeout=5)
-    except urllib.error.HTTPError as response:
-        if 'location' in response.headers:
-            l = response.headers['location']
-            return l.split('/')[-1]
-        else:
-            return None
-    return None
+def get_url_slug(session, kb_id):
+    response = session.head(link, allow_redirects=False, timeout=5)
+    if 'location' in response.headers:
+        l = response.headers['location']
+        return l.split('/')[-1]
 
-def update_mapping(kb_ids):
+def update_mapping(session, kb_ids):
     print(f"Total Count: {len(kb_ids)}")
     kb = None
     updated = False
@@ -65,7 +60,7 @@ def update_mapping(kb_ids):
     for kb_id in kb_ids:
         i=i+1
         if kb_id not in kb:
-            slug = get_url_slug(kb_id)
+            slug = get_url_slug(session, kb_id)
             if slug:
                 new_data = parse_redirect(kb_id, slug)
                 if new_data:
@@ -77,9 +72,10 @@ def update_mapping(kb_ids):
         with open('data.json', 'w') as f:
             f.write(json.dumps(kb, indent=2))
 
-def fetch_kb_mentions(url):
-    with urllib.request.urlopen(url, data=None, timeout=5) as response:
-        soup = BeautifulSoup(response, features="html5lib")
+def fetch_kb_mentions(session, url):
+    with session.get(url, timeout=10) as response:
+        print(url)
+        soup = BeautifulSoup(response.text, features="html5lib")
         for a in soup.find('div', class_='content').find_all('a', href=True):
             l = a['href']
             if l.startswith('https://support.microsoft.com/kb/') or l.startswith('https://support.microsoft.com/help/'):
@@ -88,8 +84,17 @@ def fetch_kb_mentions(url):
 
 if __name__ == "__main__":
     kbs = []
+    s = Session()
+    retries = Retry(
+        total=3,
+        backoff_factor=0.1,
+        status_forcelist=[502, 503, 504],
+        allowed_methods={'GET'},
+    )
+    s.mount('https://', HTTPAdapter(max_retries=retries))
     with open('discovery.txt', 'r') as f:
         for url in f.readlines():
-            for kb_id in fetch_kb_mentions(url):
+            url = url.strip()
+            for kb_id in fetch_kb_mentions(s, url):
                 kbs.append(kb_id)
-    update_mapping(kbs)
+    update_mapping(s, kbs)
