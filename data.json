@@ -13432,5 +13432,245 @@
     "uuid": "3c9d820b-7079-359d-8660-21de648fa31d",
     "slug": "windows-rt-8-1-windows-8-1-and-windows-server-2012-r2-update-april-2014-3c9d820b-7079-359d-8660-21de648fa31d",
     "url": "https://support.microsoft.com/help/2919355"
+  },
+  "3127916": {
+    "date": "2016-11-01",
+    "uuid": "c5aff8af-1b33-e8e1-b4c8-2796c705614c",
+    "slug": "november-1-2016-update-for-office-2013-kb3127916-c5aff8af-1b33-e8e1-b4c8-2796c705614c",
+    "url": "https://support.microsoft.com/help/3127916"
+  },
+  "4022181": {
+    "date": "2018-12-04",
+    "uuid": "ea7d684d-92b9-f682-a9e0-7973c359a946",
+    "slug": "december-4-2018-update-for-infopath-2013-kb4022181-ea7d684d-92b9-f682-a9e0-7973c359a946",
+    "url": "https://support.microsoft.com/help/4022181"
+  },
+  "3162075": {
+    "date": "2013-05-08",
+    "uuid": "64f36270-9d76-6cee-7392-1e0174d464b4",
+    "slug": "description-of-the-security-update-for-infopath-2013-may-8-2018-64f36270-9d76-6cee-7392-1e0174d464b4",
+    "url": "https://support.microsoft.com/help/3162075"
+  },
+  "4484289": {
+    "date": "2020-05-05",
+    "uuid": "46945f19-246b-da38-1dd3-f3ec2627d211",
+    "slug": "may-5-2020-update-for-skype-for-business-2015-lync-2013-kb4484289-46945f19-246b-da38-1dd3-f3ec2627d211",
+    "url": "https://support.microsoft.com/help/4484289"
+  },
+  "2760272": {
+    "date": "2013-05-13",
+    "uuid": "a968aeef-25b1-6800-f7c3-46526a70ca8e",
+    "slug": "ms14-024-description-of-the-security-update-for-office-2013-may-13-2014-a968aeef-25b1-6800-f7c3-46526a70ca8e",
+    "url": "https://support.microsoft.com/help/2760272"
+  },
+  "3039794": {
+    "date": "2013-01-12",
+    "uuid": "abe61764-58ac-8c26-1786-ee189c64317f",
+    "slug": "ms16-004-description-of-the-security-update-for-office-2013-january-12-2016-abe61764-58ac-8c26-1786-ee189c64317f",
+    "url": "https://support.microsoft.com/help/3039794"
+  },
+  "2880502": {
+    "date": "2013-05-13",
+    "uuid": "1f5248e9-94ba-3ec7-21e3-fb09491b24ab",
+    "slug": "ms14-024-description-of-the-security-update-for-office-2013-may-13-2014-1f5248e9-94ba-3ec7-21e3-fb09491b24ab",
+    "url": "https://support.microsoft.com/help/2880502"
+  },
+  "3172523": {
+    "date": "2017-04-04",
+    "uuid": "4ad0df90-c01e-f31d-0fb6-84a28c812100",
+    "slug": "april-4-2017-update-for-office-2013-kb3172523-4ad0df90-c01e-f31d-0fb6-84a28c812100",
+    "url": "https://support.microsoft.com/help/3172523"
+  },
+  "3191875": {
+    "date": "2013-11-08",
+    "uuid": "555b590e-a943-436e-ada3-463e23a0f872",
+    "slug": "description-of-the-security-update-for-office-2013-november-8-2022-kb3191875-555b590e-a943-436e-ada3-463e23a0f872",
+    "url": "https://support.microsoft.com/help/3191875"
+  },
+  "5002477": {
+    "date": "2013-09-12",
+    "uuid": "5ec79599-2618-4fcc-8164-341fc841c0e6",
+    "slug": "description-of-the-security-update-for-office-2013-september-12-2023-kb5002477-5ec79599-2618-4fcc-8164-341fc841c0e6",
+    "url": "https://support.microsoft.com/help/5002477"
+  },
+  "5002439": {
+    "date": "2013-08-08",
+    "uuid": "f44d9e22-b020-496e-9f21-baa34d4f352e",
+    "slug": "description-of-the-security-update-for-office-2013-august-8-2023-kb5002439-f44d9e22-b020-496e-9f21-baa34d4f352e",
+    "url": "https://support.microsoft.com/help/5002439"
+  },
+  "4462142": {
+    "date": "2013-08-09",
+    "uuid": "82d64dd3-7a1f-fa43-75bf-39494a6656c9",
+    "slug": "description-of-the-security-update-for-office-2013-august-9-2022-kb4462142-82d64dd3-7a1f-fa43-75bf-39494a6656c9",
+    "url": "https://support.microsoft.com/help/4462142"
+  },
+  "4522242": {
+    "date": "2019-10-01",
+    "uuid": "71c10faf-8944-713c-635b-f987eb791380",
+    "slug": "october-2019-updates-for-microsoft-office-71c10faf-8944-713c-635b-f987eb791380",
+    "url": "https://support.microsoft.com/help/4522242"
+  },
+  "4517986": {
+    "date": "2019-09-01",
+    "uuid": "32a2bee5-a1f9-fd0d-2170-44e45f7f2cee",
+    "slug": "september-2019-updates-for-microsoft-office-32a2bee5-a1f9-fd0d-2170-44e45f7f2cee",
+    "url": "https://support.microsoft.com/help/4517986"
+  },
+  "4514418": {
+    "date": "2019-08-01",
+    "uuid": "aa0bfb39-48c7-6a2d-b83b-c037b7dcea3b",
+    "slug": "august-2019-updates-for-microsoft-office-aa0bfb39-48c7-6a2d-b83b-c037b7dcea3b",
+    "url": "https://support.microsoft.com/help/4514418"
+  },
+  "4509295": {
+    "date": "2019-07-01",
+    "uuid": "8d11d598-a631-b467-c508-0bfa5e77d503",
+    "slug": "july-2019-updates-for-microsoft-office-8d11d598-a631-b467-c508-0bfa5e77d503",
+    "url": "https://support.microsoft.com/help/4509295"
+  },
+  "4505743": {
+    "date": "2019-06-01",
+    "uuid": "a6ce90dd-ff3f-3a81-dff5-0294a015df1c",
+    "slug": "june-2019-updates-for-microsoft-office-a6ce90dd-ff3f-3a81-dff5-0294a015df1c",
+    "url": "https://support.microsoft.com/help/4505743"
+  },
+  "4501270": {
+    "date": "2019-05-01",
+    "uuid": "f87d56e5-fece-4c5b-94b2-d7272db7a411",
+    "slug": "may-2019-updates-for-microsoft-office-f87d56e5-fece-4c5b-94b2-d7272db7a411",
+    "url": "https://support.microsoft.com/help/4501270"
+  },
+  "4495300": {
+    "date": "2019-04-01",
+    "uuid": "055e43ab-7747-6614-0993-4c7b1e966e13",
+    "slug": "april-2019-updates-for-microsoft-office-055e43ab-7747-6614-0993-4c7b1e966e13",
+    "url": "https://support.microsoft.com/help/4495300"
+  },
+  "4491754": {
+    "date": "2019-03-01",
+    "uuid": "60189fae-8ca0-eee3-df5d-b928fd4804ff",
+    "slug": "march-2019-updates-for-microsoft-office-60189fae-8ca0-eee3-df5d-b928fd4804ff",
+    "url": "https://support.microsoft.com/help/4491754"
+  },
+  "4488446": {
+    "date": "2019-02-01",
+    "uuid": "06c49a15-373a-4129-1265-0cf8e7fe3bf4",
+    "slug": "february-2019-updates-for-microsoft-office-06c49a15-373a-4129-1265-0cf8e7fe3bf4",
+    "url": "https://support.microsoft.com/help/4488446"
+  },
+  "4484800": {
+    "date": "2019-01-01",
+    "uuid": "ef74818a-d9a5-702c-5da2-acbaf2fd841e",
+    "slug": "january-2019-updates-for-microsoft-office-ef74818a-d9a5-702c-5da2-acbaf2fd841e",
+    "url": "https://support.microsoft.com/help/4484800"
+  },
+  "4469617": {
+    "date": "2018-11-01",
+    "uuid": "1a4a95db-ed15-50d6-2bb1-169f7d74013d",
+    "slug": "november-2018-updates-for-microsoft-office-1a4a95db-ed15-50d6-2bb1-169f7d74013d",
+    "url": "https://support.microsoft.com/help/4469617"
+  },
+  "4464656": {
+    "date": "2018-10-01",
+    "uuid": "244f0c6e-e897-28f4-29c7-f2d7986f7c47",
+    "slug": "october-2018-updates-for-microsoft-office-244f0c6e-e897-28f4-29c7-f2d7986f7c47",
+    "url": "https://support.microsoft.com/help/4464656"
+  },
+  "4459402": {
+    "date": "2018-09-01",
+    "uuid": "28b4835c-4aeb-d40d-cf9d-50270b113ce1",
+    "slug": "september-2018-updates-for-microsoft-office-28b4835c-4aeb-d40d-cf9d-50270b113ce1",
+    "url": "https://support.microsoft.com/help/4459402"
+  },
+  "4346823": {
+    "date": "2018-08-01",
+    "uuid": "a251fd1f-4346-3c96-5df6-225e8ebbd871",
+    "slug": "august-2018-updates-for-microsoft-office-a251fd1f-4346-3c96-5df6-225e8ebbd871",
+    "url": "https://support.microsoft.com/help/4346823"
+  },
+  "4340798": {
+    "date": "2018-07-01",
+    "uuid": "0a6478b7-0301-a063-bcfc-2f3dff4d6b9d",
+    "slug": "july-2018-updates-for-microsoft-office-0a6478b7-0301-a063-bcfc-2f3dff4d6b9d",
+    "url": "https://support.microsoft.com/help/4340798"
+  },
+  "4299875": {
+    "date": "2018-06-01",
+    "uuid": "fcfd45c6-b8e5-945f-f927-59c0aae34f4b",
+    "slug": "june-2018-updates-for-microsoft-office-fcfd45c6-b8e5-945f-f927-59c0aae34f4b",
+    "url": "https://support.microsoft.com/help/4299875"
+  },
+  "4133083": {
+    "date": "2018-05-01",
+    "uuid": "48eb54a8-2c13-32c5-9944-78b908a6e771",
+    "slug": "may-2018-updates-for-microsoft-office-48eb54a8-2c13-32c5-9944-78b908a6e771",
+    "url": "https://support.microsoft.com/help/4133083"
+  },
+  "4098622": {
+    "date": "2018-04-01",
+    "uuid": "e3c226eb-9916-1441-a24a-e9149d08ae26",
+    "slug": "april-2018-updates-for-microsoft-office-e3c226eb-9916-1441-a24a-e9149d08ae26",
+    "url": "https://support.microsoft.com/help/4098622"
+  },
+  "4090988": {
+    "date": "2018-03-01",
+    "uuid": "7081e7ca-8562-c84b-da50-1bf01d02e4bb",
+    "slug": "march-2018-updates-for-microsoft-office-7081e7ca-8562-c84b-da50-1bf01d02e4bb",
+    "url": "https://support.microsoft.com/help/4090988"
+  },
+  "4077965": {
+    "date": "2018-02-01",
+    "uuid": "7ac67c17-2708-00c5-145e-18f8f32f0dc7",
+    "slug": "february-2018-updates-for-microsoft-office-7ac67c17-2708-00c5-145e-18f8f32f0dc7",
+    "url": "https://support.microsoft.com/help/4077965"
+  },
+  "4058103": {
+    "date": "2018-01-01",
+    "uuid": "a4371a5e-cf89-9ee2-f047-f7a679e878c6",
+    "slug": "january-2018-updates-for-microsoft-office-a4371a5e-cf89-9ee2-f047-f7a679e878c6",
+    "url": "https://support.microsoft.com/help/4058103"
+  },
+  "3205401": {
+    "date": "2016-12-01",
+    "uuid": "0e8a1a9d-f6d5-2500-3f6f-6b0227454bf3",
+    "slug": "december-2016-security-monthly-quality-rollup-for-windows-8-1-and-windows-server-2012-r2-0e8a1a9d-f6d5-2500-3f6f-6b0227454bf3",
+    "url": "https://support.microsoft.com/help/3205401"
+  },
+  "3212646": {
+    "date": "2017-01-01",
+    "uuid": "257db5b9-e569-0680-b788-c11f76dc9a9a",
+    "slug": "january-2017-security-monthly-quality-rollup-for-windows-7-sp1-and-windows-server-2008-r2-sp1-257db5b9-e569-0680-b788-c11f76dc9a9a",
+    "url": "https://support.microsoft.com/help/3212646"
+  },
+  "3205409": {
+    "date": "2016-12-01",
+    "uuid": "9390e563-d90d-e91c-b702-23d492f89c16",
+    "slug": "december-2016-security-monthly-quality-rollup-for-windows-server-2012-9390e563-d90d-e91c-b702-23d492f89c16",
+    "url": "https://support.microsoft.com/help/3205409"
+  },
+  "4010320": {
+    "date": "2017-03-14",
+    "uuid": "697b8400-0448-00e7-1443-411d35bdf880",
+    "slug": "ms17-019-security-update-for-active-directory-federation-services-march-14-2017-697b8400-0448-00e7-1443-411d35bdf880",
+    "url": "https://support.microsoft.com/help/4010320"
+  },
+  "3208223": {
+    "date": "2017-03-14",
+    "uuid": "7f2a0628-24bb-2af8-f233-0e91e9a4de3a",
+    "slug": "ms17-020-security-update-for-windows-dvd-maker-march-14-2017-7f2a0628-24bb-2af8-f233-0e91e9a4de3a",
+    "url": "https://support.microsoft.com/help/3208223"
+  },
+  "4010318": {
+    "date": "2017-03-14",
+    "uuid": "33f3cfce-5301-8394-2159-768b236d626b",
+    "slug": "ms17-021-security-update-for-windows-directshow-march-14-2017-33f3cfce-5301-8394-2159-768b236d626b",
+    "url": "https://support.microsoft.com/help/4010318"
+  },
+  "4012217": {
+    "date": "2017-03-01",
+    "uuid": "3032b8e9-6623-bb30-6151-d14bbc0c5960",
+    "slug": "march-2017-security-monthly-quality-rollup-for-windows-server-2012-3032b8e9-6623-bb30-6151-d14bbc0c5960",
+    "url": "https://support.microsoft.com/help/4012217"
   }
 }
