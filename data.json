@@ -13672,5 +13672,71 @@
     "uuid": "3032b8e9-6623-bb30-6151-d14bbc0c5960",
     "slug": "march-2017-security-monthly-quality-rollup-for-windows-server-2012-3032b8e9-6623-bb30-6151-d14bbc0c5960",
     "url": "https://support.microsoft.com/help/4012217"
+  },
+  "3172522": {
+    "date": "2013-01-08",
+    "uuid": "33fec3e2-f3e4-3247-198a-a7321f451932",
+    "slug": "description-of-the-security-update-for-office-2013-january-8-2019-33fec3e2-f3e4-3247-198a-a7321f451932",
+    "url": "https://support.microsoft.com/help/3172522"
+  },
+  "4018378": {
+    "date": "2018-07-03",
+    "uuid": "0ed82ea9-6123-cf38-13ce-bcd3e7645ea5",
+    "slug": "july-3-2018-update-for-office-2013-kb4018378-0ed82ea9-6123-cf38-13ce-bcd3e7645ea5",
+    "url": "https://support.microsoft.com/help/4018378"
+  },
+  "3054816": {
+    "date": "2013-08-11",
+    "uuid": "86ac393b-640d-78f4-9198-022a9cadf521",
+    "slug": "ms15-081-description-of-the-security-update-for-office-2013-august-11-2015-86ac393b-640d-78f4-9198-022a9cadf521",
+    "url": "https://support.microsoft.com/help/3054816"
+  },
+  "2889863": {
+    "date": "2015-06-09",
+    "uuid": "ba27f885-0681-8d89-c621-c3e09169675d",
+    "slug": "june-9-2015-update-for-office-2013-kb2889863-ba27f885-0681-8d89-c621-c3e09169675d",
+    "url": "https://support.microsoft.com/help/2889863"
+  },
+  "4022212": {
+    "date": "2018-08-07",
+    "uuid": "b1bcf78b-b017-1b65-a060-8f12a0ae7c4e",
+    "slug": "august-7-2018-update-for-office-2013-kb4022212-b1bcf78b-b017-1b65-a060-8f12a0ae7c4e",
+    "url": "https://support.microsoft.com/help/4022212"
+  },
+  "2883095": {
+    "date": "2014-10-14",
+    "uuid": "6bcd8b4f-540b-dcbf-3429-ffc0bd5f4b60",
+    "slug": "october-14-2014-update-for-office-2013-kb2883095-6bcd8b4f-540b-dcbf-3429-ffc0bd5f4b60",
+    "url": "https://support.microsoft.com/help/2883095"
+  },
+  "4462200": {
+    "date": "2019-04-02",
+    "uuid": "8c69ee78-6d09-a058-8806-1f47e65cd71d",
+    "slug": "april-2-2019-update-for-office-2013-kb4462200-8c69ee78-6d09-a058-8806-1f47e65cd71d",
+    "url": "https://support.microsoft.com/help/4462200"
+  },
+  "5001952": {
+    "date": "2013-07-11",
+    "uuid": "1dd3337e-b415-407e-a482-c5ebabb87407",
+    "slug": "description-of-the-security-update-for-office-2013-july-11-2023-kb5001952-1dd3337e-b415-407e-a482-c5ebabb87407",
+    "url": "https://support.microsoft.com/help/5001952"
+  },
+  "4464542": {
+    "date": "2013-05-11",
+    "uuid": "538d05ed-a92a-af0b-6070-d3c26231e777",
+    "slug": "description-of-the-security-update-for-office-2013-may-11-2021-kb4464542-538d05ed-a92a-af0b-6070-d3c26231e777",
+    "url": "https://support.microsoft.com/help/4464542"
+  },
+  "3039720": {
+    "date": "2015-10-13",
+    "uuid": "c1eb09b2-d65b-d8b6-4161-f9139e1c9283",
+    "slug": "october-13-2015-update-for-office-2013-kb3039720-c1eb09b2-d65b-d8b6-4161-f9139e1c9283",
+    "url": "https://support.microsoft.com/help/3039720"
+  },
+  "2601626": {
+    "date": "2011-11-08",
+    "uuid": "4741b85a-3f68-8f63-a1e3-85a352864d41",
+    "slug": "ms11-086-description-of-the-security-update-for-active-directory-november-8-2011-4741b85a-3f68-8f63-a1e3-85a352864d41",
+    "url": "https://support.microsoft.com/help/2601626"
   }
 }
