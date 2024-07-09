@@ -27,4 +27,4 @@ jobs:
           git tag $TAG_NAME
           git push origin $TAG_NAME
       - name: Publish files to GitHub Releases
-        run: h release create $TAG_NAME data.json data.csv data.db --title "Release $TAG_NAME"
+        run: gh release create $TAG_NAME data.json data.csv data.db --title "Release $TAG_NAME"
