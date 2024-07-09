@@ -13738,5 +13738,59 @@
     "uuid": "4741b85a-3f68-8f63-a1e3-85a352864d41",
     "slug": "ms11-086-description-of-the-security-update-for-active-directory-november-8-2011-4741b85a-3f68-8f63-a1e3-85a352864d41",
     "url": "https://support.microsoft.com/help/2601626"
+  },
+  "2760344": {
+    "date": "344-04-08",
+    "uuid": "78d21d45-ccd3-0d43-54a6-21052db7b49f",
+    "slug": "description-of-the-office-2013-update-2760344-april-8-2014-78d21d45-ccd3-0d43-54a6-21052db7b49f",
+    "url": "https://support.microsoft.com/help/2760344"
+  },
+  "3178640": {
+    "date": "2018-11-06",
+    "uuid": "ab4c8290-bf25-3be5-d43d-4a04df63e1ee",
+    "slug": "november-6-2018-update-for-office-2013-kb3178640-ab4c8290-bf25-3be5-d43d-4a04df63e1ee",
+    "url": "https://support.microsoft.com/help/3178640"
+  },
+  "4011281": {
+    "date": "2018-05-01",
+    "uuid": "3d79ab4a-3190-5744-8e8c-a2b47d435762",
+    "slug": "may-1-2018-update-for-onenote-2013-kb4011281-3d79ab4a-3190-5744-8e8c-a2b47d435762",
+    "url": "https://support.microsoft.com/help/4011281"
+  },
+  "4040279": {
+    "date": "2017-09-01",
+    "uuid": "ae08a55c-9f45-1793-43fa-3c6a47da2c21",
+    "slug": "september-2017-updates-for-microsoft-office-ae08a55c-9f45-1793-43fa-3c6a47da2c21",
+    "url": "https://support.microsoft.com/help/4040279"
+  },
+  "975560": {
+    "date": "2010-02-09",
+    "uuid": "b4a65759-aef6-3bfa-cff1-a5cc70887948",
+    "slug": "ms10-013-description-of-the-security-update-for-quartz-february-9-2010-b4a65759-aef6-3bfa-cff1-a5cc70887948",
+    "url": "https://support.microsoft.com/help/975560"
+  },
+  "2761451": {
+    "date": "2012-11-13",
+    "uuid": "e09a9070-eff3-e4cc-53ee-f8efa8329802",
+    "slug": "ms12-071-cumulative-security-update-for-internet-explorer-november-13-2012-e09a9070-eff3-e4cc-53ee-f8efa8329802",
+    "url": "https://support.microsoft.com/help/2761451"
+  },
+  "2909921": {
+    "date": "2014-02-11",
+    "uuid": "7bf7e14d-ba62-8486-1656-a1541b96391e",
+    "slug": "ms14-010-cumulative-security-update-for-internet-explorer-february-11-2014-7bf7e14d-ba62-8486-1656-a1541b96391e",
+    "url": "https://support.microsoft.com/help/2909921"
+  },
+  "2909212": {
+    "date": "2014-02-11",
+    "uuid": "dc17a3a4-98c1-45ab-49cc-fe243f6cf129",
+    "slug": "ms14-011-description-of-the-security-update-for-visual-basic-scripting-edition-vbscript-5-7-february-11-2014-dc17a3a4-98c1-45ab-49cc-fe243f6cf129",
+    "url": "https://support.microsoft.com/help/2909212"
+  },
+  "2909210": {
+    "date": "2014-02-11",
+    "uuid": "8d360135-8bf6-bbdb-d7ec-ba1ced94011d",
+    "slug": "ms14-011-description-of-the-security-update-for-visual-basic-scripting-edition-vbscript-5-8-february-11-2014-8d360135-8bf6-bbdb-d7ec-ba1ced94011d",
+    "url": "https://support.microsoft.com/help/2909210"
   }
 }
