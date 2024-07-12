@@ -13792,5 +13792,107 @@
     "uuid": "8d360135-8bf6-bbdb-d7ec-ba1ced94011d",
     "slug": "ms14-011-description-of-the-security-update-for-visual-basic-scripting-edition-vbscript-5-8-february-11-2014-8d360135-8bf6-bbdb-d7ec-ba1ced94011d",
     "url": "https://support.microsoft.com/help/2909210"
+  },
+  "4022167": {
+    "date": "2013-08-08",
+    "uuid": "b2f7d43e-2786-3ca5-5a98-014c80cc8f3e",
+    "slug": "description-of-the-security-update-for-onenote-2013-august-8-2023-kb4022167-b2f7d43e-2786-3ca5-5a98-014c80cc8f3e",
+    "url": "https://support.microsoft.com/help/4022167"
+  },
+  "3085565": {
+    "date": "2016-07-05",
+    "uuid": "1d1a6d24-fbd4-1bae-242f-a35e0e2aba40",
+    "slug": "july-5-2016-update-for-office-2013-kb3085565-1d1a6d24-fbd4-1bae-242f-a35e0e2aba40",
+    "url": "https://support.microsoft.com/help/3085565"
+  },
+  "3054854": {
+    "date": "2015-06-09",
+    "uuid": "2547a806-768e-f529-6371-6265c590813d",
+    "slug": "june-9-2015-update-for-outlook-2013-kb3054854-2547a806-768e-f529-6371-6265c590813d",
+    "url": "https://support.microsoft.com/help/3054854"
+  },
+  "3054856": {
+    "date": "2015-06-09",
+    "uuid": "ce368c45-9983-8cfb-369c-166eb4c24d1c",
+    "slug": "june-9-2015-update-for-office-2013-kb3054856-ce368c45-9983-8cfb-369c-166eb4c24d1c",
+    "url": "https://support.microsoft.com/help/3054856"
+  },
+  "4022188": {
+    "date": "2013-07-10",
+    "uuid": "78732bdd-22c8-c19e-6b69-67007af59f65",
+    "slug": "description-of-the-security-update-for-office-2013-july-10-2018-78732bdd-22c8-c19e-6b69-67007af59f65",
+    "url": "https://support.microsoft.com/help/4022188"
+  },
+  "4011253": {
+    "date": "2013-05-08",
+    "uuid": "c8e4c3cc-d88b-bd7f-e449-befaa8ebef39",
+    "slug": "description-of-the-security-update-for-office-2013-may-8-2018-c8e4c3cc-d88b-bd7f-e449-befaa8ebef39",
+    "url": "https://support.microsoft.com/help/4011253"
+  },
+  "3054783": {
+    "date": "2015-06-09",
+    "uuid": "6ccad170-e336-d3cb-4692-1eea71b30549",
+    "slug": "june-9-2015-update-for-office-2013-kb3054783-6ccad170-e336-d3cb-4692-1eea71b30549",
+    "url": "https://support.microsoft.com/help/3054783"
+  },
+  "4022189": {
+    "date": "2013-07-10",
+    "uuid": "a4a9c8d5-2281-d818-2b3d-7adb1fbd387b",
+    "slug": "description-of-the-security-update-for-office-2013-july-10-2018-a4a9c8d5-2281-d818-2b3d-7adb1fbd387b",
+    "url": "https://support.microsoft.com/help/4022189"
+  },
+  "4011254": {
+    "date": "2013-05-08",
+    "uuid": "6c584c9b-1e63-7a28-ec1b-161b9b92735f",
+    "slug": "description-of-the-security-update-for-office-2013-may-8-2018-6c584c9b-1e63-7a28-ec1b-161b9b92735f",
+    "url": "https://support.microsoft.com/help/4011254"
+  },
+  "4475562": {
+    "date": "2019-09-03",
+    "uuid": "98bbdf46-feb4-9ae1-91dc-340a860dd8dd",
+    "slug": "september-3-2019-update-for-office-2013-kb4475562-98bbdf46-feb4-9ae1-91dc-340a860dd8dd",
+    "url": "https://support.microsoft.com/help/4475562"
+  },
+  "4484108": {
+    "date": "2013-09-14",
+    "uuid": "c0eccc0b-46e5-6a39-ef33-2b88657e1bf5",
+    "slug": "description-of-the-security-update-for-office-2013-september-14-2021-kb4484108-c0eccc0b-46e5-6a39-ef33-2b88657e1bf5",
+    "url": "https://support.microsoft.com/help/4484108"
+  },
+  "4018375": {
+    "date": "2013-07-09",
+    "uuid": "46d730c5-1ec5-fe29-ea88-4c0f978a2fe4",
+    "slug": "description-of-the-security-update-for-office-2013-july-9-2019-46d730c5-1ec5-fe29-ea88-4c0f978a2fe4",
+    "url": "https://support.microsoft.com/help/4018375"
+  },
+  "3039778": {
+    "date": "2015-10-13",
+    "uuid": "1259a18b-bf29-02ef-16a5-3120fddbb5d1",
+    "slug": "october-13-2015-update-for-office-2013-kb3039778-1259a18b-bf29-02ef-16a5-3120fddbb5d1",
+    "url": "https://support.microsoft.com/help/3039778"
+  },
+  "4464534": {
+    "date": "2016-07-09",
+    "uuid": "806081ae-e012-0324-9a3f-5eebdc65603e",
+    "slug": "description-of-the-security-update-for-office-2016-july-9-2019-806081ae-e012-0324-9a3f-5eebdc65603e",
+    "url": "https://support.microsoft.com/help/4464534"
+  },
+  "2964736": {
+    "date": "2012-06-10",
+    "uuid": "267a92fb-fb4c-5d95-a7c5-fe43ce6a5b9b",
+    "slug": "ms14-036-description-of-the-security-update-for-windows-8-1-windows-server-2012-rt-windows-8-and-windows-server-2012-june-10-2014-267a92fb-fb4c-5d95-a7c5-fe43ce6a5b9b",
+    "url": "https://support.microsoft.com/help/2964736"
+  },
+  "2964718": {
+    "date": "2014-06-10",
+    "uuid": "5d24dc27-3d1c-8e73-8b9d-e2ecc96d3a36",
+    "slug": "ms14-036-description-of-the-security-update-for-windows-8-1-and-windows-server-2012-r2-june-10-2014-5d24dc27-3d1c-8e73-8b9d-e2ecc96d3a36",
+    "url": "https://support.microsoft.com/help/2964718"
+  },
+  "2881071": {
+    "date": "2010-08-12",
+    "uuid": "18504184-d179-746c-95d2-e41cf5e94a9c",
+    "slug": "ms14-036-description-of-the-security-update-for-office-2010-august-12-2014-18504184-d179-746c-95d2-e41cf5e94a9c",
+    "url": "https://support.microsoft.com/help/2881071"
   }
 }
