@@ -14,7 +14,7 @@ jobs:
       - name: Set up Python 3.12
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: '3.12'
       - name: Install csvs-to-sqlite
         run: pip install csvs-to-sqlite
       - name: Convert JSON to CSV
@@ -28,3 +28,5 @@ jobs:
           git push origin $TAG_NAME
       - name: Publish files to GitHub Releases
         run: gh release create $TAG_NAME data.json data.csv data.db --title "Release $TAG_NAME"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
