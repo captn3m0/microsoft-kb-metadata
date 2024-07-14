@@ -13894,5 +13894,47 @@
     "uuid": "18504184-d179-746c-95d2-e41cf5e94a9c",
     "slug": "ms14-036-description-of-the-security-update-for-office-2010-august-12-2014-18504184-d179-746c-95d2-e41cf5e94a9c",
     "url": "https://support.microsoft.com/help/2881071"
+  },
+  "3039746": {
+    "date": "2013-03-08",
+    "uuid": "a86aa888-552a-ace5-2909-15108f0a8160",
+    "slug": "ms16-029-description-of-the-security-update-for-office-2013-march-8-2016-a86aa888-552a-ace5-2909-15108f0a8160",
+    "url": "https://support.microsoft.com/help/3039746"
+  },
+  "2910941": {
+    "date": "2013-02-10",
+    "uuid": "94cec574-0777-d92c-d0fb-359bf1b899c3",
+    "slug": "ms15-013-description-of-the-security-update-for-microsoft-office-2013-february-10-2015-94cec574-0777-d92c-d0fb-359bf1b899c3",
+    "url": "https://support.microsoft.com/help/2910941"
+  },
+  "4092455": {
+    "date": "2019-03-05",
+    "uuid": "af69f6d6-e84f-30b2-5860-c71e3f8f8d6c",
+    "slug": "march-5-2019-update-for-office-2013-kb4092455-af69f6d6-e84f-30b2-5860-c71e3f8f8d6c",
+    "url": "https://support.microsoft.com/help/4092455"
+  },
+  "4464506": {
+    "date": "2013-07-11",
+    "uuid": "728d1416-b370-58fa-e164-7551d61fef0b",
+    "slug": "description-of-the-security-update-for-office-2013-july-11-2023-kb4464506-728d1416-b370-58fa-e164-7551d61fef0b",
+    "url": "https://support.microsoft.com/help/4464506"
+  },
+  "3115404": {
+    "date": "2016-08-02",
+    "uuid": "7d7575ab-4d43-8d2b-f66f-a11f3670c8f8",
+    "slug": "august-2-2016-update-for-outlook-2013-junk-email-filter-kb3115404-7d7575ab-4d43-8d2b-f66f-a11f3670c8f8",
+    "url": "https://support.microsoft.com/help/3115404"
+  },
+  "5002449": {
+    "date": "2013-08-08",
+    "uuid": "33ee5e89-98f5-4b28-9a58-7cfc1ad61799",
+    "slug": "description-of-the-security-update-for-outlook-2013-august-8-2023-kb5002449-33ee5e89-98f5-4b28-9a58-7cfc1ad61799",
+    "url": "https://support.microsoft.com/help/5002449"
+  },
+  "2918614": {
+    "date": "2014-08-12",
+    "uuid": "ec7fe146-1c4c-9144-4472-d6497ee827bf",
+    "slug": "ms14-049-description-of-the-security-update-for-windows-installer-service-august-12-2014-ec7fe146-1c4c-9144-4472-d6497ee827bf",
+    "url": "https://support.microsoft.com/help/2918614"
   }
 }
