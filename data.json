@@ -13936,5 +13936,131 @@
     "uuid": "ec7fe146-1c4c-9144-4472-d6497ee827bf",
     "slug": "ms14-049-description-of-the-security-update-for-windows-installer-service-august-12-2014-ec7fe146-1c4c-9144-4472-d6497ee827bf",
     "url": "https://support.microsoft.com/help/2918614"
+  },
+  "3039766": {
+    "date": "2015-09-08",
+    "uuid": "22332161-d2cb-8cf1-90f7-1acfc59ea94c",
+    "slug": "september-8-2015-update-for-office-2013-kb3039766-22332161-d2cb-8cf1-90f7-1acfc59ea94c",
+    "url": "https://support.microsoft.com/help/3039766"
+  },
+  "5002399": {
+    "date": "2013-08-08",
+    "uuid": "d12ca8f4-5456-4d04-b7dd-a74b2ee4b3b6",
+    "slug": "description-of-the-security-update-for-powerpoint-2013-august-8-2023-kb5002399-d12ca8f4-5456-4d04-b7dd-a74b2ee4b3b6",
+    "url": "https://support.microsoft.com/help/5002399"
+  },
+  "5002197": {
+    "date": "2016-03-14",
+    "uuid": "7602041d-c2e5-4ba2-af44-3e55dbbd2fc7",
+    "slug": "description-of-the-security-update-for-office-2016-march-14-2023-kb5002197-7602041d-c2e5-4ba2-af44-3e55dbbd2fc7",
+    "url": "https://support.microsoft.com/help/5002197"
+  },
+  "5002143": {
+    "date": "2016-04-12",
+    "uuid": "fc2032e9-b064-457e-90ee-c1770737c7cd",
+    "slug": "description-of-the-security-update-for-office-2016-april-12-2022-kb5002143-fc2032e9-b064-457e-90ee-c1770737c7cd",
+    "url": "https://support.microsoft.com/help/5002143"
+  },
+  "3085538": {
+    "date": "2016-10-13",
+    "uuid": "bc431b3f-8935-55e2-1135-e335191bec84",
+    "slug": "ms15-081-description-of-the-security-update-for-office-2016-october-13-2015-bc431b3f-8935-55e2-1135-e335191bec84",
+    "url": "https://support.microsoft.com/help/3085538"
+  },
+  "3191929": {
+    "date": "2017-06-06",
+    "uuid": "ab03ac2b-22ce-0ed3-ab8c-f18790506edc",
+    "slug": "june-6-2017-update-for-office-2016-kb3191929-ab03ac2b-22ce-0ed3-ab8c-f18790506edc",
+    "url": "https://support.microsoft.com/help/3191929"
+  },
+  "4484136": {
+    "date": "2020-03-03",
+    "uuid": "acc44bde-80f0-cb64-251e-86d5ef41a9d8",
+    "slug": "march-3-2020-update-for-office-2016-language-interface-pack-kb4484136-acc44bde-80f0-cb64-251e-86d5ef41a9d8",
+    "url": "https://support.microsoft.com/help/4484136"
+  },
+  "5002181": {
+    "date": "2016-02-13",
+    "uuid": "a2882cfc-9e97-4486-a043-7849fca0976d",
+    "slug": "description-of-the-security-update-for-skype-for-business-2016-february-13-2024-kb5002181-a2882cfc-9e97-4486-a043-7849fca0976d",
+    "url": "https://support.microsoft.com/help/5002181"
+  },
+  "2920727": {
+    "date": "2016-01-12",
+    "uuid": "d8691423-609c-9739-5d8c-9c2df9bbff6c",
+    "slug": "ms16-004-description-of-the-security-update-for-office-2016-january-12-2016-d8691423-609c-9739-5d8c-9c2df9bbff6c",
+    "url": "https://support.microsoft.com/help/2920727"
+  },
+  "3178666": {
+    "date": "2017-04-04",
+    "uuid": "5ac73019-b9ea-a289-0189-dc61e8ceaa12",
+    "slug": "april-4-2017-update-for-office-2016-kb3178666-5ac73019-b9ea-a289-0189-dc61e8ceaa12",
+    "url": "https://support.microsoft.com/help/3178666"
+  },
+  "3191869": {
+    "date": "2016-11-08",
+    "uuid": "1839c985-1e3c-d131-5c51-19c81cd1eb40",
+    "slug": "description-of-the-security-update-for-office-2016-november-8-2022-kb3191869-1839c985-1e3c-d131-5c51-19c81cd1eb40",
+    "url": "https://support.microsoft.com/help/3191869"
+  },
+  "5002620": {
+    "date": "2016-07-09",
+    "uuid": "6b34a888-85a3-4a7d-8219-480ff12b82fe",
+    "slug": "description-of-the-security-update-for-office-2016-july-9-2024-kb5002620-6b34a888-85a3-4a7d-8219-480ff12b82fe",
+    "url": "https://support.microsoft.com/help/5002620"
+  },
+  "2544641": {
+    "date": "2011-10-11",
+    "uuid": "9d0783a0-3669-6e43-bdc1-5f7c0bf75354",
+    "slug": "ms11-079-vulnerabilities-in-microsoft-forefront-unified-access-gateway-could-cause-remote-code-execution-october-11-2011-9d0783a0-3669-6e43-bdc1-5f7c0bf75354",
+    "url": "https://support.microsoft.com/help/2544641"
+  },
+  "2522483": {
+    "date": "2011-10-11",
+    "uuid": "8e08e5e3-1697-a1fc-a701-75b1626c8f95",
+    "slug": "ms11-079-description-of-the-security-update-for-unified-access-gateway-2010-update-1-october-11-2011-8e08e5e3-1697-a1fc-a701-75b1626c8f95",
+    "url": "https://support.microsoft.com/help/2522483"
+  },
+  "2522484": {
+    "date": "2011-10-11",
+    "uuid": "8714d489-f407-3663-04ea-2bb2fe6c5c3d",
+    "slug": "ms11-079-description-of-the-security-update-for-unified-access-gateway-2010-update-2-october-11-2011-8714d489-f407-3663-04ea-2bb2fe6c5c3d",
+    "url": "https://support.microsoft.com/help/2522484"
+  },
+  "2579598": {
+    "date": "2009-10-11",
+    "uuid": "5879dc4a-6373-5ae5-420b-d3678a577aed",
+    "slug": "ms11-082-description-of-the-security-update-for-microsoft-host-integration-server-2009-october-11-2011-5879dc4a-6373-5ae5-420b-d3678a577aed",
+    "url": "https://support.microsoft.com/help/2579598"
+  },
+  "2579599": {
+    "date": "2010-10-11",
+    "uuid": "1e6e7e1b-fab0-ef5e-7eee-0a2eac9ac192",
+    "slug": "ms11-082-description-of-the-security-update-for-microsoft-host-integration-server-2010-october-11-2011-1e6e7e1b-fab0-ef5e-7eee-0a2eac9ac192",
+    "url": "https://support.microsoft.com/help/2579599"
+  },
+  "2588516": {
+    "date": "2011-11-08",
+    "uuid": "11d0784e-0343-87e5-45d0-640852e8c301",
+    "slug": "ms11-083-vulnerability-in-tcp-ip-could-allow-remote-code-execution-november-8-2011-11d0784e-0343-87e5-45d0-640852e8c301",
+    "url": "https://support.microsoft.com/help/2588516"
+  },
+  "2617657": {
+    "date": "2011-11-08",
+    "uuid": "e3643a67-0d35-ebbd-f273-cd4336f4e2bf",
+    "slug": "ms11-084-vulnerability-in-windows-kernel-mode-drivers-could-allow-denial-of-service-november-8-2011-e3643a67-0d35-ebbd-f273-cd4336f4e2bf",
+    "url": "https://support.microsoft.com/help/2617657"
+  },
+  "2620704": {
+    "date": "2011-11-08",
+    "uuid": "aa2cff19-dcec-a9d5-0638-84eb311ba9e1",
+    "slug": "ms11-085-vulnerability-in-windows-mail-and-windows-meeting-space-could-allow-remote-code-execution-november-8-2011-aa2cff19-dcec-a9d5-0638-84eb311ba9e1",
+    "url": "https://support.microsoft.com/help/2620704"
+  },
+  "2888505": {
+    "date": "2013-11-12",
+    "uuid": "86545b69-a3a1-fcfc-2de3-97167fce1100",
+    "slug": "ms13-088-cumulative-security-update-for-internet-explorer-november-12-2013-86545b69-a3a1-fcfc-2de3-97167fce1100",
+    "url": "https://support.microsoft.com/help/2888505"
   }
 }
