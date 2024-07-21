@@ -14230,5 +14230,89 @@
     "uuid": "5a16a6e5-b79f-0360-e6da-2dd3efdd02ae",
     "slug": "november-2016-security-monthly-quality-rollup-for-windows-server-2012-5a16a6e5-b79f-0360-e6da-2dd3efdd02ae",
     "url": "https://support.microsoft.com/help/3197877"
+  },
+  "4018332": {
+    "date": "2013-10-12",
+    "uuid": "db221ecf-83a9-2546-9003-058814078bc1",
+    "slug": "description-of-the-security-update-for-office-2013-october-12-2021-kb4018332-db221ecf-83a9-2546-9003-058814078bc1",
+    "url": "https://support.microsoft.com/help/4018332"
+  },
+  "4011155": {
+    "date": "2018-08-07",
+    "uuid": "af430341-b324-5292-b599-cd21bf267a00",
+    "slug": "august-7-2018-update-for-office-2013-kb4011155-af430341-b324-5292-b599-cd21bf267a00",
+    "url": "https://support.microsoft.com/help/4011155"
+  },
+  "3114721": {
+    "date": "2016-08-02",
+    "uuid": "058c4eeb-c588-ec34-3737-e7b94d501a71",
+    "slug": "august-2-2016-update-for-sharepoint-designer-2013-kb3114721-058c4eeb-c588-ec34-3737-e7b94d501a71",
+    "url": "https://support.microsoft.com/help/3114721"
+  },
+  "2863836": {
+    "date": "2014-05-13",
+    "uuid": "9564fded-bfbc-e727-1c44-aed70f596a31",
+    "slug": "ms14-022-description-of-the-security-update-for-microsoft-sharepoint-designer-2013-32-bit-versions-spd-may-13-2014-9564fded-bfbc-e727-1c44-aed70f596a31",
+    "url": "https://support.microsoft.com/help/2863836"
+  },
+  "2752096": {
+    "date": "2014-05-13",
+    "uuid": "191d2242-2b71-a943-7cf4-35c57900f8c5",
+    "slug": "ms14-022-description-of-the-security-update-for-sharepoint-designer-2013-spdcore-may-13-2014-191d2242-2b71-a943-7cf4-35c57900f8c5",
+    "url": "https://support.microsoft.com/help/2752096"
+  },
+  "3213571": {
+    "date": "2017-08-01",
+    "uuid": "ae695838-e60b-9df0-a829-885f86afa22e",
+    "slug": "august-1-2017-update-for-sharepoint-server-2013-client-components-sdk-kb3213571-ae695838-e60b-9df0-a829-885f86afa22e",
+    "url": "https://support.microsoft.com/help/3213571"
+  },
+  "954157": {
+    "date": "2009-12-08",
+    "uuid": "680127c6-f4fd-e533-b641-6ab3a25fb4f4",
+    "slug": "microsoft-security-advisory-vulnerabilities-in-the-indeo-codec-could-allow-remote-code-execution-december-8-2009-680127c6-f4fd-e533-b641-6ab3a25fb4f4",
+    "url": "https://support.microsoft.com/help/954157"
+  },
+  "2651026": {
+    "date": "2012-02-14",
+    "uuid": "02ebaa38-d1e3-ef1d-e82b-251c7829df19",
+    "slug": "ms12-016-vulnerabilities-in-the-net-framework-and-microsoft-silverlight-could-allow-remote-code-execution-february-14-2012-02ebaa38-d1e3-ef1d-e82b-251c7829df19",
+    "url": "https://support.microsoft.com/help/2651026"
+  },
+  "2647170": {
+    "date": "2012-03-13",
+    "uuid": "a7812f64-53ea-4d56-f135-2a7e13db637a",
+    "slug": "ms12-017-vulnerability-in-dns-server-could-allow-denial-of-service-march-13-2012-a7812f64-53ea-4d56-f135-2a7e13db637a",
+    "url": "https://support.microsoft.com/help/2647170"
+  },
+  "2681578": {
+    "date": "2012-05-08",
+    "uuid": "1ec8f82f-88a6-225a-b521-4e2d19391a21",
+    "slug": "ms12-034-combined-security-update-for-microsoft-office-windows-net-framework-and-silverlight-may-8-2012-1ec8f82f-88a6-225a-b521-4e2d19391a21",
+    "url": "https://support.microsoft.com/help/2681578"
+  },
+  "2693777": {
+    "date": "2012-05-08",
+    "uuid": "73d12692-95a0-7259-081f-dc56701a725d",
+    "slug": "ms12-035-vulnerabilities-in-the-net-framework-could-allow-remote-code-execution-may-8-2012-73d12692-95a0-7259-081f-dc56701a725d",
+    "url": "https://support.microsoft.com/help/2693777"
+  },
+  "2655992": {
+    "date": "2012-07-10",
+    "uuid": "dea4d394-1ed0-b46c-3f5a-0b05a2be53f7",
+    "slug": "ms12-049-vulnerability-in-tls-could-allow-information-disclosure-july-10-2012-dea4d394-1ed0-b46c-3f5a-0b05a2be53f7",
+    "url": "https://support.microsoft.com/help/2655992"
+  },
+  "2695502": {
+    "date": "2012-07-10",
+    "uuid": "12d470cc-02cf-0e70-d054-e7c89bf90ded",
+    "slug": "ms12-050-vulnerabilities-in-sharepoint-could-allow-elevation-of-privilege-july-10-2012-12d470cc-02cf-0e70-d054-e7c89bf90ded",
+    "url": "https://support.microsoft.com/help/2695502"
+  },
+  "3071756": {
+    "date": "2015-08-11",
+    "uuid": "509b184f-13c4-ea4e-b6d9-9e772ade91fa",
+    "slug": "ms15-085-description-of-the-security-update-for-windows-mount-manager-august-11-2015-509b184f-13c4-ea4e-b6d9-9e772ade91fa",
+    "url": "https://support.microsoft.com/help/3071756"
   }
 }
