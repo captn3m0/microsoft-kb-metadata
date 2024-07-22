@@ -14314,5 +14314,89 @@
     "uuid": "509b184f-13c4-ea4e-b6d9-9e772ade91fa",
     "slug": "ms15-085-description-of-the-security-update-for-windows-mount-manager-august-11-2015-509b184f-13c4-ea4e-b6d9-9e772ade91fa",
     "url": "https://support.microsoft.com/help/3071756"
+  },
+  "2863854": {
+    "date": "2013-05-13",
+    "uuid": "43d7728c-339d-9b17-d5ad-46fdae356154",
+    "slug": "ms14-022-description-of-the-security-update-for-sharepoint-designer-2013-may-13-2014-43d7728c-339d-9b17-d5ad-46fdae356154",
+    "url": "https://support.microsoft.com/help/2863854"
+  },
+  "3172473": {
+    "date": "2019-02-05",
+    "uuid": "38b7b882-ccd3-f923-d304-59d07d20f577",
+    "slug": "february-5-2019-update-for-office-2013-kb3172473-38b7b882-ccd3-f923-d304-59d07d20f577",
+    "url": "https://support.microsoft.com/help/3172473"
+  },
+  "5002519": {
+    "date": "2016-02-13",
+    "uuid": "6a886179-73ca-4ed9-bbe3-2883cb235751",
+    "slug": "description-of-the-security-update-for-office-2016-february-13-2024-kb5002519-6a886179-73ca-4ed9-bbe3-2883cb235751",
+    "url": "https://support.microsoft.com/help/5002519"
+  },
+  "5002100": {
+    "date": "2016-09-12",
+    "uuid": "2965dcfd-8ecd-4104-8265-9ccff9a91d60",
+    "slug": "description-of-the-security-update-for-office-2016-september-12-2023-kb5002100-2965dcfd-8ecd-4104-8265-9ccff9a91d60",
+    "url": "https://support.microsoft.com/help/5002100"
+  },
+  "4022133": {
+    "date": "2018-05-01",
+    "uuid": "c3196c81-57a9-66e4-4dd9-bc2dbfad01eb",
+    "slug": "may-1-2018-update-for-office-2016-kb4022133-c3196c81-57a9-66e4-4dd9-bc2dbfad01eb",
+    "url": "https://support.microsoft.com/help/4022133"
+  },
+  "4462148": {
+    "date": "2016-08-09",
+    "uuid": "7f31741d-9109-c2b3-8cd6-5286e316f987",
+    "slug": "description-of-the-security-update-for-office-2016-august-9-2022-kb4462148-7f31741d-9109-c2b3-8cd6-5286e316f987",
+    "url": "https://support.microsoft.com/help/4462148"
+  },
+  "4022162": {
+    "date": "2016-01-08",
+    "uuid": "713f6a4a-f170-786a-d4a8-bcb6dd96080e",
+    "slug": "description-of-the-security-update-for-office-2016-january-8-2019-713f6a4a-f170-786a-d4a8-bcb6dd96080e",
+    "url": "https://support.microsoft.com/help/4022162"
+  },
+  "4022193": {
+    "date": "2018-06-05",
+    "uuid": "1686f241-396c-7e48-df60-c950fc7097ba",
+    "slug": "june-5-2018-update-for-office-2016-kb4022193-1686f241-396c-7e48-df60-c950fc7097ba",
+    "url": "https://support.microsoft.com/help/4022193"
+  },
+  "4484145": {
+    "date": "2019-11-05",
+    "uuid": "9f50cf4a-3b47-5838-1224-ec591c4482bb",
+    "slug": "november-5-2019-update-for-office-2016-kb4484145-9f50cf4a-3b47-5838-1224-ec591c4482bb",
+    "url": "https://support.microsoft.com/help/4484145"
+  },
+  "2920717": {
+    "date": "2019-05-07",
+    "uuid": "0e1fe1e4-f070-0547-6322-7ca46ff84aa0",
+    "slug": "may-7-2019-update-for-office-2016-kb2920717-0e1fe1e4-f070-0547-6322-7ca46ff84aa0",
+    "url": "https://support.microsoft.com/help/2920717"
+  },
+  "4493154": {
+    "date": "2016-07-11",
+    "uuid": "c3dcd1d0-55ce-62fa-e27e-30a5f60acc8a",
+    "slug": "description-of-the-security-update-for-office-2016-july-11-2023-kb4493154-c3dcd1d0-55ce-62fa-e27e-30a5f60acc8a",
+    "url": "https://support.microsoft.com/help/4493154"
+  },
+  "4011628": {
+    "date": "2016-04-10",
+    "uuid": "e2353eff-fbea-d551-19e1-1836adf7b57d",
+    "slug": "description-of-the-security-update-for-office-2016-april-10-2018-e2353eff-fbea-d551-19e1-1836adf7b57d",
+    "url": "https://support.microsoft.com/help/4011628"
+  },
+  "4484434": {
+    "date": "2016-08-08",
+    "uuid": "c169179a-059a-1aad-9ba4-72e8cc0e0169",
+    "slug": "description-of-the-security-update-for-onenote-2016-august-8-2023-kb4484434-c169179a-059a-1aad-9ba4-72e8cc0e0169",
+    "url": "https://support.microsoft.com/help/4484434"
+  },
+  "2977292": {
+    "date": "2014-10-14",
+    "uuid": "d9ba4b83-b4e9-2c01-83a7-e42706e671af",
+    "slug": "microsoft-security-advisory-update-for-microsoft-eap-implementation-that-enables-the-use-of-tls-october-14-2014-d9ba4b83-b4e9-2c01-83a7-e42706e671af",
+    "url": "https://support.microsoft.com/help/2977292"
   }
 }
