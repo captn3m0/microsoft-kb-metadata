@@ -14398,5 +14398,167 @@
     "uuid": "d9ba4b83-b4e9-2c01-83a7-e42706e671af",
     "slug": "microsoft-security-advisory-update-for-microsoft-eap-implementation-that-enables-the-use-of-tls-october-14-2014-d9ba4b83-b4e9-2c01-83a7-e42706e671af",
     "url": "https://support.microsoft.com/help/2977292"
+  },
+  "4462205": {
+    "date": "2013-01-11",
+    "uuid": "27880644-9830-c053-7e5f-bcf1241b6d9c",
+    "slug": "description-of-the-security-update-for-office-2013-january-11-2022-kb4462205-27880644-9830-c053-7e5f-bcf1241b6d9c",
+    "url": "https://support.microsoft.com/help/4462205"
+  },
+  "5002121": {
+    "date": "2013-07-12",
+    "uuid": "0fbb672a-ae65-4646-a059-0c3e83edc458",
+    "slug": "description-of-the-security-update-for-office-2013-july-12-2022-kb5002121-0fbb672a-ae65-4646-a059-0c3e83edc458",
+    "url": "https://support.microsoft.com/help/5002121"
+  },
+  "4486726": {
+    "date": "2013-12-14",
+    "uuid": "7683ff6f-25fe-55a3-c895-68264d6c4543",
+    "slug": "description-of-the-security-update-for-office-2013-december-14-2021-kb4486726-7683ff6f-25fe-55a3-c895-68264d6c4543",
+    "url": "https://support.microsoft.com/help/4486726"
+  },
+  "3054828": {
+    "date": "2015-07-14",
+    "uuid": "6d8be716-6230-b389-8eeb-8bde4ce3ef52",
+    "slug": "july-14-2015-update-for-visio-compatibility-pack-kb3054828-6d8be716-6230-b389-8eeb-8bde4ce3ef52",
+    "url": "https://support.microsoft.com/help/3054828"
+  },
+  "3135996": {
+    "date": "2016-03-08",
+    "uuid": "40b897e7-b684-1927-d7bf-1f1601ad87e4",
+    "slug": "ms16-035-description-of-the-security-update-for-the-net-framework-4-5-2-in-windows-vista-service-pack-2-windows-server-2008-service-pack-2-windows-7-service-pack-1-and-windows-server-2008-r2-service-pack-1-march-8-2016-40b897e7-b684-1927-d7bf-1f1601ad87e4",
+    "url": "https://support.microsoft.com/help/3135996"
+  },
+  "3136000": {
+    "date": "2016-03-08",
+    "uuid": "f757040b-492d-9060-fa9a-5c4f46c9ae59",
+    "slug": "ms16-035-description-of-the-security-update-for-the-net-framework-4-6-in-windows-vista-sp2-windows-server-2008-sp2-windows-7-sp1-and-windows-server-2008-r2-sp1-and-4-6-1-in-windows-7-sp1-and-windows-server-2008-r2-sp1-march-8-2016-f757040b-492d-9060-fa9a-5c4f46c9ae59",
+    "url": "https://support.microsoft.com/help/3136000"
+  },
+  "3138327": {
+    "date": "2016-03-16",
+    "uuid": "8b536c1a-6e36-d5ad-2b5b-acfec449b497",
+    "slug": "ms16-029-description-of-the-security-update-for-office-2016-for-mac-march-16-2016-8b536c1a-6e36-d5ad-2b5b-acfec449b497",
+    "url": "https://support.microsoft.com/help/3138327"
+  },
+  "5013944": {
+    "date": "2022-05-10",
+    "uuid": "05509703-187a-4d5b-97f5-8793dbb22991",
+    "slug": "may-10-2022-kb5013944-os-build-20348-707-05509703-187a-4d5b-97f5-8793dbb22991",
+    "url": "https://support.microsoft.com/help/5013944"
+  },
+  "5012637": {
+    "date": "2022-04-25",
+    "uuid": "2233d69c-d4a5-4be9-8c24-04a450861a8d",
+    "slug": "april-25-2022-kb5012637-os-build-20348-681-preview-2233d69c-d4a5-4be9-8c24-04a450861a8d",
+    "url": "https://support.microsoft.com/help/5012637"
+  },
+  "5012604": {
+    "date": "2022-04-12",
+    "uuid": "25216e88-f9c1-4b9f-a131-8f8b1149d0bb",
+    "slug": "april-12-2022-kb5012604-os-build-20348-643-25216e88-f9c1-4b9f-a131-8f8b1149d0bb",
+    "url": "https://support.microsoft.com/help/5012604"
+  },
+  "5011558": {
+    "date": "2022-03-22",
+    "uuid": "8bb6ded6-7515-44eb-9fa0-e214eb6d7a75",
+    "slug": "march-22-2022-kb5011558-os-build-20348-617-preview-8bb6ded6-7515-44eb-9fa0-e214eb6d7a75",
+    "url": "https://support.microsoft.com/help/5011558"
+  },
+  "5011497": {
+    "date": "2022-03-08",
+    "uuid": "d7197493-db3c-486d-94bd-37c6235d2fbf",
+    "slug": "march-8-2022-kb5011497-os-build-20348-587-d7197493-db3c-486d-94bd-37c6235d2fbf",
+    "url": "https://support.microsoft.com/help/5011497"
+  },
+  "5010421": {
+    "date": "2022-02-15",
+    "uuid": "1475723b-9666-415d-a510-e849e9d23425",
+    "slug": "february-15-2022-kb5010421-os-build-20348-558-preview-1475723b-9666-415d-a510-e849e9d23425",
+    "url": "https://support.microsoft.com/help/5010421"
+  },
+  "5010354": {
+    "date": "2022-02-08",
+    "uuid": "c5355158-0f4d-4106-90f7-0a5a6c7376b9",
+    "slug": "february-8-2022-kb5010354-os-build-20348-524-c5355158-0f4d-4106-90f7-0a5a6c7376b9",
+    "url": "https://support.microsoft.com/help/5010354"
+  },
+  "5009608": {
+    "date": "2022-01-25",
+    "uuid": "54285445-4a79-4bc1-9c9c-fbe7299e1c29",
+    "slug": "january-25-2022-kb5009608-os-build-20348-502-preview-54285445-4a79-4bc1-9c9c-fbe7299e1c29",
+    "url": "https://support.microsoft.com/help/5009608"
+  },
+  "5010796": {
+    "date": "2022-01-17",
+    "uuid": "2e0408ba-10d4-4c68-9b3d-cc5fb8d6f4a8",
+    "slug": "january-17-2022-kb5010796-os-build-20348-473-out-of-band-2e0408ba-10d4-4c68-9b3d-cc5fb8d6f4a8",
+    "url": "https://support.microsoft.com/help/5010796"
+  },
+  "5009555": {
+    "date": "2022-01-11",
+    "uuid": "e3fb2b38-3506-4dc9-8216-5d3546a6d2a4",
+    "slug": "january-11-2022-kb5009555-os-build-20348-469-e3fb2b38-3506-4dc9-8216-5d3546a6d2a4",
+    "url": "https://support.microsoft.com/help/5009555"
+  },
+  "5010197": {
+    "date": "2022-01-05",
+    "uuid": "097be23e-dcea-47e7-b36e-4fea9a310e4e",
+    "slug": "january-5-2022-kb5010197-os-build-20348-407-out-of-band-097be23e-dcea-47e7-b36e-4fea9a310e4e",
+    "url": "https://support.microsoft.com/help/5010197"
+  },
+  "5008223": {
+    "date": "2021-12-14",
+    "uuid": "8c1d7fdb-734d-4d6c-b385-655ac5c8e6e4",
+    "slug": "december-14-2021-kb5008223-os-build-20348-405-8c1d7fdb-734d-4d6c-b385-655ac5c8e6e4",
+    "url": "https://support.microsoft.com/help/5008223"
+  },
+  "5007254": {
+    "date": "2021-11-22",
+    "uuid": "9a960291-d62e-486a-adcc-6babe5ae6fc1",
+    "slug": "november-22-2021-kb5007254-os-build-20348-380-preview-9a960291-d62e-486a-adcc-6babe5ae6fc1",
+    "url": "https://support.microsoft.com/help/5007254"
+  },
+  "5007205": {
+    "date": "2021-11-09",
+    "uuid": "af102e6f-cc7c-4cd4-8dc2-8b08d73d2b31",
+    "slug": "november-9-2021-kb5007205-os-build-20348-350-af102e6f-cc7c-4cd4-8dc2-8b08d73d2b31",
+    "url": "https://support.microsoft.com/help/5007205"
+  },
+  "5006745": {
+    "date": "2021-10-26",
+    "uuid": "8ff9319a-19e7-40c7-bbd1-cd70fcca066c",
+    "slug": "october-26-2021-kb5006745-os-build-20348-320-preview-8ff9319a-19e7-40c7-bbd1-cd70fcca066c",
+    "url": "https://support.microsoft.com/help/5006745"
+  },
+  "5006699": {
+    "date": "2021-10-12",
+    "uuid": "e0583b84-7957-4d8e-aba0-15131d1ef8a4",
+    "slug": "october-12-2021-kb5006699-os-build-20348-288-e0583b84-7957-4d8e-aba0-15131d1ef8a4",
+    "url": "https://support.microsoft.com/help/5006699"
+  },
+  "5005619": {
+    "date": "2021-09-27",
+    "uuid": "d5416d34-e4b7-4680-8747-7e995515c791",
+    "slug": "september-27-2021-kb5005619-os-build-20348-261-preview-d5416d34-e4b7-4680-8747-7e995515c791",
+    "url": "https://support.microsoft.com/help/5005619"
+  },
+  "5005575": {
+    "date": "2021-09-14",
+    "uuid": "239cf64a-6c2b-475a-b16e-1c19c7bf839b",
+    "slug": "september-14-2021-kb5005575-os-build-20348-230-239cf64a-6c2b-475a-b16e-1c19c7bf839b",
+    "url": "https://support.microsoft.com/help/5005575"
+  },
+  "5005104": {
+    "date": "2021-08-26",
+    "uuid": "36708554-9d62-4170-bf95-c3abf7efd9e4",
+    "slug": "august-26-2021-public-preview-non-security-update-kb5005104-36708554-9d62-4170-bf95-c3abf7efd9e4",
+    "url": "https://support.microsoft.com/help/5005104"
+  },
+  "5040430": {
+    "date": "2024-07-09",
+    "uuid": "0bb10c24-db8c-47eb-8fa9-9ebc06afa4e7",
+    "slug": "july-9-2024-kb5040430-os-build-17763-6054-0bb10c24-db8c-47eb-8fa9-9ebc06afa4e7",
+    "url": "https://support.microsoft.com/help/5040430"
   }
 }
