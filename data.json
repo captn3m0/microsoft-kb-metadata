@@ -14560,5 +14560,4043 @@
     "uuid": "0bb10c24-db8c-47eb-8fa9-9ebc06afa4e7",
     "slug": "july-9-2024-kb5040430-os-build-17763-6054-0bb10c24-db8c-47eb-8fa9-9ebc06afa4e7",
     "url": "https://support.microsoft.com/help/5040430"
+  },
+  "5002417": {
+    "date": "2013-08-08",
+    "uuid": "37b50098-cc39-41d8-ad73-fb65f0bf3ac5",
+    "slug": "description-of-the-security-update-for-visio-2013-august-8-2023-kb5002417-37b50098-cc39-41d8-ad73-fb65f0bf3ac5",
+    "url": "https://support.microsoft.com/help/5002417"
+  },
+  "5002332": {
+    "date": "2013-01-10",
+    "uuid": "89ee8677-e022-445d-aa83-8a8e71bfd4ba",
+    "slug": "description-of-the-security-update-for-visio-2013-january-10-2023-kb5002332-89ee8677-e022-445d-aa83-8a8e71bfd4ba",
+    "url": "https://support.microsoft.com/help/5002332"
+  },
+  "2817301": {
+    "date": "7301-04-08",
+    "uuid": "e1b7a6e1-7fee-98e1-1a7b-707e09a1c900",
+    "slug": "description-of-the-visio-viewer-2013-update-2817301-april-8-2014-e1b7a6e1-7fee-98e1-1a7b-707e09a1c900",
+    "url": "https://support.microsoft.com/help/2817301"
+  },
+  "3172533": {
+    "date": "2017-11-07",
+    "uuid": "6a2b88bd-5c56-873d-4bbf-661649383ff2",
+    "slug": "november-7-2017-update-for-office-2013-kb3172533-6a2b88bd-5c56-873d-4bbf-661649383ff2",
+    "url": "https://support.microsoft.com/help/3172533"
+  },
+  "4475525": {
+    "date": "2019-07-02",
+    "uuid": "ce8bdb71-22a5-955a-9665-3b788cf4fa24",
+    "slug": "july-2-2019-update-for-word-2013-kb4475525-ce8bdb71-22a5-955a-9665-3b788cf4fa24",
+    "url": "https://support.microsoft.com/help/4475525"
+  },
+  "5002483": {
+    "date": "2013-09-12",
+    "uuid": "353f78a5-481c-4b7d-95e0-c126fea573ee",
+    "slug": "description-of-the-security-update-for-word-2013-september-12-2023-kb5002483-353f78a5-481c-4b7d-95e0-c126fea573ee",
+    "url": "https://support.microsoft.com/help/5002483"
+  },
+  "5002445": {
+    "date": "2013-08-08",
+    "uuid": "d2dec42e-0279-4858-a5f1-3d678f3c3d8b",
+    "slug": "description-of-the-security-update-for-word-2013-august-8-2023-kb5002445-d2dec42e-0279-4858-a5f1-3d678f3c3d8b",
+    "url": "https://support.microsoft.com/help/5002445"
+  },
+  "3162081": {
+    "date": "2017-11-07",
+    "uuid": "8658fc34-d98f-e505-8574-9fac773125fe",
+    "slug": "november-7-2017-update-for-word-2013-kb3162081-8658fc34-d98f-e505-8574-9fac773125fe",
+    "url": "https://support.microsoft.com/help/3162081"
+  },
+  "3114499": {
+    "date": "2016-03-08",
+    "uuid": "5eb43feb-ed78-9155-def0-a105ada8bd62",
+    "slug": "march-8-2016-update-for-office-2013-kb3114499-5eb43feb-ed78-9155-def0-a105ada8bd62",
+    "url": "https://support.microsoft.com/help/3114499"
+  },
+  "3039701": {
+    "date": "2015-10-13",
+    "uuid": "35b5781c-024f-40af-4110-89b13db6f20a",
+    "slug": "october-13-2015-update-for-office-2013-kb3039701-35b5781c-024f-40af-4110-89b13db6f20a",
+    "url": "https://support.microsoft.com/help/3039701"
+  },
+  "5002633": {
+    "date": "2024-09-03",
+    "uuid": "ba1834c2-288c-422a-b41c-839b5856817d",
+    "slug": "september-3-2024-update-for-access-2016-kb5002633-ba1834c2-288c-422a-b41c-839b5856817d",
+    "url": "https://support.microsoft.com/help/5002633"
+  },
+  "4504711": {
+    "date": "2016-06-08",
+    "uuid": "2dcacebd-f44e-fb8e-90fd-95f029fa2798",
+    "slug": "description-of-the-security-update-for-access-2016-june-8-2021-kb4504711-2dcacebd-f44e-fb8e-90fd-95f029fa2798",
+    "url": "https://support.microsoft.com/help/4504711"
+  },
+  "4484340": {
+    "date": "2016-08-11",
+    "uuid": "c3b5c310-93f8-7561-f25d-565118af7e66",
+    "slug": "description-of-the-security-update-for-access-2016-august-11-2020-c3b5c310-93f8-7561-f25d-565118af7e66",
+    "url": "https://support.microsoft.com/help/4484340"
+  },
+  "5002115": {
+    "date": "2016-01-11",
+    "uuid": "aca009ee-b061-4a46-91c8-d30f5315a54a",
+    "slug": "description-of-the-security-update-for-office-2016-january-11-2022-kb5002115-aca009ee-b061-4a46-91c8-d30f5315a54a",
+    "url": "https://support.microsoft.com/help/5002115"
+  },
+  "5002099": {
+    "date": "2016-12-14",
+    "uuid": "10670400-427f-4819-8de6-abd11e73100b",
+    "slug": "description-of-the-security-update-for-office-2016-december-14-2021-kb5002099-10670400-427f-4819-8de6-abd11e73100b",
+    "url": "https://support.microsoft.com/help/5002099"
+  },
+  "4011259": {
+    "date": "2017-11-07",
+    "uuid": "ec45dcd1-0fac-5473-a766-69d080e7cc04",
+    "slug": "november-7-2017-update-for-office-2016-kb4011259-ec45dcd1-0fac-5473-a766-69d080e7cc04",
+    "url": "https://support.microsoft.com/help/4011259"
+  },
+  "4018319": {
+    "date": "2016-04-10",
+    "uuid": "509f0a58-33bd-d6e3-940d-e40cfb28f73b",
+    "slug": "description-of-the-security-update-for-office-2016-april-10-2018-509f0a58-33bd-d6e3-940d-e40cfb28f73b",
+    "url": "https://support.microsoft.com/help/4018319"
+  },
+  "4011095": {
+    "date": "2016-12-12",
+    "uuid": "e99a5590-2e11-bd39-ca5c-0d76c7d878cf",
+    "slug": "description-of-the-security-update-for-office-2016-december-12-2017-e99a5590-2e11-bd39-ca5c-0d76c7d878cf",
+    "url": "https://support.microsoft.com/help/4011095"
+  },
+  "3213551": {
+    "date": "2016-09-12",
+    "uuid": "4811230a-4559-21ac-c0ad-55686262ff21",
+    "slug": "description-of-the-security-update-for-office-2016-september-12-2017-4811230a-4559-21ac-c0ad-55686262ff21",
+    "url": "https://support.microsoft.com/help/3213551"
+  },
+  "4011634": {
+    "date": "2018-05-01",
+    "uuid": "9cd5b603-2836-df18-6937-62000c8dd5f0",
+    "slug": "may-1-2018-update-for-office-2016-kb4011634-9cd5b603-2836-df18-6937-62000c8dd5f0",
+    "url": "https://support.microsoft.com/help/4011634"
+  },
+  "4462117": {
+    "date": "2021-05-04",
+    "uuid": "cd647ab7-c1a9-5239-85ad-92fec16e3799",
+    "slug": "may-4-2021-update-for-office-2016-kb4462117-cd647ab7-c1a9-5239-85ad-92fec16e3799",
+    "url": "https://support.microsoft.com/help/4462117"
+  },
+  "4011574": {
+    "date": "2016-01-09",
+    "uuid": "c4b9ae60-ddc3-7b34-5a0c-160e31cf7efb",
+    "slug": "description-of-the-security-update-for-office-2016-january-9-2018-c4b9ae60-ddc3-7b34-5a0c-160e31cf7efb",
+    "url": "https://support.microsoft.com/help/4011574"
+  },
+  "4011262": {
+    "date": "2016-11-14",
+    "uuid": "cc641811-4167-7f5f-84dc-22d444057c87",
+    "slug": "description-of-the-security-update-for-office-2016-november-14-2017-cc641811-4167-7f5f-84dc-22d444057c87",
+    "url": "https://support.microsoft.com/help/4011262"
+  },
+  "5002643": {
+    "date": "2016-10-08",
+    "uuid": "a910b8a9-2548-4202-b268-9f8b5d5ab4e1",
+    "slug": "description-of-the-security-update-for-excel-2016-october-8-2024-kb5002643-a910b8a9-2548-4202-b268-9f8b5d5ab4e1",
+    "url": "https://support.microsoft.com/help/5002643"
+  },
+  "4011629": {
+    "date": "2019-09-03",
+    "uuid": "6fd1ed72-9513-409d-3871-6ed5039a3145",
+    "slug": "september-3-2019-update-for-office-2016-kb4011629-6fd1ed72-9513-409d-3871-6ed5039a3145",
+    "url": "https://support.microsoft.com/help/4011629"
+  },
+  "2920720": {
+    "date": "2016-04-05",
+    "uuid": "3ec8cd0e-3db6-91e5-3862-fb93355cd2fc",
+    "slug": "april-5-2016-update-for-office-2016-kb2920720-3ec8cd0e-3db6-91e5-3862-fb93355cd2fc",
+    "url": "https://support.microsoft.com/help/2920720"
+  },
+  "3114903": {
+    "date": "2016-04-05",
+    "uuid": "5b3ffc49-8c8c-1216-7843-373aa83e2528",
+    "slug": "april-5-2016-update-for-office-2016-kb3114903-5b3ffc49-8c8c-1216-7843-373aa83e2528",
+    "url": "https://support.microsoft.com/help/3114903"
+  },
+  "3118335": {
+    "date": "2016-02-08",
+    "uuid": "8754919a-f2c7-18ec-f746-a20500d85819",
+    "slug": "description-of-the-security-update-for-office-2016-february-8-2022-kb3118335-8754919a-f2c7-18ec-f746-a20500d85819",
+    "url": "https://support.microsoft.com/help/3118335"
+  },
+  "5002636": {
+    "date": "2024-09-03",
+    "uuid": "e33b4c4a-2204-46ba-b922-f13dcecb776b",
+    "slug": "september-3-2024-update-for-office-2016-kb5002636-e33b4c4a-2204-46ba-b922-f13dcecb776b",
+    "url": "https://support.microsoft.com/help/5002636"
+  },
+  "5002625": {
+    "date": "2016-08-13",
+    "uuid": "c3a98ccb-8c3c-4932-a70a-9c743bf470fa",
+    "slug": "description-of-the-security-update-for-office-2016-august-13-2024-kb5002625-c3a98ccb-8c3c-4932-a70a-9c743bf470fa",
+    "url": "https://support.microsoft.com/help/5002625"
+  },
+  "5002467": {
+    "date": "2016-02-13",
+    "uuid": "f6586f8b-dc91-4925-be6c-a35c99ff2e3f",
+    "slug": "description-of-the-security-update-for-office-2016-february-13-2024-kb5002467-f6586f8b-dc91-4925-be6c-a35c99ff2e3f",
+    "url": "https://support.microsoft.com/help/5002467"
+  },
+  "5002522": {
+    "date": "2016-02-13",
+    "uuid": "b7a95d35-6f2b-4125-ba80-750c16790283",
+    "slug": "description-of-the-security-update-for-office-2016-february-13-2024-kb5002522-b7a95d35-6f2b-4125-ba80-750c16790283",
+    "url": "https://support.microsoft.com/help/5002522"
+  },
+  "5002498": {
+    "date": "2016-09-12",
+    "uuid": "718ee6f9-6f7b-410e-a32f-65548ebe233a",
+    "slug": "description-of-the-security-update-for-office-2016-september-12-2023-kb5002498-718ee6f9-6f7b-410e-a32f-65548ebe233a",
+    "url": "https://support.microsoft.com/help/5002498"
+  },
+  "5002469": {
+    "date": "2016-02-13",
+    "uuid": "57e21cce-8ab3-4c98-baeb-5e0e0b065215",
+    "slug": "description-of-the-security-update-for-office-2016-february-13-2024-kb5002469-57e21cce-8ab3-4c98-baeb-5e0e0b065215",
+    "url": "https://support.microsoft.com/help/5002469"
+  },
+  "5002026": {
+    "date": "2016-10-11",
+    "uuid": "37b9c5fc-75f3-4996-8663-473bf2aa46ba",
+    "slug": "description-of-the-security-update-for-office-2016-october-11-2022-kb5002026-37b9c5fc-75f3-4996-8663-473bf2aa46ba",
+    "url": "https://support.microsoft.com/help/5002026"
+  },
+  "4484395": {
+    "date": "2020-09-01",
+    "uuid": "c28d5e20-7c93-2213-bd58-67802ad0436d",
+    "slug": "september-1-2020-update-for-office-2016-kb4484395-c28d5e20-7c93-2213-bd58-67802ad0436d",
+    "url": "https://support.microsoft.com/help/4484395"
+  },
+  "5002570": {
+    "date": "2016-08-13",
+    "uuid": "81979cea-b5ac-451d-84fb-3305c6050217",
+    "slug": "description-of-the-security-update-for-office-2016-august-13-2024-kb5002570-81979cea-b5ac-451d-84fb-3305c6050217",
+    "url": "https://support.microsoft.com/help/5002570"
+  },
+  "3115419": {
+    "date": "2016-08-09",
+    "uuid": "8ab65334-222e-cd48-e11c-9e4d46d0cc80",
+    "slug": "ms16-099-description-of-the-security-update-for-onenote-2016-august-9-2016-8ab65334-222e-cd48-e11c-9e4d46d0cc80",
+    "url": "https://support.microsoft.com/help/3115419"
+  },
+  "3114524": {
+    "date": "2021-10-05",
+    "uuid": "92fd591a-d828-b972-1659-2beca436a003",
+    "slug": "october-5-2021-update-for-office-2016-kb3114524-92fd591a-d828-b972-1659-2beca436a003",
+    "url": "https://support.microsoft.com/help/3114524"
+  },
+  "4011237": {
+    "date": "2016-05-08",
+    "uuid": "fb15e4ff-2dc5-0f08-10dc-ee44a829660c",
+    "slug": "description-of-the-security-update-for-office-2016-may-8-2018-fb15e4ff-2dc5-0f08-10dc-ee44a829660c",
+    "url": "https://support.microsoft.com/help/4011237"
+  },
+  "4032254": {
+    "date": "2019-08-06",
+    "uuid": "6a0f0c50-ca3f-716a-7a83-b09fca291517",
+    "slug": "august-6-2019-update-for-office-2016-kb4032254-6a0f0c50-ca3f-716a-7a83-b09fca291517",
+    "url": "https://support.microsoft.com/help/4032254"
+  },
+  "4022172": {
+    "date": "2016-07-10",
+    "uuid": "249ed079-d1b1-1ca7-1d19-0a14437456fd",
+    "slug": "description-of-the-security-update-for-office-2016-july-10-2018-249ed079-d1b1-1ca7-1d19-0a14437456fd",
+    "url": "https://support.microsoft.com/help/4022172"
+  },
+  "4475580": {
+    "date": "2019-09-03",
+    "uuid": "452d0aff-d494-e5da-d57c-ed0ce8b0c823",
+    "slug": "september-3-2019-update-for-office-2016-kb4475580-452d0aff-d494-e5da-d57c-ed0ce8b0c823",
+    "url": "https://support.microsoft.com/help/4475580"
+  },
+  "4484103": {
+    "date": "2016-09-14",
+    "uuid": "de2570a1-0fb2-a619-4930-f8836f4ebca2",
+    "slug": "description-of-the-security-update-for-office-2016-september-14-2021-kb4484103-de2570a1-0fb2-a619-4930-f8836f4ebca2",
+    "url": "https://support.microsoft.com/help/4484103"
+  },
+  "2920724": {
+    "date": "2015-12-08",
+    "uuid": "65ce6afd-b7fa-4390-0aa5-d1349cf46196",
+    "slug": "december-8-2015-update-for-office-2016-kb2920724-65ce6afd-b7fa-4390-0aa5-d1349cf46196",
+    "url": "https://support.microsoft.com/help/2920724"
+  },
+  "3114690": {
+    "date": "2016-03-08",
+    "uuid": "715caa46-0d84-ec01-88df-3b4b0026861b",
+    "slug": "ms16-029-description-of-the-security-update-for-office-2016-march-8-2016-715caa46-0d84-ec01-88df-3b4b0026861b",
+    "url": "https://support.microsoft.com/help/3114690"
+  },
+  "4475581": {
+    "date": "2016-07-11",
+    "uuid": "b2165ab9-4c60-bdae-9cc7-11514890daa7",
+    "slug": "description-of-the-security-update-for-office-2016-july-11-2023-kb4475581-b2165ab9-4c60-bdae-9cc7-11514890daa7",
+    "url": "https://support.microsoft.com/help/4475581"
+  },
+  "3115407": {
+    "date": "2016-08-02",
+    "uuid": "e70c9522-b4be-dd24-1423-a675a4d38bf7",
+    "slug": "august-2-2016-update-for-outlook-2016-junk-email-filter-kb3115407-e70c9522-b4be-dd24-1423-a675a4d38bf7",
+    "url": "https://support.microsoft.com/help/3115407"
+  },
+  "5002626": {
+    "date": "2016-08-13",
+    "uuid": "0b1c3780-45ab-4c70-8b00-75a7f22dff86",
+    "slug": "description-of-the-security-update-for-outlook-2016-august-13-2024-kb5002626-0b1c3780-45ab-4c70-8b00-75a7f22dff86",
+    "url": "https://support.microsoft.com/help/5002626"
+  },
+  "5002621": {
+    "date": "2016-07-09",
+    "uuid": "98a5e6bb-72da-46eb-bf02-b4de05104588",
+    "slug": "description-of-the-security-update-for-outlook-2016-july-9-2024-kb5002621-98a5e6bb-72da-46eb-bf02-b4de05104588",
+    "url": "https://support.microsoft.com/help/5002621"
+  },
+  "3115081": {
+    "date": "2016-06-07",
+    "uuid": "1aac99a7-2ce2-d2a4-53ea-997c043dcc58",
+    "slug": "june-7-2016-update-for-office-2016-kb3115081-1aac99a7-2ce2-d2a4-53ea-997c043dcc58",
+    "url": "https://support.microsoft.com/help/3115081"
+  },
+  "5002495": {
+    "date": "2016-02-13",
+    "uuid": "a849f983-0550-49e4-9c0f-680a5fe7d2cb",
+    "slug": "description-of-the-security-update-for-powerpoint-2016-february-13-2024-kb5002495-a849f983-0550-49e4-9c0f-680a5fe7d2cb",
+    "url": "https://support.microsoft.com/help/5002495"
+  },
+  "5002638": {
+    "date": "2024-10-01",
+    "uuid": "8db4e2bc-2ab6-46e1-ac64-5dd6fd5a534b",
+    "slug": "october-1-2024-update-for-project-2016-kb5002638-8db4e2bc-2ab6-46e1-ac64-5dd6fd5a534b",
+    "url": "https://support.microsoft.com/help/5002638"
+  },
+  "5002561": {
+    "date": "2016-08-13",
+    "uuid": "8a993125-0341-49f9-aa20-ef56f66703bd",
+    "slug": "description-of-the-security-update-for-project-2016-august-13-2024-kb5002561-8a993125-0341-49f9-aa20-ef56f66703bd",
+    "url": "https://support.microsoft.com/help/5002561"
+  },
+  "5002328": {
+    "date": "2016-08-08",
+    "uuid": "3ab3caec-be04-4ea4-b6ed-0655e8dd268f",
+    "slug": "description-of-the-security-update-for-project-2016-august-8-2023-kb5002328-3ab3caec-be04-4ea4-b6ed-0655e8dd268f",
+    "url": "https://support.microsoft.com/help/5002328"
+  },
+  "4484104": {
+    "date": "2022-06-07",
+    "uuid": "ddd7da49-55ff-eb6b-f819-ce572fbfda4a",
+    "slug": "june-7-2022-update-for-office-2016-kb4484104-ddd7da49-55ff-eb6b-f819-ce572fbfda4a",
+    "url": "https://support.microsoft.com/help/4484104"
+  },
+  "5002566": {
+    "date": "2016-09-10",
+    "uuid": "e70c418d-0d92-4879-b6ee-b01dd29ddcc7",
+    "slug": "description-of-the-security-update-for-publisher-2016-september-10-2024-kb5002566-e70c418d-0d92-4879-b6ee-b01dd29ddcc7",
+    "url": "https://support.microsoft.com/help/5002566"
+  },
+  "5002492": {
+    "date": "2016-02-13",
+    "uuid": "77452d76-4f31-4eab-844e-bc3bc3b33378",
+    "slug": "description-of-the-security-update-for-publisher-2016-february-13-2024-kb5002492-77452d76-4f31-4eab-844e-bc3bc3b33378",
+    "url": "https://support.microsoft.com/help/5002492"
+  },
+  "5002058": {
+    "date": "2016-07-11",
+    "uuid": "c2c4fd75-d1d3-4fde-ad03-25b81c7f5b43",
+    "slug": "description-of-the-security-update-for-office-2016-july-11-2023-kb5002058-c2c4fd75-d1d3-4fde-ad03-25b81c7f5b43",
+    "url": "https://support.microsoft.com/help/5002058"
+  },
+  "4461476": {
+    "date": "2016-10-12",
+    "uuid": "587ff2ef-35a2-26f1-7f8c-6f2663e4eb3d",
+    "slug": "description-of-the-security-update-for-office-2016-october-12-2021-kb4461476-587ff2ef-35a2-26f1-7f8c-6f2663e4eb3d",
+    "url": "https://support.microsoft.com/help/4461476"
+  },
+  "3141456": {
+    "date": "2019-08-06",
+    "uuid": "b14ba7b8-7696-f121-d08d-9455b7ec5ec1",
+    "slug": "august-6-2019-update-for-office-2016-kb3141456-b14ba7b8-7696-f121-d08d-9455b7ec5ec1",
+    "url": "https://support.microsoft.com/help/3141456"
+  },
+  "5002052": {
+    "date": "2016-01-11",
+    "uuid": "d5dafa42-2f6a-4122-9e95-d6168b4bf345",
+    "slug": "description-of-the-security-update-for-office-2016-january-11-2022-kb5002052-d5dafa42-2f6a-4122-9e95-d6168b4bf345",
+    "url": "https://support.microsoft.com/help/5002052"
+  },
+  "2920678": {
+    "date": "2016-03-08",
+    "uuid": "112a65bb-7ac4-324b-ede1-333ed982015b",
+    "slug": "march-8-2016-update-for-office-2016-kb2920678-112a65bb-7ac4-324b-ede1-333ed982015b",
+    "url": "https://support.microsoft.com/help/2920678"
+  },
+  "4504710": {
+    "date": "2016-12-14",
+    "uuid": "a35e08ab-e107-4db1-abb7-9159cb5b443f",
+    "slug": "description-of-the-security-update-for-office-2016-december-14-2021-kb4504710-a35e08ab-e107-4db1-abb7-9159cb5b443f",
+    "url": "https://support.microsoft.com/help/4504710"
+  },
+  "5002582": {
+    "date": "2024-08-06",
+    "uuid": "057d1b76-e0f4-4e5e-a5ee-d960c6751db6",
+    "slug": "august-6-2024-update-for-visio-2016-kb5002582-057d1b76-e0f4-4e5e-a5ee-d960c6751db6",
+    "url": "https://support.microsoft.com/help/5002582"
+  },
+  "5002634": {
+    "date": "2016-09-10",
+    "uuid": "bb1e64b5-bf49-4dc9-8f7c-8ebaf1774b95",
+    "slug": "description-of-the-security-update-for-visio-2016-september-10-2024-kb5002634-bb1e64b5-bf49-4dc9-8f7c-8ebaf1774b95",
+    "url": "https://support.microsoft.com/help/5002634"
+  },
+  "5002565": {
+    "date": "2016-03-12",
+    "uuid": "1f85f63b-d4e8-491f-a051-ff598c238aa8",
+    "slug": "description-of-the-security-update-for-visio-2016-march-12-2024-kb5002565-1f85f63b-d4e8-491f-a051-ff598c238aa8",
+    "url": "https://support.microsoft.com/help/5002565"
+  },
+  "5002542": {
+    "date": "2016-02-13",
+    "uuid": "e52b6786-699c-4280-8dcf-2bc44c8a05ff",
+    "slug": "description-of-the-security-update-for-word-2016-february-13-2024-kb5002542-e52b6786-699c-4280-8dcf-2bc44c8a05ff",
+    "url": "https://support.microsoft.com/help/5002542"
+  },
+  "5002520": {
+    "date": "2016-12-12",
+    "uuid": "d25a5f6d-0c86-4680-9553-9781a5c6bc5a",
+    "slug": "description-of-the-security-update-for-word-2016-december-12-2023-kb5002520-d25a5f6d-0c86-4680-9553-9781a5c6bc5a",
+    "url": "https://support.microsoft.com/help/5002520"
+  },
+  "3118263": {
+    "date": "2016-10-04",
+    "uuid": "cde0d899-3839-efec-7aaf-759b9e6f7606",
+    "slug": "october-4-2016-update-for-office-2016-kb3118263-cde0d899-3839-efec-7aaf-759b9e6f7606",
+    "url": "https://support.microsoft.com/help/3118263"
+  },
+  "3213650": {
+    "date": "2017-08-01",
+    "uuid": "49728eed-5aa6-dccc-d409-fd18b9a7be5f",
+    "slug": "august-1-2017-update-for-office-2016-kb3213650-49728eed-5aa6-dccc-d409-fd18b9a7be5f",
+    "url": "https://support.microsoft.com/help/3213650"
+  },
+  "5046177": {
+    "date": "2024-10-01",
+    "uuid": "e6060f07-9dca-49c2-9032-63d934d3c407",
+    "slug": "october-2024-updates-for-microsoft-office-e6060f07-9dca-49c2-9032-63d934d3c407",
+    "url": "https://support.microsoft.com/help/5046177"
+  },
+  "5043819": {
+    "date": "2024-09-01",
+    "uuid": "82d47d8a-fa12-4014-b379-bb73395c7294",
+    "slug": "september-2024-updates-for-microsoft-office-82d47d8a-fa12-4014-b379-bb73395c7294",
+    "url": "https://support.microsoft.com/help/5043819"
+  },
+  "5042519": {
+    "date": "2024-08-01",
+    "uuid": "72359d78-f0b3-4ad8-9fcd-c01bf2a32f51",
+    "slug": "august-2024-updates-for-microsoft-office-72359d78-f0b3-4ad8-9fcd-c01bf2a32f51",
+    "url": "https://support.microsoft.com/help/5042519"
+  },
+  "4011240": {
+    "date": "2017-11-07",
+    "uuid": "a1955c0e-40ca-09fc-b49b-b90d8b122dd7",
+    "slug": "november-7-2017-update-for-outlook-2016-kb4011240-a1955c0e-40ca-09fc-b49b-b90d8b122dd7",
+    "url": "https://support.microsoft.com/help/4011240"
+  },
+  "4011178": {
+    "date": "2013-10-10",
+    "uuid": "3bde3a3f-c080-94dd-c430-5bfdc6f37221",
+    "slug": "description-of-the-security-update-for-outlook-2013-october-10-2017-3bde3a3f-c080-94dd-c430-5bfdc6f37221",
+    "url": "https://support.microsoft.com/help/4011178"
+  },
+  "4475551": {
+    "date": "2019-08-06",
+    "uuid": "baa120ec-b8bd-44a2-628a-2ce5dd9ee8ef",
+    "slug": "august-6-2019-update-for-office-2016-kb4475551-baa120ec-b8bd-44a2-628a-2ce5dd9ee8ef",
+    "url": "https://support.microsoft.com/help/4475551"
+  },
+  "5002649": {
+    "date": "2024-10-08",
+    "uuid": "33d470d1-10e5-4491-8649-dcb2cf734c90",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-october-8-2024-kb5002649-33d470d1-10e5-4491-8649-dcb2cf734c90",
+    "url": "https://support.microsoft.com/help/5002649"
+  },
+  "5002640": {
+    "date": "2024-09-10",
+    "uuid": "c3065f06-d94e-4028-9249-d353ae631cbd",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-september-10-2024-kb5002640-c3065f06-d94e-4028-9249-d353ae631cbd",
+    "url": "https://support.microsoft.com/help/5002640"
+  },
+  "5002606": {
+    "date": "2024-07-09",
+    "uuid": "37569899-5abc-49a2-bd5e-f0ae45528f8f",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-july-9-2024-kb5002606-37569899-5abc-49a2-bd5e-f0ae45528f8f",
+    "url": "https://support.microsoft.com/help/5002606"
+  },
+  "5002647": {
+    "date": "2019-10-08",
+    "uuid": "1ad631be-53ce-4215-9004-4dffd5d829bf",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-october-8-2024-kb5002647-1ad631be-53ce-4215-9004-4dffd5d829bf",
+    "url": "https://support.microsoft.com/help/5002647"
+  },
+  "5002630": {
+    "date": "2024-08-13",
+    "uuid": "c98c78f2-1419-475e-874d-4fc7f3c86e61",
+    "slug": "august-13-2024-update-for-sharepoint-server-2019-kb5002630-c98c78f2-1419-475e-874d-4fc7f3c86e61",
+    "url": "https://support.microsoft.com/help/5002630"
+  },
+  "5002597": {
+    "date": "2024-08-13",
+    "uuid": "c529385c-4ca8-446d-93cb-180a1a6e9eb5",
+    "slug": "august-13-2024-update-for-sharepoint-server-2019-language-pack-kb5002597-c529385c-4ca8-446d-93cb-180a1a6e9eb5",
+    "url": "https://support.microsoft.com/help/5002597"
+  },
+  "5002615": {
+    "date": "2019-07-09",
+    "uuid": "6d31fcef-a998-43aa-947d-f2dd60e1c758",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-july-9-2024-kb5002615-6d31fcef-a998-43aa-947d-f2dd60e1c758",
+    "url": "https://support.microsoft.com/help/5002615"
+  },
+  "5002624": {
+    "date": "2016-09-10",
+    "uuid": "db6c8b15-b9e8-4fa5-a34a-b99a0341271e",
+    "slug": "description-of-the-security-update-for-sharepoint-enterprise-server-2016-september-10-2024-kb5002624-db6c8b15-b9e8-4fa5-a34a-b99a0341271e",
+    "url": "https://support.microsoft.com/help/5002624"
+  },
+  "5002618": {
+    "date": "2016-07-09",
+    "uuid": "422e4b6a-4cde-4a3c-a446-75f3125bbbfc",
+    "slug": "description-of-the-security-update-for-sharepoint-enterprise-server-2016-july-9-2024-kb5002618-422e4b6a-4cde-4a3c-a446-75f3125bbbfc",
+    "url": "https://support.microsoft.com/help/5002618"
+  },
+  "4576653": {
+    "date": "2020-09-01",
+    "uuid": "771f2da4-88b8-69fd-5a4f-5eeb681452c4",
+    "slug": "september-2020-updates-for-microsoft-office-771f2da4-88b8-69fd-5a4f-5eeb681452c4",
+    "url": "https://support.microsoft.com/help/4576653"
+  },
+  "4559453": {
+    "date": "2020-07-01",
+    "uuid": "c2f77daf-6093-39f9-27b5-a7458d7d4756",
+    "slug": "july-2020-updates-for-microsoft-office-c2f77daf-6093-39f9-27b5-a7458d7d4756",
+    "url": "https://support.microsoft.com/help/4559453"
+  },
+  "4559448": {
+    "date": "2020-06-01",
+    "uuid": "5c64577d-b914-6261-da28-e26f14d00601",
+    "slug": "june-2020-updates-for-microsoft-office-5c64577d-b914-6261-da28-e26f14d00601",
+    "url": "https://support.microsoft.com/help/4559448"
+  },
+  "4549680": {
+    "date": "2020-05-01",
+    "uuid": "74dc8c14-df8f-4852-e8ba-58ab0190dc1a",
+    "slug": "may-2020-updates-for-microsoft-office-74dc8c14-df8f-4852-e8ba-58ab0190dc1a",
+    "url": "https://support.microsoft.com/help/4549680"
+  },
+  "4549670": {
+    "date": "2020-04-01",
+    "uuid": "5ad6f09c-7340-fd8e-2484-91ec5fc5c6ad",
+    "slug": "april-2020-updates-for-microsoft-office-5ad6f09c-7340-fd8e-2484-91ec5fc5c6ad",
+    "url": "https://support.microsoft.com/help/4549670"
+  },
+  "4538704": {
+    "date": "2020-02-01",
+    "uuid": "52e2aa6a-4299-da3a-a4d4-bf1187e8b72c",
+    "slug": "february-2020-updates-for-microsoft-office-52e2aa6a-4299-da3a-a4d4-bf1187e8b72c",
+    "url": "https://support.microsoft.com/help/4538704"
+  },
+  "4536554": {
+    "date": "2020-01-01",
+    "uuid": "ade3f5ac-2832-0ff6-c2b8-67715e8b9f43",
+    "slug": "january-2020-updates-for-microsoft-office-ade3f5ac-2832-0ff6-c2b8-67715e8b9f43",
+    "url": "https://support.microsoft.com/help/4536554"
+  },
+  "4532624": {
+    "date": "2019-12-01",
+    "uuid": "6ceb74db-6e26-279c-bbb9-6091aa55843b",
+    "slug": "december-2019-updates-for-microsoft-office-6ceb74db-6e26-279c-bbb9-6091aa55843b",
+    "url": "https://support.microsoft.com/help/4532624"
+  },
+  "4527848": {
+    "date": "2019-11-01",
+    "uuid": "31fdaeb2-53cf-d7d6-c5a4-954ef44dd3ca",
+    "slug": "november-2019-updates-for-microsoft-office-31fdaeb2-53cf-d7d6-c5a4-954ef44dd3ca",
+    "url": "https://support.microsoft.com/help/4527848"
+  },
+  "4051890": {
+    "date": "2017-11-01",
+    "uuid": "e61d9ede-8ba3-aa75-9887-15fb20f847c7",
+    "slug": "november-2017-updates-for-microsoft-office-e61d9ede-8ba3-aa75-9887-15fb20f847c7",
+    "url": "https://support.microsoft.com/help/4051890"
+  },
+  "4043461": {
+    "date": "2017-10-01",
+    "uuid": "75b17cc8-4893-31da-2f01-d785240cacc4",
+    "slug": "october-2017-updates-for-microsoft-office-75b17cc8-4893-31da-2f01-d785240cacc4",
+    "url": "https://support.microsoft.com/help/4043461"
+  },
+  "4036121": {
+    "date": "2017-08-01",
+    "uuid": "641dce6d-c6a7-37a2-6659-5ec024d7ba6e",
+    "slug": "august-2017-updates-for-microsoft-office-641dce6d-c6a7-37a2-6659-5ec024d7ba6e",
+    "url": "https://support.microsoft.com/help/4036121"
+  },
+  "4033107": {
+    "date": "2017-07-01",
+    "uuid": "531c53b8-f700-dd76-6ac9-a7e9ddca9c90",
+    "slug": "july-2017-updates-for-microsoft-office-531c53b8-f700-dd76-6ac9-a7e9ddca9c90",
+    "url": "https://support.microsoft.com/help/4033107"
+  },
+  "4020152": {
+    "date": "2017-05-09",
+    "uuid": "b8ac0598-d400-c593-19b9-36809d258ac3",
+    "slug": "may-9-2017-update-for-microsoft-office-b8ac0598-d400-c593-19b9-36809d258ac3",
+    "url": "https://support.microsoft.com/help/4020152"
+  },
+  "4016803": {
+    "date": "2017-04-11",
+    "uuid": "42a0ce67-ef01-b3a1-344f-336254fc4e91",
+    "slug": "april-11-2017-update-for-microsoft-office-42a0ce67-ef01-b3a1-344f-336254fc4e91",
+    "url": "https://support.microsoft.com/help/4016803"
+  },
+  "3200802": {
+    "date": "2016-11-08",
+    "uuid": "e3ebc62d-0dbb-fba0-b0d1-5f04eec138cc",
+    "slug": "november-8-2016-update-for-microsoft-office-e3ebc62d-0dbb-fba0-b0d1-5f04eec138cc",
+    "url": "https://support.microsoft.com/help/3200802"
+  },
+  "3194160": {
+    "date": "2016-10-11",
+    "uuid": "2e633cfd-67a1-a34d-38a0-06813a3b9a40",
+    "slug": "october-11-2016-update-for-microsoft-office-2e633cfd-67a1-a34d-38a0-06813a3b9a40",
+    "url": "https://support.microsoft.com/help/3194160"
+  },
+  "3188548": {
+    "date": "2016-09-13",
+    "uuid": "9557a316-e769-2a40-f5cd-62a72aa0abf8",
+    "slug": "september-13-2016-update-for-microsoft-office-9557a316-e769-2a40-f5cd-62a72aa0abf8",
+    "url": "https://support.microsoft.com/help/3188548"
+  },
+  "3061974": {
+    "date": "2015-05-12",
+    "uuid": "d722558d-f631-5aa7-0fa7-0fac23f949de",
+    "slug": "may-12-2015-update-for-office-d722558d-f631-5aa7-0fa7-0fac23f949de",
+    "url": "https://support.microsoft.com/help/3061974"
+  },
+  "3040794": {
+    "date": "2015-03-10",
+    "uuid": "ef6180df-c20b-d811-e932-8c713fc538f5",
+    "slug": "description-of-the-office-updates-march-10-2015-ef6180df-c20b-d811-e932-8c713fc538f5",
+    "url": "https://support.microsoft.com/help/3040794"
+  },
+  "3032763": {
+    "date": "2015-02-10",
+    "uuid": "078e78a9-e5b3-d91a-f424-36b1682e8d56",
+    "slug": "description-of-the-office-updates-february-10-2015-078e78a9-e5b3-d91a-f424-36b1682e8d56",
+    "url": "https://support.microsoft.com/help/3032763"
+  },
+  "3020812": {
+    "date": "2014-12-09",
+    "uuid": "a137b55f-6c04-75b8-bf8e-8c19a0e385ed",
+    "slug": "description-of-the-office-updates-december-9-2014-a137b55f-6c04-75b8-bf8e-8c19a0e385ed",
+    "url": "https://support.microsoft.com/help/3020812"
+  },
+  "3003800": {
+    "date": "2014-10-14",
+    "uuid": "811e8bd6-61fd-e838-f1a8-b8c6019c0518",
+    "slug": "description-of-the-office-updates-october-14-2014-811e8bd6-61fd-e838-f1a8-b8c6019c0518",
+    "url": "https://support.microsoft.com/help/3003800"
+  },
+  "2989071": {
+    "date": "2014-08-12",
+    "uuid": "a16344f5-a16d-fed8-2406-5ec085ba7e04",
+    "slug": "description-of-the-office-updates-august-12-2014-a16344f5-a16d-fed8-2406-5ec085ba7e04",
+    "url": "https://support.microsoft.com/help/2989071"
+  },
+  "2980001": {
+    "date": "2014-07-08",
+    "uuid": "e869a751-930e-bb14-cfe8-b3e8ac937d1c",
+    "slug": "description-of-the-office-updates-july-8-2014-e869a751-930e-bb14-cfe8-b3e8ac937d1c",
+    "url": "https://support.microsoft.com/help/2980001"
+  },
+  "2955382": {
+    "date": "2014-04-08",
+    "uuid": "9bcc2fb9-c6f8-63f3-79b4-fc580483ed81",
+    "slug": "description-of-the-office-updates-april-8-2014-9bcc2fb9-c6f8-63f3-79b4-fc580483ed81",
+    "url": "https://support.microsoft.com/help/2955382"
+  },
+  "2553378": {
+    "date": "2013-02-12",
+    "uuid": "07a60179-9224-e17f-333e-0645070579f9",
+    "slug": "description-of-the-office-2010-update-february-12-2013-07a60179-9224-e17f-333e-0645070579f9",
+    "url": "https://support.microsoft.com/help/2553378"
+  },
+  "2847265": {
+    "date": "2013-05-14",
+    "uuid": "40c938ab-f99e-a58f-6ba0-b1968c848485",
+    "slug": "description-of-the-office-updates-may-14-2013-40c938ab-f99e-a58f-6ba0-b1968c848485",
+    "url": "https://support.microsoft.com/help/2847265"
+  },
+  "2553439": {
+    "date": "2011-12-13",
+    "uuid": "740763ff-e17a-314d-5d50-1792ce580b6b",
+    "slug": "description-of-the-excel-2010-update-december-13-2011-740763ff-e17a-314d-5d50-1792ce580b6b",
+    "url": "https://support.microsoft.com/help/2553439"
+  },
+  "2519975": {
+    "date": "2010-04-12",
+    "uuid": "fdd7820b-b5d4-40dc-9246-4e9ef59c5fee",
+    "slug": "ms11-022-description-of-the-security-update-for-powerpoint-2010-april-12-2011-fdd7820b-b5d4-40dc-9246-4e9ef59c5fee",
+    "url": "https://support.microsoft.com/help/2519975"
+  },
+  "2519984": {
+    "date": "2010-04-12",
+    "uuid": "57a2333a-9653-4404-c7a2-0be8d285c209",
+    "slug": "ms11-022-description-of-the-security-update-for-powerpoint-viewer-2010-april-12-2011-57a2333a-9653-4404-c7a2-0be8d285c209",
+    "url": "https://support.microsoft.com/help/2519984"
+  },
+  "2413186": {
+    "date": "2010-12-14",
+    "uuid": "fcd409b5-d771-20f3-6cf2-3f92a588f878",
+    "slug": "description-of-the-office-2010-file-validation-update-december-14-2010-fcd409b5-d771-20f3-6cf2-3f92a588f878",
+    "url": "https://support.microsoft.com/help/2413186"
+  },
+  "2433299": {
+    "date": "2010-12-14",
+    "uuid": "358edc02-c1aa-afcb-70ff-71602b97788f",
+    "slug": "description-of-the-onenote-2010-update-december-14-2010-358edc02-c1aa-afcb-70ff-71602b97788f",
+    "url": "https://support.microsoft.com/help/2433299"
+  },
+  "2345000": {
+    "date": "2010-10-12",
+    "uuid": "b4bae4fa-3d57-6df0-9e49-22678788293e",
+    "slug": "ms10-079-description-of-the-security-update-for-word-2010-october-12-2010-b4bae4fa-3d57-6df0-9e49-22678788293e",
+    "url": "https://support.microsoft.com/help/2345000"
+  },
+  "2202188": {
+    "date": "2010-08-10",
+    "uuid": "09a6af81-a3da-4238-46e7-b044c3fd86b1",
+    "slug": "description-of-the-office-2010-update-august-10-2010-09a6af81-a3da-4238-46e7-b044c3fd86b1",
+    "url": "https://support.microsoft.com/help/2202188"
+  },
+  "2288640": {
+    "date": "2010-09-14",
+    "uuid": "4f0db2a4-a85f-41f9-5ec3-e952c17e5af2",
+    "slug": "description-of-the-onenote-2010-update-september-14-2010-4f0db2a4-a85f-41f9-5ec3-e952c17e5af2",
+    "url": "https://support.microsoft.com/help/2288640"
+  },
+  "983403": {
+    "date": "2010-07-13",
+    "uuid": "838a309f-531e-e90a-5030-242306541763",
+    "slug": "description-of-the-outlook-social-connector-update-july-13-2010-838a309f-531e-e90a-5030-242306541763",
+    "url": "https://support.microsoft.com/help/983403"
+  },
+  "5001970": {
+    "date": "2022-01-01",
+    "uuid": "c47975ca-64a8-4514-b0b2-175ab9715930",
+    "slug": "january-2022-updates-for-microsoft-office-c47975ca-64a8-4514-b0b2-175ab9715930",
+    "url": "https://support.microsoft.com/help/5001970"
+  },
+  "4538705": {
+    "date": "2020-03-01",
+    "uuid": "6f40ef72-f80f-a8ac-77dc-bcaa9e7ccc34",
+    "slug": "march-2020-updates-for-microsoft-office-6f40ef72-f80f-a8ac-77dc-bcaa9e7ccc34",
+    "url": "https://support.microsoft.com/help/4538705"
+  },
+  "4477615": {
+    "date": "2018-12-01",
+    "uuid": "a9db1c5b-3258-26c2-0eae-3e4925555d31",
+    "slug": "december-2018-updates-for-microsoft-office-a9db1c5b-3258-26c2-0eae-3e4925555d31",
+    "url": "https://support.microsoft.com/help/4477615"
+  },
+  "4055454": {
+    "date": "2017-12-01",
+    "uuid": "59206300-a6ea-d786-30f6-63e1f5a33dc4",
+    "slug": "december-2017-updates-for-microsoft-office-59206300-a6ea-d786-30f6-63e1f5a33dc4",
+    "url": "https://support.microsoft.com/help/4055454"
+  },
+  "4023935": {
+    "date": "2017-06-13",
+    "uuid": "3d6fe9fb-09a5-1b28-a4a0-7f4fa363dcb6",
+    "slug": "june-13-2017-update-for-microsoft-office-3d6fe9fb-09a5-1b28-a4a0-7f4fa363dcb6",
+    "url": "https://support.microsoft.com/help/4023935"
+  },
+  "4010765": {
+    "date": "2017-02-01",
+    "uuid": "2887f6a1-914b-79cd-e8ec-149fd1486a35",
+    "slug": "february-2017-update-for-microsoft-office-2887f6a1-914b-79cd-e8ec-149fd1486a35",
+    "url": "https://support.microsoft.com/help/4010765"
+  },
+  "3208595": {
+    "date": "2016-12-13",
+    "uuid": "d6f92c88-1f7d-6673-c587-0a2000a03d6e",
+    "slug": "december-13-2016-update-for-microsoft-office-d6f92c88-1f7d-6673-c587-0a2000a03d6e",
+    "url": "https://support.microsoft.com/help/3208595"
+  },
+  "3050766": {
+    "date": "2015-04-14",
+    "uuid": "31944916-8fff-4929-221b-581993410b77",
+    "slug": "april-14-2015-update-for-office-31944916-8fff-4929-221b-581993410b77",
+    "url": "https://support.microsoft.com/help/3050766"
+  },
+  "3012392": {
+    "date": "2014-11-11",
+    "uuid": "7a409214-acca-fdc0-a2cb-a9a24f7ca5fe",
+    "slug": "description-of-the-office-updates-november-11-2014-7a409214-acca-fdc0-a2cb-a9a24f7ca5fe",
+    "url": "https://support.microsoft.com/help/3012392"
+  },
+  "2971668": {
+    "date": "2014-06-10",
+    "uuid": "8c4a2ecf-df45-8619-3b45-7dcd789ec90d",
+    "slug": "description-of-the-office-updates-june-10-2014-8c4a2ecf-df45-8619-3b45-7dcd789ec90d",
+    "url": "https://support.microsoft.com/help/2971668"
+  },
+  "2923177": {
+    "date": "2014-01-14",
+    "uuid": "5786464f-da95-e2ba-ba61-7d24b9bcae49",
+    "slug": "description-of-the-office-updates-january-14-2014-5786464f-da95-e2ba-ba61-7d24b9bcae49",
+    "url": "https://support.microsoft.com/help/2923177"
+  },
+  "2916204": {
+    "date": "2013-12-10",
+    "uuid": "915038fd-bb79-815c-553b-d8c2143adf5a",
+    "slug": "description-of-the-office-updates-december-10-2013-915038fd-bb79-815c-553b-d8c2143adf5a",
+    "url": "https://support.microsoft.com/help/2916204"
+  },
+  "2892139": {
+    "date": "2013-10-08",
+    "uuid": "9b963a07-528d-97f2-a7c8-ebb48a7a9b98",
+    "slug": "description-of-the-office-updates-october-8-2013-9b963a07-528d-97f2-a7c8-ebb48a7a9b98",
+    "url": "https://support.microsoft.com/help/2892139"
+  },
+  "2884129": {
+    "date": "2013-09-10",
+    "uuid": "1b515109-c27c-178f-3447-86d1851df1f0",
+    "slug": "description-of-the-office-updates-september-10-2013-1b515109-c27c-178f-3447-86d1851df1f0",
+    "url": "https://support.microsoft.com/help/2884129"
+  },
+  "2876211": {
+    "date": "2013-08-13",
+    "uuid": "47a39d6f-396a-68a1-5171-f388beb1880a",
+    "slug": "description-of-the-office-updates-august-13-2013-47a39d6f-396a-68a1-5171-f388beb1880a",
+    "url": "https://support.microsoft.com/help/2876211"
+  },
+  "2860010": {
+    "date": "2013-06-11",
+    "uuid": "f238fad7-2655-90a8-5f66-c3cfdc7f2600",
+    "slug": "description-of-the-office-updates-june-11-2013-f238fad7-2655-90a8-5f66-c3cfdc7f2600",
+    "url": "https://support.microsoft.com/help/2860010"
+  },
+  "2833132": {
+    "date": "2013-04-09",
+    "uuid": "80920aec-b8e9-8d5b-f5fb-ccd867d70bb0",
+    "slug": "description-of-the-office-updates-april-9-2013-80920aec-b8e9-8d5b-f5fb-ccd867d70bb0",
+    "url": "https://support.microsoft.com/help/2833132"
+  },
+  "2695962": {
+    "date": "2012-05-08",
+    "uuid": "3d68ae6f-fc3d-61f1-0f14-025efef88efa",
+    "slug": "microsoft-security-advisory-update-rollup-for-activex-kill-bits-may-8-2012-3d68ae6f-fc3d-61f1-0f14-025efef88efa",
+    "url": "https://support.microsoft.com/help/2695962"
+  },
+  "2736233": {
+    "date": "2012-09-11",
+    "uuid": "04f918fa-9d39-14be-650e-96f317fb1ed8",
+    "slug": "microsoft-security-advisory-update-rollup-for-activex-kill-bits-september-11-2012-04f918fa-9d39-14be-650e-96f317fb1ed8",
+    "url": "https://support.microsoft.com/help/2736233"
+  },
+  "2820197": {
+    "date": "2013-05-14",
+    "uuid": "07a47b88-c4f7-e170-927a-e07bc4e815b2",
+    "slug": "microsoft-security-advisory-update-rollup-for-activex-kill-bits-may-14-2013-07a47b88-c4f7-e170-927a-e07bc4e815b2",
+    "url": "https://support.microsoft.com/help/2820197"
+  },
+  "2861855": {
+    "date": "2013-08-13",
+    "uuid": "d747367e-b33d-e765-eec3-58731ac15d10",
+    "slug": "microsoft-security-advisory-updates-to-improve-remote-desktop-protocol-network-level-authentication-august-13-2013-d747367e-b33d-e765-eec3-58731ac15d10",
+    "url": "https://support.microsoft.com/help/2861855"
+  },
+  "2862973": {
+    "date": "2013-08-13",
+    "uuid": "273c039b-5105-86ef-ce0e-0a68838842d8",
+    "slug": "microsoft-security-advisory-update-for-deprecation-of-md5-hashing-algorithm-for-microsoft-root-certificate-program-august-13-2013-273c039b-5105-86ef-ce0e-0a68838842d8",
+    "url": "https://support.microsoft.com/help/2862973"
+  },
+  "3057154": {
+    "date": "2015-07-14",
+    "uuid": "87acdae6-de3e-a678-c477-503f3133155b",
+    "slug": "microsoft-security-advisory-update-to-harden-use-of-des-encryption-july-14-2015-87acdae6-de3e-a678-c477-503f3133155b",
+    "url": "https://support.microsoft.com/help/3057154"
+  },
+  "3083992": {
+    "date": "2015-09-08",
+    "uuid": "939334c9-0959-3643-74d7-5585b79c6d7d",
+    "slug": "microsoft-security-advisory-update-to-improve-applocker-certificate-handling-september-8-2015-939334c9-0959-3643-74d7-5585b79c6d7d",
+    "url": "https://support.microsoft.com/help/3083992"
+  },
+  "3097966": {
+    "date": "2015-10-13",
+    "uuid": "3e658804-5ca4-dda2-736d-3b263fe9ae98",
+    "slug": "microsoft-security-advisory-inadvertently-disclosed-digital-certificates-could-allow-spoofing-october-13-2015-3e658804-5ca4-dda2-736d-3b263fe9ae98",
+    "url": "https://support.microsoft.com/help/3097966"
+  },
+  "3132372": {
+    "date": "2015-12-29",
+    "uuid": "1dbb9e59-d258-4a40-885e-ab2b8f5d02ce",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-and-microsoft-edge-december-29-2015-1dbb9e59-d258-4a40-885e-ab2b8f5d02ce",
+    "url": "https://support.microsoft.com/help/3132372"
+  },
+  "3119147": {
+    "date": "2015-12-08",
+    "uuid": "cbf6a30d-8c53-5493-3e59-478d110491e1",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-and-microsoft-edge-december-8-2015-cbf6a30d-8c53-5493-3e59-478d110491e1",
+    "url": "https://support.microsoft.com/help/3119147"
+  },
+  "3103688": {
+    "date": "2015-11-10",
+    "uuid": "b269cce8-effe-8241-4048-f5be5d735512",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-and-microsoft-edge-november-10-2015-b269cce8-effe-8241-4048-f5be5d735512",
+    "url": "https://support.microsoft.com/help/3103688"
+  },
+  "3105216": {
+    "date": "2015-10-19",
+    "uuid": "28874f81-d60a-f5ef-12ba-0edad780fb3b",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-and-microsoft-edge-october-19-2015-28874f81-d60a-f5ef-12ba-0edad780fb3b",
+    "url": "https://support.microsoft.com/help/3105216"
+  },
+  "3087040": {
+    "date": "2015-09-21",
+    "uuid": "76b6eaa4-4ad9-60f0-27e4-a4920c0cd24b",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-and-microsoft-edge-september-21-2015-76b6eaa4-4ad9-60f0-27e4-a4920c0cd24b",
+    "url": "https://support.microsoft.com/help/3087040"
+  },
+  "3087916": {
+    "date": "2015-08-11",
+    "uuid": "c9aa0ef0-73fc-7a3b-2df8-832f8523cdaf",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-and-microsoft-edge-august-11-2015-c9aa0ef0-73fc-7a3b-2df8-832f8523cdaf",
+    "url": "https://support.microsoft.com/help/3087916"
+  },
+  "3079777": {
+    "date": "2015-07-15",
+    "uuid": "c0ec4a4a-68e5-5fdf-c76d-6b7077c2a9da",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-july-15-2015-c0ec4a4a-68e5-5fdf-c76d-6b7077c2a9da",
+    "url": "https://support.microsoft.com/help/3079777"
+  },
+  "3065823": {
+    "date": "2015-07-08",
+    "uuid": "26a91714-adf7-b511-1276-bde89e0b8e49",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-july-8-2015-26a91714-adf7-b511-1276-bde89e0b8e49",
+    "url": "https://support.microsoft.com/help/3065823"
+  },
+  "3061904": {
+    "date": "2015-05-12",
+    "uuid": "3d9582d7-28a4-ee70-dce9-707bb62810d3",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-may-12-2015-3d9582d7-28a4-ee70-dce9-707bb62810d3",
+    "url": "https://support.microsoft.com/help/3061904"
+  },
+  "3049508": {
+    "date": "2015-04-15",
+    "uuid": "ae43407d-034b-ef27-8d99-8fd6b8a593e6",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-april-15-2015-ae43407d-034b-ef27-8d99-8fd6b8a593e6",
+    "url": "https://support.microsoft.com/help/3049508"
+  },
+  "3044132": {
+    "date": "2015-03-10",
+    "uuid": "9269b8ac-2fa2-8beb-0ebc-34832f9fc340",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-march-10-2015-9269b8ac-2fa2-8beb-0ebc-34832f9fc340",
+    "url": "https://support.microsoft.com/help/3044132"
+  },
+  "3021953": {
+    "date": "2015-02-05",
+    "uuid": "ed74ff4a-abac-2271-99a0-d1d3320498f7",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-february-5-2015-ed74ff4a-abac-2271-99a0-d1d3320498f7",
+    "url": "https://support.microsoft.com/help/3021953"
+  },
+  "3018943": {
+    "date": "2014-11-25",
+    "uuid": "eb596931-efbc-f09a-fab3-4bb95ac640b1",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-november-25-2014-eb596931-efbc-f09a-fab3-4bb95ac640b1",
+    "url": "https://support.microsoft.com/help/3018943"
+  },
+  "3004150": {
+    "date": "2014-11-11",
+    "uuid": "73393fab-303a-8112-d96c-86568f4f1cf4",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-november-11-2014-73393fab-303a-8112-d96c-86568f4f1cf4",
+    "url": "https://support.microsoft.com/help/3004150"
+  },
+  "3001237": {
+    "date": "2014-10-14",
+    "uuid": "be8d66df-76a1-29c3-b64a-bf8f18454b76",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-october-14-2014-be8d66df-76a1-29c3-b64a-bf8f18454b76",
+    "url": "https://support.microsoft.com/help/3001237"
+  },
+  "2999249": {
+    "date": "2014-09-23",
+    "uuid": "a245eafd-7492-6f25-6c1e-7ad73b7da65a",
+    "slug": "description-of-the-update-for-adobe-flash-player-in-internet-explorer-september-23-2014-a245eafd-7492-6f25-6c1e-7ad73b7da65a",
+    "url": "https://support.microsoft.com/help/2999249"
+  },
+  "2982794": {
+    "date": "2014-08-12",
+    "uuid": "2b5b0d4c-419f-09d5-cd39-49d16cd342b6",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-august-12-2014-2b5b0d4c-419f-09d5-cd39-49d16cd342b6",
+    "url": "https://support.microsoft.com/help/2982794"
+  },
+  "2974008": {
+    "date": "2014-07-08",
+    "uuid": "303dc10b-aec1-ce66-04e5-ca13d46d247e",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-july-8-2014-303dc10b-aec1-ce66-04e5-ca13d46d247e",
+    "url": "https://support.microsoft.com/help/2974008"
+  },
+  "2966072": {
+    "date": "2014-06-10",
+    "uuid": "92c0e649-f3dc-450c-aa50-a4c908fdbc5f",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-june-10-2014-92c0e649-f3dc-450c-aa50-a4c908fdbc5f",
+    "url": "https://support.microsoft.com/help/2966072"
+  },
+  "2942844": {
+    "date": "2014-04-08",
+    "uuid": "573698a2-9768-5763-542c-1d8d0f2085dd",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-april-8-2014-573698a2-9768-5763-542c-1d8d0f2085dd",
+    "url": "https://support.microsoft.com/help/2942844"
+  },
+  "2938527": {
+    "date": "2014-03-11",
+    "uuid": "480b8018-81ed-781f-b180-7d8ce8efc1c0",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-march-11-2014-480b8018-81ed-781f-b180-7d8ce8efc1c0",
+    "url": "https://support.microsoft.com/help/2938527"
+  },
+  "2934802": {
+    "date": "2014-02-20",
+    "uuid": "32a498ed-4876-a541-eb37-ba72ec401510",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-february-20-2014-32a498ed-4876-a541-eb37-ba72ec401510",
+    "url": "https://support.microsoft.com/help/2934802"
+  },
+  "2916626": {
+    "date": "2014-01-14",
+    "uuid": "78f039a7-312a-2e44-dc17-90d8724b777d",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-january-14-2014-78f039a7-312a-2e44-dc17-90d8724b777d",
+    "url": "https://support.microsoft.com/help/2916626"
+  },
+  "2929825": {
+    "date": "2014-02-04",
+    "uuid": "f09cec6e-7967-7201-f219-2fe6495a4b58",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-february-4-2014-f09cec6e-7967-7201-f219-2fe6495a4b58",
+    "url": "https://support.microsoft.com/help/2929825"
+  },
+  "2907997": {
+    "date": "2013-12-10",
+    "uuid": "0cd72855-b7f2-283f-1fa0-fc8c343b7af4",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-december-10-2013-0cd72855-b7f2-283f-1fa0-fc8c343b7af4",
+    "url": "https://support.microsoft.com/help/2907997"
+  },
+  "2898108": {
+    "date": "2013-11-12",
+    "uuid": "fbc7aa6a-0828-eef7-30ee-8b442759e1f9",
+    "slug": "update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-november-12-2013-fbc7aa6a-0828-eef7-30ee-8b442759e1f9",
+    "url": "https://support.microsoft.com/help/2898108"
+  },
+  "2880289": {
+    "date": "2013-09-10",
+    "uuid": "7b7c3cbe-f703-89e8-d6a2-31be98731a52",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-10-september-10-2013-7b7c3cbe-f703-89e8-d6a2-31be98731a52",
+    "url": "https://support.microsoft.com/help/2880289"
+  },
+  "2857645": {
+    "date": "2013-07-09",
+    "uuid": "548e7497-a97f-cd82-bab3-db58e8fcca75",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-10-july-9-2013-548e7497-a97f-cd82-bab3-db58e8fcca75",
+    "url": "https://support.microsoft.com/help/2857645"
+  },
+  "2847928": {
+    "date": "2013-06-11",
+    "uuid": "1383f7af-95e5-afe1-4555-04856df68a59",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-10-june-11-2013-1383f7af-95e5-afe1-4555-04856df68a59",
+    "url": "https://support.microsoft.com/help/2847928"
+  },
+  "2833510": {
+    "date": "2013-04-09",
+    "uuid": "1f3e8bb4-57ea-ebf3-97ee-f47342e913a5",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-10-april-9-2013-1f3e8bb4-57ea-ebf3-97ee-f47342e913a5",
+    "url": "https://support.microsoft.com/help/2833510"
+  },
+  "2824670": {
+    "date": "2013-03-12",
+    "uuid": "f585a1a1-acee-2c21-2f3c-011e632b5ea4",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-10-march-12-2013-f585a1a1-acee-2c21-2f3c-011e632b5ea4",
+    "url": "https://support.microsoft.com/help/2824670"
+  },
+  "2871997": {
+    "date": "2014-05-13",
+    "uuid": "93434251-04ac-b7f3-52aa-9f951c14b649",
+    "slug": "microsoft-security-advisory-update-to-improve-credentials-protection-and-management-may-13-2014-93434251-04ac-b7f3-52aa-9f951c14b649",
+    "url": "https://support.microsoft.com/help/2871997"
+  },
+  "2973351": {
+    "date": "2014-07-08",
+    "uuid": "adf79e61-15b9-3a0c-930c-9c6072b72822",
+    "slug": "microsoft-security-advisory-registry-update-to-improve-credentials-protection-and-management-for-windows-based-systems-that-have-the-2919355-update-installed-july-8-2014-adf79e61-15b9-3a0c-930c-9c6072b72822",
+    "url": "https://support.microsoft.com/help/2973351"
+  },
+  "2975625": {
+    "date": "2014-07-08",
+    "uuid": "165dab6e-2616-5b41-d0ba-747791489b7f",
+    "slug": "microsoft-security-advisory-registry-update-to-improve-credentials-protection-and-management-for-windows-systems-that-do-not-have-the-2919355-update-installed-july-8-2014-165dab6e-2616-5b41-d0ba-747791489b7f",
+    "url": "https://support.microsoft.com/help/2975625"
+  },
+  "2982378": {
+    "date": "2014-09-09",
+    "uuid": "d811e4df-82bd-4b69-f416-8e44b8b6936b",
+    "slug": "microsoft-security-advisory-update-to-improve-credentials-protection-and-management-for-windows-7-and-windows-server-2008-r2-september-9-2014-d811e4df-82bd-4b69-f416-8e44b8b6936b",
+    "url": "https://support.microsoft.com/help/2982378"
+  },
+  "3109853": {
+    "date": "2016-01-12",
+    "uuid": "9649be99-ad3f-93d1-21b8-a8475f884b60",
+    "slug": "microsoft-security-advisory-update-to-improve-tls-session-resumption-interoperability-january-12-2016-9649be99-ad3f-93d1-21b8-a8475f884b60",
+    "url": "https://support.microsoft.com/help/3109853"
+  },
+  "3152550": {
+    "date": "2016-04-12",
+    "uuid": "2433f7d3-58db-86e8-551a-36af2f4d15f2",
+    "slug": "microsoft-security-advisory-update-to-improve-wireless-mouse-input-filtering-april-12-2016-2433f7d3-58db-86e8-551a-36af2f4d15f2",
+    "url": "https://support.microsoft.com/help/3152550"
+  },
+  "3155527": {
+    "date": "2016-05-10",
+    "uuid": "fd8a46b5-6f1a-8cec-a8be-12911da3f0b9",
+    "slug": "microsoft-security-advisory-update-to-cipher-suites-for-falsestart-may-10-2016-fd8a46b5-6f1a-8cec-a8be-12911da3f0b9",
+    "url": "https://support.microsoft.com/help/3155527"
+  },
+  "4010323": {
+    "date": "2017-05-09",
+    "uuid": "62a5b409-ef15-f9c5-facf-bb455a7b3fef",
+    "slug": "microsoft-security-advisory-sha-1-deprecation-for-ssl-tls-certificates-may-9-2017-62a5b409-ef15-f9c5-facf-bb455a7b3fef",
+    "url": "https://support.microsoft.com/help/4010323"
+  },
+  "4025687": {
+    "date": "2017-06-13",
+    "uuid": "05151e8a-bd7f-f769-43df-38d2c24f96cd",
+    "slug": "microsoft-security-advisory-4025685-guidance-for-older-platforms-june-13-2017-05151e8a-bd7f-f769-43df-38d2c24f96cd",
+    "url": "https://support.microsoft.com/help/4025687"
+  },
+  "4025688": {
+    "date": "2017-06-13",
+    "uuid": "166c0198-ab2f-2dce-1c03-c5e4ed26658b",
+    "slug": "microsoft-security-advisory-4025685-guidance-for-embedded-platforms-june-13-2017-166c0198-ab2f-2dce-1c03-c5e4ed26658b",
+    "url": "https://support.microsoft.com/help/4025688"
+  },
+  "3134225": {
+    "date": "2016-02-09",
+    "uuid": "f1cf17cd-4f9f-8995-8f81-cf2af9edec4e",
+    "slug": "ms16-011-cumulative-security-update-for-microsoft-edge-february-9-2016-f1cf17cd-4f9f-8995-8f81-cf2af9edec4e",
+    "url": "https://support.microsoft.com/help/3134225"
+  },
+  "971090": {
+    "date": "2009-07-28",
+    "uuid": "640b1466-7bca-0f6b-57c6-dafeebadca84",
+    "slug": "description-of-the-security-update-for-microsoft-visual-studio-2005-service-pack-1-july-28-2009-640b1466-7bca-0f6b-57c6-dafeebadca84",
+    "url": "https://support.microsoft.com/help/971090"
+  },
+  "973830": {
+    "date": "2009-07-28",
+    "uuid": "3fa4396c-5e5e-a042-d387-5a3b26f3e665",
+    "slug": "description-of-the-security-update-for-microsoft-visual-studio-2005-service-pack-1-64-bit-hosted-visual-c-tools-july-28-2009-3fa4396c-5e5e-a042-d387-5a3b26f3e665",
+    "url": "https://support.microsoft.com/help/973830"
+  },
+  "971091": {
+    "date": "2008-07-28",
+    "uuid": "3b8a1e62-8c82-b52c-c037-f758dce8e291",
+    "slug": "description-of-the-security-update-for-microsoft-visual-studio-2008-july-28-2009-3b8a1e62-8c82-b52c-c037-f758dce8e291",
+    "url": "https://support.microsoft.com/help/971091"
+  },
+  "973544": {
+    "date": "2009-07-28",
+    "uuid": "42f08236-49f4-b7bd-e414-416bb0d7438b",
+    "slug": "description-of-the-security-update-for-microsoft-visual-c-2005-service-pack-1-redistributable-package-july-28-2009-42f08236-49f4-b7bd-e414-416bb0d7438b",
+    "url": "https://support.microsoft.com/help/973544"
+  },
+  "973552": {
+    "date": "2009-07-28",
+    "uuid": "703c0b47-75f2-728a-7a69-4fff40cc65ef",
+    "slug": "description-of-the-security-update-for-microsoft-visual-c-2008-service-pack-1-redistributable-package-july-28-2009-703c0b47-75f2-728a-7a69-4fff40cc65ef",
+    "url": "https://support.microsoft.com/help/973552"
+  },
+  "973540": {
+    "date": "2009-08-11",
+    "uuid": "457e0628-25da-b0e5-6a59-c461e5539788",
+    "slug": "ms09-037-description-of-the-security-update-for-windows-media-player-august-11-2009-457e0628-25da-b0e5-6a59-c461e5539788",
+    "url": "https://support.microsoft.com/help/973540"
+  },
+  "947319": {
+    "date": "2003-08-11",
+    "uuid": "0df15d68-3c8f-e2e0-bdaf-af3997383ebd",
+    "slug": "ms09-043-description-of-the-security-update-for-office-2003-web-components-and-office-xp-web-components-in-office-2003-august-11-2009-0df15d68-3c8f-e2e0-bdaf-af3997383ebd",
+    "url": "https://support.microsoft.com/help/947319"
+  },
+  "971023": {
+    "date": "2009-10-13",
+    "uuid": "41c62473-967c-2334-f221-74aa8533a303",
+    "slug": "ms09-062-description-of-the-security-update-for-microsoft-visual-studio-2005-service-pack-1-october-13-2009-41c62473-967c-2334-f221-74aa8533a303",
+    "url": "https://support.microsoft.com/help/971023"
+  },
+  "973904": {
+    "date": "2003-12-08",
+    "uuid": "7f94e304-9466-086b-6eff-4abb589f8431",
+    "slug": "ms09-073-description-of-the-security-update-for-windows-xp-windows-2000-and-windows-server-2003-december-8-2009-7f94e304-9466-086b-6eff-4abb589f8431",
+    "url": "https://support.microsoft.com/help/973904"
+  },
+  "978601": {
+    "date": "2010-04-13",
+    "uuid": "c2640fa6-f05a-3463-5283-38f1525ec212",
+    "slug": "ms10-019-description-of-the-security-update-for-windows-authenticode-signature-verification-april-13-2010-c2640fa6-f05a-3463-5283-38f1525ec212",
+    "url": "https://support.microsoft.com/help/978601"
+  },
+  "981332": {
+    "date": "2010-04-13",
+    "uuid": "f612b95c-7681-98db-f1fd-9862084f861e",
+    "slug": "ms10-022-description-of-the-security-update-for-visual-basic-scripting-vbscript-5-8-april-13-2010-f612b95c-7681-98db-f1fd-9862084f861e",
+    "url": "https://support.microsoft.com/help/981332"
+  },
+  "976323": {
+    "date": "2010-04-13",
+    "uuid": "5b3b0e08-8b38-77ad-5509-2d58a8680b52",
+    "slug": "ms10-024-description-of-the-security-update-for-windows-smtp-service-april-13-2010-and-july-13-2010-5b3b0e08-8b38-77ad-5509-2d58a8680b52",
+    "url": "https://support.microsoft.com/help/976323"
+  },
+  "2288613": {
+    "date": "2003-09-14",
+    "uuid": "d67f75b0-0e00-c87a-99ad-2c848b0b4174",
+    "slug": "ms10-063-description-of-the-security-update-for-office-2003-september-14-2010-d67f75b0-0e00-c87a-99ad-2c848b0b4174",
+    "url": "https://support.microsoft.com/help/2288613"
+  },
+  "2124261": {
+    "date": "2010-09-14",
+    "uuid": "fc292d28-0125-4a71-253f-f3b381f2f6ce",
+    "slug": "ms10-065-description-of-the-security-update-for-internet-information-services-asp-september-14-2010-fc292d28-0125-4a71-253f-f3b381f2f6ce",
+    "url": "https://support.microsoft.com/help/2124261"
+  },
+  "2409055": {
+    "date": "2010-12-14",
+    "uuid": "39030116-06a8-a26d-ff6f-4bc690282e40",
+    "slug": "ms10-103-description-of-the-security-update-for-microsoft-publisher-2010-december-14-2010-39030116-06a8-a26d-ff6f-4bc690282e40",
+    "url": "https://support.microsoft.com/help/2409055"
+  },
+  "2289078": {
+    "date": "2010-12-14",
+    "uuid": "a386b3f2-dd34-9a69-1c94-49bda789ef81",
+    "slug": "ms10-105-description-of-the-security-update-for-microsoft-office-2010-december-14-2010-a386b3f2-dd34-9a69-1c94-49bda789ef81",
+    "url": "https://support.microsoft.com/help/2289078"
+  },
+  "2419640": {
+    "date": "2011-01-11",
+    "uuid": "6bda5ef9-82da-1bc9-e14d-12deb33afedf",
+    "slug": "ms11-002-description-of-the-security-update-for-windows-data-access-components-6-0-january-11-2011-6bda5ef9-82da-1bc9-e14d-12deb33afedf",
+    "url": "https://support.microsoft.com/help/2419640"
+  },
+  "2425227": {
+    "date": "2011-02-08",
+    "uuid": "81e81747-1ccb-8fbc-c605-06a9ec00737d",
+    "slug": "ms11-013-description-of-the-security-update-for-kerberos-in-windows-7-and-in-windows-server-2008-r2-february-8-2011-81e81747-1ccb-8fbc-c605-06a9ec00737d",
+    "url": "https://support.microsoft.com/help/2425227"
+  },
+  "2479943": {
+    "date": "2011-03-08",
+    "uuid": "afe51dcd-8bf8-a603-c1c0-24431d62929a",
+    "slug": "ms11-015-description-of-the-security-update-for-microsoft-windows-march-8-2011-afe51dcd-8bf8-a603-c1c0-24431d62929a",
+    "url": "https://support.microsoft.com/help/2479943"
+  },
+  "2508062": {
+    "date": "2011-03-08",
+    "uuid": "881b0884-0c55-a378-9413-718b5cdb1497",
+    "slug": "ms11-017-vulnerability-in-remote-desktop-client-could-allow-remote-code-execution-march-8-2011-881b0884-0c55-a378-9413-718b5cdb1497",
+    "url": "https://support.microsoft.com/help/2508062"
+  },
+  "2481109": {
+    "date": "2011-03-08",
+    "uuid": "0806ac44-1635-4ac9-c2a8-67a27e5f9801",
+    "slug": "ms11-017-description-of-the-security-update-for-remote-desktop-client-6-1-and-remote-desktop-client-6-0-march-8-2011-0806ac44-1635-4ac9-c2a8-67a27e5f9801",
+    "url": "https://support.microsoft.com/help/2481109"
+  },
+  "2483614": {
+    "date": "2011-03-08",
+    "uuid": "56c6e54a-03cb-335d-c194-02650c0f054c",
+    "slug": "ms11-017-description-of-the-security-update-for-remote-desktop-client-7-0-march-8-2011-56c6e54a-03cb-335d-c194-02650c0f054c",
+    "url": "https://support.microsoft.com/help/2483614"
+  },
+  "2511455": {
+    "date": "2011-04-12",
+    "uuid": "9db54f65-5cc6-97db-42ce-91e68106926a",
+    "slug": "ms11-019-vulnerabilities-in-smb-client-could-allow-remote-code-execution-april-12-2011-9db54f65-5cc6-97db-42ce-91e68106926a",
+    "url": "https://support.microsoft.com/help/2511455"
+  },
+  "2466146": {
+    "date": "2010-04-12",
+    "uuid": "770b7598-72a0-cde8-f649-02a12d60b4f4",
+    "slug": "ms11-021-description-of-the-security-update-for-excel-2010-april-12-2011-770b7598-72a0-cde8-f649-02a12d60b4f4",
+    "url": "https://support.microsoft.com/help/2466146"
+  },
+  "2527308": {
+    "date": "2011-04-12",
+    "uuid": "366531f1-c1cd-fe49-345f-8869f140d80c",
+    "slug": "ms11-024-vulnerability-in-windows-fax-cover-page-editor-could-allow-remote-code-execution-april-12-2011-366531f1-c1cd-fe49-345f-8869f140d80c",
+    "url": "https://support.microsoft.com/help/2527308"
+  },
+  "2491683": {
+    "date": "2011-04-12",
+    "uuid": "28ffb022-e803-c0be-bc80-346b919078df",
+    "slug": "ms11-024-description-of-the-security-update-for-windows-fax-cover-page-editor-april-12-2011-28ffb022-e803-c0be-bc80-346b919078df",
+    "url": "https://support.microsoft.com/help/2491683"
+  },
+  "2506212": {
+    "date": "2011-04-12",
+    "uuid": "682d2a00-2ef1-3b4a-e777-eb66701680d6",
+    "slug": "ms11-024-description-of-the-security-update-for-windows-fax-cover-page-editor-mfc-components-april-12-2011-682d2a00-2ef1-3b4a-e777-eb66701680d6",
+    "url": "https://support.microsoft.com/help/2506212"
+  },
+  "2465373": {
+    "date": "2011-04-12",
+    "uuid": "25b6935c-ceda-f9fa-98fc-fca966830829",
+    "slug": "ms11-025-description-of-the-security-update-for-visual-studio-net-2003-sp1-april-12-2011-25b6935c-ceda-f9fa-98fc-fca966830829",
+    "url": "https://support.microsoft.com/help/2465373"
+  },
+  "2509553": {
+    "date": "2011-04-12",
+    "uuid": "98cdc5e4-af92-597a-0a0b-49406f3c4134",
+    "slug": "ms11-030-vulnerability-in-dns-resolution-could-allow-remote-code-execution-april-12-2011-98cdc5e4-af92-597a-0a0b-49406f3c4134",
+    "url": "https://support.microsoft.com/help/2509553"
+  },
+  "2507618": {
+    "date": "2011-04-12",
+    "uuid": "ce3491b2-6cc0-c095-9b60-2545301fb935",
+    "slug": "ms11-032-vulnerability-in-the-opentype-compact-font-format-cff-driver-could-allow-remote-code-execution-april-12-2011-ce3491b2-6cc0-c095-9b60-2545301fb935",
+    "url": "https://support.microsoft.com/help/2507618"
+  },
+  "2544893": {
+    "date": "2011-06-14",
+    "uuid": "84925b78-761e-90ad-5ac7-1b5e7c2605af",
+    "slug": "ms11-037-vulnerability-in-mhtml-could-allow-information-disclosure-june-14-2011-84925b78-761e-90ad-5ac7-1b5e7c2605af",
+    "url": "https://support.microsoft.com/help/2544893"
+  },
+  "2525694": {
+    "date": "2011-06-14",
+    "uuid": "1471d2ed-99ec-12cf-75ad-1dd214203a96",
+    "slug": "ms11-041-vulnerabilities-in-windows-kernel-mode-drivers-could-allow-elevation-of-privilege-june-14-2011-1471d2ed-99ec-12cf-75ad-1dd214203a96",
+    "url": "https://support.microsoft.com/help/2525694"
+  },
+  "2535512": {
+    "date": "2011-06-14",
+    "uuid": "35176fff-4ec1-47fa-5264-1c0cc022bfbf",
+    "slug": "ms11-042-vulnerabilities-in-distributed-file-system-could-allow-remote-code-execution-june-14-2011-35176fff-4ec1-47fa-5264-1c0cc022bfbf",
+    "url": "https://support.microsoft.com/help/2535512"
+  },
+  "2536276": {
+    "date": "2011-06-14",
+    "uuid": "a22339dd-097e-b3f6-1859-a2290530784a",
+    "slug": "ms11-043-vulnerability-in-smb-client-could-allow-remote-code-execution-june-14-2011-a22339dd-097e-b3f6-1859-a2290530784a",
+    "url": "https://support.microsoft.com/help/2536276"
+  },
+  "2537146": {
+    "date": "2011-06-14",
+    "uuid": "6c7fe0fe-4c95-0bdc-5b50-8b403cc672bc",
+    "slug": "ms11-045-vulnerabilities-in-microsoft-excel-could-allow-remote-code-execution-june-14-2011-6c7fe0fe-4c95-0bdc-5b50-8b403cc672bc",
+    "url": "https://support.microsoft.com/help/2537146"
+  },
+  "2523021": {
+    "date": "2010-06-14",
+    "uuid": "87d60c0b-f6e3-7a43-cec3-daa5514d7f8c",
+    "slug": "ms11-045-description-of-the-security-update-for-excel-2010-june-14-2011-87d60c0b-f6e3-7a43-cec3-daa5514d7f8c",
+    "url": "https://support.microsoft.com/help/2523021"
+  },
+  "2503665": {
+    "date": "2011-06-14",
+    "uuid": "b963c111-b2fe-eda7-f070-bca6f8af0a31",
+    "slug": "ms11-046-vulnerability-in-windows-afd-sys-could-allow-elevation-of-privilege-june-14-2011-b963c111-b2fe-eda7-f070-bca6f8af0a31",
+    "url": "https://support.microsoft.com/help/2503665"
+  },
+  "2536275": {
+    "date": "2011-06-14",
+    "uuid": "e20165d7-39ec-6456-7dd2-2cd75f821cbd",
+    "slug": "ms11-048-vulnerability-in-smb-server-could-allow-denial-of-service-june-14-2011-e20165d7-39ec-6456-7dd2-2cd75f821cbd",
+    "url": "https://support.microsoft.com/help/2536275"
+  },
+  "2543893": {
+    "date": "2011-06-14",
+    "uuid": "99e56764-4114-dedb-9185-e5f71e97e975",
+    "slug": "kb2543893-ms11-049-vulnerability-in-the-microsoft-xml-editor-could-allow-information-disclosure-june-14-2011-99e56764-4114-dedb-9185-e5f71e97e975",
+    "url": "https://support.microsoft.com/help/2543893"
+  },
+  "2530548": {
+    "date": "2011-06-14",
+    "uuid": "a378d881-7545-a1f0-ff81-b65e60656878",
+    "slug": "ms11-050-cumulative-security-update-for-internet-explorer-june-14-2011-a378d881-7545-a1f0-ff81-b65e60656878",
+    "url": "https://support.microsoft.com/help/2530548"
+  },
+  "2566220": {
+    "date": "2011-07-12",
+    "uuid": "eef05d23-153e-2ffe-80be-1eb2d7c0e6be",
+    "slug": "ms11-053-vulnerability-in-bluetooth-stack-could-allow-remote-code-execution-july-12-2011-eef05d23-153e-2ffe-80be-1eb2d7c0e6be",
+    "url": "https://support.microsoft.com/help/2566220"
+  },
+  "2532531": {
+    "date": "2011-07-12",
+    "uuid": "85bfbbc4-39ab-f8a3-0ab0-22e82a5a8c83",
+    "slug": "ms11-053-description-of-the-update-for-bluetooth-stack-for-windows-7-and-windows-vista-service-pack-2-july-12-2011-85bfbbc4-39ab-f8a3-0ab0-22e82a5a8c83",
+    "url": "https://support.microsoft.com/help/2532531"
+  },
+  "2555917": {
+    "date": "2011-07-12",
+    "uuid": "6fc3dffc-c0e7-2789-7d07-7f77d94d4143",
+    "slug": "ms11-054-vulnerabilities-in-windows-kernel-mode-drivers-could-allow-elevation-of-privilege-july-12-2011-6fc3dffc-c0e7-2789-7d07-7f77d94d4143",
+    "url": "https://support.microsoft.com/help/2555917"
+  },
+  "2507938": {
+    "date": "2011-07-12",
+    "uuid": "5a4f46db-9e4a-1fc9-c4f0-7d2537a2a777",
+    "slug": "ms11-056-vulnerabilities-in-windows-csrss-could-allow-elevation-of-privilege-july-12-2011-5a4f46db-9e4a-1fc9-c4f0-7d2537a2a777",
+    "url": "https://support.microsoft.com/help/2507938"
+  },
+  "2546250": {
+    "date": "2011-08-09",
+    "uuid": "7f642e1c-52e5-99b0-4719-9b67a2035e74",
+    "slug": "ms11-061-vulnerability-in-remote-desktop-web-access-could-allow-elevation-of-privilege-august-9-2011-7f642e1c-52e5-99b0-4719-9b67a2035e74",
+    "url": "https://support.microsoft.com/help/2546250"
+  },
+  "2567680": {
+    "date": "2011-08-09",
+    "uuid": "f9f7f2dc-24f7-9b05-f2bf-265077ceb63d",
+    "slug": "ms11-063-vulnerability-in-windows-client-server-run-time-subsystem-could-allow-elevation-of-privilege-august-9-2011-f9f7f2dc-24f7-9b05-f2bf-265077ceb63d",
+    "url": "https://support.microsoft.com/help/2567680"
+  },
+  "2563894": {
+    "date": "2011-08-09",
+    "uuid": "388a569a-37a3-0f1c-88a0-abc467b74c3d",
+    "slug": "ms11-064-vulnerabilities-in-tcp-ip-stack-could-allow-denial-of-service-august-9-2011-388a569a-37a3-0f1c-88a0-abc467b74c3d",
+    "url": "https://support.microsoft.com/help/2563894"
+  },
+  "2487367": {
+    "date": "2011-08-09",
+    "uuid": "39ab11f3-e907-256b-5fc5-e3a429fd0268",
+    "slug": "ms11-066-description-of-the-security-update-for-the-net-framework-4-0-august-9-2011-39ab11f3-e907-256b-5fc5-e3a429fd0268",
+    "url": "https://support.microsoft.com/help/2487367"
+  },
+  "2579115": {
+    "date": "2011-08-09",
+    "uuid": "5dbcb256-dca2-e5c8-a0bb-c1420182f84a",
+    "slug": "ms11-067-description-of-the-security-update-for-microsoft-report-viewer-2005-service-pack-1-redistributable-package-august-9-2011-5dbcb256-dca2-e5c8-a0bb-c1420182f84a",
+    "url": "https://support.microsoft.com/help/2579115"
+  },
+  "2556532": {
+    "date": "2011-08-09",
+    "uuid": "c8d8e97d-2a75-3054-e685-a77b18b427bd",
+    "slug": "ms11-068-vulnerability-in-windows-kernel-could-allow-denial-of-service-august-9-2011-c8d8e97d-2a75-3054-e685-a77b18b427bd",
+    "url": "https://support.microsoft.com/help/2556532"
+  },
+  "2571621": {
+    "date": "2011-09-13",
+    "uuid": "69ef1f69-e657-04b8-1f6d-e8909cce73d5",
+    "slug": "ms11-070-vulnerability-in-wins-could-allow-elevation-of-privilege-september-13-2011-69ef1f69-e657-04b8-1f6d-e8909cce73d5",
+    "url": "https://support.microsoft.com/help/2571621"
+  },
+  "2570947": {
+    "date": "2011-09-13",
+    "uuid": "8ee01eec-6d5c-7b1b-6a61-52269fc2ed3a",
+    "slug": "ms11-071-vulnerability-in-windows-components-could-allow-remote-code-execution-september-13-2011-8ee01eec-6d5c-7b1b-6a61-52269fc2ed3a",
+    "url": "https://support.microsoft.com/help/2570947"
+  },
+  "2587505": {
+    "date": "2011-09-13",
+    "uuid": "7b1d08c0-aa33-b693-6a10-4278c69b1942",
+    "slug": "ms11-072-vulnerabilities-in-microsoft-excel-could-allow-remote-code-execution-september-13-2011-7b1d08c0-aa33-b693-6a10-4278c69b1942",
+    "url": "https://support.microsoft.com/help/2587505"
+  },
+  "2584066": {
+    "date": "2010-09-13",
+    "uuid": "fd3ea2de-56f3-e9ee-f32b-643579571cca",
+    "slug": "ms11-073-description-of-the-security-update-for-office-2010-september-13-2011-fd3ea2de-56f3-e9ee-f32b-643579571cca",
+    "url": "https://support.microsoft.com/help/2584066"
+  },
+  "2560885": {
+    "date": "2011-09-13",
+    "uuid": "b0789795-c02c-0cf7-68b3-7847f0ac73cf",
+    "slug": "ms11-074-description-of-the-security-update-for-sharepoint-server-2010-osrv-september-13-2011-b0789795-c02c-0cf7-68b3-7847f0ac73cf",
+    "url": "https://support.microsoft.com/help/2560885"
+  },
+  "2560890": {
+    "date": "2011-09-13",
+    "uuid": "176d5016-4e56-2d5d-599f-b016678adc80",
+    "slug": "ms11-074-description-of-the-security-update-for-sharepoint-server-2010-pplwfe-september-13-2011-176d5016-4e56-2d5d-599f-b016678adc80",
+    "url": "https://support.microsoft.com/help/2560890"
+  },
+  "2566456": {
+    "date": "2010-09-13",
+    "uuid": "c8769e74-910b-71c5-c2a7-ef296532bf29",
+    "slug": "ms11-074-description-of-the-security-update-for-microsoft-sharepoint-server-2010-september-13-2011-c8769e74-910b-71c5-c2a7-ef296532bf29",
+    "url": "https://support.microsoft.com/help/2566456"
+  },
+  "2639417": {
+    "date": "2011-12-13",
+    "uuid": "86574242-0ec2-6a34-b3e3-037ede0a9c2a",
+    "slug": "ms11-087-vulnerability-in-windows-kernel-mode-drivers-could-allow-remote-code-execution-december-13-2011-86574242-0ec2-6a34-b3e3-037ede0a9c2a",
+    "url": "https://support.microsoft.com/help/2639417"
+  },
+  "2652016": {
+    "date": "2011-12-13",
+    "uuid": "c5494a78-47bc-deca-d464-00d832e555a6",
+    "slug": "ms11-088-vulnerability-in-microsoft-office-ime-chinese-could-allow-elevation-of-privilege-december-13-2011-c5494a78-47bc-deca-d464-00d832e555a6",
+    "url": "https://support.microsoft.com/help/2652016"
+  },
+  "2596511": {
+    "date": "2011-12-13",
+    "uuid": "b718fc8c-7a97-3ba2-5ce0-25e12182ed16",
+    "slug": "ms11-088-description-of-the-security-update-for-microsoft-pinyin-ime-2010-for-microsoft-office-2010-and-microsoft-office-2010-service-pack-1-december-13-2011-b718fc8c-7a97-3ba2-5ce0-25e12182ed16",
+    "url": "https://support.microsoft.com/help/2596511"
+  },
+  "2584146": {
+    "date": "2012-01-10",
+    "uuid": "0ec788f4-dfa6-f02b-df52-760945fc8e0a",
+    "slug": "ms12-005-vulnerability-in-microsoft-windows-could-allow-remote-code-execution-january-10-2012-0ec788f4-dfa6-f02b-df52-760945fc8e0a",
+    "url": "https://support.microsoft.com/help/2584146"
+  },
+  "2643584": {
+    "date": "2012-01-10",
+    "uuid": "41786996-65e1-ad9e-7536-fdc4017a81a1",
+    "slug": "ms12-006-vulnerability-in-ssl-tls-could-allow-information-disclosure-january-10-2012-41786996-65e1-ad9e-7536-fdc4017a81a1",
+    "url": "https://support.microsoft.com/help/2643584"
+  },
+  "2585542": {
+    "date": "2012-01-10",
+    "uuid": "36d1b7ca-b8e4-2dc5-062e-08b3febddd64",
+    "slug": "ms12-006-description-of-the-security-update-for-webio-winhttp-and-schannel-in-windows-january-10-2012-36d1b7ca-b8e4-2dc5-062e-08b3febddd64",
+    "url": "https://support.microsoft.com/help/2585542"
+  },
+  "2645640": {
+    "date": "2012-02-14",
+    "uuid": "7b2de86c-ed69-5159-1f06-95f24d5e81d1",
+    "slug": "ms12-009-vulnerabilities-in-ancillary-function-driver-could-allow-elevation-of-privilege-february-14-2012-7b2de86c-ed69-5159-1f06-95f24d5e81d1",
+    "url": "https://support.microsoft.com/help/2645640"
+  },
+  "2597166": {
+    "date": "2010-05-08",
+    "uuid": "705d1168-4fcf-95e2-917a-9b037df7c2c1",
+    "slug": "ms12-030-description-of-the-security-update-for-excel-2010-may-8-2012-705d1168-4fcf-95e2-917a-9b037df7c2c1",
+    "url": "https://support.microsoft.com/help/2597166"
+  },
+  "2719177": {
+    "date": "2012-07-10",
+    "uuid": "3f986846-ad9f-9ada-bcfc-5c40982df194",
+    "slug": "ms12-044-cumulative-security-update-for-internet-explorer-july-10-2012-3f986846-ad9f-9ada-bcfc-5c40982df194",
+    "url": "https://support.microsoft.com/help/2719177"
+  },
+  "2698365": {
+    "date": "2012-07-10",
+    "uuid": "b1c26341-0860-c8e1-7d21-1a51c9110418",
+    "slug": "ms12-045-vulnerability-in-microsoft-data-access-components-could-allow-remote-code-execution-july-10-2012-b1c26341-0860-c8e1-7d21-1a51c9110418",
+    "url": "https://support.microsoft.com/help/2698365"
+  },
+  "2707960": {
+    "date": "2012-07-10",
+    "uuid": "39426da2-6e06-4c71-f648-72d31d6e820a",
+    "slug": "ms12-046-vulnerability-in-visual-basic-for-applications-could-allow-remote-code-execution-july-10-2012-39426da2-6e06-4c71-f648-72d31d6e820a",
+    "url": "https://support.microsoft.com/help/2707960"
+  },
+  "2598243": {
+    "date": "2012-07-10",
+    "uuid": "6575552a-4e8e-11cb-7545-089568976eec",
+    "slug": "ms12-046-description-of-the-security-update-for-office-2010-vbe7-dll-july-10-2012-6575552a-4e8e-11cb-7545-089568976eec",
+    "url": "https://support.microsoft.com/help/2598243"
+  },
+  "2553447": {
+    "date": "2010-07-10",
+    "uuid": "a68351c2-b97b-6013-f3a9-672fbb5962f4",
+    "slug": "ms12-046-description-of-the-security-update-for-office-2010-july-10-2012-a68351c2-b97b-6013-f3a9-672fbb5962f4",
+    "url": "https://support.microsoft.com/help/2553447"
+  },
+  "2688865": {
+    "date": "2012-07-10",
+    "uuid": "24adbdcc-69e7-0750-2517-d62204779c64",
+    "slug": "ms12-046-description-of-the-security-update-for-visual-basic-for-applications-july-10-2012-24adbdcc-69e7-0750-2517-d62204779c64",
+    "url": "https://support.microsoft.com/help/2688865"
+  },
+  "2718523": {
+    "date": "2012-07-10",
+    "uuid": "948c29dd-fb90-e521-4b18-3ba87ebce23f",
+    "slug": "ms12-047-vulnerability-in-windows-kernel-mode-drivers-could-allow-elevation-of-privilege-july-10-2012-948c29dd-fb90-e521-4b18-3ba87ebce23f",
+    "url": "https://support.microsoft.com/help/2718523"
+  },
+  "2691442": {
+    "date": "2012-07-10",
+    "uuid": "b0114db3-24c8-ad51-fd71-5a07f5a8be5d",
+    "slug": "ms12-048-vulnerability-in-windows-shell-could-allow-remote-code-execution-july-10-2012-b0114db3-24c8-ad51-fd71-5a07f5a8be5d",
+    "url": "https://support.microsoft.com/help/2691442"
+  },
+  "2553431": {
+    "date": "2010-07-10",
+    "uuid": "96c82cc7-4129-099f-f785-62d279d2ac29",
+    "slug": "ms12-050-description-of-the-security-update-for-infopath-2010-july-10-2012-96c82cc7-4129-099f-f785-62d279d2ac29",
+    "url": "https://support.microsoft.com/help/2553431"
+  },
+  "2553322": {
+    "date": "2010-07-10",
+    "uuid": "776ed2cb-1289-a084-a341-5049311f1f0a",
+    "slug": "ms12-050-description-of-the-security-update-for-infopath-2010-july-10-2012-776ed2cb-1289-a084-a341-5049311f1f0a",
+    "url": "https://support.microsoft.com/help/2553322"
+  },
+  "2553424": {
+    "date": "2012-07-10",
+    "uuid": "1ec61f5b-4194-3244-a750-c945196bd4cf",
+    "slug": "ms12-050-description-of-the-security-update-for-sharepoint-server-2010-wosrv-july-10-2012-1ec61f5b-4194-3244-a750-c945196bd4cf",
+    "url": "https://support.microsoft.com/help/2553424"
+  },
+  "2553194": {
+    "date": "2012-07-10",
+    "uuid": "1b4ed281-28c3-f873-8138-7580dd4681bd",
+    "slug": "ms12-050-description-of-the-security-update-for-sharepoint-server-2010-coreserverloc-july-10-2012-1b4ed281-28c3-f873-8138-7580dd4681bd",
+    "url": "https://support.microsoft.com/help/2553194"
+  },
+  "2589325": {
+    "date": "2010-07-10",
+    "uuid": "104d2c18-449f-6c55-8f17-3425855f5858",
+    "slug": "ms12-050-description-of-the-security-update-for-groove-server-2010-july-10-2012-104d2c18-449f-6c55-8f17-3425855f5858",
+    "url": "https://support.microsoft.com/help/2589325"
+  },
+  "2553365": {
+    "date": "2010-07-10",
+    "uuid": "8dd2df57-6c70-675b-5aae-2ed353981eae",
+    "slug": "ms12-050-description-of-the-security-update-for-sharepoint-foundation-2010-july-10-2012-8dd2df57-6c70-675b-5aae-2ed353981eae",
+    "url": "https://support.microsoft.com/help/2553365"
+  },
+  "2598239": {
+    "date": "2010-07-10",
+    "uuid": "40ffd23b-4ae3-e46d-3830-f7f0f2b12964",
+    "slug": "ms12-050-description-of-the-security-update-for-sharepoint-server-2010-july-10-2012-40ffd23b-4ae3-e46d-3830-f7f0f2b12964",
+    "url": "https://support.microsoft.com/help/2598239"
+  },
+  "2722913": {
+    "date": "2012-08-14",
+    "uuid": "a9062b5f-0574-b90a-cd99-83a69b81240e",
+    "slug": "ms12-052-cumulative-security-update-for-internet-explorer-august-14-2012-a9062b5f-0574-b90a-cd99-83a69b81240e",
+    "url": "https://support.microsoft.com/help/2722913"
+  },
+  "2733594": {
+    "date": "2012-08-14",
+    "uuid": "6642f2cd-e90c-4d11-bb38-62ccf71a2746",
+    "slug": "ms12-054-vulnerabilities-in-windows-networking-components-could-allow-remote-code-execution-august-14-2012-6642f2cd-e90c-4d11-bb38-62ccf71a2746",
+    "url": "https://support.microsoft.com/help/2733594"
+  },
+  "2705219": {
+    "date": "2012-08-14",
+    "uuid": "3a6708f9-2582-7b14-0bdc-cd17cd32f9ea",
+    "slug": "ms12-054-description-of-the-security-update-for-windows-networking-components-august-14-2012-3a6708f9-2582-7b14-0bdc-cd17cd32f9ea",
+    "url": "https://support.microsoft.com/help/2705219"
+  },
+  "2712808": {
+    "date": "2012-08-14",
+    "uuid": "39fc462e-01ed-0a18-8136-1ff3490247ea",
+    "slug": "ms12-054-description-of-the-security-update-for-windows-networking-components-august-14-2012-39fc462e-01ed-0a18-8136-1ff3490247ea",
+    "url": "https://support.microsoft.com/help/2712808"
+  },
+  "2731847": {
+    "date": "2012-08-14",
+    "uuid": "f5fcd5b4-bde6-4f01-82a4-9cf7edb44533",
+    "slug": "ms12-055-vulnerabilities-in-windows-kernel-mode-drivers-could-allow-elevation-of-privilege-august-14-2012-f5fcd5b4-bde6-4f01-82a4-9cf7edb44533",
+    "url": "https://support.microsoft.com/help/2731847"
+  },
+  "2706045": {
+    "date": "2012-08-14",
+    "uuid": "68931195-aaad-90a1-0018-95d79fcd4180",
+    "slug": "ms12-056-vulnerability-in-jscript-and-vbscript-engines-could-allow-remote-code-execution-august-14-2012-68931195-aaad-90a1-0018-95d79fcd4180",
+    "url": "https://support.microsoft.com/help/2706045"
+  },
+  "2731879": {
+    "date": "2012-08-14",
+    "uuid": "00557184-a898-0c05-f1a5-eae73ecc8509",
+    "slug": "ms12-057-vulnerabilities-in-microsoft-office-could-allow-for-remote-code-execution-august-14-2012-00557184-a898-0c05-f1a5-eae73ecc8509",
+    "url": "https://support.microsoft.com/help/2731879"
+  },
+  "2596754": {
+    "date": "2012-08-14",
+    "uuid": "d8b87961-9947-c8ca-81f0-d5e2959b3c6d",
+    "slug": "ms12-057-description-of-the-security-update-for-2007-office-system-msconv97-august-14-2012-d8b87961-9947-c8ca-81f0-d5e2959b3c6d",
+    "url": "https://support.microsoft.com/help/2596754"
+  },
+  "2687510": {
+    "date": "2012-08-14",
+    "uuid": "a9437978-9e3e-b221-3b31-cf5b9eb9916f",
+    "slug": "ms12-057-description-of-the-security-update-for-office-2010-msconv-august-14-2012-a9437978-9e3e-b221-3b31-cf5b9eb9916f",
+    "url": "https://support.microsoft.com/help/2687510"
+  },
+  "2740358": {
+    "date": "2012-08-14",
+    "uuid": "b4d70bb1-6431-3d38-52f4-8763991fa62f",
+    "slug": "ms12-058-vulnerability-in-microsoft-exchange-server-webready-document-viewing-could-allow-remote-code-execution-august-14-2012-b4d70bb1-6431-3d38-52f4-8763991fa62f",
+    "url": "https://support.microsoft.com/help/2740358"
+  },
+  "2720573": {
+    "date": "2012-08-14",
+    "uuid": "50437971-c6b6-30bf-1b8c-a05f5aa1d0e9",
+    "slug": "ms12-060-vulnerability-in-windows-common-controls-could-allow-remote-code-execution-august-14-2012-50437971-c6b6-30bf-1b8c-a05f5aa1d0e9",
+    "url": "https://support.microsoft.com/help/2720573"
+  },
+  "2733918": {
+    "date": "2012-08-14",
+    "uuid": "bd91aa4d-9ae1-5142-c201-cd5385aa754d",
+    "slug": "ms12-059-vulnerability-in-microsoft-visio-could-allow-remote-code-execution-august-14-2012-bd91aa4d-9ae1-5142-c201-cd5385aa754d",
+    "url": "https://support.microsoft.com/help/2733918"
+  },
+  "2687508": {
+    "date": "2010-08-14",
+    "uuid": "02746f10-6e5a-08aa-1949-3e6375a77707",
+    "slug": "ms12-059-description-of-the-security-update-for-visio-2010-august-14-2012-02746f10-6e5a-08aa-1949-3e6375a77707",
+    "url": "https://support.microsoft.com/help/2687508"
+  },
+  "2598287": {
+    "date": "2010-08-14",
+    "uuid": "ffe1c54d-e313-d81b-b736-b3cc8dfa2ebd",
+    "slug": "ms12-059-description-of-the-security-update-for-visio-2010-viewer-august-14-2010-ffe1c54d-e313-d81b-b736-b3cc8dfa2ebd",
+    "url": "https://support.microsoft.com/help/2598287"
+  },
+  "2726929": {
+    "date": "2012-08-14",
+    "uuid": "a2639ba3-f571-380e-b1c8-65f820236708",
+    "slug": "ms12-060-description-of-the-security-update-for-office-2003-and-office-2003-web-components-august-14-2012-a2639ba3-f571-380e-b1c8-65f820236708",
+    "url": "https://support.microsoft.com/help/2726929"
+  },
+  "2597986": {
+    "date": "2010-08-14",
+    "uuid": "17c2387c-8a38-f7b4-1aaf-a560d6c8bd0b",
+    "slug": "ms12-060-description-of-the-security-update-for-office-2010-august-14-2012-17c2387c-8a38-f7b4-1aaf-a560d6c8bd0b",
+    "url": "https://support.microsoft.com/help/2597986"
+  },
+  "983811": {
+    "date": "2012-08-14",
+    "uuid": "37427452-0c77-6117-cef5-9a5943a30c68",
+    "slug": "ms12-060-description-of-the-security-update-for-sql-server-2000-service-pack-4-qfe-august-14-2012-37427452-0c77-6117-cef5-9a5943a30c68",
+    "url": "https://support.microsoft.com/help/983811"
+  },
+  "2716392": {
+    "date": "2009-08-14",
+    "uuid": "2a382443-f6b5-9eef-8d33-5b754f8a1333",
+    "slug": "ms12-060-description-of-the-security-update-for-commerce-server-2009-august-14-2012-2a382443-f6b5-9eef-8d33-5b754f8a1333",
+    "url": "https://support.microsoft.com/help/2716392"
+  },
+  "2716393": {
+    "date": "2012-08-14",
+    "uuid": "86f68226-1d28-6542-eb07-65f223d6a01e",
+    "slug": "ms12-060-description-of-the-security-update-for-commerce-server-2009-r2-august-14-2012-86f68226-1d28-6542-eb07-65f223d6a01e",
+    "url": "https://support.microsoft.com/help/2716393"
+  },
+  "2719584": {
+    "date": "2012-09-11",
+    "uuid": "499f7752-3e77-f795-eca5-ff3a10f212ca",
+    "slug": "ms12-061-vulnerability-in-visual-studio-team-foundation-server-could-allow-elevation-of-privilege-september-11-2012-499f7752-3e77-f795-eca5-ff3a10f212ca",
+    "url": "https://support.microsoft.com/help/2719584"
+  },
+  "2741528": {
+    "date": "2012-09-11",
+    "uuid": "bd472ffd-e9c1-fd9f-b50d-a106382d0f15",
+    "slug": "ms12-062-vulnerability-in-system-center-configuration-manager-could-allow-elevation-of-privilege-september-11-2012-bd472ffd-e9c1-fd9f-b50d-a106382d0f15",
+    "url": "https://support.microsoft.com/help/2741528"
+  },
+  "2721642": {
+    "date": "2012-09-11",
+    "uuid": "89f5cb78-a281-2917-0674-96569d497d0e",
+    "slug": "ms12-062-description-of-the-security-update-for-microsoft-system-center-configuration-manager-2007-service-pack-2-september-11-2012-89f5cb78-a281-2917-0674-96569d497d0e",
+    "url": "https://support.microsoft.com/help/2721642"
+  },
+  "2744842": {
+    "date": "2012-09-21",
+    "uuid": "dd36d056-7de3-6785-4985-4d033aedf2c8",
+    "slug": "ms12-063-cumulative-security-update-for-internet-explorer-september-21-2012-dd36d056-7de3-6785-4985-4d033aedf2c8",
+    "url": "https://support.microsoft.com/help/2744842"
+  },
+  "2742319": {
+    "date": "2012-10-09",
+    "uuid": "bc22f2e2-840a-e29d-7810-11d057ea55a8",
+    "slug": "ms12-064-vulnerabilities-in-microsoft-word-could-allow-remote-code-execution-october-9-2012-bc22f2e2-840a-e29d-7810-11d057ea55a8",
+    "url": "https://support.microsoft.com/help/2742319"
+  },
+  "2687401": {
+    "date": "2012-10-09",
+    "uuid": "a975288c-6944-5d11-29a7-e2c57a002778",
+    "slug": "ms12-064-and-ms12-066-description-of-the-security-update-for-microsoft-office-online-2010-service-pack-1-october-9-2012-a975288c-6944-5d11-29a7-e2c57a002778",
+    "url": "https://support.microsoft.com/help/2687401"
+  },
+  "2687436": {
+    "date": "2012-10-09",
+    "uuid": "d601b989-c7f1-f6c7-b93b-99d72fe41e1e",
+    "slug": "ms12-066-description-of-the-security-update-for-infopath-2010-service-pack-1-october-9-2012-d601b989-c7f1-f6c7-b93b-99d72fe41e1e",
+    "url": "https://support.microsoft.com/help/2687436"
+  },
+  "2742321": {
+    "date": "2012-10-09",
+    "uuid": "976f7b4a-ef18-16c9-624e-e3bf77616b09",
+    "slug": "ms12-067-vulnerability-in-fast-search-server-2010-for-sharepoint-parsing-could-allow-remote-code-execution-october-9-2012-976f7b4a-ef18-16c9-624e-e3bf77616b09",
+    "url": "https://support.microsoft.com/help/2742321"
+  },
+  "2553402": {
+    "date": "2012-10-09",
+    "uuid": "e7452a4b-0e93-ce7d-b7c3-cc7a8b6bf55a",
+    "slug": "ms12-067-description-of-the-security-update-for-fast-search-server-2010-for-sharepoint-service-pack-1-october-9-2012-e7452a4b-0e93-ce7d-b7c3-cc7a8b6bf55a",
+    "url": "https://support.microsoft.com/help/2553402"
+  },
+  "2743555": {
+    "date": "2012-10-09",
+    "uuid": "f14e22c8-96db-ac35-3966-92d50a68f973",
+    "slug": "ms12-069-vulnerability-in-kerberos-could-allow-denial-of-service-october-9-2012-f14e22c8-96db-ac35-3966-92d50a68f973",
+    "url": "https://support.microsoft.com/help/2743555"
+  },
+  "2716440": {
+    "date": "2012-10-09",
+    "uuid": "ef63c215-b0f2-d6c2-1f31-1dca3be21cd9",
+    "slug": "ms12-070-description-of-the-security-update-for-sql-server-2008-r2-service-pack-1-gdr-october-9-2012-ef63c215-b0f2-d6c2-1f31-1dca3be21cd9",
+    "url": "https://support.microsoft.com/help/2716440"
+  },
+  "2727528": {
+    "date": "2012-11-13",
+    "uuid": "22bc1276-1c12-f19e-7271-4b8fed192454",
+    "slug": "ms12-072-vulnerabilities-in-windows-shell-could-allow-remote-code-execution-november-13-2012-22bc1276-1c12-f19e-7271-4b8fed192454",
+    "url": "https://support.microsoft.com/help/2727528"
+  },
+  "2733829": {
+    "date": "2012-11-13",
+    "uuid": "9a880000-4cdf-58c9-a35d-aee1f2529b48",
+    "slug": "ms12-073-vulnerabilities-in-microsoft-internet-information-services-iis-could-allow-information-disclosure-november-13-2012-9a880000-4cdf-58c9-a35d-aee1f2529b48",
+    "url": "https://support.microsoft.com/help/2733829"
+  },
+  "2716513": {
+    "date": "2012-11-13",
+    "uuid": "86e5858a-7cb4-972a-4f85-cb131a6055cc",
+    "slug": "ms12-073-description-of-the-security-update-for-ftp-service-7-5-and-ftp-service-7-0-for-internet-information-services-7-0-november-13-2012-86e5858a-7cb4-972a-4f85-cb131a6055cc",
+    "url": "https://support.microsoft.com/help/2716513"
+  },
+  "2719033": {
+    "date": "2012-11-13",
+    "uuid": "6ab995bd-e902-d09a-bbe6-7826e5e749a6",
+    "slug": "ms12-073-description-of-the-security-update-for-internet-information-services-7-5-november-13-2012-6ab995bd-e902-d09a-bbe6-7826e5e749a6",
+    "url": "https://support.microsoft.com/help/2719033"
+  },
+  "2745030": {
+    "date": "2012-11-13",
+    "uuid": "590e52d5-9ba8-d859-2e15-b6f023e90bee",
+    "slug": "ms12-074-vulnerabilities-in-net-framework-could-allow-remote-code-execution-november-13-2012-590e52d5-9ba8-d859-2e15-b6f023e90bee",
+    "url": "https://support.microsoft.com/help/2745030"
+  },
+  "2761226": {
+    "date": "2012-11-13",
+    "uuid": "8dad616f-5687-c6b2-77f6-9d8707d624e3",
+    "slug": "ms12-075-vulnerabilities-in-windows-kernel-mode-drivers-could-allow-remote-code-execution-november-13-2012-8dad616f-5687-c6b2-77f6-9d8707d624e3",
+    "url": "https://support.microsoft.com/help/2761226"
+  },
+  "2720184": {
+    "date": "2012-11-13",
+    "uuid": "49053936-72d8-9fa0-1964-fcbe91e90a35",
+    "slug": "ms12-076-vulnerabilities-in-microsoft-excel-could-allow-remote-code-execution-november-13-2012-49053936-72d8-9fa0-1964-fcbe91e90a35",
+    "url": "https://support.microsoft.com/help/2720184"
+  },
+  "2687313": {
+    "date": "2012-11-13",
+    "uuid": "f9f5a4f0-cfc0-27c8-6689-d89e2a422d28",
+    "slug": "ms12-076-description-of-the-security-update-for-excel-viewer-november-13-2012-f9f5a4f0-cfc0-27c8-6689-d89e2a422d28",
+    "url": "https://support.microsoft.com/help/2687313"
+  },
+  "2597126": {
+    "date": "2010-11-13",
+    "uuid": "cd218608-83a4-925a-554d-543e4521fa21",
+    "slug": "ms12-076-description-of-the-security-update-for-excel-2010-november-13-2012-cd218608-83a4-925a-554d-543e4521fa21",
+    "url": "https://support.microsoft.com/help/2597126"
+  },
+  "2761465": {
+    "date": "2012-12-11",
+    "uuid": "fd0a9fda-1bf0-db63-452f-e487dd559a03",
+    "slug": "ms12-077-cumulative-security-update-for-internet-explorer-december-11-2012-fd0a9fda-1bf0-db63-452f-e487dd559a03",
+    "url": "https://support.microsoft.com/help/2761465"
+  },
+  "2783534": {
+    "date": "2012-12-11",
+    "uuid": "56bcd743-aa40-900d-4634-26b6159db3bd",
+    "slug": "ms12-078-vulnerabilities-in-windows-kernel-mode-drivers-could-allow-remote-code-execution-december-11-2012-56bcd743-aa40-900d-4634-26b6159db3bd",
+    "url": "https://support.microsoft.com/help/2783534"
+  },
+  "2753842": {
+    "date": "2012-12-11",
+    "uuid": "37aa0a04-4bb9-3bbe-e3c8-4cf109250bc4",
+    "slug": "ms12-078-description-of-the-security-update-for-the-windows-opentype-compact-font-format-cff-driver-december-11-2012-37aa0a04-4bb9-3bbe-e3c8-4cf109250bc4",
+    "url": "https://support.microsoft.com/help/2753842"
+  },
+  "2779030": {
+    "date": "2012-12-11",
+    "uuid": "8a47d97e-c635-0753-3c5f-19add83245d7",
+    "slug": "ms12-078-description-of-the-security-update-for-windows-kernel-mode-drivers-december-11-2012-8a47d97e-c635-0753-3c5f-19add83245d7",
+    "url": "https://support.microsoft.com/help/2779030"
+  },
+  "2780642": {
+    "date": "2012-12-11",
+    "uuid": "251088f8-ab94-1433-24fd-aad2bec4e4ef",
+    "slug": "ms12-079-vulnerability-in-microsoft-word-could-allow-remote-code-execution-december-11-2012-251088f8-ab94-1433-24fd-aad2bec4e4ef",
+    "url": "https://support.microsoft.com/help/2780642"
+  },
+  "2760410": {
+    "date": "2012-12-11",
+    "uuid": "18f279ba-820d-923f-b569-aa9fca259eb0",
+    "slug": "ms12-079-description-of-the-security-update-for-word-2010-service-pack-1-december-11-2012-18f279ba-820d-923f-b569-aa9fca259eb0",
+    "url": "https://support.microsoft.com/help/2760410"
+  },
+  "2687412": {
+    "date": "2012-12-11",
+    "uuid": "c91971c9-6efe-6069-6caf-0fe3a3b55707",
+    "slug": "ms12-079-description-of-the-security-update-for-microsoft-office-online-2010-service-pack-1-december-11-2012-c91971c9-6efe-6069-6caf-0fe3a3b55707",
+    "url": "https://support.microsoft.com/help/2687412"
+  },
+  "2758857": {
+    "date": "2012-12-11",
+    "uuid": "041ced19-1ae8-6962-89b9-21c882de3eef",
+    "slug": "ms12-081-vulnerability-in-windows-file-handling-component-could-allow-remote-code-execution-december-11-2012-041ced19-1ae8-6962-89b9-21c882de3eef",
+    "url": "https://support.microsoft.com/help/2758857"
+  },
+  "2770660": {
+    "date": "2012-12-11",
+    "uuid": "70c1d987-bdaa-3a1e-f9da-c54c2c42425a",
+    "slug": "ms12-082-vulnerability-in-directplay-could-allow-remote-code-execution-december-11-2012-70c1d987-bdaa-3a1e-f9da-c54c2c42425a",
+    "url": "https://support.microsoft.com/help/2770660"
+  },
+  "2765809": {
+    "date": "2012-12-11",
+    "uuid": "cc865baa-c9b7-acd5-31eb-88c6ca8d929e",
+    "slug": "ms12-083-vulnerability-in-ip-https-component-could-allow-security-feature-bypass-december-11-2012-cc865baa-c9b7-acd5-31eb-88c6ca8d929e",
+    "url": "https://support.microsoft.com/help/2765809"
+  },
+  "2769369": {
+    "date": "2013-01-08",
+    "uuid": "734a987f-dc5a-4e49-4362-674be2238843",
+    "slug": "ms13-001-vulnerability-in-windows-print-spooler-components-could-allow-remote-code-execution-january-8-2013-734a987f-dc5a-4e49-4362-674be2238843",
+    "url": "https://support.microsoft.com/help/2769369"
+  },
+  "2756145": {
+    "date": "2013-01-08",
+    "uuid": "641b957b-b7aa-9f1a-5296-cae15524414d",
+    "slug": "ms13-002-vulnerabilities-in-microsoft-xml-core-services-could-allow-remote-code-execution-january-8-2013-641b957b-b7aa-9f1a-5296-cae15524414d",
+    "url": "https://support.microsoft.com/help/2756145"
+  },
+  "2757638": {
+    "date": "2013-01-08",
+    "uuid": "3c2c37c8-b059-c6c5-fada-1f6c14e951d9",
+    "slug": "ms13-002-description-of-the-security-update-for-xml-core-services-3-0-and-6-0-january-8-2013-3c2c37c8-b059-c6c5-fada-1f6c14e951d9",
+    "url": "https://support.microsoft.com/help/2757638"
+  },
+  "2758694": {
+    "date": "2013-01-08",
+    "uuid": "0d52b9bb-d593-3c51-e16c-d7fed5876e11",
+    "slug": "ms13-002-description-of-the-security-update-for-xml-core-services-4-0-january-8-2013-0d52b9bb-d593-3c51-e16c-d7fed5876e11",
+    "url": "https://support.microsoft.com/help/2758694"
+  },
+  "2687497": {
+    "date": "2007-01-08",
+    "uuid": "a7a0665b-e308-b448-3273-81a49ddcfab2",
+    "slug": "ms12-043-and-ms13-002-description-of-the-security-update-for-xml-core-services-5-0-when-it-is-installed-together-with-office-sharepoint-server-2007-or-groove-server-2007-january-8-2013-a7a0665b-e308-b448-3273-81a49ddcfab2",
+    "url": "https://support.microsoft.com/help/2687497"
+  },
+  "2769324": {
+    "date": "2013-01-08",
+    "uuid": "e56b87fa-39b6-8c57-8d9f-01b69023c937",
+    "slug": "ms13-004-vulnerability-in-the-net-framework-could-allow-elevation-of-privilege-january-8-2013-e56b87fa-39b6-8c57-8d9f-01b69023c937",
+    "url": "https://support.microsoft.com/help/2769324"
+  },
+  "2785220": {
+    "date": "2013-01-08",
+    "uuid": "ddb7d961-f099-81b9-a16a-dc430070d500",
+    "slug": "ms13-006-vulnerabilities-in-microsoft-ssl-implementation-could-allow-security-feature-bypass-january-8-2013-ddb7d961-f099-81b9-a16a-dc430070d500",
+    "url": "https://support.microsoft.com/help/2785220"
+  },
+  "2736416": {
+    "date": "2008-01-08",
+    "uuid": "3cd2ed44-ef66-e529-a8f6-7da25967c54b",
+    "slug": "ms13-007-description-of-the-security-update-for-the-net-framework-3-5-service-pack-1-on-windows-xp-windows-server-2003-windows-vista-and-windows-server-2008-january-8-2013-3cd2ed44-ef66-e529-a8f6-7da25967c54b",
+    "url": "https://support.microsoft.com/help/2736416"
+  },
+  "2736428": {
+    "date": "2013-01-08",
+    "uuid": "e0465a6d-6de1-239a-f208-ec5b2acbf4dd",
+    "slug": "ms13-007-description-of-the-security-update-for-the-net-framework-4-on-windows-xp-windows-server-2003-windows-vista-windows-server-2008-windows-7-and-windows-server-2008-r2-january-8-2013-e0465a6d-6de1-239a-f208-ec5b2acbf4dd",
+    "url": "https://support.microsoft.com/help/2736428"
+  },
+  "2736418": {
+    "date": "2013-01-08",
+    "uuid": "b7bd97f6-d4e5-6065-524a-02ddced75e6d",
+    "slug": "ms13-007-description-of-the-security-update-for-the-net-framework-3-5-1-on-windows-7-and-windows-server-2008-r2-january-8-2013-b7bd97f6-d4e5-6065-524a-02ddced75e6d",
+    "url": "https://support.microsoft.com/help/2736418"
+  },
+  "2736422": {
+    "date": "2013-01-08",
+    "uuid": "991cf46a-a123-dcd9-9903-2899bb266ff2",
+    "slug": "ms13-007-description-of-the-security-update-for-the-net-framework-3-5-1-on-windows-7-service-pack-1-and-windows-server-2008-r2-service-pack-1-january-8-2013-991cf46a-a123-dcd9-9903-2899bb266ff2",
+    "url": "https://support.microsoft.com/help/2736422"
+  },
+  "2792100": {
+    "date": "2013-02-12",
+    "uuid": "dfcbbb26-1026-44ff-fab8-e096dbe3df97",
+    "slug": "ms13-009-cumulative-security-update-for-internet-explorer-february-12-2013-dfcbbb26-1026-44ff-fab8-e096dbe3df97",
+    "url": "https://support.microsoft.com/help/2792100"
+  },
+  "2790978": {
+    "date": "2013-02-12",
+    "uuid": "e30ff7b9-2821-4425-1486-369fd7cc5508",
+    "slug": "ms13-014-vulnerability-in-nfs-server-could-allow-denial-of-service-february-12-2013-e30ff7b9-2821-4425-1486-369fd7cc5508",
+    "url": "https://support.microsoft.com/help/2790978"
+  },
+  "2800277": {
+    "date": "2013-02-12",
+    "uuid": "78101388-8677-e1cb-ab29-18ded58896e7",
+    "slug": "ms13-015-vulnerability-in-the-net-framework-could-allow-elevation-of-privilege-february-12-2013-78101388-8677-e1cb-ab29-18ded58896e7",
+    "url": "https://support.microsoft.com/help/2800277"
+  },
+  "2790113": {
+    "date": "2013-02-12",
+    "uuid": "474d5c24-24a0-63ca-d827-eaaaab8c8be7",
+    "slug": "ms13-019-vulnerability-in-windows-client-server-run-time-subsystem-csrss-could-allow-elevation-of-privilege-february-12-2013-474d5c24-24a0-63ca-d827-eaaaab8c8be7",
+    "url": "https://support.microsoft.com/help/2790113"
+  },
+  "2809289": {
+    "date": "2013-03-12",
+    "uuid": "39bec9a7-9617-706f-832a-3cc78ae12990",
+    "slug": "ms13-021-cumulative-security-update-for-internet-explorer-march-12-2013-39bec9a7-9617-706f-832a-3cc78ae12990",
+    "url": "https://support.microsoft.com/help/2809289"
+  },
+  "2814124": {
+    "date": "2013-03-12",
+    "uuid": "5fea8edb-8aed-e6e8-8063-edeb893b73d5",
+    "slug": "ms13-022-vulnerability-in-silverlight-could-allow-remote-code-execution-march-12-2013-5fea8edb-8aed-e6e8-8063-edeb893b73d5",
+    "url": "https://support.microsoft.com/help/2814124"
+  },
+  "2687505": {
+    "date": "2013-03-12",
+    "uuid": "0ba8ee5c-2701-e572-12cc-e5e90761703e",
+    "slug": "ms13-023-description-of-the-security-update-for-visio-2010-viewer-service-pack-1-march-12-2013-0ba8ee5c-2701-e572-12cc-e5e90761703e",
+    "url": "https://support.microsoft.com/help/2687505"
+  },
+  "2760762": {
+    "date": "2013-03-12",
+    "uuid": "95388db8-375b-da3a-7d89-3aeaac8d22eb",
+    "slug": "ms13-023-description-of-the-security-update-for-visio-2010-service-pack-1-march-12-2013-95388db8-375b-da3a-7d89-3aeaac8d22eb",
+    "url": "https://support.microsoft.com/help/2760762"
+  },
+  "2553501": {
+    "date": "2013-03-12",
+    "uuid": "2d21b4e5-feb0-6835-cb7b-64aae4d3ed24",
+    "slug": "ms13-023-description-of-the-security-update-for-office-2010-filter-pack-service-pack-1-march-12-2013-2d21b4e5-feb0-6835-cb7b-64aae4d3ed24",
+    "url": "https://support.microsoft.com/help/2553501"
+  },
+  "2687418": {
+    "date": "2010-03-12",
+    "uuid": "3fe4fa92-c849-1003-d80c-c2daa5dcfe2f",
+    "slug": "ms13-024-description-of-the-security-update-for-sharepoint-foundation-2010-march-12-2013-3fe4fa92-c849-1003-d80c-c2daa5dcfe2f",
+    "url": "https://support.microsoft.com/help/2687418"
+  },
+  "2807986": {
+    "date": "2013-03-12",
+    "uuid": "2e746e79-4451-7686-5f79-365dcffeb1bf",
+    "slug": "ms13-027-vulnerabilities-in-kernel-mode-drivers-could-allow-elevation-of-privilege-march-12-2013-2e746e79-4451-7686-5f79-365dcffeb1bf",
+    "url": "https://support.microsoft.com/help/2807986"
+  },
+  "2817183": {
+    "date": "2013-04-09",
+    "uuid": "c331baea-20e6-70d1-1e40-2acbf7d73c3c",
+    "slug": "ms13-028-cumulative-security-update-for-internet-explorer-april-9-2013-c331baea-20e6-70d1-1e40-2acbf7d73c3c",
+    "url": "https://support.microsoft.com/help/2817183"
+  },
+  "2813345": {
+    "date": "2013-04-09",
+    "uuid": "a7f8dc62-9ae7-e834-aa12-7523ffd2e117",
+    "slug": "ms13-029-description-of-the-security-update-for-remote-desktop-connection-6-1-client-april-9-2013-a7f8dc62-9ae7-e834-aa12-7523ffd2e117",
+    "url": "https://support.microsoft.com/help/2813345"
+  },
+  "2813347": {
+    "date": "2013-04-09",
+    "uuid": "0ef88743-b537-f10c-e36e-bed6db2ec909",
+    "slug": "ms13-029-description-of-the-security-update-for-remote-desktop-connection-7-0-client-april-9-2013-0ef88743-b537-f10c-e36e-bed6db2ec909",
+    "url": "https://support.microsoft.com/help/2813347"
+  },
+  "2772930": {
+    "date": "2013-04-09",
+    "uuid": "92cdf3d1-abd1-6c56-9cf2-f2fcd770c173",
+    "slug": "ms13-032-description-of-the-security-update-for-active-directory-april-9-2013-92cdf3d1-abd1-6c56-9cf2-f2fcd770c173",
+    "url": "https://support.microsoft.com/help/2772930"
+  },
+  "2820917": {
+    "date": "2013-04-09",
+    "uuid": "4e04fe58-76f4-ad39-30e8-04ab53bae90d",
+    "slug": "ms13-033-vulnerability-in-windows-client-server-run-time-subsystem-csrss-could-allow-elevation-of-privilege-april-9-2013-4e04fe58-76f4-ad39-30e8-04ab53bae90d",
+    "url": "https://support.microsoft.com/help/2820917"
+  },
+  "2687422": {
+    "date": "2013-04-09",
+    "uuid": "e0bca8fd-96d0-222e-f00a-adfdce708b3f",
+    "slug": "ms13-035-description-of-the-security-update-for-infopath-2010-service-pack-1-april-9-2013-e0bca8fd-96d0-222e-f00a-adfdce708b3f",
+    "url": "https://support.microsoft.com/help/2687422"
+  },
+  "2760406": {
+    "date": "2013-04-09",
+    "uuid": "d7106ac9-ccfc-170a-7675-5ba596975d24",
+    "slug": "ms13-035-description-of-the-security-update-for-infopath-2010-service-pack-1-ipeditor-april-9-2013-d7106ac9-ccfc-170a-7675-5ba596975d24",
+    "url": "https://support.microsoft.com/help/2760406"
+  },
+  "2687424": {
+    "date": "2013-04-09",
+    "uuid": "1f0da50f-e849-6d16-80fe-7a6597122141",
+    "slug": "ms13-035-description-of-the-security-update-for-groove-server-2010-service-pack-1-april-9-2013-1f0da50f-e849-6d16-80fe-7a6597122141",
+    "url": "https://support.microsoft.com/help/2687424"
+  },
+  "2760777": {
+    "date": "2013-04-09",
+    "uuid": "542d05bf-172a-04e3-069a-e64bcf0a85d8",
+    "slug": "ms13-035-description-of-the-security-update-for-office-online-2010-service-pack-1-april-9-2013-542d05bf-172a-04e3-069a-e64bcf0a85d8",
+    "url": "https://support.microsoft.com/help/2760777"
+  },
+  "2845187": {
+    "date": "2013-07-09",
+    "uuid": "a14b68a0-cb5d-66cf-cc5d-0a19655544cd",
+    "slug": "ms13-056-vulnerability-in-microsoft-directshow-could-allow-remote-code-execution-july-9-2013-a14b68a0-cb5d-66cf-cc5d-0a19655544cd",
+    "url": "https://support.microsoft.com/help/2845187"
+  },
+  "2849470": {
+    "date": "2013-08-13",
+    "uuid": "f4479752-5a15-5962-556b-dcdfa3c6ebd9",
+    "slug": "ms13-062-vulnerability-in-remote-procedure-call-could-allow-elevation-of-privilege-august-13-2013-f4479752-5a15-5962-556b-dcdfa3c6ebd9",
+    "url": "https://support.microsoft.com/help/2849470"
+  },
+  "2859537": {
+    "date": "2013-08-13",
+    "uuid": "18a79130-c2e1-9a44-0682-e32d631d6b01",
+    "slug": "ms13-063-vulnerabilities-in-windows-kernel-could-allow-elevation-of-privilege-august-13-2013-18a79130-c2e1-9a44-0682-e32d631d6b01",
+    "url": "https://support.microsoft.com/help/2859537"
+  },
+  "2849568": {
+    "date": "2013-08-13",
+    "uuid": "fc428ffb-2308-4f98-2974-e1e51ba7eb12",
+    "slug": "ms13-064-vulnerability-in-the-windows-nat-driver-could-allow-denial-of-service-august-13-2013-fc428ffb-2308-4f98-2974-e1e51ba7eb12",
+    "url": "https://support.microsoft.com/help/2849568"
+  },
+  "2873872": {
+    "date": "2013-08-13",
+    "uuid": "370b225d-019d-7511-ae0c-7d4d2baeff3f",
+    "slug": "ms13-066-vulnerability-in-active-directory-federation-services-could-allow-information-disclosure-august-13-2013-370b225d-019d-7511-ae0c-7d4d2baeff3f",
+    "url": "https://support.microsoft.com/help/2873872"
+  },
+  "2868846": {
+    "date": "2013-08-13",
+    "uuid": "6146ab73-467e-082a-e08e-8ac71c95b417",
+    "slug": "ms13-066-description-of-the-security-update-for-active-directory-federation-services-1-x-august-13-2013-6146ab73-467e-082a-e08e-8ac71c95b417",
+    "url": "https://support.microsoft.com/help/2868846"
+  },
+  "2843638": {
+    "date": "2013-08-13",
+    "uuid": "d53c3200-5fe2-4aa7-a3b8-5cb54a2a3b11",
+    "slug": "ms13-066-description-of-the-security-update-for-active-directory-federation-services-2-0-august-13-2013-d53c3200-5fe2-4aa7-a3b8-5cb54a2a3b11",
+    "url": "https://support.microsoft.com/help/2843638"
+  },
+  "2843639": {
+    "date": "2013-08-13",
+    "uuid": "5c9a5c47-ce17-75b2-d109-631a5d1056c9",
+    "slug": "ms13-066-description-of-the-security-update-for-active-directory-federation-services-2-0-august-13-2013-5c9a5c47-ce17-75b2-d109-631a5d1056c9",
+    "url": "https://support.microsoft.com/help/2843639"
+  },
+  "2834052": {
+    "date": "2013-09-10",
+    "uuid": "86791b3b-cb38-7f7c-5bac-7feb2ee492db",
+    "slug": "ms13-067-vulnerabilities-in-microsoft-sharepoint-server-could-allow-remote-code-execution-september-10-2013-86791b3b-cb38-7f7c-5bac-7feb2ee492db",
+    "url": "https://support.microsoft.com/help/2834052"
+  },
+  "2810067": {
+    "date": "2010-09-10",
+    "uuid": "c41f9a89-5243-6073-b5e0-9932898b387f",
+    "slug": "ms13-067-description-of-the-security-update-for-sharepoint-foundation-2010-september-10-2013-c41f9a89-5243-6073-b5e0-9932898b387f",
+    "url": "https://support.microsoft.com/help/2810067"
+  },
+  "2817393": {
+    "date": "2013-09-10",
+    "uuid": "8471b2ae-01db-a8b6-69e2-9cb266cdeb5c",
+    "slug": "ms13-067-description-of-the-security-update-for-sharepoint-server-2010-coreserver-september-10-2013-8471b2ae-01db-a8b6-69e2-9cb266cdeb5c",
+    "url": "https://support.microsoft.com/help/2817393"
+  },
+  "2817372": {
+    "date": "2013-09-10",
+    "uuid": "97d6c7fe-e48d-54b7-b84b-7f19b4578f6b",
+    "slug": "ms13-067-description-of-the-security-update-for-sharepoint-server-2010-wosrv-september-10-2013-97d6c7fe-e48d-54b7-b84b-7f19b4578f6b",
+    "url": "https://support.microsoft.com/help/2817372"
+  },
+  "2760595": {
+    "date": "2010-09-10",
+    "uuid": "18f67ab2-4491-37e6-41fa-4d3e34f16f61",
+    "slug": "ms13-067-description-of-the-security-update-for-excel-services-in-sharepoint-server-2010-september-10-2013-18f67ab2-4491-37e6-41fa-4d3e34f16f61",
+    "url": "https://support.microsoft.com/help/2760595"
+  },
+  "2760755": {
+    "date": "2010-09-10",
+    "uuid": "e8d1582a-073d-45a4-fb9a-73a5d8d76490",
+    "slug": "ms13-067-description-of-the-security-update-for-word-automation-services-in-sharepoint-server-2010-september-10-2013-e8d1582a-073d-45a4-fb9a-73a5d8d76490",
+    "url": "https://support.microsoft.com/help/2760755"
+  },
+  "2810083": {
+    "date": "2013-09-10",
+    "uuid": "25801795-7e52-6f8b-eb1b-1882533f1997",
+    "slug": "ms13-067-description-of-the-security-update-for-sharepoint-server-2013-coreserverloc-september-10-2013-25801795-7e52-6f8b-eb1b-1882533f1997",
+    "url": "https://support.microsoft.com/help/2810083"
+  },
+  "2760594": {
+    "date": "2013-09-10",
+    "uuid": "44860051-bfdc-cb63-e1fb-f97717084635",
+    "slug": "ms13-067-description-of-the-security-update-for-excel-web-app-september-10-2013-44860051-bfdc-cb63-e1fb-f97717084635",
+    "url": "https://support.microsoft.com/help/2760594"
+  },
+  "2817305": {
+    "date": "2013-09-10",
+    "uuid": "3db43cb6-9f2e-2c76-0b4d-074fdcca040d",
+    "slug": "ms13-067-description-of-the-security-update-for-office-web-apps-server-2013-september-10-2013-3db43cb6-9f2e-2c76-0b4d-074fdcca040d",
+    "url": "https://support.microsoft.com/help/2817305"
+  },
+  "2756473": {
+    "date": "2013-09-10",
+    "uuid": "2dd30d21-2257-3df8-c25a-40778e201073",
+    "slug": "ms13-068-vulnerability-in-microsoft-outlook-could-allow-remote-code-execution-september-10-2013-2dd30d21-2257-3df8-c25a-40778e201073",
+    "url": "https://support.microsoft.com/help/2756473"
+  },
+  "2876331": {
+    "date": "2013-11-12",
+    "uuid": "6cb7c5ce-3f19-67be-51da-d45afa9c71bc",
+    "slug": "ms13-089-vulnerability-in-windows-graphics-device-interface-could-allow-remote-code-execution-november-12-2013-6cb7c5ce-3f19-67be-51da-d45afa9c71bc",
+    "url": "https://support.microsoft.com/help/2876331"
+  },
+  "2893986": {
+    "date": "2013-11-12",
+    "uuid": "821b4522-5751-38e4-7ea9-b06de15b8ac8",
+    "slug": "ms13-092-vulnerability-in-hyper-v-could-allow-elevation-of-privilege-november-12-2013-821b4522-5751-38e4-7ea9-b06de15b8ac8",
+    "url": "https://support.microsoft.com/help/2893986"
+  },
+  "2868626": {
+    "date": "2013-11-12",
+    "uuid": "7b03f468-d9ac-3ad7-1f41-6d6144ad0cde",
+    "slug": "ms13-095-vulnerability-in-xml-digital-signatures-could-allow-denial-of-service-november-12-2013-7b03f468-d9ac-3ad7-1f41-6d6144ad0cde",
+    "url": "https://support.microsoft.com/help/2868626"
+  },
+  "2893294": {
+    "date": "2013-12-10",
+    "uuid": "529ed5d9-3666-1a93-16ac-7129b13e7406",
+    "slug": "ms13-098-vulnerability-in-windows-could-allow-remote-code-execution-december-10-2013-529ed5d9-3666-1a93-16ac-7129b13e7406",
+    "url": "https://support.microsoft.com/help/2893294"
+  },
+  "2909158": {
+    "date": "2013-12-10",
+    "uuid": "41e5331e-5de2-a057-52ee-7749beeab015",
+    "slug": "ms13-099-vulnerability-in-microsoft-scripting-runtime-object-library-could-allow-remote-code-execution-december-10-2013-41e5331e-5de2-a057-52ee-7749beeab015",
+    "url": "https://support.microsoft.com/help/2909158"
+  },
+  "2916607": {
+    "date": "2014-02-11",
+    "uuid": "4d593581-9a2e-2b6e-6923-d5d3f0c01b2d",
+    "slug": "ms14-009-vulnerabilities-in-the-net-framework-could-allow-elevation-of-privilege-february-11-2014-4d593581-9a2e-2b6e-6923-d5d3f0c01b2d",
+    "url": "https://support.microsoft.com/help/2916607"
+  },
+  "2922229": {
+    "date": "2014-04-08",
+    "uuid": "139f5e50-096d-4440-5465-18a262b9a913",
+    "slug": "ms14-019-vulnerability-in-windows-file-handling-component-could-allow-remote-code-execution-april-8-2014-139f5e50-096d-4440-5465-18a262b9a913",
+    "url": "https://support.microsoft.com/help/2922229"
+  },
+  "2965111": {
+    "date": "2014-05-01",
+    "uuid": "60c32bbf-1ad2-59f6-163a-01f463e79e5d",
+    "slug": "ms14-021-security-update-for-internet-explorer-may-1-2014-60c32bbf-1ad2-59f6-163a-01f463e79e5d",
+    "url": "https://support.microsoft.com/help/2965111"
+  },
+  "2929437": {
+    "date": "2014-04-08",
+    "uuid": "1ab5e1aa-c33c-cc1e-5d93-a6c2f0bf82d3",
+    "slug": "description-of-the-security-update-for-internet-explorer-11-on-windows-7-and-windows-server-2008-r2-april-8-2014-1ab5e1aa-c33c-cc1e-5d93-a6c2f0bf82d3",
+    "url": "https://support.microsoft.com/help/2929437"
+  },
+  "2964358": {
+    "date": "2014-05-01",
+    "uuid": "b4279eff-2c0d-8475-468f-41102e4e22fb",
+    "slug": "description-of-the-security-update-for-internet-explorer-may-1-2014-b4279eff-2c0d-8475-468f-41102e4e22fb",
+    "url": "https://support.microsoft.com/help/2964358"
+  },
+  "2837616": {
+    "date": "2014-05-13",
+    "uuid": "b1bf265c-c0f1-27ee-90ca-354cf9c317c1",
+    "slug": "ms14-022-description-of-the-security-update-for-windows-sharepoint-services-3-0-may-13-2014-b1bf265c-c0f1-27ee-90ca-354cf9c317c1",
+    "url": "https://support.microsoft.com/help/2837616"
+  },
+  "2863863": {
+    "date": "2013-05-13",
+    "uuid": "73a5311f-6487-22ce-eaaf-f22cce0efe03",
+    "slug": "ms14-022-description-of-the-security-update-for-sharepoint-foundation-2013-may-13-2014-73a5311f-6487-22ce-eaaf-f22cce0efe03",
+    "url": "https://support.microsoft.com/help/2863863"
+  },
+  "2760236": {
+    "date": "2013-05-13",
+    "uuid": "60ebdf0a-e327-fbb0-f22b-ed132d198d6f",
+    "slug": "ms14-022-description-of-the-security-update-for-sharepoint-server-2013-may-13-2014-60ebdf0a-e327-fbb0-f22b-ed132d198d6f",
+    "url": "https://support.microsoft.com/help/2760236"
+  },
+  "2880453": {
+    "date": "2013-05-13",
+    "uuid": "b1a9d7e2-19e5-232b-8d0d-df00f1cedce6",
+    "slug": "ms14-022-description-of-the-security-update-for-office-web-apps-server-2013-may-13-2014-b1a9d7e2-19e5-232b-8d0d-df00f1cedce6",
+    "url": "https://support.microsoft.com/help/2880453"
+  },
+  "3030377": {
+    "date": "2015-03-10",
+    "uuid": "ba667938-51e1-24ba-9fee-762081c39e8d",
+    "slug": "ms15-028-vulnerability-in-windows-task-scheduler-could-allow-security-feature-bypass-march-10-2015-ba667938-51e1-24ba-9fee-762081c39e8d",
+    "url": "https://support.microsoft.com/help/3030377"
+  },
+  "3035126": {
+    "date": "2015-03-10",
+    "uuid": "2baa7bd8-0999-90dc-e344-233931b6af06",
+    "slug": "ms15-029-vulnerability-in-windows-photo-decoder-component-could-allow-information-disclosure-march-10-2015-2baa7bd8-0999-90dc-e344-233931b6af06",
+    "url": "https://support.microsoft.com/help/3035126"
+  },
+  "3039976": {
+    "date": "2015-03-10",
+    "uuid": "1be8055f-2fe1-4264-d301-c7c1767255a5",
+    "slug": "ms15-030-vulnerability-in-remote-desktop-protocol-could-allow-denial-of-service-march-10-2015-1be8055f-2fe1-4264-d301-c7c1767255a5",
+    "url": "https://support.microsoft.com/help/3039976"
+  },
+  "3046049": {
+    "date": "2015-03-10",
+    "uuid": "d978d866-f6bf-9a8f-0c46-b7f1327c3b5a",
+    "slug": "ms15-031-vulnerability-in-schannel-could-allow-security-feature-bypass-march-10-2015-d978d866-f6bf-9a8f-0c46-b7f1327c3b5a",
+    "url": "https://support.microsoft.com/help/3046049"
+  },
+  "3048019": {
+    "date": "2015-04-14",
+    "uuid": "9e8020cb-311c-c4ad-4eab-819bce66dbc3",
+    "slug": "ms15-033-vulnerabilities-in-office-could-allow-remote-code-execution-april-14-2015-9e8020cb-311c-c4ad-4eab-819bce66dbc3",
+    "url": "https://support.microsoft.com/help/3048019"
+  },
+  "3042553": {
+    "date": "2015-04-14",
+    "uuid": "e8755c1e-c5a8-fa75-c7b1-32087b127850",
+    "slug": "ms15-034-vulnerability-in-http-sys-could-allow-remote-code-execution-april-14-2015-e8755c1e-c5a8-fa75-c7b1-32087b127850",
+    "url": "https://support.microsoft.com/help/3042553"
+  },
+  "3046306": {
+    "date": "2015-04-14",
+    "uuid": "6d647d15-897e-4998-af17-278f2cb8d6f8",
+    "slug": "ms15-035-vulnerability-in-microsoft-graphics-component-could-allow-remote-code-execution-april-14-2015-6d647d15-897e-4998-af17-278f2cb8d6f8",
+    "url": "https://support.microsoft.com/help/3046306"
+  },
+  "3052044": {
+    "date": "2015-04-14",
+    "uuid": "1d24cb8d-41f6-aaf7-6aa6-a7942880f02e",
+    "slug": "ms15-036-vulnerabilities-in-sharepoint-server-could-allow-elevation-of-privilege-april-14-2015-1d24cb8d-41f6-aaf7-6aa6-a7942880f02e",
+    "url": "https://support.microsoft.com/help/3052044"
+  },
+  "3046269": {
+    "date": "2015-04-14",
+    "uuid": "2b08646e-3125-e396-1a9d-854f81638592",
+    "slug": "ms15-037-vulnerability-in-windows-task-scheduler-could-allow-elevation-of-privilege-april-14-2015-2b08646e-3125-e396-1a9d-854f81638592",
+    "url": "https://support.microsoft.com/help/3046269"
+  },
+  "3049576": {
+    "date": "2015-04-14",
+    "uuid": "ea261718-3381-aed5-b6d1-37d9b29a5e7d",
+    "slug": "ms15-038-vulnerabilities-in-windows-could-allow-elevation-of-privilege-april-14-2015-ea261718-3381-aed5-b6d1-37d9b29a5e7d",
+    "url": "https://support.microsoft.com/help/3049576"
+  },
+  "3046482": {
+    "date": "2015-04-14",
+    "uuid": "32049227-4374-e170-dc24-953386925b7e",
+    "slug": "ms15-039-vulnerability-in-xml-core-services-could-allow-security-feature-bypass-april-14-2015-32049227-4374-e170-dc24-953386925b7e",
+    "url": "https://support.microsoft.com/help/3046482"
+  },
+  "3045711": {
+    "date": "2015-04-14",
+    "uuid": "f4e2a5e2-0fef-566a-51ab-4ec1187f3c2a",
+    "slug": "ms15-040-vulnerability-in-active-directory-federation-services-could-allow-information-disclosure-april-14-2015-f4e2a5e2-0fef-566a-51ab-4ec1187f3c2a",
+    "url": "https://support.microsoft.com/help/3045711"
+  },
+  "3048010": {
+    "date": "2015-04-14",
+    "uuid": "3954f1dd-1141-7262-dd4f-04d97e7d62a8",
+    "slug": "ms15-041-vulnerability-in-the-net-framework-could-allow-information-disclosure-april-14-2015-3954f1dd-1141-7262-dd4f-04d97e7d62a8",
+    "url": "https://support.microsoft.com/help/3048010"
+  },
+  "3037580": {
+    "date": "2012-04-14",
+    "uuid": "eeef25db-75a6-6839-2245-aeaaedf1ffc0",
+    "slug": "ms15-041-description-of-the-security-update-for-the-net-framework-4-5-4-5-1-and-4-5-2-on-windows-8-windows-rt-and-windows-server-2012-april-14-2015-eeef25db-75a6-6839-2245-aeaaedf1ffc0",
+    "url": "https://support.microsoft.com/help/3037580"
+  },
+  "3047234": {
+    "date": "2015-04-14",
+    "uuid": "c0fffcb5-97eb-c395-ae5b-9a8c7ec6ae2a",
+    "slug": "ms15-042-vulnerability-in-windows-hyper-v-could-allow-denial-of-service-april-14-2015-c0fffcb5-97eb-c395-ae5b-9a8c7ec6ae2a",
+    "url": "https://support.microsoft.com/help/3047234"
+  },
+  "3049563": {
+    "date": "2015-05-12",
+    "uuid": "1eec7c66-00e7-fb96-142c-955b79efafce",
+    "slug": "ms15-043-cumulative-security-update-for-internet-explorer-may-12-2015-1eec7c66-00e7-fb96-142c-955b79efafce",
+    "url": "https://support.microsoft.com/help/3049563"
+  },
+  "3046002": {
+    "date": "2015-05-12",
+    "uuid": "dfa60aef-4271-eb65-1df7-420f8e0f7f87",
+    "slug": "ms15-045-vulnerability-in-windows-journal-could-allow-remote-code-execution-may-12-2015-dfa60aef-4271-eb65-1df7-420f8e0f7f87",
+    "url": "https://support.microsoft.com/help/3046002"
+  },
+  "3058083": {
+    "date": "2015-05-12",
+    "uuid": "e310c1bb-d21e-b785-9970-3b187218257f",
+    "slug": "ms15-047-vulnerabilities-in-sharepoint-server-could-allow-remote-code-execution-may-12-2015-e310c1bb-d21e-b785-9970-3b187218257f",
+    "url": "https://support.microsoft.com/help/3058083"
+  },
+  "3057134": {
+    "date": "2015-05-12",
+    "uuid": "e006316c-1eae-8902-f957-225ea0752582",
+    "slug": "ms15-048-vulnerabilities-in-the-net-framework-could-allow-elevation-of-privilege-may-12-2015-e006316c-1eae-8902-f957-225ea0752582",
+    "url": "https://support.microsoft.com/help/3057134"
+  },
+  "3055642": {
+    "date": "2015-05-12",
+    "uuid": "8273801b-e5db-8494-e680-33f811f86433",
+    "slug": "ms15-050-vulnerability-in-service-control-manager-could-allow-elevation-of-privilege-may-12-2015-8273801b-e5db-8494-e680-33f811f86433",
+    "url": "https://support.microsoft.com/help/3055642"
+  },
+  "3057191": {
+    "date": "2015-05-12",
+    "uuid": "435cc4f3-79e7-6fb3-675e-7e7edaa6ae96",
+    "slug": "ms15-051-vulnerabilities-in-windows-kernel-mode-drivers-could-allow-information-disclosure-may-12-2015-435cc4f3-79e7-6fb3-675e-7e7edaa6ae96",
+    "url": "https://support.microsoft.com/help/3057191"
+  },
+  "3050514": {
+    "date": "2015-05-12",
+    "uuid": "8db6cad7-57b1-16f2-74f6-c62619c0384a",
+    "slug": "ms15-052-vulnerability-in-windows-kernel-could-allow-security-feature-bypass-may-12-2015-8db6cad7-57b1-16f2-74f6-c62619c0384a",
+    "url": "https://support.microsoft.com/help/3050514"
+  },
+  "3051768": {
+    "date": "2015-05-12",
+    "uuid": "6c1a11a8-c730-fb25-74aa-ee53493e8db4",
+    "slug": "ms15-054-vulnerability-in-microsoft-management-console-file-format-could-allow-denial-of-service-may-12-2015-6c1a11a8-c730-fb25-74aa-ee53493e8db4",
+    "url": "https://support.microsoft.com/help/3051768"
+  },
+  "3061518": {
+    "date": "2015-05-12",
+    "uuid": "e5b7e0c8-e658-c1c7-fd0f-8d8d46dc5e81",
+    "slug": "ms15-055-vulnerability-in-schannel-could-allow-information-disclosure-may-12-2015-e5b7e0c8-e658-c1c7-fd0f-8d8d46dc5e81",
+    "url": "https://support.microsoft.com/help/3061518"
+  },
+  "3058515": {
+    "date": "2015-06-09",
+    "uuid": "2d2c5bb6-287e-edd2-6471-94efdb3d6b7a",
+    "slug": "ms15-056-cumulative-security-update-for-internet-explorer-june-9-2015-2d2c5bb6-287e-edd2-6471-94efdb3d6b7a",
+    "url": "https://support.microsoft.com/help/3058515"
+  },
+  "3065718": {
+    "date": "2015-07-14",
+    "uuid": "9efc50a5-e1ec-13cd-0393-38e67ff521a2",
+    "slug": "ms15-058-vulnerabilities-in-sql-server-could-allow-remote-code-execution-july-14-2015-9efc50a5-e1ec-13cd-0393-38e67ff521a2",
+    "url": "https://support.microsoft.com/help/3065718"
+  },
+  "3064949": {
+    "date": "2015-06-09",
+    "uuid": "58b669b6-f822-c50d-0183-2e7c4ec1c2d6",
+    "slug": "ms15-059-vulnerabilities-in-microsoft-office-could-allow-remote-code-execution-june-9-2015-58b669b6-f822-c50d-0183-2e7c4ec1c2d6",
+    "url": "https://support.microsoft.com/help/3064949"
+  },
+  "3057839": {
+    "date": "2015-06-09",
+    "uuid": "46db1a79-475f-7ebf-673f-96716a7cfecf",
+    "slug": "ms15-061-vulnerabilities-in-kernel-mode-drivers-could-allow-elevation-of-privilege-june-9-2015-46db1a79-475f-7ebf-673f-96716a7cfecf",
+    "url": "https://support.microsoft.com/help/3057839"
+  },
+  "3062577": {
+    "date": "2015-06-09",
+    "uuid": "ddf4faa4-c8bb-e1da-3d63-b3b2b9e4fcf7",
+    "slug": "ms15-062-vulnerability-in-active-directory-federation-services-could-allow-elevation-of-privilege-june-9-2015-ddf4faa4-c8bb-e1da-3d63-b3b2b9e4fcf7",
+    "url": "https://support.microsoft.com/help/3062577"
+  },
+  "3063858": {
+    "date": "2015-06-09",
+    "uuid": "e3a28ab7-ef87-12a3-fdd4-c31f7dadd5fb",
+    "slug": "ms15-063-vulnerability-in-windows-kernel-could-allow-elevation-of-privilege-june-9-2015-e3a28ab7-ef87-12a3-fdd4-c31f7dadd5fb",
+    "url": "https://support.microsoft.com/help/3063858"
+  },
+  "3062157": {
+    "date": "2015-06-09",
+    "uuid": "242ff1d2-bf24-9fef-d6a8-89198bb7217c",
+    "slug": "ms15-064-vulnerabilities-in-exchange-server-could-allow-elevation-of-privilege-june-9-2015-242ff1d2-bf24-9fef-d6a8-89198bb7217c",
+    "url": "https://support.microsoft.com/help/3062157"
+  },
+  "3072604": {
+    "date": "2015-07-14",
+    "uuid": "89eb6c02-d3f4-6c25-c45a-921d1f44925c",
+    "slug": "ms15-066-vulnerability-in-vbscript-could-allow-remote-code-execution-july-14-2015-89eb6c02-d3f4-6c25-c45a-921d1f44925c",
+    "url": "https://support.microsoft.com/help/3072604"
+  },
+  "3073094": {
+    "date": "2015-07-14",
+    "uuid": "7b85c02f-27ed-73e5-25d9-7398a54dde18",
+    "slug": "ms15-067-vulnerability-in-rdp-could-allow-remote-code-execution-july-14-2015-7b85c02f-27ed-73e5-25d9-7398a54dde18",
+    "url": "https://support.microsoft.com/help/3073094"
+  },
+  "3072000": {
+    "date": "2015-07-14",
+    "uuid": "9e80a424-c7b9-3d5c-adf8-11b44e9e77c5",
+    "slug": "ms15-068-vulnerability-in-windows-hyper-v-could-allow-remote-code-execution-july-14-2015-9e80a424-c7b9-3d5c-adf8-11b44e9e77c5",
+    "url": "https://support.microsoft.com/help/3072000"
+  },
+  "3068457": {
+    "date": "2015-07-14",
+    "uuid": "188f8e98-2717-76d7-2558-474e0211dd3d",
+    "slug": "ms15-071-vulnerability-in-netlogon-could-allow-elevation-of-privilege-july-14-2015-188f8e98-2717-76d7-2558-474e0211dd3d",
+    "url": "https://support.microsoft.com/help/3068457"
+  },
+  "3069392": {
+    "date": "2015-07-14",
+    "uuid": "43bc2781-68c5-a991-3610-df3f0bc17996",
+    "slug": "ms15-072-vulnerability-in-windows-graphics-component-could-allow-elevation-of-privilege-july-14-2015-43bc2781-68c5-a991-3610-df3f0bc17996",
+    "url": "https://support.microsoft.com/help/3069392"
+  },
+  "3070102": {
+    "date": "2015-07-14",
+    "uuid": "8b1953df-b64e-7490-453e-1b4a6881d363",
+    "slug": "ms15-073-vulnerabilities-in-windows-kernel-mode-driver-could-allow-elevation-of-privilege-july-14-2015-8b1953df-b64e-7490-453e-1b4a6881d363",
+    "url": "https://support.microsoft.com/help/3070102"
+  },
+  "3072630": {
+    "date": "2015-07-14",
+    "uuid": "f8098b21-9ab7-a0a6-bddb-a287351f4665",
+    "slug": "ms15-074-vulnerability-in-windows-installer-service-could-allow-elevation-of-privilege-july-14-2015-f8098b21-9ab7-a0a6-bddb-a287351f4665",
+    "url": "https://support.microsoft.com/help/3072630"
+  },
+  "3067505": {
+    "date": "2015-07-14",
+    "uuid": "faeb8c6b-7423-ddea-baba-61be48c4ef05",
+    "slug": "ms15-076-vulnerability-in-windows-remote-procedure-call-could-allow-elevation-of-privilege-july-14-2015-faeb8c6b-7423-ddea-baba-61be48c4ef05",
+    "url": "https://support.microsoft.com/help/3067505"
+  },
+  "3077657": {
+    "date": "2015-07-14",
+    "uuid": "bc107966-168b-f2be-ccd1-e3475ef63452",
+    "slug": "ms15-077-vulnerability-in-atm-font-driver-could-allow-elevation-of-privilege-july-14-2015-bc107966-168b-f2be-ccd1-e3475ef63452",
+    "url": "https://support.microsoft.com/help/3077657"
+  },
+  "3079904": {
+    "date": "2015-07-16",
+    "uuid": "f13a3893-e03d-dce7-579a-84c7b4824ba3",
+    "slug": "ms15-078-vulnerability-in-microsoft-font-driver-could-allow-remote-code-execution-july-16-2015-f13a3893-e03d-dce7-579a-84c7b4824ba3",
+    "url": "https://support.microsoft.com/help/3079904"
+  },
+  "3078662": {
+    "date": "2015-08-11",
+    "uuid": "883edb19-58fa-ba89-7bf7-83e413010959",
+    "slug": "ms15-080-vulnerabilities-in-microsoft-graphics-component-could-allow-remote-code-execution-august-11-2015-883edb19-58fa-ba89-7bf7-83e413010959",
+    "url": "https://support.microsoft.com/help/3078662"
+  },
+  "3080790": {
+    "date": "2015-08-11",
+    "uuid": "53cfd7c7-8b52-00b0-4b8e-0c4338676039",
+    "slug": "ms15-081-vulnerabilities-in-microsoft-office-could-allow-remote-code-execution-august-11-2015-53cfd7c7-8b52-00b0-4b8e-0c4338676039",
+    "url": "https://support.microsoft.com/help/3080790"
+  },
+  "3073921": {
+    "date": "2015-08-11",
+    "uuid": "db4daac4-b39e-ba1f-e359-648e14635e34",
+    "slug": "ms15-083-vulnerability-in-server-message-block-could-allow-remote-code-execution-august-11-2015-db4daac4-b39e-ba1f-e359-648e14635e34",
+    "url": "https://support.microsoft.com/help/3073921"
+  },
+  "3080129": {
+    "date": "2015-08-11",
+    "uuid": "b6e51a42-0991-0077-0217-01c1b3c2ea71",
+    "slug": "ms15-084-vulnerabilities-in-xml-core-services-could-allow-information-disclosure-august-11-2015-b6e51a42-0991-0077-0217-01c1b3c2ea71",
+    "url": "https://support.microsoft.com/help/3080129"
+  },
+  "3075158": {
+    "date": "2015-08-11",
+    "uuid": "2e91dcb9-4a92-c07b-8919-69016af61263",
+    "slug": "ms15-086-vulnerability-in-system-center-operations-manager-could-allow-elevation-of-privilege-august-11-2015-2e91dcb9-4a92-c07b-8919-69016af61263",
+    "url": "https://support.microsoft.com/help/3075158"
+  },
+  "3071088": {
+    "date": "2015-08-11",
+    "uuid": "d043873a-87d5-c081-3afa-d9f90f7ef908",
+    "slug": "ms15-086-security-update-for-update-rollup-10-for-system-center-2012-operations-manager-service-pack-1-august-11-2015-d043873a-87d5-c081-3afa-d9f90f7ef908",
+    "url": "https://support.microsoft.com/help/3071088"
+  },
+  "3064919": {
+    "date": "2015-08-11",
+    "uuid": "6ae695b5-31cb-346d-f227-fc02707670f6",
+    "slug": "ms15-086-security-update-for-update-rollup-7-for-system-center-2012-r2-operations-manager-august-11-2015-6ae695b5-31cb-346d-f227-fc02707670f6",
+    "url": "https://support.microsoft.com/help/3064919"
+  },
+  "3082459": {
+    "date": "2015-08-11",
+    "uuid": "609022e0-ed1c-28d9-8f01-3d44108b8e43",
+    "slug": "ms15-087-vulnerability-in-uddi-services-could-allow-elevation-of-privilege-august-11-2015-609022e0-ed1c-28d9-8f01-3d44108b8e43",
+    "url": "https://support.microsoft.com/help/3082459"
+  },
+  "3082458": {
+    "date": "2015-08-11",
+    "uuid": "94950f26-56d1-e6cc-a032-7b5903459cd0",
+    "slug": "ms15-088-unsafe-command-line-parameter-passing-could-allow-information-disclosure-august-11-2015-94950f26-56d1-e6cc-a032-7b5903459cd0",
+    "url": "https://support.microsoft.com/help/3082458"
+  },
+  "3076949": {
+    "date": "2015-08-11",
+    "uuid": "67bd0c7b-8299-6803-6ff5-1736a23c126a",
+    "slug": "ms15-089-vulnerability-in-webdav-could-allow-security-feature-bypass-august-11-2015-67bd0c7b-8299-6803-6ff5-1736a23c126a",
+    "url": "https://support.microsoft.com/help/3076949"
+  },
+  "3084525": {
+    "date": "2015-08-11",
+    "uuid": "cc5f4778-9e50-5d2d-b170-2a7bb0968eea",
+    "slug": "ms15-091-cumulative-security-update-for-microsoft-edge-august-11-2015-cc5f4778-9e50-5d2d-b170-2a7bb0968eea",
+    "url": "https://support.microsoft.com/help/3084525"
+  },
+  "3086251": {
+    "date": "2015-08-11",
+    "uuid": "b6d9aca4-e9c3-d8ba-32d6-44490c428f0f",
+    "slug": "ms15-092-vulnerabilities-in-the-net-framework-could-allow-elevation-of-privilege-august-11-2015-b6d9aca4-e9c3-d8ba-32d6-44490c428f0f",
+    "url": "https://support.microsoft.com/help/3086251"
+  },
+  "3088903": {
+    "date": "2015-08-18",
+    "uuid": "feba4de3-8189-3218-bd77-0725de01ae17",
+    "slug": "ms15-093-security-update-for-internet-explorer-august-18-2015-feba4de3-8189-3218-bd77-0725de01ae17",
+    "url": "https://support.microsoft.com/help/3088903"
+  },
+  "3089665": {
+    "date": "2015-09-08",
+    "uuid": "93e470b3-87fa-182a-d981-f71e7d137851",
+    "slug": "ms15-095-cumulative-security-update-for-microsoft-edge-september-8-2015-93e470b3-87fa-182a-d981-f71e7d137851",
+    "url": "https://support.microsoft.com/help/3089665"
+  },
+  "3072595": {
+    "date": "2015-09-08",
+    "uuid": "338c232c-8c64-cfe4-3203-a5c44e28ec2e",
+    "slug": "ms15-096-vulnerability-in-active-directory-service-could-allow-denial-of-service-september-8-2015-338c232c-8c64-cfe4-3203-a5c44e28ec2e",
+    "url": "https://support.microsoft.com/help/3072595"
+  },
+  "3089656": {
+    "date": "2015-09-08",
+    "uuid": "c1835024-66c8-7cdf-77c7-163c22371e84",
+    "slug": "ms15-097-vulnerabilities-in-the-microsoft-graphics-component-could-allow-remote-code-execution-september-8-2015-c1835024-66c8-7cdf-77c7-163c22371e84",
+    "url": "https://support.microsoft.com/help/3089656"
+  },
+  "3086255": {
+    "date": "2015-09-08",
+    "uuid": "6a1e4fc4-0821-79d4-d25c-02728a6fdf30",
+    "slug": "ms15-097-description-of-the-security-update-for-the-graphics-component-in-windows-september-8-2015-6a1e4fc4-0821-79d4-d25c-02728a6fdf30",
+    "url": "https://support.microsoft.com/help/3086255"
+  },
+  "3089664": {
+    "date": "2015-09-08",
+    "uuid": "bc036650-37ed-b560-d482-ae50c9b961fe",
+    "slug": "ms15-099-vulnerabilities-in-microsoft-office-could-allow-remote-code-execution-september-8-2015-bc036650-37ed-b560-d482-ae50c9b961fe",
+    "url": "https://support.microsoft.com/help/3089664"
+  },
+  "3088502": {
+    "date": "2015-09-15",
+    "uuid": "fc13e928-5b5d-041d-5048-7521b416bafd",
+    "slug": "ms15-099-description-of-the-security-update-for-office-2016-for-mac-september-15-2015-fc13e928-5b5d-041d-5048-7521b416bafd",
+    "url": "https://support.microsoft.com/help/3088502"
+  },
+  "3087918": {
+    "date": "2015-09-08",
+    "uuid": "aa699597-d7da-34dd-8ebf-030480a8613c",
+    "slug": "ms15-100-vulnerability-in-windows-media-center-could-allow-remote-code-execution-september-8-2015-aa699597-d7da-34dd-8ebf-030480a8613c",
+    "url": "https://support.microsoft.com/help/3087918"
+  },
+  "3089662": {
+    "date": "2015-09-08",
+    "uuid": "9f45a24a-f705-4093-e220-29d55ec4811e",
+    "slug": "ms15-101-vulnerabilities-in-the-net-framework-could-allow-elevation-of-privilege-september-8-2015-9f45a24a-f705-4093-e220-29d55ec4811e",
+    "url": "https://support.microsoft.com/help/3089662"
+  },
+  "3089657": {
+    "date": "2015-09-08",
+    "uuid": "f9236da3-6ffa-b899-4fac-3df294269ca0",
+    "slug": "ms15-102-vulnerabilities-in-windows-task-management-could-allow-elevation-of-privilege-september-8-2015-f9236da3-6ffa-b899-4fac-3df294269ca0",
+    "url": "https://support.microsoft.com/help/3089657"
+  },
+  "3089250": {
+    "date": "2015-09-08",
+    "uuid": "8a4b3c86-0808-ffc6-4398-8c17aa085f02",
+    "slug": "ms15-103-vulnerabilities-in-microsoft-exchange-could-allow-information-disclosure-september-8-2015-8a4b3c86-0808-ffc6-4398-8c17aa085f02",
+    "url": "https://support.microsoft.com/help/3089250"
+  },
+  "3091287": {
+    "date": "2015-09-08",
+    "uuid": "584bb214-65fa-5d4a-14dc-9267bdc06d32",
+    "slug": "ms15-105-vulnerability-in-hyper-v-could-allow-security-feature-bypass-september-8-2015-584bb214-65fa-5d4a-14dc-9267bdc06d32",
+    "url": "https://support.microsoft.com/help/3091287"
+  },
+  "3096441": {
+    "date": "2015-10-13",
+    "uuid": "0091523b-5775-73e1-15e3-a11ae7ff49ba",
+    "slug": "ms15-106-cumulative-security-update-for-internet-explorer-october-13-2015-0091523b-5775-73e1-15e3-a11ae7ff49ba",
+    "url": "https://support.microsoft.com/help/3096441"
+  },
+  "3096448": {
+    "date": "2015-10-13",
+    "uuid": "c0f85baa-c20d-7e23-d5af-894c2e7a8d40",
+    "slug": "ms15-107-cumulative-security-update-for-microsoft-edge-october-13-2015-c0f85baa-c20d-7e23-d5af-894c2e7a8d40",
+    "url": "https://support.microsoft.com/help/3096448"
+  },
+  "3089659": {
+    "date": "2015-10-13",
+    "uuid": "72641f31-99c3-5a72-1615-7e882f33398d",
+    "slug": "ms15-108-security-update-for-jscript-and-vbscript-to-address-remote-code-execution-october-13-2015-72641f31-99c3-5a72-1615-7e882f33398d",
+    "url": "https://support.microsoft.com/help/3089659"
+  },
+  "3096443": {
+    "date": "2015-10-13",
+    "uuid": "56ac8d22-070d-8a00-dd3c-1689e689631b",
+    "slug": "ms15-109-security-update-for-windows-shell-to-address-remote-code-execution-october-13-2015-56ac8d22-070d-8a00-dd3c-1689e689631b",
+    "url": "https://support.microsoft.com/help/3096443"
+  },
+  "3096447": {
+    "date": "2015-10-13",
+    "uuid": "cdba533f-3f99-1914-2e98-292d41415fd7",
+    "slug": "ms15-111-security-update-for-windows-kernel-to-address-elevation-of-privilege-october-13-2015-cdba533f-3f99-1914-2e98-292d41415fd7",
+    "url": "https://support.microsoft.com/help/3096447"
+  },
+  "3104517": {
+    "date": "2015-11-10",
+    "uuid": "79bd17cc-4ce1-7c6b-4ca9-d0fc95e9a071",
+    "slug": "ms15-112-cumulative-security-update-for-internet-explorer-november-10-2015-79bd17cc-4ce1-7c6b-4ca9-d0fc95e9a071",
+    "url": "https://support.microsoft.com/help/3104517"
+  },
+  "3104519": {
+    "date": "2015-11-10",
+    "uuid": "62afc395-89c6-4e71-60a8-0c3f6d622f36",
+    "slug": "ms15-113-cumulative-security-update-for-microsoft-edge-november-10-2015-62afc395-89c6-4e71-60a8-0c3f6d622f36",
+    "url": "https://support.microsoft.com/help/3104519"
+  },
+  "3100213": {
+    "date": "2015-11-10",
+    "uuid": "ba820fc3-16c1-287f-d045-30d4c12e1f05",
+    "slug": "ms15-114-security-update-for-windows-journal-to-address-remote-code-execution-november-10-2015-ba820fc3-16c1-287f-d045-30d4c12e1f05",
+    "url": "https://support.microsoft.com/help/3100213"
+  },
+  "3105256": {
+    "date": "2015-11-10",
+    "uuid": "bafa272f-eeeb-0b24-6f4e-0cc7bc45b8a5",
+    "slug": "ms15-122-security-update-for-kerberos-to-address-security-feature-bypass-november-10-2015-bafa272f-eeeb-0b24-6f4e-0cc7bc45b8a5",
+    "url": "https://support.microsoft.com/help/3105256"
+  },
+  "3101722": {
+    "date": "2015-11-10",
+    "uuid": "2fe3a1d0-d4a9-68c2-c942-c88a536ceb2f",
+    "slug": "ms15-117-security-update-for-ndis-to-address-elevation-of-privilege-november-10-2015-2fe3a1d0-d4a9-68c2-c942-c88a536ceb2f",
+    "url": "https://support.microsoft.com/help/3101722"
+  },
+  "3104507": {
+    "date": "2015-11-10",
+    "uuid": "18ac0baa-8012-3f12-7ac4-e23e77c16942",
+    "slug": "ms15-118-security-update-for-the-net-framework-to-address-elevation-of-privilege-november-10-2015-18ac0baa-8012-3f12-7ac4-e23e77c16942",
+    "url": "https://support.microsoft.com/help/3104507"
+  },
+  "3104521": {
+    "date": "2015-11-10",
+    "uuid": "bbf044d3-db88-2f57-350d-f57dbc4c3520",
+    "slug": "ms15-119-security-update-for-winsock-to-address-elevation-of-privilege-november-10-2015-bbf044d3-db88-2f57-350d-f57dbc4c3520",
+    "url": "https://support.microsoft.com/help/3104521"
+  },
+  "3102939": {
+    "date": "2015-11-10",
+    "uuid": "552e2c78-b5a7-b0c9-00ba-473cd4dda0a2",
+    "slug": "ms15-120-security-update-for-ipsec-to-address-denial-of-service-november-10-2015-552e2c78-b5a7-b0c9-00ba-473cd4dda0a2",
+    "url": "https://support.microsoft.com/help/3102939"
+  },
+  "3081320": {
+    "date": "2015-11-10",
+    "uuid": "15a2014a-b6b7-9e60-ce40-a5c54ab8ec27",
+    "slug": "ms15-121-security-update-for-schannel-to-address-spoofing-november-10-2015-15a2014a-b6b7-9e60-ce40-a5c54ab8ec27",
+    "url": "https://support.microsoft.com/help/3081320"
+  },
+  "3116180": {
+    "date": "2015-12-08",
+    "uuid": "75a6e9d1-ea84-dad3-3981-af7454b8528f",
+    "slug": "ms15-124-cumulative-security-update-for-internet-explorer-december-8-2015-75a6e9d1-ea84-dad3-3981-af7454b8528f",
+    "url": "https://support.microsoft.com/help/3116180"
+  },
+  "3125869": {
+    "date": "2015-12-16",
+    "uuid": "7e012708-4af6-487c-12e2-4ffa0f9d7b66",
+    "slug": "ms15-124-vulnerability-in-internet-explorer-could-lead-to-aslr-bypass-december-16-2015-7e012708-4af6-487c-12e2-4ffa0f9d7b66",
+    "url": "https://support.microsoft.com/help/3125869"
+  },
+  "3116184": {
+    "date": "2015-12-08",
+    "uuid": "7344c108-f002-c48a-9ef3-c20d69a0b52a",
+    "slug": "ms15-125-cumulative-security-update-for-microsoft-edge-december-8-2015-7344c108-f002-c48a-9ef3-c20d69a0b52a",
+    "url": "https://support.microsoft.com/help/3116184"
+  },
+  "3116178": {
+    "date": "2015-12-08",
+    "uuid": "8c332ef1-1aef-a816-e6b2-52b97a533f92",
+    "slug": "ms15-126-cumulative-security-update-for-jscript-and-vbscript-to-address-remote-code-execution-december-8-2015-8c332ef1-1aef-a816-e6b2-52b97a533f92",
+    "url": "https://support.microsoft.com/help/3116178"
+  },
+  "3104503": {
+    "date": "2015-12-08",
+    "uuid": "1fd41d93-d5aa-b4e4-c5a7-8f73596f9a36",
+    "slug": "ms15-128-security-update-for-microsoft-graphics-component-to-address-remote-code-execution-december-8-2015-1fd41d93-d5aa-b4e4-c5a7-8f73596f9a36",
+    "url": "https://support.microsoft.com/help/3104503"
+  },
+  "3116111": {
+    "date": "2015-12-08",
+    "uuid": "a2cf4404-ca8b-cb99-baaf-a1e21ad6e933",
+    "slug": "ms15-131-security-update-for-microsoft-office-to-address-remote-code-execution-december-8-2015-a2cf4404-ca8b-cb99-baaf-a1e21ad6e933",
+    "url": "https://support.microsoft.com/help/3116111"
+  },
+  "3119518": {
+    "date": "2015-12-10",
+    "uuid": "bef58511-2949-f8a8-eb6b-25d94ce751bd",
+    "slug": "ms15-131-description-of-the-security-update-for-office-2016-for-mac-december-10-2015-bef58511-2949-f8a8-eb6b-25d94ce751bd",
+    "url": "https://support.microsoft.com/help/3119518"
+  },
+  "3116162": {
+    "date": "2015-12-08",
+    "uuid": "eeaaf7b8-4e97-96de-d805-0193a36b2702",
+    "slug": "ms15-132-security-update-for-windows-to-address-remote-code-execution-december-8-2015-eeaaf7b8-4e97-96de-d805-0193a36b2702",
+    "url": "https://support.microsoft.com/help/3116162"
+  },
+  "3116130": {
+    "date": "2015-12-08",
+    "uuid": "74d12018-3e16-dd14-f0f2-d9fb73e9d148",
+    "slug": "ms15-133-security-update-for-windows-pgm-to-address-elevation-of-privilege-december-8-2015-74d12018-3e16-dd14-f0f2-d9fb73e9d148",
+    "url": "https://support.microsoft.com/help/3116130"
+  },
+  "3108669": {
+    "date": "2015-12-08",
+    "uuid": "1aa44768-1e12-efee-8998-b873e6a5d101",
+    "slug": "ms15-134-security-update-for-windows-media-center-to-address-remote-code-execution-december-8-2015-1aa44768-1e12-efee-8998-b873e6a5d101",
+    "url": "https://support.microsoft.com/help/3108669"
+  },
+  "3119075": {
+    "date": "2015-12-08",
+    "uuid": "359340e7-19c0-eb69-ecc8-28c3a829c51b",
+    "slug": "ms15-135-security-update-for-windows-kernel-mode-drivers-to-address-elevation-of-privilege-december-8-2015-359340e7-19c0-eb69-ecc8-28c3a829c51b",
+    "url": "https://support.microsoft.com/help/3119075"
+  },
+  "3124275": {
+    "date": "2016-01-12",
+    "uuid": "5f200caf-a79f-9e6d-d9e2-5538121471c0",
+    "slug": "ms16-001-security-update-for-internet-explorer-january-12-2016-5f200caf-a79f-9e6d-d9e2-5538121471c0",
+    "url": "https://support.microsoft.com/help/3124275"
+  },
+  "3124904": {
+    "date": "2016-01-12",
+    "uuid": "6acb5aaf-dafc-d30e-1259-f30a43251f66",
+    "slug": "ms16-002-cumulative-security-update-for-microsoft-edge-january-12-2016-6acb5aaf-dafc-d30e-1259-f30a43251f66",
+    "url": "https://support.microsoft.com/help/3124904"
+  },
+  "3125540": {
+    "date": "2016-01-12",
+    "uuid": "7c027966-79db-8c29-48bc-67989b2ca72a",
+    "slug": "ms16-003-cumulative-security-update-for-jscript-and-vbscript-to-address-remote-code-execution-january-12-2016-7c027966-79db-8c29-48bc-67989b2ca72a",
+    "url": "https://support.microsoft.com/help/3125540"
+  },
+  "3124584": {
+    "date": "2016-01-12",
+    "uuid": "cb31af50-e5e4-0021-4711-bad70f8cba3d",
+    "slug": "ms16-005-security-update-for-windows-kernel-mode-drivers-to-address-remote-code-execution-january-12-2016-cb31af50-e5e4-0021-4711-bad70f8cba3d",
+    "url": "https://support.microsoft.com/help/3124584"
+  },
+  "3134220": {
+    "date": "2016-02-09",
+    "uuid": "9a07d154-6d1c-057d-1d41-4483002f0fa0",
+    "slug": "ms16-009-cumulative-security-update-for-internet-explorer-february-9-2016-9a07d154-6d1c-057d-1d41-4483002f0fa0",
+    "url": "https://support.microsoft.com/help/3134220"
+  },
+  "3124557": {
+    "date": "2016-01-12",
+    "uuid": "eed052bf-1a43-7a17-fe93-ed8ea25e1db8",
+    "slug": "ms16-010-security-update-in-microsoft-exchange-server-to-address-spoofing-january-12-2016-eed052bf-1a43-7a17-fe93-ed8ea25e1db8",
+    "url": "https://support.microsoft.com/help/3124557"
+  },
+  "3134811": {
+    "date": "2016-02-09",
+    "uuid": "3b34cff5-78fe-76ff-298e-d47d77ebaca0",
+    "slug": "ms16-013-security-update-for-windows-journal-to-address-remote-code-execution-february-9-2016-3b34cff5-78fe-76ff-298e-d47d77ebaca0",
+    "url": "https://support.microsoft.com/help/3134811"
+  },
+  "3134228": {
+    "date": "2016-02-09",
+    "uuid": "dbc97e6e-f83b-196f-ae5b-8972a00e4644",
+    "slug": "ms16-014-security-update-for-microsoft-windows-to-address-remote-code-execution-february-9-2016-dbc97e6e-f83b-196f-ae5b-8972a00e4644",
+    "url": "https://support.microsoft.com/help/3134228"
+  },
+  "3134226": {
+    "date": "2016-02-09",
+    "uuid": "d113f7c5-2239-97b2-031b-0180697b86e6",
+    "slug": "ms16-015-security-update-for-microsoft-office-to-address-remote-code-execution-february-9-2016-d113f7c5-2239-97b2-031b-0180697b86e6",
+    "url": "https://support.microsoft.com/help/3134226"
+  },
+  "3134241": {
+    "date": "2016-02-16",
+    "uuid": "3a63bc95-bec4-aa1d-87f3-2ad2908ee01c",
+    "slug": "ms16-015-description-of-the-security-update-for-office-2016-for-mac-february-16-2016-3a63bc95-bec4-aa1d-87f3-2ad2908ee01c",
+    "url": "https://support.microsoft.com/help/3134241"
+  },
+  "3136041": {
+    "date": "2016-02-09",
+    "uuid": "ef5db871-4a35-6f03-4944-6cb0fd8569b1",
+    "slug": "ms16-016-security-update-for-webdav-to-address-elevation-of-privilege-february-9-2016-ef5db871-4a35-6f03-4944-6cb0fd8569b1",
+    "url": "https://support.microsoft.com/help/3136041"
+  },
+  "3134700": {
+    "date": "2016-02-09",
+    "uuid": "902d2fce-a816-ca0e-c927-d01e82f67e1d",
+    "slug": "ms16-017-security-update-for-remote-desktop-display-driver-to-address-elevation-of-privilege-february-9-2016-902d2fce-a816-ca0e-c927-d01e82f67e1d",
+    "url": "https://support.microsoft.com/help/3134700"
+  },
+  "3137893": {
+    "date": "2016-02-09",
+    "uuid": "0deb6c4e-888e-a60f-3742-44255b3bd5f3",
+    "slug": "ms16-019-security-update-for-the-net-framework-to-address-denial-of-service-february-9-2016-0deb6c4e-888e-a60f-3742-44255b3bd5f3",
+    "url": "https://support.microsoft.com/help/3137893"
+  },
+  "3134222": {
+    "date": "2016-02-09",
+    "uuid": "791c4c78-f369-a7ef-088b-6df0ad1fb278",
+    "slug": "ms16-020-security-update-for-active-directory-federation-services-to-address-denial-of-service-february-9-2016-791c4c78-f369-a7ef-088b-6df0ad1fb278",
+    "url": "https://support.microsoft.com/help/3134222"
+  },
+  "3133043": {
+    "date": "2016-02-09",
+    "uuid": "a4093951-327b-323f-7f2d-6bd25c916310",
+    "slug": "ms16-021-security-update-for-nps-radius-server-to-address-denial-of-service-february-9-2016-a4093951-327b-323f-7f2d-6bd25c916310",
+    "url": "https://support.microsoft.com/help/3133043"
+  },
+  "3135782": {
+    "date": "2016-02-09",
+    "uuid": "4cb4a3db-23a1-2f3f-61ec-7f72a2591aee",
+    "slug": "ms16-022-security-update-for-adobe-flash-player-february-9-2016-4cb4a3db-23a1-2f3f-61ec-7f72a2591aee",
+    "url": "https://support.microsoft.com/help/3135782"
+  },
+  "3142015": {
+    "date": "2016-03-08",
+    "uuid": "41c5e901-df8c-6a81-4dcb-7678d17b6157",
+    "slug": "ms16-023-cumulative-security-update-for-internet-explorer-march-8-2016-41c5e901-df8c-6a81-4dcb-7678d17b6157",
+    "url": "https://support.microsoft.com/help/3142015"
+  },
+  "3140709": {
+    "date": "2016-03-08",
+    "uuid": "950e808f-9913-03e0-670e-f90fc85f9ccc",
+    "slug": "ms16-025-security-update-for-windows-library-loading-to-address-remote-code-execution-march-8-2016-950e808f-9913-03e0-670e-f90fc85f9ccc",
+    "url": "https://support.microsoft.com/help/3140709"
+  },
+  "3143148": {
+    "date": "2016-03-08",
+    "uuid": "5f984e1d-0282-3510-2258-b603da1c4350",
+    "slug": "ms16-026-security-update-for-graphic-fonts-to-address-remote-code-execution-march-8-2016-5f984e1d-0282-3510-2258-b603da1c4350",
+    "url": "https://support.microsoft.com/help/3143148"
+  },
+  "3143146": {
+    "date": "2016-03-08",
+    "uuid": "55b7f0c0-d18e-b46f-3631-32150b399650",
+    "slug": "ms16-027-security-update-for-windows-media-to-address-remote-code-execution-march-8-2016-55b7f0c0-d18e-b46f-3631-32150b399650",
+    "url": "https://support.microsoft.com/help/3143146"
+  },
+  "3141806": {
+    "date": "2016-03-08",
+    "uuid": "1cde2ee6-2694-5458-a4a3-3620a969f8d6",
+    "slug": "ms16-029-security-update-for-microsoft-office-to-address-remote-code-execution-march-8-2016-1cde2ee6-2694-5458-a4a3-3620a969f8d6",
+    "url": "https://support.microsoft.com/help/3141806"
+  },
+  "3140410": {
+    "date": "2016-03-08",
+    "uuid": "fb5c8d77-5eca-dbf0-fa00-e26f706f27b9",
+    "slug": "ms16-031-security-update-for-microsoft-windows-to-address-elevation-of-privilege-march-8-2016-fb5c8d77-5eca-dbf0-fa00-e26f706f27b9",
+    "url": "https://support.microsoft.com/help/3140410"
+  },
+  "3143141": {
+    "date": "2016-03-08",
+    "uuid": "e73c1fa2-77ee-2c27-69eb-1b89afa3394f",
+    "slug": "ms16-032-security-update-for-secondary-logon-to-address-elevation-of-privilege-march-8-2016-e73c1fa2-77ee-2c27-69eb-1b89afa3394f",
+    "url": "https://support.microsoft.com/help/3143141"
+  },
+  "3143142": {
+    "date": "2016-03-08",
+    "uuid": "9ad809e8-9751-6107-93b7-1a6e980f226a",
+    "slug": "ms16-033-security-update-for-windows-usb-mass-storage-class-driver-to-address-elevation-of-privilege-march-8-2016-9ad809e8-9751-6107-93b7-1a6e980f226a",
+    "url": "https://support.microsoft.com/help/3143142"
+  },
+  "3144756": {
+    "date": "2016-03-10",
+    "uuid": "ff52c8c9-c9e8-ced8-c47c-ac7e7a6f7218",
+    "slug": "ms16-036-security-update-for-adobe-flash-player-march-10-2016-ff52c8c9-c9e8-ced8-c47c-ac7e7a6f7218",
+    "url": "https://support.microsoft.com/help/3144756"
+  },
+  "3148531": {
+    "date": "2016-04-12",
+    "uuid": "356857a4-f8af-bb8c-825d-3b757090fc53",
+    "slug": "ms16-037-cumulative-security-update-for-internet-explorer-april-12-2016-356857a4-f8af-bb8c-825d-3b757090fc53",
+    "url": "https://support.microsoft.com/help/3148531"
+  },
+  "3148522": {
+    "date": "2016-04-12",
+    "uuid": "c7993149-8a6e-45d2-77c2-6413de27589f",
+    "slug": "ms16-039-security-update-for-microsoft-graphics-component-april-12-2016-c7993149-8a6e-45d2-77c2-6413de27589f",
+    "url": "https://support.microsoft.com/help/3148522"
+  },
+  "3148541": {
+    "date": "2016-04-12",
+    "uuid": "e0766ffa-ee02-c611-1878-73f1b6afd382",
+    "slug": "ms16-040-security-update-for-microsoft-xml-core-services-april-12-2016-e0766ffa-ee02-c611-1878-73f1b6afd382",
+    "url": "https://support.microsoft.com/help/3148541"
+  },
+  "3148789": {
+    "date": "2016-04-12",
+    "uuid": "6964bce6-345e-7781-2389-37d576328ebc",
+    "slug": "ms16-041-security-update-for-the-net-framework-april-12-2016-6964bce6-345e-7781-2389-37d576328ebc",
+    "url": "https://support.microsoft.com/help/3148789"
+  },
+  "3148775": {
+    "date": "2016-04-12",
+    "uuid": "60d6d15a-4075-ba5a-8605-d917a17a726e",
+    "slug": "ms16-042-security-update-for-microsoft-office-april-12-2016-60d6d15a-4075-ba5a-8605-d917a17a726e",
+    "url": "https://support.microsoft.com/help/3148775"
+  },
+  "3146706": {
+    "date": "2016-04-12",
+    "uuid": "788f4b86-558a-90f5-7a96-ddf49ee82c7e",
+    "slug": "ms16-044-security-update-for-windows-ole-april-12-2016-788f4b86-558a-90f5-7a96-ddf49ee82c7e",
+    "url": "https://support.microsoft.com/help/3146706"
+  },
+  "3143118": {
+    "date": "2016-04-12",
+    "uuid": "1144175e-dc4b-42ae-f381-4681069b32c6",
+    "slug": "ms16-045-security-update-for-windows-hyper-v-april-12-2016-1144175e-dc4b-42ae-f381-4681069b32c6",
+    "url": "https://support.microsoft.com/help/3143118"
+  },
+  "3148527": {
+    "date": "2016-04-12",
+    "uuid": "1e5d4c49-0cf9-fd9f-e911-45b7f18ffce2",
+    "slug": "ms16-047-security-update-for-sam-and-lsad-remote-protocols-april-12-2016-1e5d4c49-0cf9-fd9f-e911-45b7f18ffce2",
+    "url": "https://support.microsoft.com/help/3148527"
+  },
+  "3148528": {
+    "date": "2016-04-12",
+    "uuid": "03361322-8903-6d73-733c-52fe0e4c6324",
+    "slug": "ms16-048-security-update-for-csrss-april-12-2016-03361322-8903-6d73-733c-52fe0e4c6324",
+    "url": "https://support.microsoft.com/help/3148528"
+  },
+  "3148795": {
+    "date": "2016-04-12",
+    "uuid": "a73e8caf-b36d-b60f-e1be-19c79464ee4c",
+    "slug": "ms16-049-security-update-for-http-sys-april-12-2016-a73e8caf-b36d-b60f-e1be-19c79464ee4c",
+    "url": "https://support.microsoft.com/help/3148795"
+  },
+  "3155533": {
+    "date": "2016-05-10",
+    "uuid": "092aa08f-5c98-bcdf-2ea1-b585794656ba",
+    "slug": "ms16-051-cumulative-security-update-for-internet-explorer-may-10-2016-092aa08f-5c98-bcdf-2ea1-b585794656ba",
+    "url": "https://support.microsoft.com/help/3155533"
+  },
+  "3155538": {
+    "date": "2016-05-10",
+    "uuid": "89e48cc4-eeaa-007e-be45-e2f964399e61",
+    "slug": "ms16-052-cumulative-security-update-for-microsoft-edge-may-10-2016-89e48cc4-eeaa-007e-be45-e2f964399e61",
+    "url": "https://support.microsoft.com/help/3155538"
+  },
+  "3156764": {
+    "date": "2016-05-10",
+    "uuid": "abdbf77a-6583-4915-825e-040308431cd4",
+    "slug": "ms16-053-cumulative-security-update-for-jscript-and-vbscript-may-10-2016-abdbf77a-6583-4915-825e-040308431cd4",
+    "url": "https://support.microsoft.com/help/3156764"
+  },
+  "3156754": {
+    "date": "2016-05-10",
+    "uuid": "cfe342ba-e620-f7c4-5e49-c4ee4203bfdf",
+    "slug": "ms16-055-security-update-for-microsoft-graphics-component-may-10-2016-cfe342ba-e620-f7c4-5e49-c4ee4203bfdf",
+    "url": "https://support.microsoft.com/help/3156754"
+  },
+  "3156987": {
+    "date": "2016-05-10",
+    "uuid": "20a3e5eb-fad7-1a3d-cb36-4893801a2f1a",
+    "slug": "ms16-057-security-update-for-windows-shell-may-10-2016-20a3e5eb-fad7-1a3d-cb36-4893801a2f1a",
+    "url": "https://support.microsoft.com/help/3156987"
+  },
+  "3141083": {
+    "date": "2016-05-10",
+    "uuid": "e955cede-8cfc-9bf9-be4e-1994fdf95309",
+    "slug": "ms16-058-security-update-for-windows-iis-may-10-2016-e955cede-8cfc-9bf9-be4e-1994fdf95309",
+    "url": "https://support.microsoft.com/help/3141083"
+  },
+  "3150220": {
+    "date": "2016-05-10",
+    "uuid": "a56dcdf2-de63-ad93-da02-c5614b786c89",
+    "slug": "ms16-059-security-update-to-windows-media-center-may-10-2016-a56dcdf2-de63-ad93-da02-c5614b786c89",
+    "url": "https://support.microsoft.com/help/3150220"
+  },
+  "3154846": {
+    "date": "2016-05-10",
+    "uuid": "98f201b3-d816-c472-6066-a6abca6c631a",
+    "slug": "ms16-060-security-update-for-windows-kernel-may-10-2016-98f201b3-d816-c472-6066-a6abca6c631a",
+    "url": "https://support.microsoft.com/help/3154846"
+  },
+  "3155520": {
+    "date": "2016-05-10",
+    "uuid": "bc127e75-b20d-cfa5-f7dd-ec6a6e2b9b86",
+    "slug": "ms16-061-security-update-to-rpc-may-10-2016-bc127e75-b20d-cfa5-f7dd-ec6a6e2b9b86",
+    "url": "https://support.microsoft.com/help/3155520"
+  },
+  "3163649": {
+    "date": "2016-06-14",
+    "uuid": "41ba63bc-ae11-a6be-436a-1e4e0fd84ec4",
+    "slug": "ms16-063-cumulative-security-update-for-internet-explorer-june-14-2016-41ba63bc-ae11-a6be-436a-1e4e0fd84ec4",
+    "url": "https://support.microsoft.com/help/3163649"
+  },
+  "3163207": {
+    "date": "2016-05-13",
+    "uuid": "fad83b68-a5e0-73de-726b-0715a291e9a9",
+    "slug": "ms16-064-security-update-for-adobe-flash-player-may-13-2016-fad83b68-a5e0-73de-726b-0715a291e9a9",
+    "url": "https://support.microsoft.com/help/3163207"
+  },
+  "3155464": {
+    "date": "149-05-10",
+    "uuid": "7af955c4-ac73-6c50-dfbb-8267e6284df5",
+    "slug": "ms16-065-description-of-the-tls-ssl-protocol-information-disclosure-vulnerability-cve-2016-0149-may-10-2016-7af955c4-ac73-6c50-dfbb-8267e6284df5",
+    "url": "https://support.microsoft.com/help/3155464"
+  },
+  "3155451": {
+    "date": "2016-05-10",
+    "uuid": "15427ab3-1759-975d-d1d2-79be182adc75",
+    "slug": "ms16-066-security-update-to-virtual-secure-mode-may-10-2016-15427ab3-1759-975d-d1d2-79be182adc75",
+    "url": "https://support.microsoft.com/help/3155451"
+  },
+  "3155784": {
+    "date": "2016-05-10",
+    "uuid": "247c5aa2-cc3d-1e3f-787d-ea68db981c4d",
+    "slug": "ms16-067-security-update-for-volume-manager-driver-may-10-2016-247c5aa2-cc3d-1e3f-787d-ea68db981c4d",
+    "url": "https://support.microsoft.com/help/3155784"
+  },
+  "3163656": {
+    "date": "2016-06-14",
+    "uuid": "e3bb9039-213f-90e9-2bd5-44ddc31c155b",
+    "slug": "ms16-068-cumulative-security-update-for-microsoft-edge-june-14-2016-e3bb9039-213f-90e9-2bd5-44ddc31c155b",
+    "url": "https://support.microsoft.com/help/3163656"
+  },
+  "3163640": {
+    "date": "2016-06-14",
+    "uuid": "1bfcf555-6912-751c-3436-177b1eca9bf5",
+    "slug": "ms16-069-cumulative-security-update-for-jscript-and-vbscript-june-14-2016-1bfcf555-6912-751c-3436-177b1eca9bf5",
+    "url": "https://support.microsoft.com/help/3163640"
+  },
+  "3164028": {
+    "date": "2016-06-14",
+    "uuid": "e5d5f321-8332-e3c6-3f81-42511926851a",
+    "slug": "ms16-073-security-update-for-kernel-mode-drivers-june-14-2016-e5d5f321-8332-e3c6-3f81-42511926851a",
+    "url": "https://support.microsoft.com/help/3164028"
+  },
+  "3164038": {
+    "date": "2016-06-14",
+    "uuid": "2af4ae3a-2ae8-7189-8059-696978af0df4",
+    "slug": "ms16-075-security-update-for-windows-smb-server-june-14-2016-2af4ae3a-2ae8-7189-8059-696978af0df4",
+    "url": "https://support.microsoft.com/help/3164038"
+  },
+  "3167691": {
+    "date": "2016-06-14",
+    "uuid": "5eb70dc0-aea5-5157-3a91-82da0bcdd0b1",
+    "slug": "ms16-076-security-update-for-netlogon-june-14-2016-5eb70dc0-aea5-5157-3a91-82da0bcdd0b1",
+    "url": "https://support.microsoft.com/help/3167691"
+  },
+  "3165191": {
+    "date": "2016-06-14",
+    "uuid": "2490f086-dc17-4a6e-2799-a974d1af385e",
+    "slug": "ms16-077-security-update-for-wpad-june-14-2016-2490f086-dc17-4a6e-2799-a974d1af385e",
+    "url": "https://support.microsoft.com/help/3165191"
+  },
+  "3165479": {
+    "date": "2016-06-14",
+    "uuid": "87142806-7982-0b1f-ee6d-da1bf13e62fb",
+    "slug": "ms16-078-security-update-for-windows-diagnostic-hub-june-14-2016-87142806-7982-0b1f-ee6d-da1bf13e62fb",
+    "url": "https://support.microsoft.com/help/3165479"
+  },
+  "3164302": {
+    "date": "2016-06-14",
+    "uuid": "fd31e9cb-2536-b4af-232c-e3d92edf6c02",
+    "slug": "ms16-080-security-update-for-microsoft-windows-pdf-june-14-2016-fd31e9cb-2536-b4af-232c-e3d92edf6c02",
+    "url": "https://support.microsoft.com/help/3164302"
+  },
+  "3165270": {
+    "date": "2016-06-14",
+    "uuid": "e3d4ea28-9265-b17b-1479-8f1cbcf0afee",
+    "slug": "ms16-082-security-update-for-microsoft-windows-search-component-june-14-2016-e3d4ea28-9265-b17b-1479-8f1cbcf0afee",
+    "url": "https://support.microsoft.com/help/3165270"
+  },
+  "3167685": {
+    "date": "2016-06-16",
+    "uuid": "08b92f14-56de-5ce8-6daf-b0d44067d50f",
+    "slug": "ms16-083-security-update-for-adobe-flash-player-june-16-2016-08b92f14-56de-5ce8-6daf-b0d44067d50f",
+    "url": "https://support.microsoft.com/help/3167685"
+  },
+  "3169991": {
+    "date": "2016-07-12",
+    "uuid": "751c2869-bdf0-1101-a991-0cfe2d7e145d",
+    "slug": "ms16-084-cumulative-security-update-for-internet-explorer-july-12-2016-751c2869-bdf0-1101-a991-0cfe2d7e145d",
+    "url": "https://support.microsoft.com/help/3169991"
+  },
+  "3169996": {
+    "date": "2016-07-12",
+    "uuid": "c01e1f9c-bf3d-39b9-4f9c-396e0ebdfb71",
+    "slug": "ms16-086-cumulative-security-update-for-jscript-and-vbscript-july-12-2016-c01e1f9c-bf3d-39b9-4f9c-396e0ebdfb71",
+    "url": "https://support.microsoft.com/help/3169996"
+  },
+  "3170005": {
+    "date": "2016-07-12",
+    "uuid": "afceb380-914b-500f-5aa2-904fe6d13817",
+    "slug": "ms16-087-security-update-for-windows-print-spooler-components-july-12-2016-afceb380-914b-500f-5aa2-904fe6d13817",
+    "url": "https://support.microsoft.com/help/3170005"
+  },
+  "3170050": {
+    "date": "2016-07-12",
+    "uuid": "be4d8fa3-4677-4c99-ab30-82f56199912b",
+    "slug": "ms16-089-security-update-for-windows-secure-kernel-mode-july-12-2016-be4d8fa3-4677-4c99-ab30-82f56199912b",
+    "url": "https://support.microsoft.com/help/3170050"
+  },
+  "3171481": {
+    "date": "2016-07-12",
+    "uuid": "3cadf303-0311-f799-7c77-22b8730d215a",
+    "slug": "ms16-090-security-update-for-windows-kernel-mode-drivers-july-12-2016-3cadf303-0311-f799-7c77-22b8730d215a",
+    "url": "https://support.microsoft.com/help/3171481"
+  },
+  "3171910": {
+    "date": "2016-07-12",
+    "uuid": "105b020b-5a31-8fbd-352d-b573a524bed4",
+    "slug": "ms16-092-security-update-for-windows-kernel-july-12-2016-105b020b-5a31-8fbd-352d-b573a524bed4",
+    "url": "https://support.microsoft.com/help/3171910"
+  },
+  "3174060": {
+    "date": "2016-07-12",
+    "uuid": "b95c0476-2bfb-aca6-69a5-79db92ad907d",
+    "slug": "ms16-093-security-update-for-adobe-flash-player-july-12-2016-b95c0476-2bfb-aca6-69a5-79db92ad907d",
+    "url": "https://support.microsoft.com/help/3174060"
+  },
+  "3177404": {
+    "date": "2016-07-12",
+    "uuid": "df4dc0a9-a7e9-365b-2a57-50572b5e2143",
+    "slug": "ms16-094-security-update-for-secure-boot-july-12-2016-df4dc0a9-a7e9-365b-2a57-50572b5e2143",
+    "url": "https://support.microsoft.com/help/3177404"
+  },
+  "3177358": {
+    "date": "2016-08-09",
+    "uuid": "18d2d7f0-57db-cb2b-3187-85474ffa38e4",
+    "slug": "ms16-096-cumulative-security-update-for-microsoft-edge-august-9-2016-18d2d7f0-57db-cb2b-3187-85474ffa38e4",
+    "url": "https://support.microsoft.com/help/3177358"
+  },
+  "3177393": {
+    "date": "2016-08-09",
+    "uuid": "ae674a6d-6d37-f0ff-2ecd-4493d0ec0db9",
+    "slug": "ms16-097-security-update-for-microsoft-graphics-component-august-9-2016-ae674a6d-6d37-f0ff-2ecd-4493d0ec0db9",
+    "url": "https://support.microsoft.com/help/3177393"
+  },
+  "3178466": {
+    "date": "2016-08-09",
+    "uuid": "89455146-98f2-63fa-f7a7-cb5f521e14ef",
+    "slug": "ms16-098-security-update-for-windows-kernel-mode-drivers-august-9-2016-89455146-98f2-63fa-f7a7-cb5f521e14ef",
+    "url": "https://support.microsoft.com/help/3178466"
+  },
+  "3177451": {
+    "date": "2016-08-09",
+    "uuid": "01cc7081-8ffb-c9dc-7a4d-16ed1e7700a6",
+    "slug": "ms16-099-security-update-for-microsoft-office-august-9-2016-01cc7081-8ffb-c9dc-7a4d-16ed1e7700a6",
+    "url": "https://support.microsoft.com/help/3177451"
+  },
+  "3179163": {
+    "date": "2016-08-22",
+    "uuid": "6ee9720d-847f-cff0-77fe-9b48e2efe001",
+    "slug": "ms16-099-description-of-the-security-update-for-office-2016-for-mac-august-22-2016-6ee9720d-847f-cff0-77fe-9b48e2efe001",
+    "url": "https://support.microsoft.com/help/3179163"
+  },
+  "3179577": {
+    "date": "2016-08-09",
+    "uuid": "43d7e41b-d2c1-2819-f79b-fa33146eea04",
+    "slug": "ms16-100-security-update-for-secure-boot-august-9-2016-43d7e41b-d2c1-2819-f79b-fa33146eea04",
+    "url": "https://support.microsoft.com/help/3179577"
+  },
+  "3172729": {
+    "date": "2016-08-09",
+    "uuid": "b9b0f6df-948d-fa45-1bea-a4640fd054ed",
+    "slug": "ms16-100-description-of-the-security-update-for-secure-boot-august-9-2016-b9b0f6df-948d-fa45-1bea-a4640fd054ed",
+    "url": "https://support.microsoft.com/help/3172729"
+  },
+  "3178465": {
+    "date": "2016-08-09",
+    "uuid": "8180c9de-06e2-6cf7-7ad3-0624e7daed1b",
+    "slug": "ms16-101-security-update-for-windows-authentication-methods-august-9-2016-8180c9de-06e2-6cf7-7ad3-0624e7daed1b",
+    "url": "https://support.microsoft.com/help/3178465"
+  },
+  "3182332": {
+    "date": "2016-08-09",
+    "uuid": "ea047802-525d-f5cc-1a23-1d35a43ae3d8",
+    "slug": "ms16-103-security-update-for-activesyncprovider-august-9-2016-ea047802-525d-f5cc-1a23-1d35a43ae3d8",
+    "url": "https://support.microsoft.com/help/3182332"
+  },
+  "3183038": {
+    "date": "2016-09-13",
+    "uuid": "84417583-f229-f5f7-315c-28789f16a792",
+    "slug": "ms16-104-cumulative-security-update-for-internet-explorer-september-13-2016-84417583-f229-f5f7-315c-28789f16a792",
+    "url": "https://support.microsoft.com/help/3183038"
+  },
+  "3183043": {
+    "date": "2016-09-13",
+    "uuid": "5a1e3734-f37f-04c2-2a5c-03bba76aa12e",
+    "slug": "ms16-105-cumulative-security-update-for-microsoft-edge-september-13-2016-5a1e3734-f37f-04c2-2a5c-03bba76aa12e",
+    "url": "https://support.microsoft.com/help/3183043"
+  },
+  "3185848": {
+    "date": "2016-09-13",
+    "uuid": "9f064bd1-ab90-9eab-1b73-2de74193ad10",
+    "slug": "ms16-106-security-update-for-microsoft-graphics-component-september-13-2016-9f064bd1-ab90-9eab-1b73-2de74193ad10",
+    "url": "https://support.microsoft.com/help/3185848"
+  },
+  "3185852": {
+    "date": "2016-09-13",
+    "uuid": "275e6844-8f70-71a2-87d3-e61ff55f4100",
+    "slug": "ms16-107-security-update-for-microsoft-office-september-13-2016-275e6844-8f70-71a2-87d3-e61ff55f4100",
+    "url": "https://support.microsoft.com/help/3185852"
+  },
+  "3186807": {
+    "date": "2016-09-13",
+    "uuid": "00bfc97f-3309-3833-8b06-ceecc5e8ff81",
+    "slug": "ms16-107-description-of-the-security-update-for-office-2016-for-mac-september-13-2016-00bfc97f-3309-3833-8b06-ceecc5e8ff81",
+    "url": "https://support.microsoft.com/help/3186807"
+  },
+  "3178467": {
+    "date": "2016-09-13",
+    "uuid": "df727b2f-d686-4f76-1487-d1c16ad959ae",
+    "slug": "ms16-110-security-update-for-microsoft-windows-september-13-2016-df727b2f-d686-4f76-1487-d1c16ad959ae",
+    "url": "https://support.microsoft.com/help/3178467"
+  },
+  "3178469": {
+    "date": "2016-09-13",
+    "uuid": "de633b14-2688-a312-45ad-862ed684988e",
+    "slug": "ms16-112-security-update-for-windows-lock-screen-september-13-2016-de633b14-2688-a312-45ad-862ed684988e",
+    "url": "https://support.microsoft.com/help/3178469"
+  },
+  "3185876": {
+    "date": "2016-09-13",
+    "uuid": "bd08270e-9802-925d-8ba8-8911d65058dd",
+    "slug": "ms16-113-security-update-for-windows-secure-kernel-mode-september-13-2016-bd08270e-9802-925d-8ba8-8911d65058dd",
+    "url": "https://support.microsoft.com/help/3185876"
+  },
+  "3185879": {
+    "date": "2016-09-13",
+    "uuid": "c10c1af1-5992-1e4a-264e-4c0ed082a3a4",
+    "slug": "ms16-114-security-update-for-windows-smbv1-server-september-13-2016-c10c1af1-5992-1e4a-264e-4c0ed082a3a4",
+    "url": "https://support.microsoft.com/help/3185879"
+  },
+  "3188733": {
+    "date": "2016-09-13",
+    "uuid": "ae0730ac-5c27-7ffb-7b3c-c0dd0f5aaca8",
+    "slug": "ms16-115-security-update-for-microsoft-windows-pdf-library-september-13-2016-ae0730ac-5c27-7ffb-7b3c-c0dd0f5aaca8",
+    "url": "https://support.microsoft.com/help/3188733"
+  },
+  "3188128": {
+    "date": "2016-09-13",
+    "uuid": "4aa6bcd1-73dd-7ded-3aaf-9f4bbc74ddc1",
+    "slug": "ms16-117-security-update-for-adobe-flash-player-september-13-2016-4aa6bcd1-73dd-7ded-3aaf-9f4bbc74ddc1",
+    "url": "https://support.microsoft.com/help/3188128"
+  },
+  "3192887": {
+    "date": "2016-10-11",
+    "uuid": "5d4aca47-5440-bcf0-8bfc-dd1eaf706970",
+    "slug": "ms16-118-cumulative-security-update-for-internet-explorer-october-11-2016-5d4aca47-5440-bcf0-8bfc-dd1eaf706970",
+    "url": "https://support.microsoft.com/help/3192887"
+  },
+  "3192393": {
+    "date": "2016-10-01",
+    "uuid": "baef842d-a866-a85b-1080-6739e42b5c21",
+    "slug": "october-2016-security-only-quality-update-for-windows-server-2012-baef842d-a866-a85b-1080-6739e42b5c21",
+    "url": "https://support.microsoft.com/help/3192393"
+  },
+  "3192392": {
+    "date": "2016-10-01",
+    "uuid": "8f87ae00-a15f-fb80-fd37-acbe17343f96",
+    "slug": "october-2016-security-only-quality-update-for-windows-8-1-and-windows-server-2012-r2-8f87ae00-a15f-fb80-fd37-acbe17343f96",
+    "url": "https://support.microsoft.com/help/3192392"
+  },
+  "3192890": {
+    "date": "2016-10-11",
+    "uuid": "1b532757-f0a4-1311-aefe-6f6be8f5437e",
+    "slug": "ms16-119-cumulative-security-update-for-microsoft-edge-october-11-2016-1b532757-f0a4-1311-aefe-6f6be8f5437e",
+    "url": "https://support.microsoft.com/help/3192890"
+  },
+  "3189051": {
+    "date": "2016-10-11",
+    "uuid": "09ca1d20-ae18-6a5f-3eb5-6244bd2812bb",
+    "slug": "ms16-120-description-of-the-security-and-quality-rollup-for-the-net-framework-4-5-2-for-windows-vista-service-pack-2-and-windows-server-2008-service-pack-2-october-11-2016-09ca1d20-ae18-6a5f-3eb5-6244bd2812bb",
+    "url": "https://support.microsoft.com/help/3189051"
+  },
+  "3188740": {
+    "date": "2016-10-11",
+    "uuid": "4b98b6e1-10bc-2383-9dc1-554faf6ef614",
+    "slug": "ms16-120-description-of-the-security-and-quality-rollup-for-net-framework-3-5-1-for-windows-7-service-pack-1-and-windows-server-2008-r2-service-pack-1-october-11-2016-4b98b6e1-10bc-2383-9dc1-554faf6ef614",
+    "url": "https://support.microsoft.com/help/3188740"
+  },
+  "3188743": {
+    "date": "2016-10-11",
+    "uuid": "bb088ce0-71f8-593b-6849-7c8dbc46a02c",
+    "slug": "ms16-120-description-of-the-security-and-quality-rollup-for-net-framework-3-5-for-windows-8-1-and-windows-server-2012-r2-october-11-2016-bb088ce0-71f8-593b-6849-7c8dbc46a02c",
+    "url": "https://support.microsoft.com/help/3188743"
+  },
+  "3188741": {
+    "date": "2012-10-11",
+    "uuid": "a81df641-0965-4ef5-783c-19cdb96328d1",
+    "slug": "ms16-120-description-of-the-security-and-quality-rollup-for-net-framework-3-5-for-windows-server-2012-october-11-2016-a81df641-0965-4ef5-783c-19cdb96328d1",
+    "url": "https://support.microsoft.com/help/3188741"
+  },
+  "2965218": {
+    "date": "2015-04-14",
+    "uuid": "e4361c38-5713-f32a-60cf-5c5dbf1a2dfd",
+    "slug": "april-14-2015-update-for-office-2013-kb2965218-e4361c38-5713-f32a-60cf-5c5dbf1a2dfd",
+    "url": "https://support.microsoft.com/help/2965218"
+  },
+  "3194063": {
+    "date": "2016-10-11",
+    "uuid": "5d9bac7d-be86-f6b7-5ea1-af11f5863162",
+    "slug": "ms16-121-security-update-for-microsoft-office-october-11-2016-5d9bac7d-be86-f6b7-5ea1-af11f5863162",
+    "url": "https://support.microsoft.com/help/3194063"
+  },
+  "3195360": {
+    "date": "2016-10-11",
+    "uuid": "fd744f85-391a-2016-de79-03a32916b249",
+    "slug": "ms16-122-security-update-for-microsoft-video-control-october-11-2016-fd744f85-391a-2016-de79-03a32916b249",
+    "url": "https://support.microsoft.com/help/3195360"
+  },
+  "3192892": {
+    "date": "2016-10-11",
+    "uuid": "1845547d-c61a-c4e3-6731-6220a5e4c4b8",
+    "slug": "ms16-123-security-update-for-kernel-mode-drivers-october-11-2016-1845547d-c61a-c4e3-6731-6220a5e4c4b8",
+    "url": "https://support.microsoft.com/help/3192892"
+  },
+  "3193227": {
+    "date": "2016-10-11",
+    "uuid": "ee120f36-8e06-9d8b-c3e3-cc5647ef7d31",
+    "slug": "ms16-124-security-update-for-windows-registry-october-11-2016-ee120f36-8e06-9d8b-c3e3-cc5647ef7d31",
+    "url": "https://support.microsoft.com/help/3193227"
+  },
+  "3193229": {
+    "date": "2016-10-11",
+    "uuid": "a69a00e7-0bab-df27-1d6a-bb290f30d44a",
+    "slug": "ms16-125-security-update-for-diagnostics-hub-october-11-2016-a69a00e7-0bab-df27-1d6a-bb290f30d44a",
+    "url": "https://support.microsoft.com/help/3193229"
+  },
+  "3194343": {
+    "date": "2016-10-11",
+    "uuid": "894b9df8-c0dd-fc9b-e65f-d1b9c3d11abc",
+    "slug": "ms16-127-security-update-for-adobe-flash-player-october-11-2016-894b9df8-c0dd-fc9b-e65f-d1b9c3d11abc",
+    "url": "https://support.microsoft.com/help/3194343"
+  },
+  "3199057": {
+    "date": "2016-11-08",
+    "uuid": "5c3e6a95-57c6-caeb-ac26-85fdd2553e2f",
+    "slug": "ms16-129-cumulative-security-update-for-microsoft-edge-november-8-2016-5c3e6a95-57c6-caeb-ac26-85fdd2553e2f",
+    "url": "https://support.microsoft.com/help/3199057"
+  },
+  "3199172": {
+    "date": "2016-11-08",
+    "uuid": "1f5f01e0-8dc0-9778-1071-482df5d0fe6a",
+    "slug": "ms16-130-security-update-for-microsoft-windows-november-8-2016-1f5f01e0-8dc0-9778-1071-482df5d0fe6a",
+    "url": "https://support.microsoft.com/help/3199172"
+  },
+  "3033889": {
+    "date": "2015-03-10",
+    "uuid": "07bfd1c5-317d-b1c3-c815-4fdcc65bac8c",
+    "slug": "ms15-020-description-of-the-security-update-for-windows-text-services-march-10-2015-07bfd1c5-317d-b1c3-c815-4fdcc65bac8c",
+    "url": "https://support.microsoft.com/help/3033889"
+  },
+  "3184122": {
+    "date": "2016-09-13",
+    "uuid": "6d08c680-ab91-7e48-ab9c-d7c999890e11",
+    "slug": "ms16-116-description-of-the-security-update-for-ole-automation-for-vbscript-scripting-engine-september-13-2016-6d08c680-ab91-7e48-ab9c-d7c999890e11",
+    "url": "https://support.microsoft.com/help/3184122"
+  },
+  "3185330": {
+    "date": "2016-10-01",
+    "uuid": "051128d9-7f9a-3329-8dfc-264521abe203",
+    "slug": "october-2016-security-monthly-quality-rollup-for-windows-7-sp1-and-windows-server-2008-r2-sp1-051128d9-7f9a-3329-8dfc-264521abe203",
+    "url": "https://support.microsoft.com/help/3185330"
+  },
+  "3185331": {
+    "date": "2016-10-01",
+    "uuid": "16640919-f0fd-13a0-61f4-a4ce0f39f73b",
+    "slug": "october-2016-security-monthly-quality-rollup-for-windows-8-1-and-windows-server-2012-r2-16640919-f0fd-13a0-61f4-a4ce0f39f73b",
+    "url": "https://support.microsoft.com/help/3185331"
+  },
+  "3185332": {
+    "date": "2016-10-01",
+    "uuid": "bd9cffb2-ccbc-8b5f-97c1-fbff2d9dce60",
+    "slug": "october-2016-security-monthly-quality-rollup-for-windows-server-2012-bd9cffb2-ccbc-8b5f-97c1-fbff2d9dce60",
+    "url": "https://support.microsoft.com/help/3185332"
+  },
+  "3197867": {
+    "date": "2016-11-01",
+    "uuid": "0f437b76-b644-64a1-8056-a037b3ae20d7",
+    "slug": "november-2016-security-only-quality-update-for-windows-7-sp1-and-windows-server-2008-r2-sp1-0f437b76-b644-64a1-8056-a037b3ae20d7",
+    "url": "https://support.microsoft.com/help/3197867"
+  },
+  "3197868": {
+    "date": "2016-11-01",
+    "uuid": "246b7f64-0865-559d-bee1-3ebf760ab3c3",
+    "slug": "november-2016-security-monthly-quality-rollup-for-windows-7-sp1-and-windows-server-2008-r2-sp1-246b7f64-0865-559d-bee1-3ebf760ab3c3",
+    "url": "https://support.microsoft.com/help/3197868"
+  },
+  "3197874": {
+    "date": "2016-11-01",
+    "uuid": "f6536e11-05cc-fa1b-7eed-44ebd5b77a2b",
+    "slug": "november-2016-security-monthly-quality-rollup-for-windows-8-1-and-windows-server-2012-r2-f6536e11-05cc-fa1b-7eed-44ebd5b77a2b",
+    "url": "https://support.microsoft.com/help/3197874"
+  },
+  "3199151": {
+    "date": "2016-11-08",
+    "uuid": "96eb2bc7-3296-a321-2696-4a43333f2674",
+    "slug": "ms16-131-security-update-for-microsoft-video-control-november-8-2016-96eb2bc7-3296-a321-2696-4a43333f2674",
+    "url": "https://support.microsoft.com/help/3199151"
+  },
+  "3197873": {
+    "date": "2016-11-01",
+    "uuid": "4fccbf29-7369-ec3f-3f39-bf23b81498c9",
+    "slug": "november-2016-security-only-quality-update-for-windows-8-1-and-windows-server-2012-r2-4fccbf29-7369-ec3f-3f39-bf23b81498c9",
+    "url": "https://support.microsoft.com/help/3197873"
+  },
+  "3199120": {
+    "date": "2016-11-08",
+    "uuid": "a39778f0-41d3-911c-6630-8590fc38210b",
+    "slug": "ms16-132-security-update-for-microsoft-graphics-component-november-8-2016-a39778f0-41d3-911c-6630-8590fc38210b",
+    "url": "https://support.microsoft.com/help/3199120"
+  },
+  "3197876": {
+    "date": "2016-11-01",
+    "uuid": "36a64570-1b93-edf1-a63c-f1ab2928154a",
+    "slug": "november-2016-security-only-quality-update-for-windows-server-2012-36a64570-1b93-edf1-a63c-f1ab2928154a",
+    "url": "https://support.microsoft.com/help/3197876"
+  },
+  "3198798": {
+    "date": "2016-11-15",
+    "uuid": "5fadd466-5193-9710-25e6-b750b3a582bf",
+    "slug": "ms16-133-description-of-the-security-update-for-office-2016-for-mac-november-15-2016-5fadd466-5193-9710-25e6-b750b3a582bf",
+    "url": "https://support.microsoft.com/help/3198798"
+  },
+  "3199173": {
+    "date": "2016-11-08",
+    "uuid": "63ffec46-461d-3220-1460-84dbaabf01c0",
+    "slug": "ms16-137-security-update-for-windows-authentication-methods-november-8-2016-63ffec46-461d-3220-1460-84dbaabf01c0",
+    "url": "https://support.microsoft.com/help/3199173"
+  },
+  "3199647": {
+    "date": "2016-11-08",
+    "uuid": "7005df23-9c9a-dce2-a501-44c4f74df2aa",
+    "slug": "ms16-138-security-update-to-microsoft-virtual-hard-drive-november-8-2016-7005df23-9c9a-dce2-a501-44c4f74df2aa",
+    "url": "https://support.microsoft.com/help/3199647"
+  },
+  "3199720": {
+    "date": "2016-11-08",
+    "uuid": "46949f5c-8067-598e-3e45-b95e66b63db7",
+    "slug": "ms16-139-security-update-for-windows-kernel-november-8-2016-46949f5c-8067-598e-3e45-b95e66b63db7",
+    "url": "https://support.microsoft.com/help/3199720"
+  },
+  "3191256": {
+    "date": "2016-10-11",
+    "uuid": "bf65aef9-75c9-b79f-2390-940442afb2bd",
+    "slug": "ms16-124-description-of-the-security-update-for-windows-registry-october-11-2016-bf65aef9-75c9-b79f-2390-940442afb2bd",
+    "url": "https://support.microsoft.com/help/3191256"
+  },
+  "3193479": {
+    "date": "2016-11-08",
+    "uuid": "740b3d1d-c2c7-6a28-b092-b838607f4387",
+    "slug": "ms16-140-security-update-for-boot-manager-november-8-2016-740b3d1d-c2c7-6a28-b092-b838607f4387",
+    "url": "https://support.microsoft.com/help/3193479"
+  },
+  "3202790": {
+    "date": "2016-11-08",
+    "uuid": "2de00340-64e5-5499-a6a8-7a819b646103",
+    "slug": "ms16-141-security-update-for-adobe-flash-player-november-8-2016-2de00340-64e5-5499-a6a8-7a819b646103",
+    "url": "https://support.microsoft.com/help/3202790"
+  },
+  "3198467": {
+    "date": "2016-11-08",
+    "uuid": "d8649b79-cb43-9deb-2a4f-9dc41f013f46",
+    "slug": "ms16-142-cumulative-security-update-for-internet-explorer-november-8-2016-d8649b79-cb43-9deb-2a4f-9dc41f013f46",
+    "url": "https://support.microsoft.com/help/3198467"
+  },
+  "3204059": {
+    "date": "2016-12-13",
+    "uuid": "01055d74-81bc-aa25-d09f-ffd2b1131211",
+    "slug": "ms16-144-cumulative-security-update-for-internet-explorer-december-13-2016-01055d74-81bc-aa25-d09f-ffd2b1131211",
+    "url": "https://support.microsoft.com/help/3204059"
+  },
+  "3204068": {
+    "date": "2016-12-13",
+    "uuid": "90fc5c5f-2f4b-2f96-20eb-2d81c612d20f",
+    "slug": "ms16-148-security-update-for-microsoft-office-to-address-remote-code-execution-december-13-2016-90fc5c5f-2f4b-2f96-20eb-2d81c612d20f",
+    "url": "https://support.microsoft.com/help/3204068"
+  },
+  "3205655": {
+    "date": "2016-12-13",
+    "uuid": "312c82a7-6909-93ac-a1ea-857f79d784da",
+    "slug": "ms16-149-security-update-for-microsoft-windows-december-13-2016-312c82a7-6909-93ac-a1ea-857f79d784da",
+    "url": "https://support.microsoft.com/help/3205655"
+  },
+  "3207328": {
+    "date": "2016-12-13",
+    "uuid": "fe208815-9316-1a6f-c42b-3d25b2918624",
+    "slug": "ms16-153-security-update-for-common-log-file-system-driver-december-13-2016-fe208815-9316-1a6f-c42b-3d25b2918624",
+    "url": "https://support.microsoft.com/help/3207328"
+  },
+  "3209498": {
+    "date": "2016-12-13",
+    "uuid": "58ae43cf-4b56-80d9-3113-aed2106b1824",
+    "slug": "ms16-154-security-update-for-adobe-flash-player-december-13-2016-58ae43cf-4b56-80d9-3113-aed2106b1824",
+    "url": "https://support.microsoft.com/help/3209498"
+  },
+  "3205640": {
+    "date": "2016-12-13",
+    "uuid": "574c0183-a792-6fae-3e81-9f844fdc38b6",
+    "slug": "ms16-155-security-update-for-the-net-framework-december-13-2016-574c0183-a792-6fae-3e81-9f844fdc38b6",
+    "url": "https://support.microsoft.com/help/3205640"
+  },
+  "3205402": {
+    "date": "2016-12-13",
+    "uuid": "6ae4a7b0-de2a-2836-36ce-22d7cd933b0e",
+    "slug": "ms16-155-description-of-the-security-and-quality-rollup-net-framework-3-5-1-4-5-2-4-6-4-6-1-and-4-6-2-updates-for-windows-7-and-windows-server-2008-r2-december-13-2016-6ae4a7b0-de2a-2836-36ce-22d7cd933b0e",
+    "url": "https://support.microsoft.com/help/3205402"
+  },
+  "3188730": {
+    "date": "2016-10-11",
+    "uuid": "9d16ffd5-cf61-a2f2-f7bc-6978fd3a5c39",
+    "slug": "ms16-120-description-of-the-security-update-for-the-net-framework-3-5-1-for-windows-7-and-windows-server-2008-r2-service-pack-1-october-11-2016-9d16ffd5-cf61-a2f2-f7bc-6978fd3a5c39",
+    "url": "https://support.microsoft.com/help/3188730"
+  },
+  "3216771": {
+    "date": "2017-01-10",
+    "uuid": "6045e1b4-486a-299b-86c5-bdfd5c37b77f",
+    "slug": "ms17-004-security-update-for-local-security-authority-subsystem-service-january-10-2017-6045e1b4-486a-299b-86c5-bdfd5c37b77f",
+    "url": "https://support.microsoft.com/help/3216771"
+  },
+  "3207752": {
+    "date": "2016-12-01",
+    "uuid": "38b7970a-25c4-6806-34a2-1d81d909a98c",
+    "slug": "december-2016-security-monthly-quality-rollup-for-windows-7-sp1-and-windows-server-2008-r2-sp1-38b7970a-25c4-6806-34a2-1d81d909a98c",
+    "url": "https://support.microsoft.com/help/3207752"
+  },
+  "4010250": {
+    "date": "2017-02-21",
+    "uuid": "df0f976c-e858-a0e0-a0a8-fd55b711fb76",
+    "slug": "ms17-005-security-update-for-adobe-flash-player-february-21-2017-df0f976c-e858-a0e0-a0a8-fd55b711fb76",
+    "url": "https://support.microsoft.com/help/4010250"
+  },
+  "4013073": {
+    "date": "2017-03-14",
+    "uuid": "a2ceefce-c769-0269-54a4-8ad35123b01a",
+    "slug": "ms17-006-cumulative-security-update-for-internet-explorer-march-14-2017-a2ceefce-c769-0269-54a4-8ad35123b01a",
+    "url": "https://support.microsoft.com/help/4013073"
+  },
+  "4013075": {
+    "date": "2017-03-14",
+    "uuid": "1c2e33ec-4b83-ffdf-447d-19fe665a208b",
+    "slug": "ms17-013-security-update-for-microsoft-graphics-component-march-14-2017-1c2e33ec-4b83-ffdf-447d-19fe665a208b",
+    "url": "https://support.microsoft.com/help/4013075"
+  },
+  "3205408": {
+    "date": "2016-12-01",
+    "uuid": "a4043817-5aa4-cd86-5096-7505b2bbc30a",
+    "slug": "december-2016-security-only-quality-update-for-windows-server-2012-a4043817-5aa4-cd86-5096-7505b2bbc30a",
+    "url": "https://support.microsoft.com/help/3205408"
+  },
+  "4013241": {
+    "date": "2017-03-14",
+    "uuid": "4ddda65a-34ca-7f6d-e6af-059e4d1eeca1",
+    "slug": "ms17-014-security-update-for-microsoft-office-march-14-2017-4ddda65a-34ca-7f6d-e6af-059e4d1eeca1",
+    "url": "https://support.microsoft.com/help/4013241"
+  },
+  "4013242": {
+    "date": "2017-03-14",
+    "uuid": "bfe941b0-a28a-1214-a416-71c90617075e",
+    "slug": "ms17-015-security-update-for-microsoft-exchange-server-march-14-2017-bfe941b0-a28a-1214-a416-71c90617075e",
+    "url": "https://support.microsoft.com/help/4013242"
+  },
+  "4013074": {
+    "date": "2017-03-14",
+    "uuid": "d12c545c-bf9f-94bf-77d2-53724a6c0b7b",
+    "slug": "ms17-016-security-update-for-internet-information-services-march-14-2017-d12c545c-bf9f-94bf-77d2-53724a6c0b7b",
+    "url": "https://support.microsoft.com/help/4013074"
+  },
+  "4013081": {
+    "date": "2017-03-14",
+    "uuid": "e96745ed-4c2d-0650-319a-d0dc01276a2b",
+    "slug": "ms17-017-security-update-for-windows-kernel-march-14-2017-e96745ed-4c2d-0650-319a-d0dc01276a2b",
+    "url": "https://support.microsoft.com/help/4013081"
+  },
+  "4013083": {
+    "date": "2017-03-14",
+    "uuid": "b284e67b-015c-88ee-3e92-4a3a799d25ea",
+    "slug": "ms17-018-security-update-for-windows-kernel-mode-drivers-march-14-2017-b284e67b-015c-88ee-3e92-4a3a799d25ea",
+    "url": "https://support.microsoft.com/help/4013083"
+  },
+  "4010321": {
+    "date": "2017-03-14",
+    "uuid": "7794a626-687f-ee17-2c3b-6a095087de43",
+    "slug": "ms17-022-security-update-for-microsoft-xml-core-services-march-14-2017-7794a626-687f-ee17-2c3b-6a095087de43",
+    "url": "https://support.microsoft.com/help/4010321"
+  },
+  "3080348": {
+    "date": "2015-08-11",
+    "uuid": "1ffe98f4-6797-7e57-3321-7a039b4f1731",
+    "slug": "ms15-082-vulnerabilities-in-rdp-could-allow-remote-code-execution-august-11-2015-1ffe98f4-6797-7e57-3321-7a039b4f1731",
+    "url": "https://support.microsoft.com/help/3080348"
+  },
+  "3041836": {
+    "date": "2015-03-10",
+    "uuid": "ee6858d5-a362-aafc-23f5-2d58cbfd133a",
+    "slug": "ms15-020-vulnerabilities-in-windows-could-allow-remote-code-execution-march-10-2015-ee6858d5-a362-aafc-23f5-2d58cbfd133a",
+    "url": "https://support.microsoft.com/help/3041836"
+  },
+  "3038999": {
+    "date": "2015-03-10",
+    "uuid": "1e366437-3478-730a-6699-f901d59ad6d5",
+    "slug": "ms15-022-vulnerabilities-in-office-could-allow-remote-code-execution-march-10-2015-1e366437-3478-730a-6699-f901d59ad6d5",
+    "url": "https://support.microsoft.com/help/3038999"
+  },
+  "3101746": {
+    "date": "2015-11-10",
+    "uuid": "b6f92463-6731-e68b-2fb0-6998c63d0c15",
+    "slug": "ms15-115-description-of-the-security-update-for-windows-november-10-2015-b6f92463-6731-e68b-2fb0-6998c63d0c15",
+    "url": "https://support.microsoft.com/help/3101746"
+  },
+  "3097877": {
+    "date": "2015-11-10",
+    "uuid": "a840aca6-9a75-ec7f-62d6-a7ab69063fce",
+    "slug": "ms15-115-description-of-the-security-update-for-windows-november-10-2015-a840aca6-9a75-ec7f-62d6-a7ab69063fce",
+    "url": "https://support.microsoft.com/help/3097877"
+  },
+  "3134814": {
+    "date": "2016-02-09",
+    "uuid": "0d904dce-14c4-ec13-3d10-443bec2d31de",
+    "slug": "ms16-009-security-update-for-internet-explorer-february-9-2016-0d904dce-14c4-ec13-3d10-443bec2d31de",
+    "url": "https://support.microsoft.com/help/3134814"
+  },
+  "3126041": {
+    "date": "2016-02-09",
+    "uuid": "3f28f5dc-a3a8-5577-b2f8-02b13c2302e3",
+    "slug": "ms16-014-description-of-the-security-update-for-windows-february-9-2016-3f28f5dc-a3a8-5577-b2f8-02b13c2302e3",
+    "url": "https://support.microsoft.com/help/3126041"
+  },
+  "3126587": {
+    "date": "2016-02-09",
+    "uuid": "114d5f4b-ca8e-9bf0-63f1-eebfa94c5e74",
+    "slug": "ms16-014-description-of-the-security-update-for-windows-vista-windows-server-2008-windows-7-windows-server-2008-r2-windows-server-2012-windows-8-1-and-windows-server-2012-r2-february-9-2016-114d5f4b-ca8e-9bf0-63f1-eebfa94c5e74",
+    "url": "https://support.microsoft.com/help/3126587"
+  },
+  "3126593": {
+    "date": "2016-02-09",
+    "uuid": "1ff344d3-cd1c-cdbd-15b4-9344c7a7e6bd",
+    "slug": "ms16-014-description-of-the-security-update-for-windows-vista-windows-server-2008-windows-7-windows-server-2008-r2-windows-server-2012-windows-8-1-and-windows-server-2012-r2-february-9-2016-1ff344d3-cd1c-cdbd-15b4-9344c7a7e6bd",
+    "url": "https://support.microsoft.com/help/3126593"
+  },
+  "3126446": {
+    "date": "2016-02-09",
+    "uuid": "d4db884e-aac8-75c6-9a0e-171eb081bdad",
+    "slug": "ms16-017-description-of-the-security-update-for-remote-desktop-display-driver-february-9-2016-d4db884e-aac8-75c6-9a0e-171eb081bdad",
+    "url": "https://support.microsoft.com/help/3126446"
+  },
+  "3159398": {
+    "date": "2016-06-14",
+    "uuid": "3cf9032b-ea6d-0125-0159-f3b3ce146400",
+    "slug": "ms16-072-description-of-the-security-update-for-group-policy-june-14-2016-3cf9032b-ea6d-0125-0159-f3b3ce146400",
+    "url": "https://support.microsoft.com/help/3159398"
+  },
+  "3161561": {
+    "date": "2016-06-14",
+    "uuid": "880a17f3-ea7e-ffd8-82b7-bdc21c3ea884",
+    "slug": "ms16-075-and-ms16-076-description-of-the-security-update-for-windows-netlogon-and-smb-server-june-14-2016-880a17f3-ea7e-ffd8-82b7-bdc21c3ea884",
+    "url": "https://support.microsoft.com/help/3161561"
+  },
+  "5046057": {
+    "date": "2024-10-08",
+    "uuid": "4a49ad08-0f1d-4fcd-8608-281a28b5b61c",
+    "slug": "kb5046057-description-of-the-security-update-for-sql-server-2022-gdr-october-8-2024-4a49ad08-0f1d-4fcd-8608-281a28b5b61c",
+    "url": "https://support.microsoft.com/help/5046057"
+  },
+  "5046056": {
+    "date": "2024-10-08",
+    "uuid": "cddf57ba-b06a-44bf-9da0-08de6c826845",
+    "slug": "kb5046056-description-of-the-security-update-for-sql-server-2019-gdr-october-8-2024-cddf57ba-b06a-44bf-9da0-08de6c826845",
+    "url": "https://support.microsoft.com/help/5046056"
+  },
+  "5046060": {
+    "date": "2024-10-08",
+    "uuid": "32ee3e5d-f831-4e5b-98f4-b89ad6e517de",
+    "slug": "kb5046060-description-of-the-security-update-for-sql-server-2019-cu28-october-8-2024-32ee3e5d-f831-4e5b-98f4-b89ad6e517de",
+    "url": "https://support.microsoft.com/help/5046060"
+  },
+  "5046058": {
+    "date": "2024-10-08",
+    "uuid": "934e85db-6c7e-428c-aa0a-9c7f65588640",
+    "slug": "kb5046058-description-of-the-security-update-for-sql-server-2017-gdr-october-8-2024-934e85db-6c7e-428c-aa0a-9c7f65588640",
+    "url": "https://support.microsoft.com/help/5046058"
+  },
+  "5046061": {
+    "date": "2024-10-08",
+    "uuid": "af669e75-bc43-4679-bfbe-e153e679dd2f",
+    "slug": "kb5046061-description-of-the-security-update-for-sql-server-2017-cu31-october-8-2024-af669e75-bc43-4679-bfbe-e153e679dd2f",
+    "url": "https://support.microsoft.com/help/5046061"
+  },
+  "5046062": {
+    "date": "2024-10-08",
+    "uuid": "fb7d9289-bbef-4d1f-bd71-fb3e036d81ae",
+    "slug": "kb5046062-description-of-the-security-update-for-sql-server-2016-sp3-azure-connect-feature-pack-october-8-2024-fb7d9289-bbef-4d1f-bd71-fb3e036d81ae",
+    "url": "https://support.microsoft.com/help/5046062"
+  },
+  "5042214": {
+    "date": "2024-09-10",
+    "uuid": "a178ef94-4df8-452f-a1b8-f70d7ab7745f",
+    "slug": "kb5042214-description-of-the-security-update-for-sql-server-2019-gdr-september-10-2024-a178ef94-4df8-452f-a1b8-f70d7ab7745f",
+    "url": "https://support.microsoft.com/help/5042214"
+  },
+  "5040948": {
+    "date": "2024-07-09",
+    "uuid": "6447dc00-9f1b-484c-9d3d-9e1f1b9f915c",
+    "slug": "kb5040948-description-of-the-security-update-for-sql-server-2019-cu27-july-9-2024-6447dc00-9f1b-484c-9d3d-9e1f1b9f915c",
+    "url": "https://support.microsoft.com/help/5040948"
+  },
+  "5040986": {
+    "date": "2024-07-09",
+    "uuid": "e9aca6bf-90ba-4fca-a86a-82500423c9a5",
+    "slug": "kb5040986-description-of-the-security-update-for-sql-server-2019-gdr-july-9-2024-e9aca6bf-90ba-4fca-a86a-82500423c9a5",
+    "url": "https://support.microsoft.com/help/5040986"
+  },
+  "5042215": {
+    "date": "2024-09-10",
+    "uuid": "55bba26f-548d-466c-9c48-edfb51a53a8a",
+    "slug": "kb5042215-description-of-the-security-update-for-sql-server-2017-cu31-september-10-2024-55bba26f-548d-466c-9c48-edfb51a53a8a",
+    "url": "https://support.microsoft.com/help/5042215"
+  },
+  "5042217": {
+    "date": "2024-09-10",
+    "uuid": "664b5d51-c175-4da1-8c65-e678797b34ba",
+    "slug": "kb5042217-description-of-the-security-update-for-sql-server-2017-gdr-september-10-2024-664b5d51-c175-4da1-8c65-e678797b34ba",
+    "url": "https://support.microsoft.com/help/5042217"
+  },
+  "5040940": {
+    "date": "2024-07-09",
+    "uuid": "bff7ab26-e882-4419-aebb-30356125f5c9",
+    "slug": "kb5040940-description-of-the-security-update-for-sql-server-2017-cu31-july-9-2024-bff7ab26-e882-4419-aebb-30356125f5c9",
+    "url": "https://support.microsoft.com/help/5040940"
+  },
+  "5040942": {
+    "date": "2024-07-09",
+    "uuid": "af9005ff-30ad-42df-980c-8d2fcf049f37",
+    "slug": "kb5040942-description-of-the-security-update-for-sql-server-2017-gdr-july-9-2024-af9005ff-30ad-42df-980c-8d2fcf049f37",
+    "url": "https://support.microsoft.com/help/5040942"
+  },
+  "5042209": {
+    "date": "2024-09-10",
+    "uuid": "1e26b7ce-79d3-4c73-be31-ad7969336d22",
+    "slug": "kb5042209-description-of-the-security-update-for-sql-server-2016-sp3-azure-connect-feature-pack-september-10-2024-1e26b7ce-79d3-4c73-be31-ad7969336d22",
+    "url": "https://support.microsoft.com/help/5042209"
+  },
+  "5042207": {
+    "date": "2024-09-10",
+    "uuid": "e27a41df-009d-4a50-85e7-dc8f06b9a5a5",
+    "slug": "kb5042207-description-of-the-security-update-for-sql-server-2016-sp3-gdr-september-10-2024-e27a41df-009d-4a50-85e7-dc8f06b9a5a5",
+    "url": "https://support.microsoft.com/help/5042207"
+  },
+  "5040944": {
+    "date": "2024-07-09",
+    "uuid": "72b636c9-0619-4c44-b263-f3d7478bcd75",
+    "slug": "kb5040944-description-of-the-security-update-for-sql-server-2016-sp3-azure-connect-feature-pack-july-9-2024-72b636c9-0619-4c44-b263-f3d7478bcd75",
+    "url": "https://support.microsoft.com/help/5040944"
+  },
+  "5040946": {
+    "date": "2024-07-09",
+    "uuid": "e943f6a8-7a97-41b4-804c-c52ca775f5dd",
+    "slug": "kb5040946-description-of-the-security-update-for-sql-server-2016-sp3-gdr-july-9-2024-e943f6a8-7a97-41b4-804c-c52ca775f5dd",
+    "url": "https://support.microsoft.com/help/5040946"
+  },
+  "5042749": {
+    "date": "2024-09-10",
+    "uuid": "17402ce5-07d3-4e30-9037-9ef997104f34",
+    "slug": "kb5042749-description-of-the-security-update-for-sql-server-2019-cu28-september-10-2024-17402ce5-07d3-4e30-9037-9ef997104f34",
+    "url": "https://support.microsoft.com/help/5042749"
+  },
+  "5046059": {
+    "date": "2024-10-08",
+    "uuid": "b592d86f-3351-4f9f-9c80-ef495a0137c1",
+    "slug": "kb5046059-description-of-the-security-update-for-sql-server-2022-cu15-october-8-2024-b592d86f-3351-4f9f-9c80-ef495a0137c1",
+    "url": "https://support.microsoft.com/help/5046059"
+  },
+  "5046063": {
+    "date": "2024-10-08",
+    "uuid": "87f6091b-a0c0-48e7-8de4-b10381559ba7",
+    "slug": "kb5046063-description-of-the-security-update-for-sql-server-2016-sp3-gdr-october-8-2024-87f6091b-a0c0-48e7-8de4-b10381559ba7",
+    "url": "https://support.microsoft.com/help/5046063"
+  },
+  "5042578": {
+    "date": "2024-09-10",
+    "uuid": "560e6e4c-1f49-4c18-9eb7-054e9fdee3c7",
+    "slug": "kb5042578-description-of-the-security-update-for-sql-server-2022-cu14-september-10-2024-560e6e4c-1f49-4c18-9eb7-054e9fdee3c7",
+    "url": "https://support.microsoft.com/help/5042578"
+  },
+  "5040939": {
+    "date": "2024-07-09",
+    "uuid": "16a61a81-926c-46a5-b6c0-edbca541f2f6",
+    "slug": "kb5040939-description-of-the-security-update-for-sql-server-2022-cu13-july-9-2024-16a61a81-926c-46a5-b6c0-edbca541f2f6",
+    "url": "https://support.microsoft.com/help/5040939"
+  },
+  "5040936": {
+    "date": "2024-07-09",
+    "uuid": "c2c272b9-6a9e-4086-8bb4-8e006e5d7637",
+    "slug": "kb5040936-description-of-the-security-update-for-sql-server-2022-gdr-july-9-2024-c2c272b9-6a9e-4086-8bb4-8e006e5d7637",
+    "url": "https://support.microsoft.com/help/5040936"
+  },
+  "5040525": {
+    "date": "2024-07-23",
+    "uuid": "381f029e-b20e-4a0f-9b7e-695ee7845168",
+    "slug": "july-23-2024-kb5040525-os-build-19045-4717-preview-381f029e-b20e-4a0f-9b7e-695ee7845168",
+    "url": "https://support.microsoft.com/help/5040525"
+  },
+  "5041580": {
+    "date": "2024-08-13",
+    "uuid": "2ef55b0d-bb01-41c8-8629-4146929792ad",
+    "slug": "august-13-2024-kb5041580-os-builds-19044-4780-and-19045-4780-2ef55b0d-bb01-41c8-8629-4146929792ad",
+    "url": "https://support.microsoft.com/help/5041580"
+  },
+  "5040427": {
+    "date": "2024-07-09",
+    "uuid": "78458e76-9404-41b4-91b2-6d3cdcf4a530",
+    "slug": "july-9-2024-kb5040427-os-builds-19044-4651-and-19045-4651-78458e76-9404-41b4-91b2-6d3cdcf4a530",
+    "url": "https://support.microsoft.com/help/5040427"
+  },
+  "5041578": {
+    "date": "2024-08-13",
+    "uuid": "522a6305-63d2-40e3-8084-2ab8f9589bc6",
+    "slug": "august-13-2024-kb5041578-os-build-17763-6189-522a6305-63d2-40e3-8084-2ab8f9589bc6",
+    "url": "https://support.microsoft.com/help/5041578"
+  },
+  "5043050": {
+    "date": "2024-09-10",
+    "uuid": "66e9809a-1838-4474-a6a7-90d64f042f00",
+    "slug": "september-10-2024-kb5043050-os-build-17763-6293-66e9809a-1838-4474-a6a7-90d64f042f00",
+    "url": "https://support.microsoft.com/help/5043050"
+  },
+  "5011258": {
+    "date": "2022-02-04",
+    "uuid": "cc5d0bdc-8212-4c42-a580-4ff665386707",
+    "slug": "february-4-2022-kb5011258-update-for-net-framework-4-8-for-microsoft-server-operating-system-version-21h2-cc5d0bdc-8212-4c42-a580-4ff665386707",
+    "url": "https://support.microsoft.com/help/5011258"
+  },
+  "5011257": {
+    "date": "2022-02-04",
+    "uuid": "d6e08d25-476a-4d93-a4df-182b773dd2b5",
+    "slug": "february-4-2022-kb5011257-update-for-net-framework-4-8-for-windows-10-version-1809-and-server-2019-d6e08d25-476a-4d93-a4df-182b773dd2b5",
+    "url": "https://support.microsoft.com/help/5011257"
+  },
+  "5011259": {
+    "date": "2022-02-04",
+    "uuid": "2dad4da4-1cad-42c4-9abd-3033ea081a4a",
+    "slug": "february-4-2022-kb5011259-update-for-net-framework-4-7-2-for-windows-10-version-1809-and-server-2019-2dad4da4-1cad-42c4-9abd-3033ea081a4a",
+    "url": "https://support.microsoft.com/help/5011259"
+  },
+  "5011264": {
+    "date": "2022-02-04",
+    "uuid": "79799f39-c844-4e09-8702-c735a4210b66",
+    "slug": "february-4-2022-kb5011264-update-for-net-framework-4-8-for-windows-10-update-1607-and-server-2016-79799f39-c844-4e09-8702-c735a4210b66",
+    "url": "https://support.microsoft.com/help/5011264"
+  },
+  "5044285": {
+    "date": "2024-10-08",
+    "uuid": "c1aba548-fc93-420e-855f-8594157c3e9e",
+    "slug": "october-8-2024-kb5044285-os-builds-22621-4317-and-22631-4317-c1aba548-fc93-420e-855f-8594157c3e9e",
+    "url": "https://support.microsoft.com/help/5044285"
+  },
+  "5043145": {
+    "date": "2024-09-26",
+    "uuid": "71ee16f6-9a39-4569-937c-fe0fd8577285",
+    "slug": "september-26-2024-kb5043145-os-builds-22621-4249-and-22631-4249-preview-71ee16f6-9a39-4569-937c-fe0fd8577285",
+    "url": "https://support.microsoft.com/help/5043145"
+  },
+  "5041585": {
+    "date": "2024-08-13",
+    "uuid": "76655cde-e2ee-49d4-a415-cf9a4d3c3a04",
+    "slug": "august-13-2024-kb5041585-os-builds-22621-4037-and-22631-4037-76655cde-e2ee-49d4-a415-cf9a4d3c3a04",
+    "url": "https://support.microsoft.com/help/5041585"
+  },
+  "5043076": {
+    "date": "2024-09-10",
+    "uuid": "215aad1e-3f3f-44bd-9868-91a2bd450a07",
+    "slug": "september-10-2024-kb5043076-os-builds-22621-4169-and-22631-4169-215aad1e-3f3f-44bd-9868-91a2bd450a07",
+    "url": "https://support.microsoft.com/help/5043076"
+  },
+  "5044281": {
+    "date": "2024-10-08",
+    "uuid": "e063059c-9122-4324-86e8-4f6f3383a20a",
+    "slug": "october-8-2024-kb5044281-os-build-20348-2762-e063059c-9122-4324-86e8-4f6f3383a20a",
+    "url": "https://support.microsoft.com/help/5044281"
+  },
+  "5016627": {
+    "date": "2022-08-09",
+    "uuid": "ef67367f-fab3-4d0c-8e80-72ac5a66d7d9",
+    "slug": "august-9-2022-kb5016627-os-build-20348-887-ef67367f-fab3-4d0c-8e80-72ac5a66d7d9",
+    "url": "https://support.microsoft.com/help/5016627"
+  },
+  "5015879": {
+    "date": "2022-07-19",
+    "uuid": "be3951fb-2229-48f7-971c-830745931979",
+    "slug": "july-19-2022-kb5015879-os-build-20348-859-preview-be3951fb-2229-48f7-971c-830745931979",
+    "url": "https://support.microsoft.com/help/5015879"
+  },
+  "5015827": {
+    "date": "2022-07-12",
+    "uuid": "b115183f-66b8-4eea-a631-5255a39b5991",
+    "slug": "july-12-2022-kb5015827-os-build-20348-825-b115183f-66b8-4eea-a631-5255a39b5991",
+    "url": "https://support.microsoft.com/help/5015827"
+  },
+  "5014665": {
+    "date": "2022-06-23",
+    "uuid": "feebab2b-1851-4119-a531-89ca80300b10",
+    "slug": "june-23-2022-kb5014665-os-build-20348-803-preview-feebab2b-1851-4119-a531-89ca80300b10",
+    "url": "https://support.microsoft.com/help/5014665"
+  },
+  "5040434": {
+    "date": "2024-07-09",
+    "uuid": "40d1baef-65b4-467f-9bd9-729d369fcc4c",
+    "slug": "july-9-2024-kb5040434-os-build-14393-7159-40d1baef-65b4-467f-9bd9-729d369fcc4c",
+    "url": "https://support.microsoft.com/help/5040434"
+  },
+  "5044284": {
+    "date": "2024-10-08",
+    "uuid": "6baf4a06-9763-4d9b-ba8a-f25ba6ed477b",
+    "slug": "october-8-2024-kb5044284-os-build-26100-2033-6baf4a06-9763-4d9b-ba8a-f25ba6ed477b",
+    "url": "https://support.microsoft.com/help/5044284"
+  },
+  "5041587": {
+    "date": "2024-08-27",
+    "uuid": "9706ea0e-6f72-430e-b08a-878963dafe08",
+    "slug": "august-27-2024-kb5041587-os-builds-22621-4112-and-22631-4112-preview-9706ea0e-6f72-430e-b08a-878963dafe08",
+    "url": "https://support.microsoft.com/help/5041587"
+  },
+  "5040527": {
+    "date": "2024-07-25",
+    "uuid": "de3e1e24-0c07-4210-9777-8e03a1446bae",
+    "slug": "july-25-2024-kb5040527-os-builds-22621-3958-and-22631-3958-preview-de3e1e24-0c07-4210-9777-8e03a1446bae",
+    "url": "https://support.microsoft.com/help/5040527"
   }
 }
