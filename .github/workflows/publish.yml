@@ -11,16 +11,16 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
-      - name: Set up Python 3.12
-        uses: actions/setup-python@v4
+      - name: Set up Python 3.13
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: '3.13'
       - name: Install csvs-to-sqlite
-        run: pip install csvs-to-sqlite
+        run: pipx install sqlite-utils
       - name: Convert JSON to CSV
         run: jq -r '"kb,date,url,slug,uuid", keys[] as $k |  [$k]  + [  .[$k].date, .[$k].url, .[$k].slug, .[$k].uuid  ]|@csv' data.json > data.csv
       - name: Convert CSV to SQLite
-        run: csvs-to-sqlite --table data --date date data.csv data.db
+        run: sqlite-utils insert data.db data data.csv --csv
       - name: Create and push tag
         run: |
           TAG_NAME=v$(date +'%Y.%m.%d')
