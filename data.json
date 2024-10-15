@@ -21238,5 +21238,125 @@
     "uuid": "28a5446e-6389-4a5b-ae3f-e942a604f2d3",
     "slug": "april-11-2023-kb5025230-os-build-20348-1668-28a5446e-6389-4a5b-ae3f-e942a604f2d3",
     "url": "https://support.microsoft.com/help/5025230"
+  },
+  "3099406": {
+    "date": "2015-10-13",
+    "uuid": "d63ac00f-9682-e7f6-a6fb-fb1c0d67e96c",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-and-microsoft-edge-october-13-2015-d63ac00f-9682-e7f6-a6fb-fb1c0d67e96c",
+    "url": "https://support.microsoft.com/help/3099406"
+  },
+  "2987114": {
+    "date": "2014-09-09",
+    "uuid": "0be1b672-ca23-fcde-22ed-5c74f53ea801",
+    "slug": "microsoft-security-advisory-update-for-vulnerabilities-in-adobe-flash-player-in-internet-explorer-september-9-2014-0be1b672-ca23-fcde-22ed-5c74f53ea801",
+    "url": "https://support.microsoft.com/help/2987114"
+  },
+  "2566445": {
+    "date": "2010-09-13",
+    "uuid": "d610bd8e-1200-b98b-ad41-73096507a7da",
+    "slug": "ms11-074-description-of-the-security-update-for-sharepoint-workspace-2010-september-13-2011-d610bd8e-1200-b98b-ad41-73096507a7da",
+    "url": "https://support.microsoft.com/help/2566445"
+  },
+  "2566958": {
+    "date": "2011-09-13",
+    "uuid": "8b98520a-71a1-eef3-920a-1b93de308f1a",
+    "slug": "ms11-074-description-of-the-security-update-for-sharepoint-server-2010-ppsmamui-september-13-2011-8b98520a-71a1-eef3-920a-1b93de308f1a",
+    "url": "https://support.microsoft.com/help/2566958"
+  },
+  "2566960": {
+    "date": "2011-09-13",
+    "uuid": "2f415282-c980-93fe-3264-4fbac76d3482",
+    "slug": "ms11-074-description-of-the-security-update-for-sharepoint-server-2010-wosrv-september-13-2011-2f415282-c980-93fe-3264-4fbac76d3482",
+    "url": "https://support.microsoft.com/help/2566960"
+  },
+  "2596912": {
+    "date": "2007-12-13",
+    "uuid": "5cb92ef9-0452-0954-6d43-006aeed1e211",
+    "slug": "ms11-094-description-of-the-security-update-for-powerpoint-viewer-2007-december-13-2011-5cb92ef9-0452-0954-6d43-006aeed1e211",
+    "url": "https://support.microsoft.com/help/2596912"
+  },
+  "2598041": {
+    "date": "2012-04-10",
+    "uuid": "ef3aa0e1-7681-4314-53e2-38fa78ebd645",
+    "slug": "ms12-027-description-of-the-security-update-for-2007-microsoft-office-system-april-10-2012-ef3aa0e1-7681-4314-53e2-38fa78ebd645",
+    "url": "https://support.microsoft.com/help/2598041"
+  },
+  "2687417": {
+    "date": "2012-10-09",
+    "uuid": "1be83de1-68f6-b6c6-4964-00391e49fd68",
+    "slug": "ms12-066-description-of-the-security-update-for-infopath-2010-service-pack-1-october-9-2012-1be83de1-68f6-b6c6-4964-00391e49fd68",
+    "url": "https://support.microsoft.com/help/2687417"
+  },
+  "2769327": {
+    "date": "2013-01-08",
+    "uuid": "a3e29280-62bb-029b-db0f-8e477eb3f28f",
+    "slug": "ms13-007-vulnerability-in-open-data-protocol-could-allow-denial-of-service-january-8-2013-a3e29280-62bb-029b-db0f-8e477eb3f28f",
+    "url": "https://support.microsoft.com/help/2769327"
+  },
+  "2828223": {
+    "date": "2013-04-09",
+    "uuid": "a6095109-a637-44f1-015f-1e0b39ca6bb6",
+    "slug": "ms13-029-vulnerability-in-remote-desktop-client-could-allow-remote-code-execution-april-9-2013-a6095109-a637-44f1-015f-1e0b39ca6bb6",
+    "url": "https://support.microsoft.com/help/2828223"
+  },
+  "2817315": {
+    "date": "2013-09-10",
+    "uuid": "c596e253-119a-00b6-00d0-1e0c0d9c197a",
+    "slug": "ms13-067-description-of-the-security-update-for-sharepoint-foundation-2013-september-10-2013-c596e253-119a-00b6-00d0-1e0c0d9c197a",
+    "url": "https://support.microsoft.com/help/2817315"
+  },
+  "2878284": {
+    "date": "2014-05-13",
+    "uuid": "883bcb9b-4d96-84bc-909d-ca5a6fa2d308",
+    "slug": "ms14-023-description-of-the-security-update-for-office-2010-proofing-tools-may-13-2014-883bcb9b-4d96-84bc-909d-ca5a6fa2d308",
+    "url": "https://support.microsoft.com/help/2878284"
+  },
+  "2977202": {
+    "date": "2014-08-12",
+    "uuid": "b6ba0a96-0809-b67c-4c20-769153d5fba4",
+    "slug": "ms14-050-vulnerability-in-microsoft-sharepoint-server-could-allow-elevation-of-privilege-august-12-2014-b6ba0a96-0809-b67c-4c20-769153d5fba4",
+    "url": "https://support.microsoft.com/help/2977202"
+  },
+  "2977629": {
+    "date": "2014-09-09",
+    "uuid": "17d29b71-9e78-0bc1-8961-7b812d04e4e1",
+    "slug": "ms14-052-cumulative-security-update-for-internet-explorer-september-9-2014-17d29b71-9e78-0bc1-8961-7b812d04e4e1",
+    "url": "https://support.microsoft.com/help/2977629"
+  },
+  "5043064": {
+    "date": "2024-09-10",
+    "uuid": "cd14b547-a3f0-4b8f-b037-4ae3ce83a781",
+    "slug": "september-10-2024-kb5043064-os-builds-19044-4894-and-19045-4894-cd14b547-a3f0-4b8f-b037-4ae3ce83a781",
+    "url": "https://support.microsoft.com/help/5043064"
+  },
+  "5041582": {
+    "date": "2024-08-29",
+    "uuid": "f4c4d191-5457-475c-80ac-e1d43cf9c941",
+    "slug": "august-29-2024-kb5041582-os-build-19045-4842-preview-f4c4d191-5457-475c-80ac-e1d43cf9c941",
+    "url": "https://support.microsoft.com/help/5041582"
+  },
+  "5044273": {
+    "date": "2024-10-08",
+    "uuid": "a07551f8-e20d-4fd4-87f3-01145a3cd494",
+    "slug": "october-8-2024-kb5044273-os-builds-19044-5011-and-19045-5011-a07551f8-e20d-4fd4-87f3-01145a3cd494",
+    "url": "https://support.microsoft.com/help/5044273"
+  },
+  "4568831": {
+    "date": "2020-07-31",
+    "uuid": "4d221baf-2e19-373d-1ffc-cd1f21b5cf14",
+    "slug": "july-31-2020-kb4568831-os-build-19041-423-preview-4d221baf-2e19-373d-1ffc-cd1f21b5cf14",
+    "url": "https://support.microsoft.com/help/4568831"
+  },
+  "4032188": {
+    "date": "2017-07-31",
+    "uuid": "02cb88ec-51e7-aa4a-7e61-4de2bb36ad6a",
+    "slug": "july-31-2017-kb4032188-os-build-15063-502-02cb88ec-51e7-aa4a-7e61-4de2bb36ad6a",
+    "url": "https://support.microsoft.com/help/4032188"
+  },
+  "3176938": {
+    "date": "1607-08-31",
+    "uuid": "cda41762-b6cd-9a59-ab80-2d29298e5cbf",
+    "slug": "cumulative-update-for-windows-10-version-1607-august-31-2016-cda41762-b6cd-9a59-ab80-2d29298e5cbf",
+    "url": "https://support.microsoft.com/help/3176938"
   }
 }
