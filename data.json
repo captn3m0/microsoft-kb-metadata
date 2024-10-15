@@ -21358,5 +21358,107 @@
     "uuid": "cda41762-b6cd-9a59-ab80-2d29298e5cbf",
     "slug": "cumulative-update-for-windows-10-version-1607-august-31-2016-cda41762-b6cd-9a59-ab80-2d29298e5cbf",
     "url": "https://support.microsoft.com/help/3176938"
+  },
+  "2607664": {
+    "date": "2012-01-10",
+    "uuid": "4cc1cbad-a93e-58b7-b58e-f3a054f5e1a5",
+    "slug": "ms12-007-vulnerability-in-anti-xss-library-could-allow-information-disclosure-january-10-2012-4cc1cbad-a93e-58b7-b58e-f3a054f5e1a5",
+    "url": "https://support.microsoft.com/help/2607664"
+  },
+  "2597170": {
+    "date": "2010-02-14",
+    "uuid": "a03f6a45-2e4b-b969-335c-0d69929e5203",
+    "slug": "ms12-015-description-of-the-security-update-for-visio-viewer-2010-february-14-2012-a03f6a45-2e4b-b969-335c-0d69929e5203",
+    "url": "https://support.microsoft.com/help/2597170"
+  },
+  "2664258": {
+    "date": "2012-04-10",
+    "uuid": "e75d6f0c-90b8-ddc8-a656-9d0ff2f95604",
+    "slug": "ms12-027-vulnerability-in-mscomctl-ocx-could-allow-remote-code-execution-april-10-2012-e75d6f0c-90b8-ddc8-a656-9d0ff2f95604",
+    "url": "https://support.microsoft.com/help/2664258"
+  },
+  "2699988": {
+    "date": "2012-06-12",
+    "uuid": "7f7bcd19-04cd-7e8e-ecc0-49b053494e97",
+    "slug": "ms12-037-cumulative-security-update-for-internet-explorer-june-12-2012-7f7bcd19-04cd-7e8e-ecc0-49b053494e97",
+    "url": "https://support.microsoft.com/help/2699988"
+  },
+  "2706726": {
+    "date": "2012-06-12",
+    "uuid": "542e0110-55d7-58ce-5367-3140b5b5529a",
+    "slug": "ms12-038-vulnerability-in-the-net-framework-could-allow-remote-code-execution-june-12-2012-542e0110-55d7-58ce-5367-3140b5b5529a",
+    "url": "https://support.microsoft.com/help/2706726"
+  },
+  "2709100": {
+    "date": "2012-06-12",
+    "uuid": "dca29fe3-55a2-eadb-062e-141eeca4b2e5",
+    "slug": "ms12-040-vulnerability-in-dynamics-ax-enterprise-portal-could-allow-elevation-of-privilege-june-12-2012-dca29fe3-55a2-eadb-062e-141eeca4b2e5",
+    "url": "https://support.microsoft.com/help/2709100"
+  },
+  "2687501": {
+    "date": "2012-08-14",
+    "uuid": "2bedd952-9a04-dc5e-3381-573bb33495d0",
+    "slug": "ms12-057-description-of-the-security-update-for-office-2010-mso-august-14-2012-2bedd952-9a04-dc5e-3381-573bb33495d0",
+    "url": "https://support.microsoft.com/help/2687501"
+  },
+  "2856545": {
+    "date": "2013-07-09",
+    "uuid": "048c4dad-804d-f75b-b15c-3ccd7be4594e",
+    "slug": "ms13-054-description-of-the-security-update-for-visual-studio-net-2003-service-pack-1-july-9-2013-048c4dad-804d-f75b-b15c-3ccd7be4594e",
+    "url": "https://support.microsoft.com/help/2856545"
+  },
+  "2817474": {
+    "date": "2003-09-10",
+    "uuid": "d018f640-5440-d9cf-9eac-e364fbd6e912",
+    "slug": "ms13-072-description-of-the-security-update-for-office-2003-september-10-2013-d018f640-5440-d9cf-9eac-e364fbd6e912",
+    "url": "https://support.microsoft.com/help/2817474"
+  },
+  "2858300": {
+    "date": "2013-09-10",
+    "uuid": "cbfbe0b4-2110-8d9d-a503-a72e8c55a52d",
+    "slug": "ms13-073-vulnerabilities-in-microsoft-excel-could-allow-remote-code-execution-september-10-2013-cbfbe0b4-2110-8d9d-a503-a72e8c55a52d",
+    "url": "https://support.microsoft.com/help/2858300"
+  },
+  "2853587": {
+    "date": "2013-09-10",
+    "uuid": "70d9f810-e903-629f-6a18-31c804e0ed9d",
+    "slug": "ms13-079-vulnerability-in-active-directory-could-allow-denial-of-service-september-10-2013-70d9f810-e903-629f-6a18-31c804e0ed9d",
+    "url": "https://support.microsoft.com/help/2853587"
+  },
+  "2884256": {
+    "date": "2013-10-08",
+    "uuid": "da1142d5-0baa-4b55-346f-eca245b79b56",
+    "slug": "ms13-081-description-of-the-security-update-for-usb-drivers-october-8-2013-da1142d5-0baa-4b55-346f-eca245b79b56",
+    "url": "https://support.microsoft.com/help/2884256"
+  },
+  "2863926": {
+    "date": "2014-04-08",
+    "uuid": "ea321115-f2ab-3850-acbe-3a5a2c2c2931",
+    "slug": "ms14-017-description-of-the-security-update-for-word-2010-service-pack-1-and-service-pack-2-april-8-2014-ea321115-f2ab-3850-acbe-3a5a2c2c2931",
+    "url": "https://support.microsoft.com/help/2863926"
+  },
+  "2962485": {
+    "date": "2014-05-13",
+    "uuid": "afd20381-6ea2-5db1-2025-c3f003844ba2",
+    "slug": "ms14-028-vulnerabilities-in-iscsi-could-allow-denial-of-service-may-13-2014-afd20381-6ea2-5db1-2025-c3f003844ba2",
+    "url": "https://support.microsoft.com/help/2962485"
+  },
+  "2962073": {
+    "date": "2014-05-13",
+    "uuid": "10ebd732-c717-8b8a-7faf-1351aafc9720",
+    "slug": "ms14-028-description-of-the-security-update-for-iscsi-for-systems-that-do-not-have-update-2919355-installed-may-13-2014-10ebd732-c717-8b8a-7faf-1351aafc9720",
+    "url": "https://support.microsoft.com/help/2962073"
+  },
+  "3022777": {
+    "date": "2015-01-13",
+    "uuid": "5a2f60a5-f721-4e2c-2a52-c4a8dd4c3b95",
+    "slug": "ms15-005-vulnerability-in-network-location-awareness-service-could-allow-security-feature-bypass-january-13-2015-5a2f60a5-f721-4e2c-2a52-c4a8dd4c3b95",
+    "url": "https://support.microsoft.com/help/3022777"
+  },
+  "3038680": {
+    "date": "2015-03-10",
+    "uuid": "86e9df56-d1bb-55d0-4bac-ea63fa2558bf",
+    "slug": "ms15-025-vulnerabilities-in-windows-kernel-could-allow-elevation-of-privilege-march-10-2015-86e9df56-d1bb-55d0-4bac-ea63fa2558bf",
+    "url": "https://support.microsoft.com/help/3038680"
   }
 }
