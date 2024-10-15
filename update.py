@@ -30,7 +30,7 @@ def parse_redirect(kb_id, slug):
                 d = 1
             else:
                 return None
-        if d>30:
+        if d>31:
             return None
         date_s = f"{d} {m.group('month').title()} {y}"
         date = datetime.datetime.strptime(date_s, "%d %B %Y").strftime("%Y-%m-%d")
