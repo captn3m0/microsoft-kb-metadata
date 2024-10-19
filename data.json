@@ -21460,5 +21460,65 @@
     "uuid": "86e9df56-d1bb-55d0-4bac-ea63fa2558bf",
     "slug": "ms15-025-vulnerabilities-in-windows-kernel-could-allow-elevation-of-privilege-march-10-2015-86e9df56-d1bb-55d0-4bac-ea63fa2558bf",
     "url": "https://support.microsoft.com/help/3038680"
+  },
+  "2889936": {
+    "date": "2014-11-11",
+    "uuid": "4a633711-4993-5aaa-95b2-eb21d3c79479",
+    "slug": "november-11-2014-update-for-powerpoint-2013-kb2889936-4a633711-4993-5aaa-95b2-eb21d3c79479",
+    "url": "https://support.microsoft.com/help/2889936"
+  },
+  "3017301": {
+    "date": "2014-12-09",
+    "uuid": "3d9ad9f7-af59-ea8b-35cb-2f1357784344",
+    "slug": "ms14-081-vulnerabilities-in-microsoft-word-and-office-web-apps-could-allow-remote-code-execution-december-9-2014-3d9ad9f7-af59-ea8b-35cb-2f1357784344",
+    "url": "https://support.microsoft.com/help/3017301"
+  },
+  "3014029": {
+    "date": "2015-01-13",
+    "uuid": "7a90d923-7a4f-f1a6-629a-93c38f823918",
+    "slug": "ms15-007-vulnerability-in-network-policy-server-radius-implementation-could-cause-denial-of-service-january-13-2015-7a90d923-7a4f-f1a6-629a-93c38f823918",
+    "url": "https://support.microsoft.com/help/3014029"
+  },
+  "3033857": {
+    "date": "2015-02-10",
+    "uuid": "5209180a-3901-e36b-28a3-310e9723e9df",
+    "slug": "ms15-013-vulnerability-in-microsoft-office-could-allow-security-bypass-february-10-2015-5209180a-3901-e36b-28a3-310e9723e9df",
+    "url": "https://support.microsoft.com/help/3033857"
+  },
+  "3035898": {
+    "date": "2015-02-10",
+    "uuid": "f421f2f1-d854-fe5e-4d48-995a911e2306",
+    "slug": "ms15-017-vulnerability-in-virtual-machine-manager-could-allow-elevation-of-privilege-february-10-2015-f421f2f1-d854-fe5e-4d48-995a911e2306",
+    "url": "https://support.microsoft.com/help/3035898"
+  },
+  "3142019": {
+    "date": "2016-03-08",
+    "uuid": "32404e61-cbaf-8ac6-d40f-f30df9450cfe",
+    "slug": "ms16-024-cumulative-security-update-for-microsoft-edge-march-8-2016-32404e61-cbaf-8ac6-d40f-f30df9450cfe",
+    "url": "https://support.microsoft.com/help/3142019"
+  },
+  "3204062": {
+    "date": "2016-12-13",
+    "uuid": "47edc777-4c9f-755e-438a-e14ac1f4cf35",
+    "slug": "ms16-145-cumulative-security-update-for-microsoft-edge-december-13-2016-47edc777-4c9f-755e-438a-e14ac1f4cf35",
+    "url": "https://support.microsoft.com/help/3204062"
+  },
+  "3204063": {
+    "date": "2016-12-13",
+    "uuid": "a35b1c43-8232-6b78-084b-23f8834657e0",
+    "slug": "ms16-147-security-update-for-microsoft-uniscribe-december-13-2016-a35b1c43-8232-6b78-084b-23f8834657e0",
+    "url": "https://support.microsoft.com/help/3204063"
+  },
+  "3205642": {
+    "date": "2016-12-13",
+    "uuid": "de2c15b8-0acf-e0a4-17de-f1d9cd861d80",
+    "slug": "ms16-150-security-update-for-secure-kernel-mode-december-13-2016-de2c15b8-0acf-e0a4-17de-f1d9cd861d80",
+    "url": "https://support.microsoft.com/help/3205642"
+  },
+  "4014329": {
+    "date": "2017-03-14",
+    "uuid": "182c612b-bac0-320e-b768-75293277db09",
+    "slug": "ms17-023-security-update-for-adobe-flash-player-march-14-2017-182c612b-bac0-320e-b768-75293277db09",
+    "url": "https://support.microsoft.com/help/4014329"
   }
 }
