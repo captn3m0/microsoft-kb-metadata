@@ -21520,5 +21520,215 @@
     "uuid": "182c612b-bac0-320e-b768-75293277db09",
     "slug": "ms17-023-security-update-for-adobe-flash-player-march-14-2017-182c612b-bac0-320e-b768-75293277db09",
     "url": "https://support.microsoft.com/help/4014329"
+  },
+  "2655547": {
+    "date": "2009-04-10",
+    "uuid": "2bf72e3b-b778-12f3-8096-6829f9e8c112",
+    "slug": "ms12-027-description-of-the-security-update-for-microsoft-commerce-server-2009-april-10-2012-2bf72e3b-b778-12f3-8096-6829f9e8c112",
+    "url": "https://support.microsoft.com/help/2655547"
+  },
+  "2597981": {
+    "date": "2012-05-08",
+    "uuid": "facbbc49-f3ed-5951-a7ed-588f091bc96b",
+    "slug": "ms12-031-vulnerability-in-microsoft-visio-2010-viewer-could-allow-remote-code-execution-may-8-2012-facbbc49-f3ed-5951-a7ed-588f091bc96b",
+    "url": "https://support.microsoft.com/help/2597981"
+  },
+  "2693283": {
+    "date": "2012-06-12",
+    "uuid": "720407d9-81df-2acc-ec58-8ec5c2ae0ca8",
+    "slug": "ms12-039-description-of-the-security-update-for-lync-2010-attendee-user-level-install-june-12-2012-720407d9-81df-2acc-ec58-8ec5c2ae0ca8",
+    "url": "https://support.microsoft.com/help/2693283"
+  },
+  "2710639": {
+    "date": "2012-06-12",
+    "uuid": "de2fe275-3a29-8ac3-7722-49a2d3894df8",
+    "slug": "ms12-040-description-of-the-security-update-for-dynamics-ax-2012-enterprise-portal-june-12-2012-de2fe275-3a29-8ac3-7722-49a2d3894df8",
+    "url": "https://support.microsoft.com/help/2710639"
+  },
+  "2801261": {
+    "date": "2013-03-12",
+    "uuid": "266eab33-116f-d3cb-8dff-f3aed6acbfb8",
+    "slug": "ms13-023-vulnerability-in-microsoft-visio-2010-viewer-could-allow-remote-code-execution-march-12-2013-266eab33-116f-d3cb-8dff-f3aed6acbfb8",
+    "url": "https://support.microsoft.com/help/2801261"
+  },
+  "2760600": {
+    "date": "2013-03-12",
+    "uuid": "c342a522-ff95-aecd-0f86-2dfd373ee51f",
+    "slug": "ms13-025-description-of-the-security-update-for-microsoft-onenote-march-12-2013-c342a522-ff95-aecd-0f86-2dfd373ee51f",
+    "url": "https://support.microsoft.com/help/2760600"
+  },
+  "2914058": {
+    "date": "2014-01-14",
+    "uuid": "e8cfb833-22b2-e226-8db6-5ddf9a1b464c",
+    "slug": "ms14-004-description-of-the-security-update-for-microsoft-dynamics-ax-2009-sp1-january-14-2014-e8cfb833-22b2-e226-8db6-5ddf9a1b464c",
+    "url": "https://support.microsoft.com/help/2914058"
+  },
+  "2837598": {
+    "date": "2014-05-13",
+    "uuid": "7333fd8a-d12a-1dd9-3598-d71fa3497aae",
+    "slug": "ms14-022-description-of-the-security-update-for-sharepoint-server-2010-coreserver-may-13-2014-7333fd8a-d12a-1dd9-3598-d71fa3497aae",
+    "url": "https://support.microsoft.com/help/2837598"
+  },
+  "2965788": {
+    "date": "2014-06-10",
+    "uuid": "372c4e5a-8aa3-47f3-97cb-7e8b1512ddfd",
+    "slug": "ms14-030-description-of-the-security-update-for-remote-desktop-security-release-for-windows-june-10-2014-372c4e5a-8aa3-47f3-97cb-7e8b1512ddfd",
+    "url": "https://support.microsoft.com/help/2965788"
+  },
+  "2962478": {
+    "date": "2014-06-10",
+    "uuid": "6e8d7961-3602-2e8b-0115-b628bd0ed463",
+    "slug": "ms14-031-vulnerability-in-tcp-protocol-could-allow-denial-of-service-june-10-2014-6e8d7961-3602-2e8b-0115-b628bd0ed463",
+    "url": "https://support.microsoft.com/help/2962478"
+  },
+  "3009712": {
+    "date": "2014-12-09",
+    "uuid": "6227602d-254d-429b-20d7-44c43fc86b74",
+    "slug": "ms14-075-vulnerabilities-in-microsoft-exchange-server-could-allow-elevation-of-privilege-december-9-2014-6227602d-254d-429b-20d7-44c43fc86b74",
+    "url": "https://support.microsoft.com/help/3009712"
+  },
+  "3004365": {
+    "date": "2015-01-13",
+    "uuid": "e7cf3763-a371-0cc0-ce0c-3c83dfd864b0",
+    "slug": "ms15-006-vulnerability-in-windows-error-reporting-could-allow-security-feature-bypass-january-13-2015-e7cf3763-a371-0cc0-ce0c-3c83dfd864b0",
+    "url": "https://support.microsoft.com/help/3004365"
+  },
+  "3143145": {
+    "date": "2016-03-08",
+    "uuid": "254a9b42-7174-ff9e-d28e-e19676c8854f",
+    "slug": "ms16-034-security-update-for-windows-kernel-mode-drivers-to-address-elevation-of-privilege-march-8-2016-254a9b42-7174-ff9e-d28e-e19676c8854f",
+    "url": "https://support.microsoft.com/help/3143145"
+  },
+  "3101246": {
+    "date": "2015-11-10",
+    "uuid": "d2e80a23-2e28-05ea-10c2-9094b3531d49",
+    "slug": "ms15-122-description-of-the-security-update-for-windows-kerberos-november-10-2015-d2e80a23-2e28-05ea-10c2-9094b3531d49",
+    "url": "https://support.microsoft.com/help/3101246"
+  },
+  "5043131": {
+    "date": "2024-09-24",
+    "uuid": "2d4a5c54-ac58-4bdb-8685-57d578650e5f",
+    "slug": "september-24-2024-kb5043131-os-build-19045-4957-preview-2d4a5c54-ac58-4bdb-8685-57d578650e5f",
+    "url": "https://support.microsoft.com/help/5043131"
+  },
+  "4058258": {
+    "date": "2018-01-31",
+    "uuid": "49747260-0bb0-24d2-c9cf-e6ccd513946d",
+    "slug": "january-31-2018-kb4058258-os-build-16299-214-49747260-0bb0-24d2-c9cf-e6ccd513946d",
+    "url": "https://support.microsoft.com/help/4058258"
+  },
+  "5044286": {
+    "date": "2024-10-08",
+    "uuid": "b7e8f433-a2f4-48bf-b50c-52601920172e",
+    "slug": "october-8-2024-kb5044286-os-build-10240-20796-b7e8f433-a2f4-48bf-b50c-52601920172e",
+    "url": "https://support.microsoft.com/help/5044286"
+  },
+  "5040448": {
+    "date": "2024-07-09",
+    "uuid": "b0358c81-9036-4452-84aa-e08e040d012b",
+    "slug": "july-9-2024-kb5040448-os-build-10240-20710-b0358c81-9036-4452-84aa-e08e040d012b",
+    "url": "https://support.microsoft.com/help/5040448"
+  },
+  "4077735": {
+    "date": "2018-01-31",
+    "uuid": "e23d279f-60ed-04ff-4b80-238da0a3eb42",
+    "slug": "january-31-2018-kb4077735-os-build-10240-17741-e23d279f-60ed-04ff-4b80-238da0a3eb42",
+    "url": "https://support.microsoft.com/help/4077735"
+  },
+  "5034510": {
+    "date": "2023-12-01",
+    "uuid": "b3197f24-fd25-430d-96d2-70f2044ce6a1",
+    "slug": "kb5034510-microsoft-printer-metadata-troubleshooter-tool-december-2023-b3197f24-fd25-430d-96d2-70f2044ce6a1",
+    "url": "https://support.microsoft.com/help/5034510"
+  },
+  "5011329": {
+    "date": "2022-02-07",
+    "uuid": "f2292492-756d-4e83-be4c-59453c5b90ea",
+    "slug": "february-7-2022-kb5011329-update-for-net-framework-4-7-2-for-windows-10-version-1607-and-server-2016-f2292492-756d-4e83-be4c-59453c5b90ea",
+    "url": "https://support.microsoft.com/help/5011329"
+  },
+  "5037782": {
+    "date": "2024-05-14",
+    "uuid": "e4109269-b248-49cc-84fb-c2d0e2c86b36",
+    "slug": "may-14-2024-kb5037782-os-build-20348-2461-e4109269-b248-49cc-84fb-c2d0e2c86b36",
+    "url": "https://support.microsoft.com/help/5037782"
+  },
+  "5035857": {
+    "date": "2024-03-12",
+    "uuid": "a7953024-bae2-4b1a-8fc1-74a17c68203c",
+    "slug": "march-12-2024-kb5035857-os-build-20348-2340-a7953024-bae2-4b1a-8fc1-74a17c68203c",
+    "url": "https://support.microsoft.com/help/5035857"
+  },
+  "5034770": {
+    "date": "2024-02-13",
+    "uuid": "6ac88bee-2b14-44c3-b8b4-b185259a27f5",
+    "slug": "february-13-2024-kb5034770-os-build-20348-2322-6ac88bee-2b14-44c3-b8b4-b185259a27f5",
+    "url": "https://support.microsoft.com/help/5034770"
+  },
+  "5034129": {
+    "date": "2024-01-09",
+    "uuid": "6958a36f-efaf-4ef5-a576-c5931072a89a",
+    "slug": "january-9-2024-kb5034129-os-build-20348-2227-6958a36f-efaf-4ef5-a576-c5931072a89a",
+    "url": "https://support.microsoft.com/help/5034129"
+  },
+  "5033118": {
+    "date": "2023-12-12",
+    "uuid": "0f37ecad-fb53-4209-a05b-5e2cd0feeb98",
+    "slug": "december-12-2023-kb5033118-os-build-20348-2159-0f37ecad-fb53-4209-a05b-5e2cd0feeb98",
+    "url": "https://support.microsoft.com/help/5033118"
+  },
+  "5023705": {
+    "date": "2023-03-14",
+    "uuid": "31770c64-430e-4b0e-8eb4-175980e29f3b",
+    "slug": "march-14-2023-kb5023705-os-build-20348-1607-31770c64-430e-4b0e-8eb4-175980e29f3b",
+    "url": "https://support.microsoft.com/help/5023705"
+  },
+  "5022842": {
+    "date": "2023-02-14",
+    "uuid": "be155955-29f7-47c4-855c-34bd43895940",
+    "slug": "february-14-2023-kb5022842-os-build-20348-1547-be155955-29f7-47c4-855c-34bd43895940",
+    "url": "https://support.microsoft.com/help/5022842"
+  },
+  "5022291": {
+    "date": "2023-01-10",
+    "uuid": "38772acf-103f-463e-9d60-486174e806b2",
+    "slug": "january-10-2023-kb5022291-os-build-20348-1487-38772acf-103f-463e-9d60-486174e806b2",
+    "url": "https://support.microsoft.com/help/5022291"
+  },
+  "5022553": {
+    "date": "2022-12-20",
+    "uuid": "6df4acd7-a5c4-4a49-8685-2d82cfd82ebf",
+    "slug": "december-20-2022-kb5022553-os-build-20348-1368-out-of-band-6df4acd7-a5c4-4a49-8685-2d82cfd82ebf",
+    "url": "https://support.microsoft.com/help/5022553"
+  },
+  "5021249": {
+    "date": "2022-12-13",
+    "uuid": "d5fe7608-bc9d-4055-a88c-fb2fd3d5fd45",
+    "slug": "december-13-2022-kb5021249-os-build-20348-1366-d5fe7608-bc9d-4055-a88c-fb2fd3d5fd45",
+    "url": "https://support.microsoft.com/help/5021249"
+  },
+  "5021656": {
+    "date": "2022-11-17",
+    "uuid": "b165e8dd-cc02-4912-9cfa-a6b2b1016c37",
+    "slug": "november-17-2022-kb5021656-os-build-20348-1251-out-of-band-b165e8dd-cc02-4912-9cfa-a6b2b1016c37",
+    "url": "https://support.microsoft.com/help/5021656"
+  },
+  "5019081": {
+    "date": "2022-11-08",
+    "uuid": "14345324-e5d1-4710-a364-76d69d7aaa7c",
+    "slug": "november-8-2022-kb5019081-os-build-20348-1249-14345324-e5d1-4710-a364-76d69d7aaa7c",
+    "url": "https://support.microsoft.com/help/5019081"
+  },
+  "5018485": {
+    "date": "2022-10-25",
+    "uuid": "becf7d1a-9482-4d56-955d-097e35b992a4",
+    "slug": "october-25-2022-kb5018485-os-build-20348-1194-preview-becf7d1a-9482-4d56-955d-097e35b992a4",
+    "url": "https://support.microsoft.com/help/5018485"
+  },
+  "5020436": {
+    "date": "2022-10-17",
+    "uuid": "18baa25a-5fc0-4118-9b89-ddbe9819e578",
+    "slug": "october-17-2022-kb5020436-os-build-20348-1131-out-of-band-18baa25a-5fc0-4118-9b89-ddbe9819e578",
+    "url": "https://support.microsoft.com/help/5020436"
   }
 }
