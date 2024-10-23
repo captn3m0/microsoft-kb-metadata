@@ -21730,5 +21730,29 @@
     "uuid": "18baa25a-5fc0-4118-9b89-ddbe9819e578",
     "slug": "october-17-2022-kb5020436-os-build-20348-1131-out-of-band-18baa25a-5fc0-4118-9b89-ddbe9819e578",
     "url": "https://support.microsoft.com/help/5020436"
+  },
+  "3032328": {
+    "date": "2015-02-10",
+    "uuid": "64e222f8-e43a-4a05-0dd6-b8d75dc062df",
+    "slug": "ms15-012-vulnerabilities-in-microsoft-office-could-allow-remote-code-execution-february-10-2015-64e222f8-e43a-4a05-0dd6-b8d75dc062df",
+    "url": "https://support.microsoft.com/help/3032328"
+  },
+  "5045594": {
+    "date": "2024-10-22",
+    "uuid": "f307a4b0-f62d-4c28-9062-44207aea55c3",
+    "slug": "october-22-2024-kb5045594-os-build-19045-5073-preview-f307a4b0-f62d-4c28-9062-44207aea55c3",
+    "url": "https://support.microsoft.com/help/5045594"
+  },
+  "5034912": {
+    "date": "2023-11-30",
+    "uuid": "2705a0bf-61e0-4c6d-aca4-da1ee3f1d673",
+    "slug": "kb5034912-sysprep-error-0x80073cf2-after-installing-the-november-30-2023-update-or-later-for-windows-10-version-22h2-2705a0bf-61e0-4c6d-aca4-da1ee3f1d673",
+    "url": "https://support.microsoft.com/help/5034912"
+  },
+  "5044380": {
+    "date": "2024-10-22",
+    "uuid": "9a8db86a-815d-470a-be95-1aa2ad1feb05",
+    "slug": "october-22-2024-kb5044380-os-builds-22621-4391-and-22631-4391-preview-9a8db86a-815d-470a-be95-1aa2ad1feb05",
+    "url": "https://support.microsoft.com/help/5044380"
   }
 }
