@@ -21754,5 +21754,53 @@
     "uuid": "9a8db86a-815d-470a-be95-1aa2ad1feb05",
     "slug": "october-22-2024-kb5044380-os-builds-22621-4391-and-22631-4391-preview-9a8db86a-815d-470a-be95-1aa2ad1feb05",
     "url": "https://support.microsoft.com/help/5044380"
+  },
+  "2870008": {
+    "date": "2013-10-08",
+    "uuid": "6750a944-96f1-e3cb-5363-aba04722eb51",
+    "slug": "ms13-081-vulnerabilities-in-windows-kernel-mode-drivers-could-allow-remote-code-execution-october-8-2013-6750a944-96f1-e3cb-5363-aba04722eb51",
+    "url": "https://support.microsoft.com/help/2870008"
+  },
+  "2934418": {
+    "date": "2014-03-11",
+    "uuid": "e74dacce-de82-29da-5201-5a04525410d4",
+    "slug": "ms14-016-vulnerability-in-security-account-manager-remote-samr-protocol-could-allow-security-feature-bypass-march-11-2014-e74dacce-de82-29da-5201-5a04525410d4",
+    "url": "https://support.microsoft.com/help/2934418"
+  },
+  "2863907": {
+    "date": "2013-04-08",
+    "uuid": "c319d4b9-2def-4a57-a01b-508595036f96",
+    "slug": "ms14-017-description-of-the-security-update-for-word-automation-services-in-microsoft-sharepoint-server-2013-april-8-2014-c319d4b9-2def-4a57-a01b-508595036f96",
+    "url": "https://support.microsoft.com/help/2863907"
+  },
+  "2975685": {
+    "date": "2014-07-08",
+    "uuid": "746cd3df-a650-e556-df7d-2fb47ae8deae",
+    "slug": "ms14-039-vulnerability-in-the-on-screen-keyboard-could-allow-elevation-of-privilege-july-8-2014-746cd3df-a650-e556-df7d-2fb47ae8deae",
+    "url": "https://support.microsoft.com/help/2975685"
+  },
+  "2975681": {
+    "date": "2014-07-08",
+    "uuid": "d5a4b21a-88f4-3011-6e15-c148b3740581",
+    "slug": "ms14-041-vulnerability-in-directshow-could-allow-elevation-of-privilege-july-8-2014-d5a4b21a-88f4-3011-6e15-c148b3740581",
+    "url": "https://support.microsoft.com/help/2975681"
+  },
+  "3004361": {
+    "date": "2015-02-10",
+    "uuid": "5223a481-bf73-6a6c-46da-d1d7088a2e2f",
+    "slug": "ms15-014-vulnerability-in-group-policy-could-allow-security-feature-bypass-february-10-2015-5223a481-bf73-6a6c-46da-d1d7088a2e2f",
+    "url": "https://support.microsoft.com/help/3004361"
+  },
+  "3201860": {
+    "date": "2016-10-27",
+    "uuid": "8a63d75b-99ba-2223-0e83-15d4ca2bffb2",
+    "slug": "ms16-128-security-update-for-adobe-flash-player-october-27-2016-8a63d75b-99ba-2223-0e83-15d4ca2bffb2",
+    "url": "https://support.microsoft.com/help/3201860"
+  },
+  "3199135": {
+    "date": "2016-11-08",
+    "uuid": "a0f826a9-1ffd-4566-1ceb-0e0aa7730a7e",
+    "slug": "ms16-135-security-update-for-windows-kernel-mode-drivers-november-8-2016-a0f826a9-1ffd-4566-1ceb-0e0aa7730a7e",
+    "url": "https://support.microsoft.com/help/3199135"
   }
 }
