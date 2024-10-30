@@ -21802,5 +21802,11 @@
     "uuid": "a0f826a9-1ffd-4566-1ceb-0e0aa7730a7e",
     "slug": "ms16-135-security-update-for-windows-kernel-mode-drivers-november-8-2016-a0f826a9-1ffd-4566-1ceb-0e0aa7730a7e",
     "url": "https://support.microsoft.com/help/3199135"
+  },
+  "973675": {
+    "date": "2009-08-11",
+    "uuid": "c94c7e04-cfac-aaf4-afa6-33ca91b549c9",
+    "slug": "ms09-035-description-of-the-atl-for-smart-devices-security-update-for-visual-studio-2008-service-pack-1-august-11-2009-c94c7e04-cfac-aaf4-afa6-33ca91b549c9",
+    "url": "https://support.microsoft.com/help/973675"
   }
 }
