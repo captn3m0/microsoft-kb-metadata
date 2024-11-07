@@ -21808,5 +21808,11 @@
     "uuid": "c94c7e04-cfac-aaf4-afa6-33ca91b549c9",
     "slug": "ms09-035-description-of-the-atl-for-smart-devices-security-update-for-visual-studio-2008-service-pack-1-august-11-2009-c94c7e04-cfac-aaf4-afa6-33ca91b549c9",
     "url": "https://support.microsoft.com/help/973675"
+  },
+  "5044384": {
+    "date": "2024-10-24",
+    "uuid": "5a4ac390-7c7b-4f7f-81c2-c2b329ac86ab",
+    "slug": "october-24-2024-kb5044384-os-build-26100-2161-preview-5a4ac390-7c7b-4f7f-81c2-c2b329ac86ab",
+    "url": "https://support.microsoft.com/help/5044384"
   }
 }
