@@ -21814,5 +21814,11 @@
     "uuid": "5a4ac390-7c7b-4f7f-81c2-c2b329ac86ab",
     "slug": "october-24-2024-kb5044384-os-build-26100-2161-preview-5a4ac390-7c7b-4f7f-81c2-c2b329ac86ab",
     "url": "https://support.microsoft.com/help/5044384"
+  },
+  "2962490": {
+    "date": "2014-08-12",
+    "uuid": "4456fd5e-e66e-383b-c9b2-825e0293f20d",
+    "slug": "ms14-049-vulnerability-in-windows-installer-service-could-allow-elevation-of-privilege-august-12-2014-4456fd5e-e66e-383b-c9b2-825e0293f20d",
+    "url": "https://support.microsoft.com/help/2962490"
   }
 }
