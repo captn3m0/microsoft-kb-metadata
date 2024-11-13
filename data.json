@@ -21820,5 +21820,125 @@
     "uuid": "4456fd5e-e66e-383b-c9b2-825e0293f20d",
     "slug": "ms14-049-vulnerability-in-windows-installer-service-could-allow-elevation-of-privilege-august-12-2014-4456fd5e-e66e-383b-c9b2-825e0293f20d",
     "url": "https://support.microsoft.com/help/2962490"
+  },
+  "5044062": {
+    "date": "2016-11-12",
+    "uuid": "a76c849c-b096-4e0c-a267-bf43964d679a",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-2019-and-2016-november-12-2024-kb5044062-a76c849c-b096-4e0c-a267-bf43964d679a",
+    "url": "https://support.microsoft.com/help/5044062"
+  },
+  "5002653": {
+    "date": "2016-11-12",
+    "uuid": "189190cb-3ae5-47ac-b85a-ca9815cff793",
+    "slug": "description-of-the-security-update-for-excel-2016-november-12-2024-kb5002653-189190cb-3ae5-47ac-b85a-ca9815cff793",
+    "url": "https://support.microsoft.com/help/5002653"
+  },
+  "5002642": {
+    "date": "2016-11-12",
+    "uuid": "f06c0fce-f64e-465f-820c-50d8018a04b1",
+    "slug": "description-of-the-security-update-for-office-2016-november-12-2024-kb5002642-f06c0fce-f64e-465f-820c-50d8018a04b1",
+    "url": "https://support.microsoft.com/help/5002642"
+  },
+  "5002619": {
+    "date": "2016-11-12",
+    "uuid": "78ee540f-5cfa-4ae4-85be-a23c863850de",
+    "slug": "description-of-the-security-update-for-word-2016-november-12-2024-kb5002619-78ee540f-5cfa-4ae4-85be-a23c863850de",
+    "url": "https://support.microsoft.com/help/5002619"
+  },
+  "5048077": {
+    "date": "2024-11-01",
+    "uuid": "03c5e8e8-cfe1-4c58-ab7a-af12a14363dd",
+    "slug": "november-2024-updates-for-microsoft-office-03c5e8e8-cfe1-4c58-ab7a-af12a14363dd",
+    "url": "https://support.microsoft.com/help/5048077"
+  },
+  "5002651": {
+    "date": "2024-11-12",
+    "uuid": "0e3d5086-13f2-4bc2-b42b-88d45a9377c3",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-november-12-2024-kb5002651-0e3d5086-13f2-4bc2-b42b-88d45a9377c3",
+    "url": "https://support.microsoft.com/help/5002651"
+  },
+  "5002650": {
+    "date": "2019-11-12",
+    "uuid": "e2038c32-71c5-4ecc-be06-f40a6feb7e83",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-november-12-2024-kb5002650-e2038c32-71c5-4ecc-be06-f40a6feb7e83",
+    "url": "https://support.microsoft.com/help/5002650"
+  },
+  "5002654": {
+    "date": "2016-11-12",
+    "uuid": "1b460888-c421-4ab4-b648-5016bda84645",
+    "slug": "description-of-the-security-update-for-sharepoint-enterprise-server-2016-november-12-2024-kb5002654-1b460888-c421-4ab4-b648-5016bda84645",
+    "url": "https://support.microsoft.com/help/5002654"
+  },
+  "5046862": {
+    "date": "2024-11-12",
+    "uuid": "ab9f3a55-8264-44e9-9a40-0b32bcd83df0",
+    "slug": "kb5046862-description-of-the-security-update-for-sql-server-2022-cu15-november-12-2024-ab9f3a55-8264-44e9-9a40-0b32bcd83df0",
+    "url": "https://support.microsoft.com/help/5046862"
+  },
+  "5046861": {
+    "date": "2024-11-12",
+    "uuid": "e9490a7b-1ca6-48a5-b842-6cf1ad479d75",
+    "slug": "kb5046861-description-of-the-security-update-for-sql-server-2022-gdr-november-12-2024-e9490a7b-1ca6-48a5-b842-6cf1ad479d75",
+    "url": "https://support.microsoft.com/help/5046861"
+  },
+  "5046859": {
+    "date": "2024-11-12",
+    "uuid": "0fb4450f-5542-410f-9eae-298109ed6268",
+    "slug": "kb5046859-description-of-the-security-update-for-sql-server-2019-gdr-november-12-2024-0fb4450f-5542-410f-9eae-298109ed6268",
+    "url": "https://support.microsoft.com/help/5046859"
+  },
+  "5046860": {
+    "date": "2024-11-12",
+    "uuid": "4bddde28-482c-4628-a6e2-2d4f542088b7",
+    "slug": "kb5046860-description-of-the-security-update-for-sql-server-2019-cu29-november-12-2024-4bddde28-482c-4628-a6e2-2d4f542088b7",
+    "url": "https://support.microsoft.com/help/5046860"
+  },
+  "5046858": {
+    "date": "2024-11-12",
+    "uuid": "2984d3a5-0683-4f9b-9e6a-3888e67bd859",
+    "slug": "kb5046858-description-of-the-security-update-for-sql-server-2017-cu31-november-12-2024-2984d3a5-0683-4f9b-9e6a-3888e67bd859",
+    "url": "https://support.microsoft.com/help/5046858"
+  },
+  "5046856": {
+    "date": "2024-11-12",
+    "uuid": "b180cac0-187e-48eb-b6c6-3d48d0a00902",
+    "slug": "kb5046856-description-of-the-security-update-for-sql-server-2016-sp3-azure-connect-feature-pack-november-12-2024-b180cac0-187e-48eb-b6c6-3d48d0a00902",
+    "url": "https://support.microsoft.com/help/5046856"
+  },
+  "5046855": {
+    "date": "2024-11-12",
+    "uuid": "736b0a32-912d-4ea5-baf8-50d046cbfa1a",
+    "slug": "kb5046855-description-of-the-security-update-for-sql-server-2016-sp3-gdr-november-12-2024-736b0a32-912d-4ea5-baf8-50d046cbfa1a",
+    "url": "https://support.microsoft.com/help/5046855"
+  },
+  "5046613": {
+    "date": "2024-11-12",
+    "uuid": "44e6c27e-e188-4dd5-8ad2-edde2e235c01",
+    "slug": "november-12-2024-kb5046613-os-builds-19044-5131-and-19045-5131-44e6c27e-e188-4dd5-8ad2-edde2e235c01",
+    "url": "https://support.microsoft.com/help/5046613"
+  },
+  "5046615": {
+    "date": "2024-11-12",
+    "uuid": "46c11b64-65a1-429f-8cf0-54f70bf1849c",
+    "slug": "november-12-2024-kb5046615-os-build-17763-6532-46c11b64-65a1-429f-8cf0-54f70bf1849c",
+    "url": "https://support.microsoft.com/help/5046615"
+  },
+  "5046612": {
+    "date": "2024-11-12",
+    "uuid": "b1748400-ba4a-444b-9051-96e3b41d8c5d",
+    "slug": "november-12-2024-kb5046612-os-build-14393-7515-b1748400-ba4a-444b-9051-96e3b41d8c5d",
+    "url": "https://support.microsoft.com/help/5046612"
+  },
+  "5046617": {
+    "date": "2024-11-12",
+    "uuid": "1fa61a6d-a99a-47ca-a169-6974f08c3a0b",
+    "slug": "november-12-2024-kb5046617-os-build-26100-2314-1fa61a6d-a99a-47ca-a169-6974f08c3a0b",
+    "url": "https://support.microsoft.com/help/5046617"
+  },
+  "5046633": {
+    "date": "2024-11-12",
+    "uuid": "6ff7b117-cd80-471a-a9ac-48a794bda2d6",
+    "slug": "november-12-2024-kb5046633-os-builds-22621-4460-and-22631-4460-6ff7b117-cd80-471a-a9ac-48a794bda2d6",
+    "url": "https://support.microsoft.com/help/5046633"
   }
 }
