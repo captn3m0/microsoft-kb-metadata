@@ -21940,5 +21940,11 @@
     "uuid": "6ff7b117-cd80-471a-a9ac-48a794bda2d6",
     "slug": "november-12-2024-kb5046633-os-builds-22621-4460-and-22631-4460-6ff7b117-cd80-471a-a9ac-48a794bda2d6",
     "url": "https://support.microsoft.com/help/5046633"
+  },
+  "5046616": {
+    "date": "2024-11-12",
+    "uuid": "817737a3-4027-485e-ba0d-e97ad4378047",
+    "slug": "november-12-2024-kb5046616-os-build-20348-2849-817737a3-4027-485e-ba0d-e97ad4378047",
+    "url": "https://support.microsoft.com/help/5046616"
   }
 }
