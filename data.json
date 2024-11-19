@@ -21946,5 +21946,17 @@
     "uuid": "817737a3-4027-485e-ba0d-e97ad4378047",
     "slug": "november-12-2024-kb5046616-os-build-20348-2849-817737a3-4027-485e-ba0d-e97ad4378047",
     "url": "https://support.microsoft.com/help/5046616"
+  },
+  "5046857": {
+    "date": "2024-11-12",
+    "uuid": "4245fd9e-dd3a-4ec4-bf6b-d1fed224fc6b",
+    "slug": "kb5046857-description-of-the-security-update-for-sql-server-2017-gdr-november-12-2024-4245fd9e-dd3a-4ec4-bf6b-d1fed224fc6b",
+    "url": "https://support.microsoft.com/help/5046857"
+  },
+  "5046665": {
+    "date": "2024-11-12",
+    "uuid": "66910759-abfe-4eac-af2f-8a70fa87a9dd",
+    "slug": "november-12-2024-kb5046665-os-build-10240-20826-66910759-abfe-4eac-af2f-8a70fa87a9dd",
+    "url": "https://support.microsoft.com/help/5046665"
   }
 }
