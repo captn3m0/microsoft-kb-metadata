@@ -21976,5 +21976,11 @@
     "uuid": "81dbd3ad-5ff7-4ac1-be32-3d918458432f",
     "slug": "november-21-2024-kb5046732-os-builds-22621-4541-and-22631-4541-preview-81dbd3ad-5ff7-4ac1-be32-3d918458432f",
     "url": "https://support.microsoft.com/help/5046732"
+  },
+  "5049233": {
+    "date": "2016-11-27",
+    "uuid": "e807f65d-da39-48a9-9a7e-69612cac8077",
+    "slug": "description-of-version-2-of-the-security-update-for-microsoft-exchange-server-2019-and-2016-november-27-2024-kb5049233-e807f65d-da39-48a9-9a7e-69612cac8077",
+    "url": "https://support.microsoft.com/help/5049233"
   }
 }
