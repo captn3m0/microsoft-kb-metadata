@@ -22096,5 +22096,11 @@
     "uuid": "62c04204-aaa5-4fee-a02a-2fdea17075a8",
     "slug": "kb5034441-windows-recovery-environment-update-for-windows-10-version-21h2-and-22h2-january-9-2024-62c04204-aaa5-4fee-a02a-2fdea17075a8",
     "url": "https://support.microsoft.com/help/5034441"
+  },
+  "5048654": {
+    "date": "2024-12-10",
+    "uuid": "6bdefbfb-1404-4b17-a264-5e025042683e",
+    "slug": "december-10-2024-kb5048654-os-build-20348-2966-6bdefbfb-1404-4b17-a264-5e025042683e",
+    "url": "https://support.microsoft.com/help/5048654"
   }
 }
