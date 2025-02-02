@@ -22180,5 +22180,47 @@
     "uuid": "b148c0ad-29fd-460e-b4a2-db38e88ae937",
     "slug": "january-14-2025-kb5049993-os-build-14393-7699-b148c0ad-29fd-460e-b4a2-db38e88ae937",
     "url": "https://support.microsoft.com/help/5049993"
+  },
+  "5050081": {
+    "date": "2025-01-28",
+    "uuid": "a8c14cfd-0f24-43ad-aea2-641d86cb648f",
+    "slug": "january-28-2025-kb5050081-os-build-19045-5440-preview-a8c14cfd-0f24-43ad-aea2-641d86cb648f",
+    "url": "https://support.microsoft.com/help/5050081"
+  },
+  "5049981": {
+    "date": "2025-01-14",
+    "uuid": "12f3788f-6e7d-4524-8ab3-27d1666e0510",
+    "slug": "january-14-2025-kb5049981-os-builds-19044-5371-and-19045-5371-12f3788f-6e7d-4524-8ab3-27d1666e0510",
+    "url": "https://support.microsoft.com/help/5049981"
+  },
+  "5050008": {
+    "date": "2025-01-14",
+    "uuid": "9a174725-a7ea-4e37-a6f8-e86f7c4d3f31",
+    "slug": "january-14-2025-kb5050008-os-build-17763-6775-9a174725-a7ea-4e37-a6f8-e86f7c4d3f31",
+    "url": "https://support.microsoft.com/help/5050008"
+  },
+  "5049983": {
+    "date": "2025-01-14",
+    "uuid": "789bf923-7777-419d-9c3a-23f7c814930f",
+    "slug": "january-14-2025-kb5049983-os-build-20348-3091-789bf923-7777-419d-9c3a-23f7c814930f",
+    "url": "https://support.microsoft.com/help/5049983"
+  },
+  "5050009": {
+    "date": "2025-01-14",
+    "uuid": "bdbfb097-ea20-487d-9171-718d15e26f1b",
+    "slug": "january-14-2025-kb5050009-os-build-26100-2894-bdbfb097-ea20-487d-9171-718d15e26f1b",
+    "url": "https://support.microsoft.com/help/5050009"
+  },
+  "5050092": {
+    "date": "2025-01-29",
+    "uuid": "fc9d13d6-09c6-412e-aab5-939e2c13a768",
+    "slug": "january-29-2025-kb5050092-os-builds-22621-4830-and-22631-4830-preview-fc9d13d6-09c6-412e-aab5-939e2c13a768",
+    "url": "https://support.microsoft.com/help/5050092"
+  },
+  "5050021": {
+    "date": "2025-01-14",
+    "uuid": "0dabc772-4925-4d47-97c4-a792adb1e6d9",
+    "slug": "january-14-2025-kb5050021-os-builds-22621-4751-and-22631-4751-0dabc772-4925-4d47-97c4-a792adb1e6d9",
+    "url": "https://support.microsoft.com/help/5050021"
   }
 }
