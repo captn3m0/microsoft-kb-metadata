@@ -22276,5 +22276,11 @@
     "uuid": "2e93da1d-f0b1-4531-b377-46ff54aceacd",
     "slug": "description-of-the-security-update-for-sharepoint-enterprise-server-2016-february-11-2025-kb5002685-2e93da1d-f0b1-4531-b377-46ff54aceacd",
     "url": "https://support.microsoft.com/help/5002685"
+  },
+  "5051987": {
+    "date": "2025-02-11",
+    "uuid": "63fb007d-3f52-4b47-85ea-28414a24be2d",
+    "slug": "february-11-2025-kb5051987-os-build-26100-3194-63fb007d-3f52-4b47-85ea-28414a24be2d",
+    "url": "https://support.microsoft.com/help/5051987"
   }
 }
