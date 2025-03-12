@@ -22348,5 +22348,47 @@
     "uuid": "148236eb-bebc-444b-88b3-5a875c82afc7",
     "slug": "february-25-2025-kb5052094-os-builds-22621-4974-and-22631-4974-preview-148236eb-bebc-444b-88b3-5a875c82afc7",
     "url": "https://support.microsoft.com/help/5052094"
+  },
+  "5002697": {
+    "date": "2016-03-11",
+    "uuid": "41658264-d9e6-494a-aa75-863bbcdef512",
+    "slug": "description-of-the-security-update-for-access-2016-march-11-2025-kb5002697-41658264-d9e6-494a-aa75-863bbcdef512",
+    "url": "https://support.microsoft.com/help/5002697"
+  },
+  "5002696": {
+    "date": "2016-03-11",
+    "uuid": "91d73c8d-4ce7-44db-9cf4-bcb96148eaf8",
+    "slug": "description-of-the-security-update-for-excel-2016-march-11-2025-kb5002696-91d73c8d-4ce7-44db-9cf4-bcb96148eaf8",
+    "url": "https://support.microsoft.com/help/5002696"
+  },
+  "5002694": {
+    "date": "2016-03-11",
+    "uuid": "8279d6cc-4a22-4d46-b6f1-dd53a5aa9cba",
+    "slug": "description-of-the-security-update-for-office-2016-march-11-2025-kb5002694-8279d6cc-4a22-4d46-b6f1-dd53a5aa9cba",
+    "url": "https://support.microsoft.com/help/5002694"
+  },
+  "5002693": {
+    "date": "2016-03-11",
+    "uuid": "cd54a514-f8e2-468c-a793-f4c8a85f73f1",
+    "slug": "description-of-the-security-update-for-office-2016-march-11-2025-kb5002693-cd54a514-f8e2-468c-a793-f4c8a85f73f1",
+    "url": "https://support.microsoft.com/help/5002693"
+  },
+  "5002662": {
+    "date": "2016-03-11",
+    "uuid": "88166c09-3688-4565-8af9-06c42bb8fa16",
+    "slug": "description-of-the-security-update-for-word-2016-march-11-2025-kb5002662-88166c09-3688-4565-8af9-06c42bb8fa16",
+    "url": "https://support.microsoft.com/help/5002662"
+  },
+  "5054876": {
+    "date": "2025-03-01",
+    "uuid": "5907fd31-82aa-4d5f-9fe7-fb031a678f0e",
+    "slug": "march-2025-updates-for-microsoft-office-5907fd31-82aa-4d5f-9fe7-fb031a678f0e",
+    "url": "https://support.microsoft.com/help/5054876"
+  },
+  "5002698": {
+    "date": "2025-03-11",
+    "uuid": "d2f72cdc-deae-4cd1-b5ef-a0381c1c4342",
+    "slug": "march-11-2025-update-for-sharepoint-server-subscription-edition-kb5002698-d2f72cdc-deae-4cd1-b5ef-a0381c1c4342",
+    "url": "https://support.microsoft.com/help/5002698"
   }
 }
