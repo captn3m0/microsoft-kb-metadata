@@ -22390,5 +22390,29 @@
     "uuid": "d2f72cdc-deae-4cd1-b5ef-a0381c1c4342",
     "slug": "march-11-2025-update-for-sharepoint-server-subscription-edition-kb5002698-d2f72cdc-deae-4cd1-b5ef-a0381c1c4342",
     "url": "https://support.microsoft.com/help/5002698"
+  },
+  "5053618": {
+    "date": "2025-03-11",
+    "uuid": "4b83b075-ac9d-4d7c-ac1b-58799c844c0e",
+    "slug": "march-11-2025-kb5053618-os-build-10240-20947-4b83b075-ac9d-4d7c-ac1b-58799c844c0e",
+    "url": "https://support.microsoft.com/help/5053618"
+  },
+  "5053594": {
+    "date": "2025-03-11",
+    "uuid": "831b6318-8f05-4c41-b413-509fb89baa34",
+    "slug": "march-11-2025-kb5053594-os-build-14393-7876-831b6318-8f05-4c41-b413-509fb89baa34",
+    "url": "https://support.microsoft.com/help/5053594"
+  },
+  "5053598": {
+    "date": "2025-03-11",
+    "uuid": "a248e951-daef-43ad-aa10-0b99f551cec2",
+    "slug": "march-11-2025-kb5053598-os-build-26100-3476-a248e951-daef-43ad-aa10-0b99f551cec2",
+    "url": "https://support.microsoft.com/help/5053598"
+  },
+  "5053602": {
+    "date": "2025-03-11",
+    "uuid": "19284fef-ba57-440b-a027-2d5eeecb73fa",
+    "slug": "march-11-2025-kb5053602-os-builds-22621-5039-and-22631-5039-19284fef-ba57-440b-a027-2d5eeecb73fa",
+    "url": "https://support.microsoft.com/help/5053602"
   }
 }
