@@ -22414,5 +22414,11 @@
     "uuid": "19284fef-ba57-440b-a027-2d5eeecb73fa",
     "slug": "march-11-2025-kb5053602-os-builds-22621-5039-and-22631-5039-19284fef-ba57-440b-a027-2d5eeecb73fa",
     "url": "https://support.microsoft.com/help/5053602"
+  },
+  "5053657": {
+    "date": "2025-03-25",
+    "uuid": "87a95447-6e12-4cd6-a7cf-ef525b8a489f",
+    "slug": "march-25-2025-kb5053657-os-builds-22621-5126-and-22631-5126-preview-87a95447-6e12-4cd6-a7cf-ef525b8a489f",
+    "url": "https://support.microsoft.com/help/5053657"
   }
 }
