@@ -25,7 +25,10 @@ https://learn.microsoft.com/en-us/officeupdates/project-server-updates
 https://learn.microsoft.com/en-us/officeupdates/release-history-microsoft-autoupdate
 https://learn.microsoft.com/en-us/officeupdates/release-notes-microsoft365-apps
 https://learn.microsoft.com/en-us/officeupdates/release-notes-office-for-mac
+https://learn.microsoft.com/en-us/officeupdates/release-notes-office-for-mac-archived
 https://learn.microsoft.com/en-us/officeupdates/release-notes-outlook-mobile
+https://learn.microsoft.com/en-us/officeupdates/release-notes-outlook-new
+https://learn.microsoft.com/en-us/officeupdates/release-notes-outlook-new-gc
 https://learn.microsoft.com/en-us/officeupdates/semi-annual-channel-2016
 https://learn.microsoft.com/en-us/officeupdates/semi-annual-channel-2017
 https://learn.microsoft.com/en-us/officeupdates/semi-annual-channel-2018
@@ -47,6 +50,7 @@ https://learn.microsoft.com/en-us/officeupdates/update-history-office-2010-click
 https://learn.microsoft.com/en-us/officeupdates/update-history-office-2013
 https://learn.microsoft.com/en-us/officeupdates/update-history-office-2019
 https://learn.microsoft.com/en-us/officeupdates/update-history-office-2021
+https://learn.microsoft.com/en-us/officeupdates/update-history-office-2024
 https://learn.microsoft.com/en-us/officeupdates/update-history-office-for-mac
 https://learn.microsoft.com/en-us/officeupdates/update-history-office-win7
 https://learn.microsoft.com/en-us/security-updates/
@@ -2064,5 +2068,5 @@ https://learn.microsoft.com/en-us/windows/release-health/resolved-issues-windows
 https://learn.microsoft.com/en-us/windows/release-health/status-windows-10-1809-and-windows-server-2019
 https://learn.microsoft.com/en-us/windows/release-health/status-windows-10-21h2
 https://learn.microsoft.com/en-us/windows/release-health/status-windows-11-22h2
-https://learn.microsoft.com/en-us/windows/release-health/windows-server-release-info
 https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information
+https://learn.microsoft.com/en-us/windows/release-health/windows-server-release-info

@@ -11,8 +11,7 @@ class NoRedirect(HTTPRedirectHandler):
     def redirect_request(self, req, fp, code, msg, headers, newurl):
         return None
 
-
-
+SKIPPABLE_REGEX = r"(vulnerabilityresearchadvisories|securitybulletinsummaries|securitybulletins|securityadvisories)\/(199[89]|20[01][0-9]|202[0-4])"
 DATE_REGEX = r'(?:(?P<year>\d{4})-)?(?P<month>january|february|march|april|may|june|july|august|september|october|november|december)-(?P<date>\d+)(?:-(?P<year2>\d{4})-)?'
 
 def parse_redirect(kb_id, slug):
@@ -81,6 +80,13 @@ def fetch_kb_mentions(session, url):
                 yield l.split('/')[4]
 
 
+
+def skippable(url):
+    m = re.search(SKIPPABLE_REGEX, url)
+    if m:
+        return True
+    return False
+
 if __name__ == "__main__":
     kbs = []
     s = Session()
@@ -94,6 +100,8 @@ if __name__ == "__main__":
     with open('discovery.txt', 'r') as f:
         for url in f.readlines():
             url = url.strip()
+            if skippable(url):
+                continue
             for kb_id in fetch_kb_mentions(s, url):
                 kbs.append(kb_id)
     update_mapping(s, kbs)

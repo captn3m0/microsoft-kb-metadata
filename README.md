@@ -12,14 +12,7 @@ mapping to other projects.
 
 ## wip
 
-Discovery notes. Need to check the sitemaps more thoroughly before i automate this
-
-See https://learn.microsoft.com/_sitemaps/sitemapindex.xml
-
-```
-curl --silent https://learn.microsoft.com/_sitemaps/officeupdates_en-us_1.xml | yq -p xml -o c '.urlset.url[]|.loc' >> discovery.txt
-curl --silent https://learn.microsoft.com/_sitemaps/security-updates_en-us_1.xml | yq -p xml -o c '.urlset.url[]|.loc' >> discovery.txt
-```
+The code currently auto-discovers new security updates and office release URLs.
 
 ## license
 

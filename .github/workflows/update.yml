@@ -16,12 +16,14 @@ jobs:
       with:
         ref: ${{ github.head_ref }}
     - name: Install uv
-      uses: astral-sh/setup-uv@v3
+      uses: astral-sh/setup-uv@v6
 
     - name: Set up Python
       run: uv python install
     - name: Update data
       run: |
+        curl --silent https://learn.microsoft.com/_sitemaps/officeupdates_en-us_1.xml | yq -p xml -o c '.urlset.url[]|.loc' >> discovery.txt
+        curl --silent https://learn.microsoft.com/_sitemaps/security-updates_en-us_1.xml | yq -p xml -o c '.urlset.url[]|.loc' >> discovery.txt
         uv sync --all-extras --dev
         uv run update.py
     - uses: stefanzweifel/git-auto-commit-action@v4
