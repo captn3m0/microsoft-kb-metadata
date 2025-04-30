@@ -5,6 +5,7 @@ description = "Generate Microsoft Knowledge Base metadata mappings"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "advertools>=0.16.6",
     "beautifulsoup4>=4.13.4",
     "html5lib>=1.1",
     "requests>=2.32.3",

@@ -72,14 +72,13 @@ def update_mapping(session, kb_ids):
 
 def fetch_kb_mentions(session, url):
     with session.get(url, timeout=10) as response:
-        print(url)
         soup = BeautifulSoup(response.text, features="html5lib")
-        for a in soup.find('div', class_='content').find_all('a', href=True):
-            l = a['href']
-            if l.startswith('https://support.microsoft.com/kb/') or l.startswith('https://support.microsoft.com/help/'):
-                yield l.split('/')[4]
-
-
+        for content_div in soup.find_all('div', class_='content'):
+            for a in content_div.find_all('a', href=True):
+                print(a)
+                l = a['href']
+                if l.startswith('https://support.microsoft.com/kb/') or l.startswith('https://support.microsoft.com/help/'):
+                    yield l.split('/')[4]
 
 def skippable(url):
     m = re.search(SKIPPABLE_REGEX, url)
