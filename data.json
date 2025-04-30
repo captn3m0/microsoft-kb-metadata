@@ -22456,5 +22456,215 @@
     "uuid": "4c35f1c4-1ae6-41ef-a317-3d8ee2e73975",
     "slug": "march-27-2025-kb5053656-os-build-26100-3624-preview-4c35f1c4-1ae6-41ef-a317-3d8ee2e73975",
     "url": "https://support.microsoft.com/help/5053656"
+  },
+  "5050672": {
+    "date": "2025-04-18",
+    "uuid": "b46af510-ede4-4eab-b2ba-940d2f00e04d",
+    "slug": "hotfix-update-for-exchange-server-2019-cu15-april-18-2025-kb5050672-b46af510-ede4-4eab-b2ba-940d2f00e04d",
+    "url": "https://support.microsoft.com/help/5050672"
+  },
+  "5050673": {
+    "date": "2025-04-18",
+    "uuid": "46368dd2-6699-4a85-94ff-eb00c0aa8392",
+    "slug": "hotfix-update-for-exchange-server-2019-cu14-april-18-2025-kb5050673-46368dd2-6699-4a85-94ff-eb00c0aa8392",
+    "url": "https://support.microsoft.com/help/5050673"
+  },
+  "5050674": {
+    "date": "2025-04-18",
+    "uuid": "48437cec-7400-46c0-9402-c9afe7fc0f08",
+    "slug": "hotfix-update-for-exchange-server-2016-cu23-april-18-2025-kb5050674-48437cec-7400-46c0-9402-c9afe7fc0f08",
+    "url": "https://support.microsoft.com/help/5050674"
+  },
+  "5002701": {
+    "date": "2016-04-08",
+    "uuid": "48997acc-2eca-474d-b6d5-79ffddf5fd7b",
+    "slug": "description-of-the-security-update-for-access-2016-april-8-2025-kb5002701-48997acc-2eca-474d-b6d5-79ffddf5fd7b",
+    "url": "https://support.microsoft.com/help/5002701"
+  },
+  "5002588": {
+    "date": "2016-04-08",
+    "uuid": "8c3e03ef-e90f-4b66-bbb0-9d906bda9b43",
+    "slug": "description-of-the-security-update-for-office-2016-april-8-2025-kb5002588-8c3e03ef-e90f-4b66-bbb0-9d906bda9b43",
+    "url": "https://support.microsoft.com/help/5002588"
+  },
+  "4484432": {
+    "date": "2016-04-08",
+    "uuid": "81f8be01-9534-15e6-18eb-4b289dda2345",
+    "slug": "description-of-the-security-update-for-office-2016-april-8-2025-kb4484432-81f8be01-9534-15e6-18eb-4b289dda2345",
+    "url": "https://support.microsoft.com/help/4484432"
+  },
+  "5002704": {
+    "date": "2016-04-08",
+    "uuid": "b733d475-7cd3-463c-b5b2-1e3bd8f87ba9",
+    "slug": "description-of-the-security-update-for-excel-2016-april-8-2025-kb5002704-b733d475-7cd3-463c-b5b2-1e3bd8f87ba9",
+    "url": "https://support.microsoft.com/help/5002704"
+  },
+  "5002703": {
+    "date": "2016-04-08",
+    "uuid": "861a9d61-0dab-448f-b173-880676e3b052",
+    "slug": "description-of-the-security-update-for-office-2016-april-8-2025-kb5002703-861a9d61-0dab-448f-b173-880676e3b052",
+    "url": "https://support.microsoft.com/help/5002703"
+  },
+  "5002700": {
+    "date": "2016-04-08",
+    "uuid": "a117656e-2724-449f-8245-2d5128de1241",
+    "slug": "description-of-the-security-update-for-office-2016-april-8-2025-kb5002700-a117656e-2724-449f-8245-2d5128de1241",
+    "url": "https://support.microsoft.com/help/5002700"
+  },
+  "5002623": {
+    "date": "2025-04-10",
+    "uuid": "d60c1f31-bb7c-4426-b8f4-69186d7fc1e5",
+    "slug": "april-10-2025-update-for-office-2016-kb5002623-d60c1f31-bb7c-4426-b8f4-69186d7fc1e5",
+    "url": "https://support.microsoft.com/help/5002623"
+  },
+  "5002573": {
+    "date": "2016-04-08",
+    "uuid": "d9601c4a-ceda-4807-a86f-466c13ded838",
+    "slug": "description-of-the-security-update-for-office-2016-april-8-2025-kb5002573-d9601c4a-ceda-4807-a86f-466c13ded838",
+    "url": "https://support.microsoft.com/help/5002573"
+  },
+  "5002622": {
+    "date": "2016-04-08",
+    "uuid": "619c6eee-74f0-41b2-84c7-a70bccd702ad",
+    "slug": "description-of-the-security-update-for-onenote-2016-april-8-2025-kb5002622-619c6eee-74f0-41b2-84c7-a70bccd702ad",
+    "url": "https://support.microsoft.com/help/5002622"
+  },
+  "5002669": {
+    "date": "2016-04-08",
+    "uuid": "976200bc-b740-4487-b716-2069acb98e9d",
+    "slug": "description-of-the-security-update-for-office-2016-april-8-2025-kb5002669-976200bc-b740-4487-b716-2069acb98e9d",
+    "url": "https://support.microsoft.com/help/5002669"
+  },
+  "5002702": {
+    "date": "2016-04-08",
+    "uuid": "43ce8fe7-2c07-4859-854c-5f3b2b35c19f",
+    "slug": "description-of-the-security-update-for-word-2016-april-8-2025-kb5002702-43ce8fe7-2c07-4859-854c-5f3b2b35c19f",
+    "url": "https://support.microsoft.com/help/5002702"
+  },
+  "5057242": {
+    "date": "2025-04-01",
+    "uuid": "5ac73359-8e7f-48d1-9966-ac9d5e4cd140",
+    "slug": "april-2025-updates-for-microsoft-office-5ac73359-8e7f-48d1-9966-ac9d5e4cd140",
+    "url": "https://support.microsoft.com/help/5057242"
+  },
+  "5002705": {
+    "date": "2025-04-08",
+    "uuid": "411935bd-5168-48c1-9243-4bc5f81ac0fc",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-april-8-2025-kb5002705-411935bd-5168-48c1-9243-4bc5f81ac0fc",
+    "url": "https://support.microsoft.com/help/5002705"
+  },
+  "5002691": {
+    "date": "2019-04-08",
+    "uuid": "4a5eee04-4eff-420d-8475-9f07057385ee",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-april-8-2025-kb5002691-4a5eee04-4eff-420d-8475-9f07057385ee",
+    "url": "https://support.microsoft.com/help/5002691"
+  },
+  "5002680": {
+    "date": "2025-04-08",
+    "uuid": "e264bd9b-991e-41d4-bdcc-2d1a2ee8c783",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-language-pack-april-8-2025-kb5002680-e264bd9b-991e-41d4-bdcc-2d1a2ee8c783",
+    "url": "https://support.microsoft.com/help/5002680"
+  },
+  "5002692": {
+    "date": "2016-04-08",
+    "uuid": "fc39103a-9fb7-4003-bdd3-9e61ed93359d",
+    "slug": "description-of-the-security-update-for-sharepoint-enterprise-server-2016-april-8-2025-kb5002692-fc39103a-9fb7-4003-bdd3-9e61ed93359d",
+    "url": "https://support.microsoft.com/help/5002692"
+  },
+  "5002682": {
+    "date": "2025-04-08",
+    "uuid": "abc72571-94e6-4246-9fb5-2d382bd2d69f",
+    "slug": "description-of-the-security-update-for-sharepoint-enterprise-server-2016-language-pack-april-8-2025-kb5002682-abc72571-94e6-4246-9fb5-2d382bd2d69f",
+    "url": "https://support.microsoft.com/help/5002682"
+  },
+  "5055612": {
+    "date": "2025-04-22",
+    "uuid": "428955dc-5f14-4dd8-a828-a1a3d316cb79",
+    "slug": "april-22-2025-kb5055612-os-build-19045-5796-preview-428955dc-5f14-4dd8-a828-a1a3d316cb79",
+    "url": "https://support.microsoft.com/help/5055612"
+  },
+  "5055518": {
+    "date": "2025-04-08",
+    "uuid": "6329246b-63bb-4d0a-9e95-e22926fbbe51",
+    "slug": "april-8-2025-kb5055518-os-builds-19044-5737-and-19045-5737-6329246b-63bb-4d0a-9e95-e22926fbbe51",
+    "url": "https://support.microsoft.com/help/5055518"
+  },
+  "5059091": {
+    "date": "2025-04-16",
+    "uuid": "328ff8b5-7c6b-4f06-95cc-67fbd18b3ffb",
+    "slug": "april-16-2025-kb5059091-os-build-17763-7249-out-of-band-328ff8b5-7c6b-4f06-95cc-67fbd18b3ffb",
+    "url": "https://support.microsoft.com/help/5059091"
+  },
+  "5058921": {
+    "date": "2025-04-11",
+    "uuid": "bcd6c4ef-eb5e-43e1-9a6e-03e7113ff30a",
+    "slug": "april-11-2025-kb5058921-os-build-14393-7973-out-of-band-bcd6c4ef-eb5e-43e1-9a6e-03e7113ff30a",
+    "url": "https://support.microsoft.com/help/5058921"
+  },
+  "5055521": {
+    "date": "2025-04-08",
+    "uuid": "f7cb2172-f1b4-49ab-b762-0e48c8efe56d",
+    "slug": "april-8-2025-kb5055521-os-build-14393-7969-f7cb2172-f1b4-49ab-b762-0e48c8efe56d",
+    "url": "https://support.microsoft.com/help/5055521"
+  },
+  "5057589": {
+    "date": "2025-04-08",
+    "uuid": "74bc2baa-4ac6-40d0-8dde-4a8462b8f7e7",
+    "slug": "kb5057589-windows-recovery-environment-update-for-windows-10-version-21h2-and-22h2-april-8-2025-74bc2baa-4ac6-40d0-8dde-4a8462b8f7e7",
+    "url": "https://support.microsoft.com/help/5057589"
+  },
+  "5055528": {
+    "date": "2025-04-08",
+    "uuid": "b146080a-bd4e-4a10-8ab0-22368c61556b",
+    "slug": "april-8-2025-kb5055528-os-builds-22621-5189-and-22631-5189-b146080a-bd4e-4a10-8ab0-22368c61556b",
+    "url": "https://support.microsoft.com/help/5055528"
+  },
+  "5059087": {
+    "date": "2025-04-16",
+    "uuid": "28af76fc-36e5-49bc-9447-201cfadd9d97",
+    "slug": "april-16-2025-kb5059087-os-build-26100-3781-out-of-band-28af76fc-36e5-49bc-9447-201cfadd9d97",
+    "url": "https://support.microsoft.com/help/5059087"
+  },
+  "5059092": {
+    "date": "2025-04-16",
+    "uuid": "b73f4fec-c41a-4d4c-bc20-0fa8fdd00be0",
+    "slug": "april-16-2025-kb5059092-os-build-20348-3566-out-of-band-b73f4fec-c41a-4d4c-bc20-0fa8fdd00be0",
+    "url": "https://support.microsoft.com/help/5059092"
+  },
+  "5058920": {
+    "date": "2025-04-11",
+    "uuid": "6de61ab1-c7f8-4ee3-bc17-eadcfcbdb2c7",
+    "slug": "april-11-2025-kb5058920-os-build-20348-3561-out-of-band-6de61ab1-c7f8-4ee3-bc17-eadcfcbdb2c7",
+    "url": "https://support.microsoft.com/help/5058920"
+  },
+  "5058922": {
+    "date": "2025-04-11",
+    "uuid": "84e282b6-22b9-45db-80c0-d485b8c254bc",
+    "slug": "april-11-2025-kb5058922-os-build-17763-7240-out-of-band-84e282b6-22b9-45db-80c0-d485b8c254bc",
+    "url": "https://support.microsoft.com/help/5058922"
+  },
+  "5055627": {
+    "date": "2025-04-25",
+    "uuid": "9324a361-965a-4496-8fd8-ba8a9de9fc38",
+    "slug": "april-25-2025-kb5055627-os-build-26100-3915-preview-9324a361-965a-4496-8fd8-ba8a9de9fc38",
+    "url": "https://support.microsoft.com/help/5055627"
+  },
+  "5055629": {
+    "date": "2025-04-22",
+    "uuid": "40cbe5df-063a-4b89-94eb-c79c8975506d",
+    "slug": "april-22-2025-kb5055629-os-22621-5262-and-22631-5262-preview-40cbe5df-063a-4b89-94eb-c79c8975506d",
+    "url": "https://support.microsoft.com/help/5055629"
+  },
+  "5055523": {
+    "date": "2025-04-08",
+    "uuid": "277a9d11-6ebf-410c-99f7-8c61957461eb",
+    "slug": "april-8-2025-kb5055523-os-build-26100-3775-277a9d11-6ebf-410c-99f7-8c61957461eb",
+    "url": "https://support.microsoft.com/help/5055523"
+  },
+  "5058919": {
+    "date": "2025-04-11",
+    "uuid": "349d28f6-cdb4-44c0-b2de-21153fd39652",
+    "slug": "april-11-2025-kb5058919-os-builds-22621-5192-and-22631-5192-out-of-band-349d28f6-cdb4-44c0-b2de-21153fd39652",
+    "url": "https://support.microsoft.com/help/5058919"
   }
 }
