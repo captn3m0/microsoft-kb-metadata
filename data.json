@@ -22684,5 +22684,47 @@
     "uuid": "994da1e1-abb8-4219-8e25-a3dcc5f3ecb7",
     "slug": "april-8-2025-kb5055526-os-build-20348-3453-994da1e1-abb8-4219-8e25-a3dcc5f3ecb7",
     "url": "https://support.microsoft.com/help/5055526"
+  },
+  "5053638": {
+    "date": "2025-03-11",
+    "uuid": "b1437455-081c-4610-b496-3acfc72472e9",
+    "slug": "march-11-2025-hotpatch-kb5053638-os-build-20348-3270-b1437455-081c-4610-b496-3acfc72472e9",
+    "url": "https://support.microsoft.com/help/5053638"
+  },
+  "5035959": {
+    "date": "2024-03-12",
+    "uuid": "f19814e5-aa99-4d06-81f7-f9dfc648c396",
+    "slug": "march-12-2024-hotpatch-kb5035959-os-build-20348-2333-f19814e5-aa99-4d06-81f7-f9dfc648c396",
+    "url": "https://support.microsoft.com/help/5035959"
+  },
+  "5037848": {
+    "date": "2024-05-14",
+    "uuid": "fee1efcd-3900-4751-8254-cc03753f483e",
+    "slug": "may-14-2024-hotpatch-kb5037848-os-build-20348-2458-fee1efcd-3900-4751-8254-cc03753f483e",
+    "url": "https://support.microsoft.com/help/5037848"
+  },
+  "5039330": {
+    "date": "2024-06-11",
+    "uuid": "cb6bdc02-2853-4c6b-8202-fc874536831c",
+    "slug": "june-11-2024-hotpatch-kb5039330-os-build-20348-2522-cb6bdc02-2853-4c6b-8202-fc874536831c",
+    "url": "https://support.microsoft.com/help/5039330"
+  },
+  "5042880": {
+    "date": "2024-09-10",
+    "uuid": "5724cfe7-be53-4982-95fd-b59809597863",
+    "slug": "september-10-2024-hotpatch-kb5042880-os-build-20348-2695-5724cfe7-be53-4982-95fd-b59809597863",
+    "url": "https://support.microsoft.com/help/5042880"
+  },
+  "5046698": {
+    "date": "2024-11-12",
+    "uuid": "e89173ec-4159-4638-a99d-3ee28e622c82",
+    "slug": "november-12-2024-hotpatch-kb5046698-os-build-20348-2819-e89173ec-4159-4638-a99d-3ee28e622c82",
+    "url": "https://support.microsoft.com/help/5046698"
+  },
+  "5048800": {
+    "date": "2024-12-10",
+    "uuid": "5ae87466-f01e-425f-b2f9-6dfc97b9abb2",
+    "slug": "december-10-2024-hotpatch-kb5048800-os-build-20348-2908-5ae87466-f01e-425f-b2f9-6dfc97b9abb2",
+    "url": "https://support.microsoft.com/help/5048800"
   }
 }
