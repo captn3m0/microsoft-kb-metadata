@@ -22726,5 +22726,17 @@
     "uuid": "5ae87466-f01e-425f-b2f9-6dfc97b9abb2",
     "slug": "december-10-2024-hotpatch-kb5048800-os-build-20348-2908-5ae87466-f01e-425f-b2f9-6dfc97b9abb2",
     "url": "https://support.microsoft.com/help/5048800"
+  },
+  "5052106": {
+    "date": "2025-02-11",
+    "uuid": "6606c13e-c9fd-4b2a-9e37-e48d4475fbe5",
+    "slug": "february-11-2025-hotpatch-kb5052106-os-build-20348-3148-6606c13e-c9fd-4b2a-9e37-e48d4475fbe5",
+    "url": "https://support.microsoft.com/help/5052106"
+  },
+  "5034860": {
+    "date": "2024-02-13",
+    "uuid": "97c34015-eae9-4e2b-abfa-ec6f22ee4d4e",
+    "slug": "february-13-2024-hotpatch-kb5034860-os-build-20348-2277-97c34015-eae9-4e2b-abfa-ec6f22ee4d4e",
+    "url": "https://support.microsoft.com/help/5034860"
   }
 }
