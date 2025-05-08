@@ -1,4 +1,6 @@
 https://learn.microsoft.com/en-us/Exchange/new-features/build-numbers-and-release-dates?view=exchserver-2019
+https://learn.microsoft.com/en-us/SkypeForBusiness/sfb-client-updates
+https://learn.microsoft.com/en-us/SkypeForBusiness/sfb-server-updates
 https://learn.microsoft.com/en-us/officeupdates/
 https://learn.microsoft.com/en-us/officeupdates/beta-channel
 https://learn.microsoft.com/en-us/officeupdates/current-channel
@@ -2051,8 +2053,6 @@ https://learn.microsoft.com/en-us/security-updates/vulnerabilityresearchadvisori
 https://learn.microsoft.com/en-us/security-updates/vulnerabilityresearchadvisories/2013/msvr13-009
 https://learn.microsoft.com/en-us/security-updates/vulnerabilityresearchadvisories/microsoftvulnerabilityresearchadvisories
 https://learn.microsoft.com/en-us/security-updates/windowsupdateservices/18125970
-https://learn.microsoft.com/en-us/SkypeForBusiness/sfb-client-updates
-https://learn.microsoft.com/en-us/SkypeForBusiness/sfb-server-updates
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/latest-updates-for-microsoft-sql-server?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-release-history-2017
 https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-release-history-2019
@@ -2068,5 +2068,5 @@ https://learn.microsoft.com/en-us/windows/release-health/resolved-issues-windows
 https://learn.microsoft.com/en-us/windows/release-health/status-windows-10-1809-and-windows-server-2019
 https://learn.microsoft.com/en-us/windows/release-health/status-windows-10-21h2
 https://learn.microsoft.com/en-us/windows/release-health/status-windows-11-22h2
-https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information
 https://learn.microsoft.com/en-us/windows/release-health/windows-server-release-info
+https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information
