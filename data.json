@@ -22738,5 +22738,11 @@
     "uuid": "97c34015-eae9-4e2b-abfa-ec6f22ee4d4e",
     "slug": "february-13-2024-hotpatch-kb5034860-os-build-20348-2277-97c34015-eae9-4e2b-abfa-ec6f22ee4d4e",
     "url": "https://support.microsoft.com/help/5034860"
+  },
+  "5058385": {
+    "date": "2025-05-13",
+    "uuid": "45f3b455-92fa-4297-9dde-1428b36e53ad",
+    "slug": "may-13-2025-kb5058385-os-build-20348-3692-45f3b455-92fa-4297-9dde-1428b36e53ad",
+    "url": "https://support.microsoft.com/help/5058385"
   }
 }
