@@ -22744,5 +22744,101 @@
     "uuid": "45f3b455-92fa-4297-9dde-1428b36e53ad",
     "slug": "may-13-2025-kb5058385-os-build-20348-3692-45f3b455-92fa-4297-9dde-1428b36e53ad",
     "url": "https://support.microsoft.com/help/5058385"
+  },
+  "5002717": {
+    "date": "2016-05-13",
+    "uuid": "ee01b6a2-8257-4650-84fc-dcfd6f120c0e",
+    "slug": "description-of-the-security-update-for-excel-2016-may-13-2025-kb5002717-ee01b6a2-8257-4650-84fc-dcfd6f120c0e",
+    "url": "https://support.microsoft.com/help/5002717"
+  },
+  "5002695": {
+    "date": "2016-05-13",
+    "uuid": "bfc0d5d9-d8f3-48ed-b4ab-0be8b607f236",
+    "slug": "description-of-the-security-update-for-office-2016-may-13-2025-kb5002695-bfc0d5d9-d8f3-48ed-b4ab-0be8b607f236",
+    "url": "https://support.microsoft.com/help/5002695"
+  },
+  "5002716": {
+    "date": "2016-05-13",
+    "uuid": "875d3d21-39de-4550-8b32-3c9412e28ce1",
+    "slug": "description-of-the-security-update-for-office-2016-may-13-2025-kb5002716-875d3d21-39de-4550-8b32-3c9412e28ce1",
+    "url": "https://support.microsoft.com/help/5002716"
+  },
+  "5002711": {
+    "date": "2016-05-13",
+    "uuid": "e802b922-6c9b-4df8-a696-fb0ec9423cba",
+    "slug": "description-of-the-security-update-for-office-2016-may-13-2025-kb5002711-e802b922-6c9b-4df8-a696-fb0ec9423cba",
+    "url": "https://support.microsoft.com/help/5002711"
+  },
+  "5059813": {
+    "date": "2025-05-01",
+    "uuid": "93785c24-bb7b-49e7-9368-17718788f566",
+    "slug": "may-2025-updates-for-microsoft-office-93785c24-bb7b-49e7-9368-17718788f566",
+    "url": "https://support.microsoft.com/help/5059813"
+  },
+  "5002709": {
+    "date": "2025-05-13",
+    "uuid": "3d371286-cb94-4057-a7f0-f90c6443f09a",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-may-13-2025-kb5002709-3d371286-cb94-4057-a7f0-f90c6443f09a",
+    "url": "https://support.microsoft.com/help/5002709"
+  },
+  "5002708": {
+    "date": "2019-05-13",
+    "uuid": "bceb22a5-d21e-493f-9e08-ab0982725861",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-may-13-2025-kb5002708-bceb22a5-d21e-493f-9e08-ab0982725861",
+    "url": "https://support.microsoft.com/help/5002708"
+  },
+  "5002706": {
+    "date": "2025-05-13",
+    "uuid": "cdb8bdff-b7d4-43af-81d0-79e74156cf14",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-language-pack-may-13-2025-kb5002706-cdb8bdff-b7d4-43af-81d0-79e74156cf14",
+    "url": "https://support.microsoft.com/help/5002706"
+  },
+  "5002722": {
+    "date": "2016-05-13",
+    "uuid": "75b5da52-5ea1-4d59-8539-b9922aa2b93d",
+    "slug": "description-of-the-security-update-for-sharepoint-enterprise-server-2016-may-13-2025-kb5002722-75b5da52-5ea1-4d59-8539-b9922aa2b93d",
+    "url": "https://support.microsoft.com/help/5002722"
+  },
+  "5058379": {
+    "date": "2025-05-13",
+    "uuid": "0a30e9ee-5038-45dd-a5d7-70a8813a5e39",
+    "slug": "may-13-2025-kb5058379-os-builds-19044-5854-and-19045-5854-0a30e9ee-5038-45dd-a5d7-70a8813a5e39",
+    "url": "https://support.microsoft.com/help/5058379"
+  },
+  "5058392": {
+    "date": "2025-05-13",
+    "uuid": "e72d5090-15f1-4562-a7c0-39c1155fa01c",
+    "slug": "may-13-2025-kb5058392-os-build-17763-7314-e72d5090-15f1-4562-a7c0-39c1155fa01c",
+    "url": "https://support.microsoft.com/help/5058392"
+  },
+  "5058383": {
+    "date": "2025-05-13",
+    "uuid": "f7d561f2-6b70-4a55-9bff-dac9c354812c",
+    "slug": "may-13-2025-kb5058383-os-build-14393-8066-f7d561f2-6b70-4a55-9bff-dac9c354812c",
+    "url": "https://support.microsoft.com/help/5058383"
+  },
+  "5058387": {
+    "date": "2025-05-13",
+    "uuid": "14aef602-84d1-495e-b738-8e8407c44efb",
+    "slug": "may-13-2025-kb5058387-os-build-10240-21014-14aef602-84d1-495e-b738-8e8407c44efb",
+    "url": "https://support.microsoft.com/help/5058387"
+  },
+  "5058405": {
+    "date": "2025-05-13",
+    "uuid": "aa3c8a36-80c4-4c57-91b1-c57b27f3aedb",
+    "slug": "may-13-2025-kb5058405-os-builds-22621-5335-and-22631-5335-aa3c8a36-80c4-4c57-91b1-c57b27f3aedb",
+    "url": "https://support.microsoft.com/help/5058405"
+  },
+  "5058500": {
+    "date": "2025-05-13",
+    "uuid": "c4fa2520-c405-420e-949f-172a51aa0cde",
+    "slug": "may-13-2025-hotpatch-kb5058500-os-build-20348-3630-c4fa2520-c405-420e-949f-172a51aa0cde",
+    "url": "https://support.microsoft.com/help/5058500"
+  },
+  "5058411": {
+    "date": "2025-05-13",
+    "uuid": "356568c2-c730-469e-819d-b680d43b1265",
+    "slug": "may-13-2025-kb5058411-os-build-26100-4061-356568c2-c730-469e-819d-b680d43b1265",
+    "url": "https://support.microsoft.com/help/5058411"
   }
 }
