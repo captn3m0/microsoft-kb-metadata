@@ -22852,5 +22852,11 @@
     "uuid": "23bc4731-d39a-4478-8b4f-b64737fc2371",
     "slug": "may-13-2025-hotpatch-kb5058497-os-build-26100-3981-23bc4731-d39a-4478-8b4f-b64737fc2371",
     "url": "https://support.microsoft.com/help/5058497"
+  },
+  "5061768": {
+    "date": "2025-05-19",
+    "uuid": "75b27cbd-072e-4c5a-b40e-87e00aaa42dd",
+    "slug": "may-19-2025-kb5061768-os-builds-19044-5856-and-19045-5856-out-of-band-75b27cbd-072e-4c5a-b40e-87e00aaa42dd",
+    "url": "https://support.microsoft.com/help/5061768"
   }
 }
