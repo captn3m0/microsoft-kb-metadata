@@ -22858,5 +22858,35 @@
     "uuid": "75b27cbd-072e-4c5a-b40e-87e00aaa42dd",
     "slug": "may-19-2025-kb5061768-os-builds-19044-5856-and-19045-5856-out-of-band-75b27cbd-072e-4c5a-b40e-87e00aaa42dd",
     "url": "https://support.microsoft.com/help/5061768"
+  },
+  "5061979": {
+    "date": "2025-05-27",
+    "uuid": "ed6ec61f-81a4-4827-ab82-d0c67f57f2c1",
+    "slug": "may-27-2025-kb5061979-os-builds-19044-5859-and-19045-5859-out-of-band-ed6ec61f-81a4-4827-ab82-d0c67f57f2c1",
+    "url": "https://support.microsoft.com/help/5061979"
+  },
+  "5061978": {
+    "date": "2025-05-27",
+    "uuid": "3e05da94-ec79-431d-ad03-4688500c43de",
+    "slug": "may-27-2025-kb5061978-os-build-17763-7322-out-of-band-3e05da94-ec79-431d-ad03-4688500c43de",
+    "url": "https://support.microsoft.com/help/5061978"
+  },
+  "5061906": {
+    "date": "2025-05-23",
+    "uuid": "4ad7e163-1b8d-4774-bb98-d376cae6ea81",
+    "slug": "may-23-2025-kb5061906-os-build-20348-3695-out-of-band-4ad7e163-1b8d-4774-bb98-d376cae6ea81",
+    "url": "https://support.microsoft.com/help/5061906"
+  },
+  "5061977": {
+    "date": "2025-05-27",
+    "uuid": "a15fd6bb-313a-4a24-9e35-21dbcad2aa99",
+    "slug": "may-27-2025-kb5061977-os-build-26100-4066-out-of-band-a15fd6bb-313a-4a24-9e35-21dbcad2aa99",
+    "url": "https://support.microsoft.com/help/5061977"
+  },
+  "5058502": {
+    "date": "2025-05-27",
+    "uuid": "6291789c-1eea-4227-9740-a701af6de688",
+    "slug": "may-27-2025-kb5058502-os-22621-5413-and-22631-5413-preview-6291789c-1eea-4227-9740-a701af6de688",
+    "url": "https://support.microsoft.com/help/5058502"
   }
 }
