@@ -22888,5 +22888,29 @@
     "uuid": "6291789c-1eea-4227-9740-a701af6de688",
     "slug": "may-27-2025-kb5058502-os-22621-5413-and-22631-5413-preview-6291789c-1eea-4227-9740-a701af6de688",
     "url": "https://support.microsoft.com/help/5058502"
+  },
+  "5057651": {
+    "date": "2025-05-29",
+    "uuid": "83651988-f0a2-40f6-a852-39213ece2f1f",
+    "slug": "hotfix-update-for-exchange-server-2019-cu15-hu2-may-29-2025-kb5057651-83651988-f0a2-40f6-a852-39213ece2f1f",
+    "url": "https://support.microsoft.com/help/5057651"
+  },
+  "5057652": {
+    "date": "2025-05-29",
+    "uuid": "8bb2b05b-e086-4704-93e1-fda2deecf141",
+    "slug": "hotfix-update-for-exchange-server-2019-cu14-hu5-may-29-2025-kb5057652-8bb2b05b-e086-4704-93e1-fda2deecf141",
+    "url": "https://support.microsoft.com/help/5057652"
+  },
+  "5057653": {
+    "date": "2025-05-29",
+    "uuid": "8de8d574-d6bb-4718-91fc-049222df7a13",
+    "slug": "hotfix-update-for-exchange-server-2016-cu23-hu16-may-29-2025-kb5057653-8de8d574-d6bb-4718-91fc-049222df7a13",
+    "url": "https://support.microsoft.com/help/5057653"
+  },
+  "5058499": {
+    "date": "2025-05-28",
+    "uuid": "d4c2f1ee-8138-4038-b705-546945076f92",
+    "slug": "may-28-2025-kb5058499-os-build-26100-4202-preview-d4c2f1ee-8138-4038-b705-546945076f92",
+    "url": "https://support.microsoft.com/help/5058499"
   }
 }
