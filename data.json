@@ -23050,5 +23050,11 @@
     "uuid": "97dbff21-2edb-4566-be47-18f732a218b9",
     "slug": "june-10-2025-kb5060999-os-builds-os-builds-22621-5472-and-22631-5472-97dbff21-2edb-4566-be47-18f732a218b9",
     "url": "https://support.microsoft.com/help/5060999"
+  },
+  "5063060": {
+    "date": "2025-06-11",
+    "uuid": "b1746442-8c6c-425d-ac5a-3a8f51e372f3",
+    "slug": "june-11-2025-kb5063060-os-build-26100-4351-out-of-band-b1746442-8c6c-425d-ac5a-3a8f51e372f3",
+    "url": "https://support.microsoft.com/help/5063060"
   }
 }
