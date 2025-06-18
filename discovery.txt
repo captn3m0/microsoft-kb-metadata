@@ -31,6 +31,7 @@ https://learn.microsoft.com/en-us/officeupdates/release-notes-office-for-mac-arc
 https://learn.microsoft.com/en-us/officeupdates/release-notes-outlook-mobile
 https://learn.microsoft.com/en-us/officeupdates/release-notes-outlook-new
 https://learn.microsoft.com/en-us/officeupdates/release-notes-outlook-new-gc
+https://learn.microsoft.com/en-us/officeupdates/release-notes-outlook-new-targeted
 https://learn.microsoft.com/en-us/officeupdates/semi-annual-channel-2016
 https://learn.microsoft.com/en-us/officeupdates/semi-annual-channel-2017
 https://learn.microsoft.com/en-us/officeupdates/semi-annual-channel-2018
