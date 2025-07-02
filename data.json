@@ -23080,5 +23080,23 @@
     "uuid": "65d38dd2-e149-4462-9699-e2482f60b16b",
     "slug": "june-26-2025-kb5060826-os-builds-22621-5549-and-22631-5549-preview-65d38dd2-e149-4462-9699-e2482f60b16b",
     "url": "https://support.microsoft.com/help/5060826"
+  },
+  "5002733": {
+    "date": "2025-07-01",
+    "uuid": "55f41655-8deb-4865-ae1b-618f92166e6c",
+    "slug": "july-1-2025-update-for-office-2016-kb5002733-55f41655-8deb-4865-ae1b-618f92166e6c",
+    "url": "https://support.microsoft.com/help/5002733"
+  },
+  "5002714": {
+    "date": "2025-07-01",
+    "uuid": "cbc76dfb-d8ae-4572-96c7-64360c3a98d2",
+    "slug": "july-1-2025-update-for-onenote-2016-kb5002714-cbc76dfb-d8ae-4572-96c7-64360c3a98d2",
+    "url": "https://support.microsoft.com/help/5002714"
+  },
+  "5002747": {
+    "date": "2025-07-01",
+    "uuid": "b18b9510-c6e7-4325-b760-73b635db42af",
+    "slug": "july-1-2025-update-for-outlook-2016-kb5002747-b18b9510-c6e7-4325-b760-73b635db42af",
+    "url": "https://support.microsoft.com/help/5002747"
   }
 }
