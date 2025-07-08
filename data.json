@@ -23098,5 +23098,149 @@
     "uuid": "b18b9510-c6e7-4325-b760-73b635db42af",
     "slug": "july-1-2025-update-for-outlook-2016-kb5002747-b18b9510-c6e7-4325-b760-73b635db42af",
     "url": "https://support.microsoft.com/help/5002747"
+  },
+  "5001941": {
+    "date": "2016-07-08",
+    "uuid": "27fc04e6-6037-472c-9cff-0f8acd61e58c",
+    "slug": "description-of-the-security-update-for-office-2016-july-8-2025-kb5001941-27fc04e6-6037-472c-9cff-0f8acd61e58c",
+    "url": "https://support.microsoft.com/help/5001941"
+  },
+  "5002749": {
+    "date": "2016-07-08",
+    "uuid": "9f1f39cf-2217-43fb-93e5-00ded575e6db",
+    "slug": "description-of-the-security-update-for-excel-2016-july-8-2025-kb5002749-9f1f39cf-2217-43fb-93e5-00ded575e6db",
+    "url": "https://support.microsoft.com/help/5002749"
+  },
+  "5002734": {
+    "date": "2016-07-08",
+    "uuid": "f3175c0a-3e26-46c4-a4ee-1dd069c57c7e",
+    "slug": "description-of-the-security-update-for-office-2016-july-8-2025-kb5002734-f3175c0a-3e26-46c4-a4ee-1dd069c57c7e",
+    "url": "https://support.microsoft.com/help/5002734"
+  },
+  "5002742": {
+    "date": "2016-07-08",
+    "uuid": "a235d63b-0ab2-45ca-bb45-e9d58b0fc98c",
+    "slug": "description-of-the-security-update-for-office-2016-july-8-2025-kb5002742-a235d63b-0ab2-45ca-bb45-e9d58b0fc98c",
+    "url": "https://support.microsoft.com/help/5002742"
+  },
+  "5002655": {
+    "date": "2016-07-08",
+    "uuid": "1a8f0555-b15c-4c9f-8c65-ae5bc8bfb91d",
+    "slug": "description-of-the-security-update-for-office-2016-july-8-2025-kb5002655-1a8f0555-b15c-4c9f-8c65-ae5bc8bfb91d",
+    "url": "https://support.microsoft.com/help/5002655"
+  },
+  "5002746": {
+    "date": "2016-07-08",
+    "uuid": "db599434-35c4-4ea3-8221-8c182e108b42",
+    "slug": "description-of-the-security-update-for-powerpoint-2016-july-8-2025-kb5002746-db599434-35c4-4ea3-8221-8c182e108b42",
+    "url": "https://support.microsoft.com/help/5002746"
+  },
+  "4464583": {
+    "date": "2016-07-08",
+    "uuid": "e032fe8c-ecb0-407f-b9f2-639ca06f5cdb",
+    "slug": "description-of-the-security-update-for-office-2016-july-8-2025-kb4464583-e032fe8c-ecb0-407f-b9f2-639ca06f5cdb",
+    "url": "https://support.microsoft.com/help/4464583"
+  },
+  "5002745": {
+    "date": "2016-07-08",
+    "uuid": "e52a4794-0584-4f72-99eb-99343e8138c3",
+    "slug": "description-of-the-security-update-for-word-2016-july-8-2025-kb5002745-e52a4794-0584-4f72-99eb-99343e8138c3",
+    "url": "https://support.microsoft.com/help/5002745"
+  },
+  "5063420": {
+    "date": "2025-07-01",
+    "uuid": "0e88422d-f598-4ea2-902c-2b428f37ebff",
+    "slug": "july-2025-updates-for-microsoft-office-0e88422d-f598-4ea2-902c-2b428f37ebff",
+    "url": "https://support.microsoft.com/help/5063420"
+  },
+  "5002751": {
+    "date": "2025-07-08",
+    "uuid": "b2c816cf-029b-4669-b243-5aaca292abd7",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-july-8-2025-kb5002751-b2c816cf-029b-4669-b243-5aaca292abd7",
+    "url": "https://support.microsoft.com/help/5002751"
+  },
+  "5002739": {
+    "date": "2025-07-08",
+    "uuid": "7be2e4e2-b6f1-4a0a-ab42-b848207108b6",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-language-pack-july-8-2025-kb5002739-7be2e4e2-b6f1-4a0a-ab42-b848207108b6",
+    "url": "https://support.microsoft.com/help/5002739"
+  },
+  "5002744": {
+    "date": "2016-07-08",
+    "uuid": "9196e240-c76d-4bb0-b16c-6f7d6645a1f0",
+    "slug": "description-of-the-security-update-for-sharepoint-enterprise-server-2016-july-8-2025-kb5002744-9196e240-c76d-4bb0-b16c-6f7d6645a1f0",
+    "url": "https://support.microsoft.com/help/5002744"
+  },
+  "5002743": {
+    "date": "2025-07-08",
+    "uuid": "6abcd725-66f4-44e2-a38e-47ef7a588af8",
+    "slug": "description-of-the-security-update-for-sharepoint-enterprise-server-2016-language-pack-july-8-2025-kb5002743-6abcd725-66f4-44e2-a38e-47ef7a588af8",
+    "url": "https://support.microsoft.com/help/5002743"
+  },
+  "5058712": {
+    "date": "2025-07-08",
+    "uuid": "5b645c82-21a9-4afb-9c0a-03c57a5ecb9c",
+    "slug": "kb5058712-description-of-the-security-update-for-sql-server-2022-gdr-july-8-2025-5b645c82-21a9-4afb-9c0a-03c57a5ecb9c",
+    "url": "https://support.microsoft.com/help/5058712"
+  },
+  "5058721": {
+    "date": "2025-07-08",
+    "uuid": "fcf14446-c16b-46b1-a096-f1b775dd45be",
+    "slug": "kb5058721-description-of-the-security-update-for-sql-server-2022-cu19-july-8-2025-fcf14446-c16b-46b1-a096-f1b775dd45be",
+    "url": "https://support.microsoft.com/help/5058721"
+  },
+  "5058713": {
+    "date": "2025-07-08",
+    "uuid": "002b1ab3-296f-4f6c-86d1-68ee829dd686",
+    "slug": "kb5058713-description-of-the-security-update-for-sql-server-2019-gdr-july-8-2025-002b1ab3-296f-4f6c-86d1-68ee829dd686",
+    "url": "https://support.microsoft.com/help/5058713"
+  },
+  "5058722": {
+    "date": "2025-07-08",
+    "uuid": "09dc5da9-3a60-4462-a8ac-a8e782d088d5",
+    "slug": "kb5058722-description-of-the-security-update-for-sql-server-2019-cu32-july-8-2025-09dc5da9-3a60-4462-a8ac-a8e782d088d5",
+    "url": "https://support.microsoft.com/help/5058722"
+  },
+  "5058716": {
+    "date": "2025-07-08",
+    "uuid": "f8533e01-969c-4b14-ace6-cc9dc590b3d4",
+    "slug": "kb5058716-description-of-the-security-update-for-sql-server-2017-gdr-july-8-2025-f8533e01-969c-4b14-ace6-cc9dc590b3d4",
+    "url": "https://support.microsoft.com/help/5058716"
+  },
+  "5058714": {
+    "date": "2025-07-08",
+    "uuid": "cdc42d67-b4a1-4e6a-9f7a-11da1e733218",
+    "slug": "kb5058714-description-of-the-security-update-for-sql-server-2017-cu31-july-8-2025-cdc42d67-b4a1-4e6a-9f7a-11da1e733218",
+    "url": "https://support.microsoft.com/help/5058714"
+  },
+  "5058717": {
+    "date": "2025-07-08",
+    "uuid": "f0deebd8-882d-47cd-96f8-f6ab072fde85",
+    "slug": "kb5058717-description-of-the-security-update-for-sql-server-2016-sp3-azure-connect-feature-pack-july-8-2025-f0deebd8-882d-47cd-96f8-f6ab072fde85",
+    "url": "https://support.microsoft.com/help/5058717"
+  },
+  "5058718": {
+    "date": "2025-07-08",
+    "uuid": "07f76376-d058-480d-b71f-6a85470b8086",
+    "slug": "kb5058718-description-of-the-security-update-for-sql-server-2016-sp3-gdr-july-8-2025-07f76376-d058-480d-b71f-6a85470b8086",
+    "url": "https://support.microsoft.com/help/5058718"
+  },
+  "5062554": {
+    "date": "2025-07-08",
+    "uuid": "806b229f-70cd-404d-861c-4adb299e3930",
+    "slug": "july-8-2025-kb5062554-os-builds-19044-6093-and-19045-6093-806b229f-70cd-404d-861c-4adb299e3930",
+    "url": "https://support.microsoft.com/help/5062554"
+  },
+  "5062561": {
+    "date": "2025-07-08",
+    "uuid": "d5672adb-2599-42d6-b963-b7dd05ae94eb",
+    "slug": "july-8-2025-kb5062561-os-build-10240-21073-d5672adb-2599-42d6-b963-b7dd05ae94eb",
+    "url": "https://support.microsoft.com/help/5062561"
+  },
+  "5063523": {
+    "date": "2025-07-08",
+    "uuid": "4a2e9e50-bb67-474f-9da7-6bcebe6737f5",
+    "slug": "kb5063523-windows-recovery-environment-update-for-windows-10-version-21h2-and-22h2-july-8-2025-4a2e9e50-bb67-474f-9da7-6bcebe6737f5",
+    "url": "https://support.microsoft.com/help/5063523"
   }
 }
