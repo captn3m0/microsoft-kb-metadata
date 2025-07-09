@@ -23242,5 +23242,41 @@
     "uuid": "4a2e9e50-bb67-474f-9da7-6bcebe6737f5",
     "slug": "kb5063523-windows-recovery-environment-update-for-windows-10-version-21h2-and-22h2-july-8-2025-4a2e9e50-bb67-474f-9da7-6bcebe6737f5",
     "url": "https://support.microsoft.com/help/5063523"
+  },
+  "5002741": {
+    "date": "2019-07-08",
+    "uuid": "d860f51b-fcdf-41e4-89de-9ce487c06548",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-july-8-2025-kb5002741-d860f51b-fcdf-41e4-89de-9ce487c06548",
+    "url": "https://support.microsoft.com/help/5002741"
+  },
+  "5062557": {
+    "date": "2025-07-08",
+    "uuid": "9a2cd65b-c7a7-4331-87c4-84790511f6fe",
+    "slug": "july-8-2025-kb5062557-os-build-17763-7558-9a2cd65b-c7a7-4331-87c4-84790511f6fe",
+    "url": "https://support.microsoft.com/help/5062557"
+  },
+  "5062560": {
+    "date": "2025-07-08",
+    "uuid": "d0e71005-f9ac-46fe-92a0-443729693378",
+    "slug": "july-8-2025-kb5062560-os-build-14393-8246-d0e71005-f9ac-46fe-92a0-443729693378",
+    "url": "https://support.microsoft.com/help/5062560"
+  },
+  "5062572": {
+    "date": "2025-07-08",
+    "uuid": "d78a2b2a-1ce8-45ee-85a0-e51a897ec67f",
+    "slug": "july-8-2025-kb-5062572-os-build-20348-3932-d78a2b2a-1ce8-45ee-85a0-e51a897ec67f",
+    "url": "https://support.microsoft.com/help/5062572"
+  },
+  "5062553": {
+    "date": "2025-07-08",
+    "uuid": "523e69cb-051b-43c6-8376-6a76d6caeefd",
+    "slug": "july-8-2025-kb5062553-os-build-26100-4652-523e69cb-051b-43c6-8376-6a76d6caeefd",
+    "url": "https://support.microsoft.com/help/5062553"
+  },
+  "5062552": {
+    "date": "2025-07-08",
+    "uuid": "97051e39-ad28-488a-b389-bc5a94c11639",
+    "slug": "july-8-2025-kb5062552-os-builds-22621-5624-and-22631-5624-97051e39-ad28-488a-b389-bc5a94c11639",
+    "url": "https://support.microsoft.com/help/5062552"
   }
 }
