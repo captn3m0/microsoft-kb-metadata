@@ -23296,5 +23296,11 @@
     "uuid": "9c5bc200-52b6-4c1a-be70-80df6bbfe9c3",
     "slug": "july-22-2025-kb5062660-os-build-26100-4770-preview-9c5bc200-52b6-4c1a-be70-80df6bbfe9c3",
     "url": "https://support.microsoft.com/help/5062660"
+  },
+  "5062663": {
+    "date": "2025-07-22",
+    "uuid": "94936799-dd0c-45d0-9d1a-1b8351fb6b94",
+    "slug": "july-22-2025-kb5062663-os-builds-22621-5699-and-22631-5699-preview-94936799-dd0c-45d0-9d1a-1b8351fb6b94",
+    "url": "https://support.microsoft.com/help/5062663"
   }
 }
