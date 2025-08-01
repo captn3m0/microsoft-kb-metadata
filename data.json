@@ -23302,5 +23302,29 @@
     "uuid": "94936799-dd0c-45d0-9d1a-1b8351fb6b94",
     "slug": "july-22-2025-kb5062663-os-builds-22621-5699-and-22631-5699-preview-94936799-dd0c-45d0-9d1a-1b8351fb6b94",
     "url": "https://support.microsoft.com/help/5062663"
+  },
+  "5002768": {
+    "date": "2025-07-21",
+    "uuid": "26460cc8-af97-4ccf-ad90-d9225d63d1bc",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-july-21-2025-kb5002768-26460cc8-af97-4ccf-ad90-d9225d63d1bc",
+    "url": "https://support.microsoft.com/help/5002768"
+  },
+  "5002754": {
+    "date": "2019-07-21",
+    "uuid": "f5b23cd0-6d1c-49f5-851e-7868b7ddb6a1",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-july-21-2025-kb5002754-f5b23cd0-6d1c-49f5-851e-7868b7ddb6a1",
+    "url": "https://support.microsoft.com/help/5002754"
+  },
+  "5002753": {
+    "date": "2025-07-21",
+    "uuid": "d9b60b8a-577e-43ad-9469-416c0f3fd913",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-language-pack-july-21-2025-kb5002753-d9b60b8a-577e-43ad-9469-416c0f3fd913",
+    "url": "https://support.microsoft.com/help/5002753"
+  },
+  "5002759": {
+    "date": "2025-07-21",
+    "uuid": "23cb08ac-ff17-4ee8-81cb-70bff24e0b16",
+    "slug": "description-of-the-security-update-for-sharepoint-enterprise-server-2016-language-pack-july-21-2025-kb5002759-23cb08ac-ff17-4ee8-81cb-70bff24e0b16",
+    "url": "https://support.microsoft.com/help/5002759"
   }
 }
