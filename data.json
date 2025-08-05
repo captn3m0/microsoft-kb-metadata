@@ -23332,5 +23332,11 @@
     "uuid": "3ba63c92-23dd-4a1c-9f23-6dbcca9447ed",
     "slug": "description-of-the-security-update-for-sharepoint-enterprise-server-2016-july-21-2025-kb5002760-3ba63c92-23dd-4a1c-9f23-6dbcca9447ed",
     "url": "https://support.microsoft.com/help/5002760"
+  },
+  "5002761": {
+    "date": "2025-08-05",
+    "uuid": "770ccf30-7619-4bb2-b0dd-50baa5cd6eea",
+    "slug": "august-5-2025-update-for-onenote-2016-kb5002761-770ccf30-7619-4bb2-b0dd-50baa5cd6eea",
+    "url": "https://support.microsoft.com/help/5002761"
   }
 }
