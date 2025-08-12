@@ -23338,5 +23338,89 @@
     "uuid": "770ccf30-7619-4bb2-b0dd-50baa5cd6eea",
     "slug": "august-5-2025-update-for-onenote-2016-kb5002761-770ccf30-7619-4bb2-b0dd-50baa5cd6eea",
     "url": "https://support.microsoft.com/help/5002761"
+  },
+  "5063224": {
+    "date": "2025-08-12",
+    "uuid": "79c317f2-c1ad-4c50-b82d-d71e31794df9",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-subscription-edition-rtm-august-12-2025-kb5063224-79c317f2-c1ad-4c50-b82d-d71e31794df9",
+    "url": "https://support.microsoft.com/help/5063224"
+  },
+  "5063221": {
+    "date": "2019-08-12",
+    "uuid": "02a94d29-c2c3-4733-9eb4-66223ff0c355",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-2019-august-12-2025-kb5063221-02a94d29-c2c3-4733-9eb4-66223ff0c355",
+    "url": "https://support.microsoft.com/help/5063221"
+  },
+  "5063222": {
+    "date": "2019-08-12",
+    "uuid": "9f1254a5-d317-4979-9be3-d04fc0da775a",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-2019-august-12-2025-kb5063222-9f1254a5-d317-4979-9be3-d04fc0da775a",
+    "url": "https://support.microsoft.com/help/5063222"
+  },
+  "5063223": {
+    "date": "2016-08-12",
+    "uuid": "05902b35-9407-4cff-a230-cf63beaf4312",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-2016-august-12-2025-kb5063223-05902b35-9407-4cff-a230-cf63beaf4312",
+    "url": "https://support.microsoft.com/help/5063223"
+  },
+  "5063756": {
+    "date": "2025-08-12",
+    "uuid": "f56e3677-84b7-4ba3-ab13-b33fcfabb212",
+    "slug": "kb5063756-description-of-the-security-update-for-sql-server-2022-gdr-august-12-2025-f56e3677-84b7-4ba3-ab13-b33fcfabb212",
+    "url": "https://support.microsoft.com/help/5063756"
+  },
+  "5063814": {
+    "date": "2025-08-12",
+    "uuid": "8744624f-a95c-4902-a191-5a25079d7f37",
+    "slug": "kb5063814-description-of-the-security-update-for-sql-server-2022-cu20-august-12-2025-8744624f-a95c-4902-a191-5a25079d7f37",
+    "url": "https://support.microsoft.com/help/5063814"
+  },
+  "5063758": {
+    "date": "2025-08-12",
+    "uuid": "234c09f4-1ad3-4bd5-81ac-529a3e7d1047",
+    "slug": "kb5063758-description-of-the-security-update-for-sql-server-2019-gdr-august-12-2025-234c09f4-1ad3-4bd5-81ac-529a3e7d1047",
+    "url": "https://support.microsoft.com/help/5063758"
+  },
+  "5063757": {
+    "date": "2025-08-12",
+    "uuid": "d4df46ef-6b1e-4a6c-aa8c-914d25f74345",
+    "slug": "kb5063757-description-of-the-security-update-for-sql-server-2019-cu32-august-12-2025-d4df46ef-6b1e-4a6c-aa8c-914d25f74345",
+    "url": "https://support.microsoft.com/help/5063757"
+  },
+  "5063760": {
+    "date": "2025-08-12",
+    "uuid": "c56d8813-1dca-475f-868d-7bc907c7a8d3",
+    "slug": "kb5063760-description-of-the-security-update-for-sql-server-2017-gdr-august-12-2025-c56d8813-1dca-475f-868d-7bc907c7a8d3",
+    "url": "https://support.microsoft.com/help/5063760"
+  },
+  "5063759": {
+    "date": "2025-08-12",
+    "uuid": "7f5dfab6-e32b-4af3-87fe-0e527b5729d3",
+    "slug": "kb5063759-description-of-the-security-update-for-sql-server-2017-cu31-august-12-2025-7f5dfab6-e32b-4af3-87fe-0e527b5729d3",
+    "url": "https://support.microsoft.com/help/5063759"
+  },
+  "5063761": {
+    "date": "2025-08-12",
+    "uuid": "78088dab-76e7-4a0d-8392-9ebb3f7dfefe",
+    "slug": "kb5063761-description-of-the-security-update-for-sql-server-2016-sp3-azure-connect-feature-pack-august-12-2025-78088dab-76e7-4a0d-8392-9ebb3f7dfefe",
+    "url": "https://support.microsoft.com/help/5063761"
+  },
+  "5063762": {
+    "date": "2025-08-12",
+    "uuid": "c7c25df6-577c-49b3-9ca9-b7e9812b9344",
+    "slug": "kb5063762-description-of-the-security-update-for-sql-server-2016-sp3-gdr-august-12-2025-c7c25df6-577c-49b3-9ca9-b7e9812b9344",
+    "url": "https://support.microsoft.com/help/5063762"
+  },
+  "5063877": {
+    "date": "2025-08-12",
+    "uuid": "8944ed94-aec7-4780-b0a0-1164ba421379",
+    "slug": "august-12-2025-kb5063877-os-build-17763-7678-8944ed94-aec7-4780-b0a0-1164ba421379",
+    "url": "https://support.microsoft.com/help/5063877"
+  },
+  "5063875": {
+    "date": "2025-08-12",
+    "uuid": "c67aac47-127c-4bd1-b92d-ebd9093f031d",
+    "slug": "august-12-2025-kb5063875-os-builds-22621-5768-and-22631-5768-c67aac47-127c-4bd1-b92d-ebd9093f031d",
+    "url": "https://support.microsoft.com/help/5063875"
   }
 }
