@@ -23422,5 +23422,53 @@
     "uuid": "c67aac47-127c-4bd1-b92d-ebd9093f031d",
     "slug": "august-12-2025-kb5063875-os-builds-22621-5768-and-22631-5768-c67aac47-127c-4bd1-b92d-ebd9093f031d",
     "url": "https://support.microsoft.com/help/5063875"
+  },
+  "5002758": {
+    "date": "2016-08-12",
+    "uuid": "6d579db8-eccd-4c32-a4ba-5a86671aacb8",
+    "slug": "description-of-the-security-update-for-excel-2016-august-12-2025-kb5002758-6d579db8-eccd-4c32-a4ba-5a86671aacb8",
+    "url": "https://support.microsoft.com/help/5002758"
+  },
+  "5002756": {
+    "date": "2016-08-12",
+    "uuid": "7f6e16a9-51a5-4e52-a3f0-058987382cf0",
+    "slug": "description-of-the-security-update-for-office-2016-august-12-2025-kb5002756-7f6e16a9-51a5-4e52-a3f0-058987382cf0",
+    "url": "https://support.microsoft.com/help/5002756"
+  },
+  "5002765": {
+    "date": "2016-08-12",
+    "uuid": "a6cac347-e030-450b-a309-b64fac21e408",
+    "slug": "description-of-the-security-update-for-powerpoint-2016-august-12-2025-kb5002765-a6cac347-e030-450b-a309-b64fac21e408",
+    "url": "https://support.microsoft.com/help/5002765"
+  },
+  "5002763": {
+    "date": "2016-08-12",
+    "uuid": "8a918733-513c-4239-8dc9-0852c2d0cf44",
+    "slug": "description-of-the-security-update-for-word-2016-august-12-2025-kb5002763-8a918733-513c-4239-8dc9-0852c2d0cf44",
+    "url": "https://support.microsoft.com/help/5002763"
+  },
+  "5065112": {
+    "date": "2025-08-01",
+    "uuid": "5aef7629-39f2-4336-9058-5e0aadaf47a7",
+    "slug": "august-2025-updates-for-microsoft-office-5aef7629-39f2-4336-9058-5e0aadaf47a7",
+    "url": "https://support.microsoft.com/help/5065112"
+  },
+  "5002769": {
+    "date": "2019-08-12",
+    "uuid": "8847d877-8114-4319-bf91-613512e21d2c",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-august-12-2025-kb5002769-8847d877-8114-4319-bf91-613512e21d2c",
+    "url": "https://support.microsoft.com/help/5002769"
+  },
+  "5002771": {
+    "date": "2016-08-12",
+    "uuid": "31fb7f4d-0f2e-4af2-b49a-10ce796ea34a",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2016-august-12-2025-kb5002771-31fb7f4d-0f2e-4af2-b49a-10ce796ea34a",
+    "url": "https://support.microsoft.com/help/5002771"
+  },
+  "5064010": {
+    "date": "2025-08-12",
+    "uuid": "33d7ac46-35d6-406b-a4a0-ef1d00bc590f",
+    "slug": "august-12-2025-hotpatch-kb5064010-os-build-26100-4851-33d7ac46-35d6-406b-a4a0-ef1d00bc590f",
+    "url": "https://support.microsoft.com/help/5064010"
   }
 }
