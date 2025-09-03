@@ -11,6 +11,8 @@ jobs:
       packages: write
     name: Update data
     runs-on: ubuntu-latest
+    outputs:
+      updated: ${{ steps.commit.outputs.changes_detected }}
     steps:
     - uses: actions/checkout@v4
       with:
@@ -27,8 +29,50 @@ jobs:
         sort -uo discovery.txt discovery.txt
         uv sync --all-extras --dev
         uv run update.py
-    - uses: stefanzweifel/git-auto-commit-action@v4
+    - uses: stefanzweifel/git-auto-commit-action@v6
+      id: commit
       with:
         commit_message: Update KB Data
         commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
         file_pattern: "data.json discovery.txt"
+  publish:
+    needs: update
+    if: github.event_name == 'schedule' && needs.jobs.outputs.updated == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+      - name: Set up Python
+        uses: actions/setup-python@v5
+      - name: Build Release
+        id: build
+        run: |
+          pipx install sqlite-utils
+          sqlite-utils insert data.db data data.csv --csv
+          jq -r '"kb,date,url,slug,uuid", keys[] as $k |  [$k]  + [  .[$k].date, .[$k].url, .[$k].slug, .[$k].uuid  ]|@csv' data.json > data.csv
+          count=$(jq length data.json)
+          echo "count=$count" >> $GITHUB_OUTPUT
+          - name: Create release
+      - name: Get current date
+        id: date
+        run: echo "date=$(date +'%Y.%m.%d')" >> $GITHUB_OUTPUT
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.date.outputs.date }}
+          name: Microsoft KB Metadata - ${{ steps.date.outputs.date }}
+          body: |
+            Microsoft KB Metadata Release ${{ steps.date.outputs.date }}
+            
+            **Database Stats:**
+            - Generated: ${{ steps.date.outputs.date }}
+            - KB Count: ${{ steps.build.outputs.count }}
+          files: |
+            data.db
+            data.csv
+            data.json
+          generate_release_notes: false
+          make_latest: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
