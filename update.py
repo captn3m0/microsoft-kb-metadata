@@ -75,7 +75,6 @@ def fetch_kb_mentions(session, url):
         soup = BeautifulSoup(response.text, features="html5lib")
         for content_div in soup.find_all('div', class_='content'):
             for a in content_div.find_all('a', href=True):
-                print(a)
                 l = a['href']
                 if l.startswith('https://support.microsoft.com/kb/') or l.startswith('https://support.microsoft.com/help/'):
                     yield l.split('/')[4]
