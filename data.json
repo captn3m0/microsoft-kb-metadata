@@ -23554,5 +23554,173 @@
     "uuid": "7288cbfb-aa6a-4143-b9b8-47ef4b895f78",
     "slug": "august-26-2025-kb5064080-os-build-22621-5840-preview-7288cbfb-aa6a-4143-b9b8-47ef4b895f78",
     "url": "https://support.microsoft.com/help/5064080"
+  },
+  "4019086": {
+    "date": "2017-08-08",
+    "uuid": "d73729a1-1311-b4e5-216f-173bb679f4cb",
+    "slug": "kb4019086-description-of-the-security-update-for-sql-server-2016-rtm-cu-august-8-2017-d73729a1-1311-b4e5-216f-173bb679f4cb",
+    "url": "https://support.microsoft.com/help/4019086"
+  },
+  "4019095": {
+    "date": "2017-08-08",
+    "uuid": "1e755560-72cd-93f1-8753-f38a94b6fe15",
+    "slug": "kb4019095-description-of-the-security-update-for-sql-server-2016-service-pack-1-cu-august-8-2017-1e755560-72cd-93f1-8753-f38a94b6fe15",
+    "url": "https://support.microsoft.com/help/4019095"
+  },
+  "5031043": {
+    "date": "2023-10-10",
+    "uuid": "c1a20132-e34c-402d-96ca-1e785ed51d45",
+    "slug": "kb5031043-procedure-to-continue-receiving-security-updates-after-extended-support-has-ended-on-october-10-2023-c1a20132-e34c-402d-96ca-1e785ed51d45",
+    "url": "https://support.microsoft.com/help/5031043"
+  },
+  "5064081": {
+    "date": "2025-08-29",
+    "uuid": "3f9eb9e1-72ca-4b42-af97-39aace788d93",
+    "slug": "august-29-2025-kb5064081-os-build-26100-5074-preview-3f9eb9e1-72ca-4b42-af97-39aace788d93",
+    "url": "https://support.microsoft.com/help/5064081"
+  },
+  "5009610": {
+    "date": "2022-01-11",
+    "uuid": "8f0630f1-89d0-40f6-a9d2-07e1250adc9b",
+    "slug": "january-11-2022-kb5009610-monthly-rollup-8f0630f1-89d0-40f6-a9d2-07e1250adc9b",
+    "url": "https://support.microsoft.com/help/5009610"
+  },
+  "5040497": {
+    "date": "2024-07-09",
+    "uuid": "cd3da2ba-2c00-4d6d-a53e-f6a9807c095a",
+    "slug": "july-9-2024-kb5040497-monthly-rollup-cd3da2ba-2c00-4d6d-a53e-f6a9807c095a",
+    "url": "https://support.microsoft.com/help/5040497"
+  },
+  "5041838": {
+    "date": "2024-08-13",
+    "uuid": "f45ba744-4cb9-4be5-abe8-8bd039c885f4",
+    "slug": "august-13-2024-kb5041838-monthly-rollup-f45ba744-4cb9-4be5-abe8-8bd039c885f4",
+    "url": "https://support.microsoft.com/help/5041838"
+  },
+  "5036967": {
+    "date": "2024-04-09",
+    "uuid": "c1f06e30-22ac-40d6-a4b1-aaef89102bc9",
+    "slug": "april-9-2024-kb5036967-monthly-rollup-c1f06e30-22ac-40d6-a4b1-aaef89102bc9",
+    "url": "https://support.microsoft.com/help/5036967"
+  },
+  "5037780": {
+    "date": "2024-05-14",
+    "uuid": "2943217c-e1e0-4bcf-a1f7-ebe594990285",
+    "slug": "may-14-2024-kb5037780-monthly-rollup-2943217c-e1e0-4bcf-a1f7-ebe594990285",
+    "url": "https://support.microsoft.com/help/5037780"
+  },
+  "4480963": {
+    "date": "2019-01-08",
+    "uuid": "87d4da09-d1e4-bb8b-93d5-67926f5e0e37",
+    "slug": "january-8-2019-kb4480963-monthly-rollup-87d4da09-d1e4-bb8b-93d5-67926f5e0e37",
+    "url": "https://support.microsoft.com/help/4480963"
+  },
+  "5009624": {
+    "date": "2022-01-11",
+    "uuid": "23f4910b-6bdd-475c-bb4d-c0e961aff0bc",
+    "slug": "january-11-2022-kb5009624-monthly-rollup-23f4910b-6bdd-475c-bb4d-c0e961aff0bc",
+    "url": "https://support.microsoft.com/help/5009624"
+  },
+  "5041828": {
+    "date": "2024-08-13",
+    "uuid": "7e0dccac-5746-4cac-b413-8f9182a625d0",
+    "slug": "august-13-2024-kb5041828-monthly-rollup-7e0dccac-5746-4cac-b413-8f9182a625d0",
+    "url": "https://support.microsoft.com/help/5041828"
+  },
+  "5058403": {
+    "date": "2025-05-13",
+    "uuid": "a5ae03d4-52d4-45c4-9413-ea76229f01bb",
+    "slug": "may-13-2025-kb5058403-monthly-rollup-a5ae03d4-52d4-45c4-9413-ea76229f01bb",
+    "url": "https://support.microsoft.com/help/5058403"
+  },
+  "5040456": {
+    "date": "2024-07-09",
+    "uuid": "121599c7-1b33-40a7-a93d-c753aa51e31f",
+    "slug": "july-9-2024-kb5040456-monthly-rollup-121599c7-1b33-40a7-a93d-c753aa51e31f",
+    "url": "https://support.microsoft.com/help/5040456"
+  },
+  "5009627": {
+    "date": "2022-01-11",
+    "uuid": "9faa8a9b-6eab-41ef-be85-0f72810e509d",
+    "slug": "january-11-2022-kb5009627-monthly-rollup-9faa8a9b-6eab-41ef-be85-0f72810e509d",
+    "url": "https://support.microsoft.com/help/5009627"
+  },
+  "5040499": {
+    "date": "2024-07-09",
+    "uuid": "c775faf6-cc57-44b6-9714-e1487063d38b",
+    "slug": "july-9-2024-kb5040499-monthly-rollup-c775faf6-cc57-44b6-9714-e1487063d38b",
+    "url": "https://support.microsoft.com/help/5040499"
+  },
+  "5041850": {
+    "date": "2024-08-13",
+    "uuid": "06d6d40a-03f5-4eee-b343-5215feb5dc97",
+    "slug": "august-13-2024-kb5041850-monthly-rollup-06d6d40a-03f5-4eee-b343-5215feb5dc97",
+    "url": "https://support.microsoft.com/help/5041850"
+  },
+  "5036932": {
+    "date": "2024-04-09",
+    "uuid": "710461e2-0df7-4079-ba00-3f1657d0a79c",
+    "slug": "april-9-2024-kb5036932-monthly-rollup-710461e2-0df7-4079-ba00-3f1657d0a79c",
+    "url": "https://support.microsoft.com/help/5036932"
+  },
+  "5037800": {
+    "date": "2024-05-14",
+    "uuid": "1f414450-bd9f-4720-8038-fcebe4c9ee1d",
+    "slug": "may-14-2024-kb5037800-monthly-rollup-1f414450-bd9f-4720-8038-fcebe4c9ee1d",
+    "url": "https://support.microsoft.com/help/5037800"
+  },
+  "5009586": {
+    "date": "2022-01-11",
+    "uuid": "9541f57c-89b0-48d6-ade2-31609678ce9b",
+    "slug": "january-11-2022-kb5009586-monthly-rollup-9541f57c-89b0-48d6-ade2-31609678ce9b",
+    "url": "https://support.microsoft.com/help/5009586"
+  },
+  "5041851": {
+    "date": "2024-08-13",
+    "uuid": "1678d4cf-5cc7-4227-9e5c-697df2d910e6",
+    "slug": "august-13-2024-kb5041851-monthly-rollup-1678d4cf-5cc7-4227-9e5c-697df2d910e6",
+    "url": "https://support.microsoft.com/help/5041851"
+  },
+  "5058451": {
+    "date": "2025-05-13",
+    "uuid": "0313115f-8912-4f62-ad70-50188f6124c7",
+    "slug": "may-13-2025-kb5058451-monthly-rollup-0313115f-8912-4f62-ad70-50188f6124c7",
+    "url": "https://support.microsoft.com/help/5058451"
+  },
+  "5040485": {
+    "date": "2024-07-09",
+    "uuid": "72b8b002-873c-49df-b407-030ed099f2d1",
+    "slug": "july-9-2024-kb5040485-monthly-rollup-72b8b002-873c-49df-b407-030ed099f2d1",
+    "url": "https://support.microsoft.com/help/5040485"
+  },
+  "5057588": {
+    "date": "2022-04-08",
+    "uuid": "ecfa2dfb-b3bc-4718-aaae-c581e022566d",
+    "slug": "kb5057588-windows-recovery-environment-update-for-windows-server-2022-april-8-2025-ecfa2dfb-b3bc-4718-aaae-c581e022566d",
+    "url": "https://support.microsoft.com/help/5057588"
+  },
+  "5063522": {
+    "date": "2022-07-08",
+    "uuid": "73d96b95-f23b-4e46-88bd-4fbc323c4116",
+    "slug": "kb5063522-windows-recovery-environment-update-for-windows-server-2022-july-8-2025-73d96b95-f23b-4e46-88bd-4fbc323c4116",
+    "url": "https://support.microsoft.com/help/5063522"
+  },
+  "4480970": {
+    "date": "2019-01-08",
+    "uuid": "005201f7-4a06-616e-1a5b-fd215627bcf9",
+    "slug": "january-8-2019-kb4480970-monthly-rollup-005201f7-4a06-616e-1a5b-fd215627bcf9",
+    "url": "https://support.microsoft.com/help/4480970"
+  },
+  "4480968": {
+    "date": "2019-01-08",
+    "uuid": "a05b8e59-4a5f-90b3-3e50-14aaf6461d71",
+    "slug": "january-8-2019-kb4480968-monthly-rollup-a05b8e59-4a5f-90b3-3e50-14aaf6461d71",
+    "url": "https://support.microsoft.com/help/4480968"
+  },
+  "4480975": {
+    "date": "2019-01-08",
+    "uuid": "d2c54f66-fa39-7319-0738-ebe987373657",
+    "slug": "january-8-2019-kb4480975-monthly-rollup-d2c54f66-fa39-7319-0738-ebe987373657",
+    "url": "https://support.microsoft.com/help/4480975"
   }
 }

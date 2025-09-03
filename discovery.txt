@@ -1,3 +1,7 @@
+https://learn.microsoft.com/en-us/Exchange/new-features/build-numbers-and-release-dates?view=exchserver-2019
+https://learn.microsoft.com/en-us/SkypeForBusiness/sfb-client-updates
+https://learn.microsoft.com/en-us/SkypeForBusiness/sfb-server-updates
+https://learn.microsoft.com/en-us/azure-stack/operator/release-notes-security-updates?view=azs-2501
 https://learn.microsoft.com/en-us/azure/azure-arc/servers/api-extended-security-updates
 https://learn.microsoft.com/en-us/azure/azure-arc/servers/billing-extended-security-updates
 https://learn.microsoft.com/en-us/azure/azure-arc/servers/deliver-extended-security-updates
@@ -6,10 +10,8 @@ https://learn.microsoft.com/en-us/azure/azure-arc/servers/prepare-extended-secur
 https://learn.microsoft.com/en-us/azure/azure-arc/servers/troubleshoot-extended-security-updates
 https://learn.microsoft.com/en-us/azure/azure-arc/vmware-vsphere/deliver-extended-security-updates-for-vmware-vms-through-arc
 https://learn.microsoft.com/en-us/azure/azure-vmware/extended-security-updates-windows-sql-server
-https://learn.microsoft.com/en-us/azure-stack/operator/release-notes-security-updates?view=azs-2501
 https://learn.microsoft.com/en-us/azure/update-manager/extended-security-updates
 https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/security-updates-pks
-https://learn.microsoft.com/en-us/Exchange/new-features/build-numbers-and-release-dates?view=exchserver-2019
 https://learn.microsoft.com/en-us/intune/configmgr/sum/deploy-use/example-scenario-deploy-monitor-monthly-security-updates
 https://learn.microsoft.com/en-us/lifecycle/faq/extended-security-updates
 https://learn.microsoft.com/en-us/microsoft-365/test-base/validate-monthly-security-updates?view=o365-worldwide
@@ -2069,8 +2071,6 @@ https://learn.microsoft.com/en-us/security-updates/vulnerabilityresearchadvisori
 https://learn.microsoft.com/en-us/security-updates/vulnerabilityresearchadvisories/microsoftvulnerabilityresearchadvisories
 https://learn.microsoft.com/en-us/security-updates/windowsupdateservices/18125970
 https://learn.microsoft.com/en-us/shows/it-ops-talk/windows-server-2008-end-of-support-how-to-get-extended-security-updates
-https://learn.microsoft.com/en-us/SkypeForBusiness/sfb-client-updates
-https://learn.microsoft.com/en-us/SkypeForBusiness/sfb-server-updates
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/add-features-to-an-instance-of-sql-server-setup?view=sql-server-ver17
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/change-the-database-compatibility-mode-and-use-the-query-store?view=sql-server-ver17
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/check-parameters-for-the-system-configuration-checker?view=sql-server-ver17
@@ -2079,7 +2079,6 @@ https://learn.microsoft.com/en-us/sql/database-engine/install-windows/compatibil
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/complete-the-database-engine-upgrade?view=sql-server-ver17
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/configure-sql-server-on-a-server-core-installation?view=sql-server-ver17
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/considerations-for-installing-sql-server-using-sysprep?view=sql-server-ver17
-https://learn.microsoft.com/en-us/sql/database-engine/install-windows/installing-updates-from-the-command-prompt?view=sql-server-ver17
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server-database-engine?view=sql-server-ver17
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server-from-the-command-prompt?view=sql-server-ver17
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server-from-the-installation-wizard-setup?view=sql-server-ver17
@@ -2089,9 +2088,10 @@ https://learn.microsoft.com/en-us/sql/database-engine/install-windows/install-sq
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server-using-a-configuration-file?view=sql-server-ver17
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server-using-slipstream?view=sql-server-ver17
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server-using-sysprep?view=sql-server-ver17
-https://learn.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server?view=sql-server-ver17
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server-with-powershell-desired-state-configuration?view=sql-server-ver17
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server-with-smb-fileshare-as-a-storage-option?view=sql-server-ver17
+https://learn.microsoft.com/en-us/sql/database-engine/install-windows/install-sql-server?view=sql-server-ver17
+https://learn.microsoft.com/en-us/sql/database-engine/install-windows/installing-updates-from-the-command-prompt?view=sql-server-ver17
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/latest-updates-for-microsoft-sql-server?view=sql-server-ver16
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/plan-and-test-the-database-engine-upgrade-plan?view=sql-server-ver17
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/rename-a-computer-that-hosts-a-stand-alone-instance-of-sql-server?view=sql-server-ver17
@@ -2101,8 +2101,8 @@ https://learn.microsoft.com/en-us/sql/database-engine/install-windows/supported-
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/supported-version-and-edition-upgrades-2022?view=sql-server-ver17
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/supported-version-and-edition-upgrades?view=sql-server-ver17
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/upgrade-analysis-services?view=sql-server-ver17
-https://learn.microsoft.com/en-us/sql/database-engine/install-windows/upgrade-database-engine?view=sql-server-ver17
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/upgrade-data-quality-services?view=sql-server-ver17
+https://learn.microsoft.com/en-us/sql/database-engine/install-windows/upgrade-database-engine?view=sql-server-ver17
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/upgrade-downgrade-sql-server-edition-setup?view=sql-server-ver17
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/upgrade-master-data-services?view=sql-server-ver17
 https://learn.microsoft.com/en-us/sql/database-engine/install-windows/upgrade-power-pivot-for-sharepoint?view=sql-server-ver17
@@ -2267,14 +2267,16 @@ https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2022/cumul
 https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2022/cumulativeupdate9
 https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2022/database-accessibility-issues-high-volume-customer-workloads
 https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2022/database-suspend-incorrect-run-alter-server-configuration
-https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2022/errors-apply-cu-contained-availability-group
 https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2022/error-set-sql-server-agent-job-history-log
+https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2022/errors-apply-cu-contained-availability-group
 https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2022/incorrect-results-run-queries
 https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2022/make-enhancements-sqliosim-utility
 https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2022/memory-exceed-configured-limits-memory-memorylimitmb
 https://learn.microsoft.com/en-us/troubleshoot/sql/releases/sqlserver-2022/microsoft-entra-managed-identity-support-for-backup-restore-database-ekm-akv
 https://learn.microsoft.com/en-us/troubleshoot/windows-client/windows-7-eos-faq/troubleshoot-extended-security-updates-issues
 https://learn.microsoft.com/en-us/troubleshoot/windows-client/windows-7-eos-faq/windows-7-extended-security-updates-faq
+https://learn.microsoft.com/en-us/windows-server/get-started/extended-security-updates-deploy
+https://learn.microsoft.com/en-us/windows-server/get-started/extended-security-updates-overview
 https://learn.microsoft.com/en-us/windows/release-health/
 https://learn.microsoft.com/en-us/windows/release-health/ai-components-release-information
 https://learn.microsoft.com/en-us/windows/release-health/release-information
@@ -2309,10 +2311,8 @@ https://learn.microsoft.com/en-us/windows/release-health/status-windows-server-2
 https://learn.microsoft.com/en-us/windows/release-health/status-windows-server-2022
 https://learn.microsoft.com/en-us/windows/release-health/status-windows-server-2025
 https://learn.microsoft.com/en-us/windows/release-health/supported-versions-windows-client
-https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information
 https://learn.microsoft.com/en-us/windows/release-health/windows-message-center
 https://learn.microsoft.com/en-us/windows/release-health/windows-server-release-info
-https://learn.microsoft.com/en-us/windows-server/get-started/extended-security-updates-deploy
-https://learn.microsoft.com/en-us/windows-server/get-started/extended-security-updates-overview
+https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information
 https://learn.microsoft.com/en-us/windows/whats-new/enable-extended-security-updates
 https://learn.microsoft.com/en-us/windows/whats-new/extended-security-updates
