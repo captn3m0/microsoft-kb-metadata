@@ -23722,5 +23722,11 @@
     "uuid": "d2c54f66-fa39-7319-0738-ebe987373657",
     "slug": "january-8-2019-kb4480975-monthly-rollup-d2c54f66-fa39-7319-0738-ebe987373657",
     "url": "https://support.microsoft.com/help/4480975"
+  },
+  "4058561": {
+    "date": "2018-01-03",
+    "uuid": "4bf2fbd1-85f5-df11-5d54-36c4b96ff796",
+    "slug": "description-of-the-security-update-for-sql-server-2016-sp1-cu7-january-3-2018-4bf2fbd1-85f5-df11-5d54-36c4b96ff796",
+    "url": "https://support.microsoft.com/help/4058561"
   }
 }
