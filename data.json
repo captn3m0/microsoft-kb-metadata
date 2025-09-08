@@ -23728,5 +23728,29 @@
     "uuid": "4bf2fbd1-85f5-df11-5d54-36c4b96ff796",
     "slug": "description-of-the-security-update-for-sql-server-2016-sp1-cu7-january-3-2018-4bf2fbd1-85f5-df11-5d54-36c4b96ff796",
     "url": "https://support.microsoft.com/help/4058561"
+  },
+  "5066373": {
+    "date": "2025-09-08",
+    "uuid": "7c1d02ca-c9c0-41ec-9279-4fa245341a9c",
+    "slug": "hotfix-update-for-exchange-server-subscription-edition-rtm-hu2-september-8-2025-kb5066373-7c1d02ca-c9c0-41ec-9279-4fa245341a9c",
+    "url": "https://support.microsoft.com/help/5066373"
+  },
+  "5066372": {
+    "date": "2025-09-08",
+    "uuid": "fa57ca1b-7562-486b-b376-c69d8513488d",
+    "slug": "hotfix-update-for-exchange-server-2019-cu15-hu4-september-8-2025-kb5066372-fa57ca1b-7562-486b-b376-c69d8513488d",
+    "url": "https://support.microsoft.com/help/5066372"
+  },
+  "5066371": {
+    "date": "2025-09-08",
+    "uuid": "3cf1b690-3788-4f9f-b5b4-1fce39bb874b",
+    "slug": "hotfix-update-for-exchange-server-2019-cu14-hu7-september-8-2025-kb5066371-3cf1b690-3788-4f9f-b5b4-1fce39bb874b",
+    "url": "https://support.microsoft.com/help/5066371"
+  },
+  "5066370": {
+    "date": "2025-09-08",
+    "uuid": "594c7a45-f9be-41ab-9271-8bc9cfbcfed5",
+    "slug": "hotfix-update-for-exchange-server-2016-cu23-hu18-september-8-2025-kb5066370-594c7a45-f9be-41ab-9271-8bc9cfbcfed5",
+    "url": "https://support.microsoft.com/help/5066370"
   }
 }
