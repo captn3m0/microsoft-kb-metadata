@@ -23752,5 +23752,119 @@
     "uuid": "594c7a45-f9be-41ab-9271-8bc9cfbcfed5",
     "slug": "hotfix-update-for-exchange-server-2016-cu23-hu18-september-8-2025-kb5066370-594c7a45-f9be-41ab-9271-8bc9cfbcfed5",
     "url": "https://support.microsoft.com/help/5066370"
+  },
+  "5065221": {
+    "date": "2025-09-09",
+    "uuid": "3acb02fd-cc9c-4191-ae76-3990588d0ecb",
+    "slug": "kb5065221-description-of-the-security-update-for-sql-server-2022-gdr-september-9-2025-3acb02fd-cc9c-4191-ae76-3990588d0ecb",
+    "url": "https://support.microsoft.com/help/5065221"
+  },
+  "5065220": {
+    "date": "2025-09-09",
+    "uuid": "e58e6d66-717c-4e33-adc1-4a89d3dd71f5",
+    "slug": "kb5065220-description-of-the-security-update-for-sql-server-2022-cu20-september-9-2025-e58e6d66-717c-4e33-adc1-4a89d3dd71f5",
+    "url": "https://support.microsoft.com/help/5065220"
+  },
+  "5065223": {
+    "date": "2025-09-09",
+    "uuid": "b5a5881c-d5b8-4817-8d74-d02b9e2d87a2",
+    "slug": "kb5065223-description-of-the-security-update-for-sql-server-2019-gdr-september-9-2025-b5a5881c-d5b8-4817-8d74-d02b9e2d87a2",
+    "url": "https://support.microsoft.com/help/5065223"
+  },
+  "5065222": {
+    "date": "2025-09-09",
+    "uuid": "152ac456-cb04-4b88-8177-a77fe24ac80d",
+    "slug": "kb5065222-description-of-the-security-update-for-sql-server-2019-cu32-september-9-2025-152ac456-cb04-4b88-8177-a77fe24ac80d",
+    "url": "https://support.microsoft.com/help/5065222"
+  },
+  "5065224": {
+    "date": "2025-09-09",
+    "uuid": "7c1efe8b-f7c4-434a-8f35-43921de166d3",
+    "slug": "kb5065224-description-of-the-security-update-for-sql-server-2017-gdr-september-9-2025-7c1efe8b-f7c4-434a-8f35-43921de166d3",
+    "url": "https://support.microsoft.com/help/5065224"
+  },
+  "5065225": {
+    "date": "2025-09-09",
+    "uuid": "b1addb22-3bfd-4870-b914-c020c2a3d2be",
+    "slug": "kb5065225-description-of-the-security-update-for-sql-server-2017-cu31-september-9-2025-b1addb22-3bfd-4870-b914-c020c2a3d2be",
+    "url": "https://support.microsoft.com/help/5065225"
+  },
+  "5065227": {
+    "date": "2025-09-09",
+    "uuid": "d8b13d39-30cc-4a82-9382-0ecf1b2ff118",
+    "slug": "kb5065227-description-of-the-security-update-for-sql-server-2016-sp3-azure-connect-feature-pack-september-9-2025-d8b13d39-30cc-4a82-9382-0ecf1b2ff118",
+    "url": "https://support.microsoft.com/help/5065227"
+  },
+  "5065226": {
+    "date": "2025-09-09",
+    "uuid": "7cf66f6b-dda8-47e1-bcb2-2f4630e5c48a",
+    "slug": "kb5065226-description-of-the-security-update-for-sql-server-2016-sp3-gdr-september-9-2025-7cf66f6b-dda8-47e1-bcb2-2f4630e5c48a",
+    "url": "https://support.microsoft.com/help/5065226"
+  },
+  "5065426": {
+    "date": "2025-09-09",
+    "uuid": "77a41d9b-1b7c-4198-b9a5-3c4b6706dea9",
+    "slug": "september-9-2025-kb5065426-os-build-26100-6584-77a41d9b-1b7c-4198-b9a5-3c4b6706dea9",
+    "url": "https://support.microsoft.com/help/5065426"
+  },
+  "5065430": {
+    "date": "2025-09-09",
+    "uuid": "d4039915-f9b0-4304-9707-8036c2115040",
+    "slug": "september-9-2025-kb5065430-os-build-10240-21128-d4039915-f9b0-4304-9707-8036c2115040",
+    "url": "https://support.microsoft.com/help/5065430"
+  },
+  "5065427": {
+    "date": "2025-09-09",
+    "uuid": "c465c263-7b31-45e7-b6df-d9780d68a984",
+    "slug": "september-9-2025-kb5065427-os-build-14393-8422-c465c263-7b31-45e7-b6df-d9780d68a984",
+    "url": "https://support.microsoft.com/help/5065427"
+  },
+  "5065428": {
+    "date": "2025-09-09",
+    "uuid": "97df1393-98e7-4e09-8fb8-b3f53e436061",
+    "slug": "september-9-2025-kb5065428-os-build-17763-7792-97df1393-98e7-4e09-8fb8-b3f53e436061",
+    "url": "https://support.microsoft.com/help/5065428"
+  },
+  "5065429": {
+    "date": "2025-09-09",
+    "uuid": "b343e907-4f50-41d9-80f8-519490551b91",
+    "slug": "september-9-2025-kb5065429-os-builds-19044-6332-and-19045-6332-b343e907-4f50-41d9-80f8-519490551b91",
+    "url": "https://support.microsoft.com/help/5065429"
+  },
+  "5065431": {
+    "date": "2025-09-09",
+    "uuid": "c428cf71-e28d-490f-b0d7-a587ebab0667",
+    "slug": "september-9-2025-kb5065431-os-builds-22621-5909-and-22631-5909-c428cf71-e28d-490f-b0d7-a587ebab0667",
+    "url": "https://support.microsoft.com/help/5065431"
+  },
+  "5063950": {
+    "date": "2025-08-12",
+    "uuid": "ad1dc185-bd8f-4a80-8584-db7cfa515f47",
+    "slug": "august-12-2025-kb5063950-monthly-rollup-ad1dc185-bd8f-4a80-8584-db7cfa515f47",
+    "url": "https://support.microsoft.com/help/5063950"
+  },
+  "5065767": {
+    "date": "2025-09-09",
+    "uuid": "d4084602-7230-49b0-9a58-9fd97a148c1a",
+    "slug": "kb5065767-servicing-stack-update-for-windows-server-2012-r2-september-9-2025-d4084602-7230-49b0-9a58-9fd97a148c1a",
+    "url": "https://support.microsoft.com/help/5065767"
+  },
+  "5063906": {
+    "date": "2025-08-12",
+    "uuid": "3184eb09-6864-4ee5-841e-861eb973ce2d",
+    "slug": "august-12-2025-kb5063906-monthly-rollup-3184eb09-6864-4ee5-841e-861eb973ce2d",
+    "url": "https://support.microsoft.com/help/5063906"
+  },
+  "5065768": {
+    "date": "2012-09-09",
+    "uuid": "ebab4156-d1bf-4bf8-954d-4da045c2a3e6",
+    "slug": "kb5065768-servicing-stack-update-for-windows-server-2012-september-9-2025-ebab4156-d1bf-4bf8-954d-4da045c2a3e6",
+    "url": "https://support.microsoft.com/help/5065768"
+  },
+  "5065432": {
+    "date": "2025-09-09",
+    "uuid": "78d6c76c-f2cc-40d5-bb3a-290abf4a0321",
+    "slug": "september-9-2025-kb5065432-os-build-20348-4171-78d6c76c-f2cc-40d5-bb3a-290abf4a0321",
+    "url": "https://support.microsoft.com/help/5065432"
   }
 }
