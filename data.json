@@ -23866,5 +23866,65 @@
     "uuid": "78d6c76c-f2cc-40d5-bb3a-290abf4a0321",
     "slug": "september-9-2025-kb5065432-os-build-20348-4171-78d6c76c-f2cc-40d5-bb3a-290abf4a0321",
     "url": "https://support.microsoft.com/help/5065432"
+  },
+  "5002782": {
+    "date": "2016-09-09",
+    "uuid": "5c24e166-87d9-4b02-81d4-ed2aca235079",
+    "slug": "description-of-the-security-update-for-excel-2016-september-09-2025-kb5002782-5c24e166-87d9-4b02-81d4-ed2aca235079",
+    "url": "https://support.microsoft.com/help/5002782"
+  },
+  "5002762": {
+    "date": "2016-09-09",
+    "uuid": "e3386ece-22f2-4f65-b760-6a69ccf24eca",
+    "slug": "description-of-the-security-update-for-office-2016-september-09-2025-kb5002762-e3386ece-22f2-4f65-b760-6a69ccf24eca",
+    "url": "https://support.microsoft.com/help/5002762"
+  },
+  "5002781": {
+    "date": "2016-09-09",
+    "uuid": "c409b3b3-a7c2-4c6d-8f95-7605ee7a0c8b",
+    "slug": "description-of-the-security-update-for-office-2016-september-09-2025-kb5002781-c409b3b3-a7c2-4c6d-8f95-7605ee7a0c8b",
+    "url": "https://support.microsoft.com/help/5002781"
+  },
+  "5002576": {
+    "date": "2016-09-09",
+    "uuid": "6f93732a-6ebb-4f69-9c38-dc7dc276a14b",
+    "slug": "description-of-the-security-update-for-office-2016-september-09-2025-kb5002576-6f93732a-6ebb-4f69-9c38-dc7dc276a14b",
+    "url": "https://support.microsoft.com/help/5002576"
+  },
+  "5002766": {
+    "date": "2016-09-09",
+    "uuid": "544688ff-47b7-4e5e-acfd-692114bc4a01",
+    "slug": "description-of-the-security-update-for-office-2016-september-09-2025-kb5002766-544688ff-47b7-4e5e-acfd-692114bc4a01",
+    "url": "https://support.microsoft.com/help/5002766"
+  },
+  "5002779": {
+    "date": "2016-09-09",
+    "uuid": "9094899f-d07c-4195-9f8d-213a51582a4c",
+    "slug": "description-of-the-security-update-for-powerpoint-2016-september-09-2025-kb5002779-9094899f-d07c-4195-9f8d-213a51582a4c",
+    "url": "https://support.microsoft.com/help/5002779"
+  },
+  "5002780": {
+    "date": "2016-09-09",
+    "uuid": "cec18bcd-59bf-48b3-a68b-765a664f7aba",
+    "slug": "description-of-the-security-update-for-word-2016-september-09-2025-kb5002780-cec18bcd-59bf-48b3-a68b-765a664f7aba",
+    "url": "https://support.microsoft.com/help/5002780"
+  },
+  "5066270": {
+    "date": "2025-09-01",
+    "uuid": "815945e2-7b55-4134-b8c9-f2ac15f6d4b5",
+    "slug": "september-2025-updates-for-microsoft-office-815945e2-7b55-4134-b8c9-f2ac15f6d4b5",
+    "url": "https://support.microsoft.com/help/5066270"
+  },
+  "5002775": {
+    "date": "2019-09-09",
+    "uuid": "d4d4c0c9-3008-41ac-bacc-a00fc91240d0",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-september-09-2025-kb5002775-d4d4c0c9-3008-41ac-bacc-a00fc91240d0",
+    "url": "https://support.microsoft.com/help/5002775"
+  },
+  "5002778": {
+    "date": "2016-09-09",
+    "uuid": "407cd67b-c9fd-40d8-a015-f0cd5d61a8c9",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2016-september-09-2025-kb5002778-407cd67b-c9fd-40d8-a015-f0cd5d61a8c9",
+    "url": "https://support.microsoft.com/help/5002778"
   }
 }
