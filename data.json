@@ -23938,5 +23938,17 @@
     "uuid": "a2a30d4d-77b8-49ff-b753-79b637cfdbaa",
     "slug": "description-of-the-security-update-for-sharepoint-server-2016-language-pack-september-09-2025-kb5002777-a2a30d4d-77b8-49ff-b753-79b637cfdbaa",
     "url": "https://support.microsoft.com/help/5002777"
+  },
+  "5065474": {
+    "date": "2025-09-09",
+    "uuid": "0a582ab6-1a10-4dab-9a5a-abe47c2e429b",
+    "slug": "september-9-2025-hotpatch-kb5065474-os-build-26100-6508-0a582ab6-1a10-4dab-9a5a-abe47c2e429b",
+    "url": "https://support.microsoft.com/help/5065474"
+  },
+  "5065306": {
+    "date": "2025-09-09",
+    "uuid": "7d03b352-1c3e-48ac-bf4e-acac39b1d9cb",
+    "slug": "september-9-2025-hotpatch-kb5065306-os-build-20348-4106-7d03b352-1c3e-48ac-bf4e-acac39b1d9cb",
+    "url": "https://support.microsoft.com/help/5065306"
   }
 }
