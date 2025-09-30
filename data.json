@@ -23950,5 +23950,29 @@
     "uuid": "7d03b352-1c3e-48ac-bf4e-acac39b1d9cb",
     "slug": "september-9-2025-hotpatch-kb5065306-os-build-20348-4106-7d03b352-1c3e-48ac-bf4e-acac39b1d9cb",
     "url": "https://support.microsoft.com/help/5065306"
+  },
+  "5065789": {
+    "date": "2025-09-29",
+    "uuid": "fa03ce47-cec5-4d1c-87d0-cac4195b4b4e",
+    "slug": "september-29-2025-kb5065789-os-build-26100-6725-preview-fa03ce47-cec5-4d1c-87d0-cac4195b4b4e",
+    "url": "https://support.microsoft.com/help/5065789"
+  },
+  "5066198": {
+    "date": "2025-09-25",
+    "uuid": "455ec6e5-c61f-453c-a021-201c7568b49a",
+    "slug": "september-25-2025-kb5066198-os-build-19045-6396-preview-455ec6e5-c61f-453c-a021-201c7568b49a",
+    "url": "https://support.microsoft.com/help/5066198"
+  },
+  "5065790": {
+    "date": "2025-09-23",
+    "uuid": "cb0b964a-c953-4605-a203-572dde2d9433",
+    "slug": "september-23-2025-kb5065790-os-build-22621-5984-preview-cb0b964a-c953-4605-a203-572dde2d9433",
+    "url": "https://support.microsoft.com/help/5065790"
+  },
+  "5068221": {
+    "date": "2025-09-22",
+    "uuid": "4ff7f1be-b1f7-410f-b380-4aab5ba5fe2b",
+    "slug": "september-22-2025-kb5068221-os-build-26100-6588-out-of-band-4ff7f1be-b1f7-410f-b380-4aab5ba5fe2b",
+    "url": "https://support.microsoft.com/help/5068221"
   }
 }
