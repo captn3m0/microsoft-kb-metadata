@@ -23974,5 +23974,11 @@
     "uuid": "4ff7f1be-b1f7-410f-b380-4aab5ba5fe2b",
     "slug": "september-22-2025-kb5068221-os-build-26100-6588-out-of-band-4ff7f1be-b1f7-410f-b380-4aab5ba5fe2b",
     "url": "https://support.microsoft.com/help/5068221"
+  },
+  "5002784": {
+    "date": "2025-09-09",
+    "uuid": "b07efaab-d18a-4d3b-8dbd-38e1aee59abf",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-september-09-2025-kb5002784-b07efaab-d18a-4d3b-8dbd-38e1aee59abf",
+    "url": "https://support.microsoft.com/help/5002784"
   }
 }
