@@ -23980,5 +23980,125 @@
     "uuid": "b07efaab-d18a-4d3b-8dbd-38e1aee59abf",
     "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-september-09-2025-kb5002784-b07efaab-d18a-4d3b-8dbd-38e1aee59abf",
     "url": "https://support.microsoft.com/help/5002784"
+  },
+  "5066366": {
+    "date": "2025-10-14",
+    "uuid": "f7e414bb-904c-48a5-b83c-6c90905bbb7b",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-subscription-edition-rtm-october-14-2025-kb5066366-f7e414bb-904c-48a5-b83c-6c90905bbb7b",
+    "url": "https://support.microsoft.com/help/5066366"
+  },
+  "5066367": {
+    "date": "2025-10-14",
+    "uuid": "19a1091c-e0b3-4078-be6b-312463063d05",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-2019-cu15-october-14-2025-kb5066367-19a1091c-e0b3-4078-be6b-312463063d05",
+    "url": "https://support.microsoft.com/help/5066367"
+  },
+  "5066368": {
+    "date": "2025-10-14",
+    "uuid": "abfdd9b8-8cf7-47c3-b389-42497b59bcd9",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-2019-cu14-october-14-2025-kb5066368-abfdd9b8-8cf7-47c3-b389-42497b59bcd9",
+    "url": "https://support.microsoft.com/help/5066368"
+  },
+  "5066369": {
+    "date": "2025-10-14",
+    "uuid": "8ca2ab99-dfde-4329-896a-3faa677d2603",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-2016-cu23-october-14-2025-kb5066369-8ca2ab99-dfde-4329-896a-3faa677d2603",
+    "url": "https://support.microsoft.com/help/5066369"
+  },
+  "5002720": {
+    "date": "2016-10-14",
+    "uuid": "3e1ebac7-0018-4fb6-8e2d-fb614fc14a9f",
+    "slug": "description-of-the-security-update-for-access-2016-october-14-2025-kb5002720-3e1ebac7-0018-4fb6-8e2d-fb614fc14a9f",
+    "url": "https://support.microsoft.com/help/5002720"
+  },
+  "5002719": {
+    "date": "2016-10-14",
+    "uuid": "43f5ad67-913f-4813-8460-d3392af1a9d4",
+    "slug": "description-of-the-security-update-for-office-2016-october-14-2025-kb5002719-43f5ad67-913f-4813-8460-d3392af1a9d4",
+    "url": "https://support.microsoft.com/help/5002719"
+  },
+  "5002794": {
+    "date": "2016-10-14",
+    "uuid": "e9e83076-24eb-4452-b423-d0524f838a0e",
+    "slug": "description-of-the-security-update-for-excel-2016-october-14-2025-kb5002794-e9e83076-24eb-4452-b423-d0524f838a0e",
+    "url": "https://support.microsoft.com/help/5002794"
+  },
+  "5002757": {
+    "date": "2016-10-14",
+    "uuid": "7b6c7fee-152e-4142-bb62-2183f7ebe4e1",
+    "slug": "description-of-the-security-update-for-office-2016-october-14-2025-kb5002757-7b6c7fee-152e-4142-bb62-2183f7ebe4e1",
+    "url": "https://support.microsoft.com/help/5002757"
+  },
+  "5002792": {
+    "date": "2016-10-14",
+    "uuid": "beda5ef1-d466-4ded-a5b4-94a584de75da",
+    "slug": "description-of-the-security-update-for-office-2016-october-14-2025-kb5002792-beda5ef1-d466-4ded-a5b4-94a584de75da",
+    "url": "https://support.microsoft.com/help/5002792"
+  },
+  "5002790": {
+    "date": "2016-10-14",
+    "uuid": "bb7f465e-8327-4e70-a385-a13db098c689",
+    "slug": "description-of-the-security-update-for-powerpoint-2016-october-14-2025-kb5002790-bb7f465e-8327-4e70-a385-a13db098c689",
+    "url": "https://support.microsoft.com/help/5002790"
+  },
+  "5002341": {
+    "date": "2016-10-14",
+    "uuid": "d8fd8ae8-3893-4ca5-bbe7-b6168eecc26e",
+    "slug": "description-of-the-security-update-for-office-2016-october-14-2025-kb5002341-d8fd8ae8-3893-4ca5-bbe7-b6168eecc26e",
+    "url": "https://support.microsoft.com/help/5002341"
+  },
+  "5002789": {
+    "date": "2016-10-14",
+    "uuid": "d2009274-3422-4830-8c1e-56b7c55ed847",
+    "slug": "description-of-the-security-update-for-word-2016-october-14-2025-kb5002789-d2009274-3422-4830-8c1e-56b7c55ed847",
+    "url": "https://support.microsoft.com/help/5002789"
+  },
+  "5068480": {
+    "date": "2025-10-01",
+    "uuid": "3636158f-3f55-48db-828e-dfd57514d067",
+    "slug": "october-2025-updates-for-microsoft-office-3636158f-3f55-48db-828e-dfd57514d067",
+    "url": "https://support.microsoft.com/help/5068480"
+  },
+  "5002786": {
+    "date": "2025-10-14",
+    "uuid": "0048b6db-f115-443e-aba5-1a3607180c50",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-october-14-2025-kb5002786-0048b6db-f115-443e-aba5-1a3607180c50",
+    "url": "https://support.microsoft.com/help/5002786"
+  },
+  "5002796": {
+    "date": "2019-10-14",
+    "uuid": "b542f127-83bb-46d5-b2e3-4229c559efcf",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-october-14-2025-kb5002796-b542f127-83bb-46d5-b2e3-4229c559efcf",
+    "url": "https://support.microsoft.com/help/5002796"
+  },
+  "5002798": {
+    "date": "2025-10-14",
+    "uuid": "c6ff051c-c921-4c23-85dd-55da4502f5ef",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-language-pack-october-14-2025-kb5002798-c6ff051c-c921-4c23-85dd-55da4502f5ef",
+    "url": "https://support.microsoft.com/help/5002798"
+  },
+  "5002788": {
+    "date": "2016-10-14",
+    "uuid": "1fd3f61d-1457-4c93-bea9-993edb7fa333",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2016-october-14-2025-kb5002788-1fd3f61d-1457-4c93-bea9-993edb7fa333",
+    "url": "https://support.microsoft.com/help/5002788"
+  },
+  "5002787": {
+    "date": "2025-10-14",
+    "uuid": "ecd27b16-b66c-4279-874f-ba7ef93efadf",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2016-language-pack-october-14-2025-kb5002787-ecd27b16-b66c-4279-874f-ba7ef93efadf",
+    "url": "https://support.microsoft.com/help/5002787"
+  },
+  "5066782": {
+    "date": "2025-10-14",
+    "uuid": "f4af3c9e-7a60-4d17-a964-cfe1f1dd15f6",
+    "slug": "october-14-2025-kb5066782-os-build-20348-4294-f4af3c9e-7a60-4d17-a964-cfe1f1dd15f6",
+    "url": "https://support.microsoft.com/help/5066782"
+  },
+  "5066835": {
+    "date": "2025-10-14",
+    "uuid": "1db237d8-9f3b-4218-9515-3e0a32729685",
+    "slug": "october-14-2025-kb5066835-os-builds-26200-6899-and-26100-6899-1db237d8-9f3b-4218-9515-3e0a32729685",
+    "url": "https://support.microsoft.com/help/5066835"
   }
 }
