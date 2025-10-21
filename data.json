@@ -24124,5 +24124,17 @@
     "uuid": "b868ef7c-22fa-4991-b286-a1728b93079b",
     "slug": "october-14-2025-kb5066793-os-builds-22621-6060-and-22631-6060-b868ef7c-22fa-4991-b286-a1728b93079b",
     "url": "https://support.microsoft.com/help/5066793"
+  },
+  "5070773": {
+    "date": "2025-10-20",
+    "uuid": "0f533ed7-949a-4b89-8d0f-6ee751adfcd4",
+    "slug": "october-20-2025-kb5070773-os-builds-26200-6901-and-26100-6901-out-of-band-0f533ed7-949a-4b89-8d0f-6ee751adfcd4",
+    "url": "https://support.microsoft.com/help/5070773"
+  },
+  "5066794": {
+    "date": "2025-10-14",
+    "uuid": "978d542d-d4c0-449c-bb2d-a8ac606432a3",
+    "slug": "kb5066794-servicing-stack-update-for-windows-server-2012-r2-october-14-2025-978d542d-d4c0-449c-bb2d-a8ac606432a3",
+    "url": "https://support.microsoft.com/help/5066794"
   }
 }
