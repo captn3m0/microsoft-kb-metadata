@@ -24136,5 +24136,53 @@
     "uuid": "978d542d-d4c0-449c-bb2d-a8ac606432a3",
     "slug": "kb5066794-servicing-stack-update-for-windows-server-2012-r2-october-14-2025-978d542d-d4c0-449c-bb2d-a8ac606432a3",
     "url": "https://support.microsoft.com/help/5066794"
+  },
+  "5067112": {
+    "date": "2025-10-28",
+    "uuid": "2c735723-0cf6-4692-8080-26d2224ac034",
+    "slug": "october-28-2025-kb5067112-os-build-22621-6133-preview-2c735723-0cf6-4692-8080-26d2224ac034",
+    "url": "https://support.microsoft.com/help/5067112"
+  },
+  "5070883": {
+    "date": "2025-10-23",
+    "uuid": "860bc03c-52fb-407c-89b2-14ecf4893c5c",
+    "slug": "october-23-2025-kb5070883-os-build-17763-7922-out-of-band-860bc03c-52fb-407c-89b2-14ecf4893c5c",
+    "url": "https://support.microsoft.com/help/5070883"
+  },
+  "5070882": {
+    "date": "2025-10-23",
+    "uuid": "3400c459-db78-48bc-ae69-f61bff15ea7c",
+    "slug": "october-23-2025-kb5070882-os-build-14393-8524-out-of-band-3400c459-db78-48bc-ae69-f61bff15ea7c",
+    "url": "https://support.microsoft.com/help/5070882"
+  },
+  "5070881": {
+    "date": "2025-10-23",
+    "uuid": "8e7ac742-6785-4677-87e4-b73dd8ac0122",
+    "slug": "october-23-2025-kb5070881-os-build-26100-6905-out-of-band-8e7ac742-6785-4677-87e4-b73dd8ac0122",
+    "url": "https://support.microsoft.com/help/5070881"
+  },
+  "5070879": {
+    "date": "2025-10-23",
+    "uuid": "e192ac2e-3519-44c6-8706-d7e40c556c8c",
+    "slug": "october-23-2025-kb5070879-os-build-25398-1916-out-of-band-e192ac2e-3519-44c6-8706-d7e40c556c8c",
+    "url": "https://support.microsoft.com/help/5070879"
+  },
+  "5070884": {
+    "date": "2025-10-23",
+    "uuid": "9c001fdc-f0d2-4636-87bb-494a59da55d0",
+    "slug": "october-23-2025-kb5070884-os-build-20348-4297-out-of-band-9c001fdc-f0d2-4636-87bb-494a59da55d0",
+    "url": "https://support.microsoft.com/help/5070884"
+  },
+  "5070886": {
+    "date": "2025-10-23",
+    "uuid": "d2f19c6e-2461-4d16-a39b-f9dfc54d827e",
+    "slug": "october-23-2025-kb5070886-monthly-rollup-out-of-band-d2f19c6e-2461-4d16-a39b-f9dfc54d827e",
+    "url": "https://support.microsoft.com/help/5070886"
+  },
+  "5070887": {
+    "date": "2025-10-23",
+    "uuid": "9457d12f-7339-47ce-8471-871ba6107be3",
+    "slug": "october-23-2025-kb5070887-monthly-rollup-out-of-band-9457d12f-7339-47ce-8471-871ba6107be3",
+    "url": "https://support.microsoft.com/help/5070887"
   }
 }
