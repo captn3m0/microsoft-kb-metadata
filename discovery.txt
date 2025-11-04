@@ -19,6 +19,7 @@ https://learn.microsoft.com/en-us/officeupdates/
 https://learn.microsoft.com/en-us/officeupdates/beta-channel
 https://learn.microsoft.com/en-us/officeupdates/current-channel
 https://learn.microsoft.com/en-us/officeupdates/current-channel-preview
+https://learn.microsoft.com/en-us/officeupdates/current-channel-preview-archived
 https://learn.microsoft.com/en-us/officeupdates/download-sizes-microsoft365-apps-updates
 https://learn.microsoft.com/en-us/officeupdates/governmentchannel
 https://learn.microsoft.com/en-us/officeupdates/known-issues
