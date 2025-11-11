@@ -24190,5 +24190,11 @@
     "uuid": "ec3da7dc-63ba-4b1d-ac41-cf2494d2123a",
     "slug": "october-28-2025-kb5067036-os-builds-26200-7019-and-26100-7019-preview-ec3da7dc-63ba-4b1d-ac41-cf2494d2123a",
     "url": "https://support.microsoft.com/help/5067036"
+  },
+  "5068861": {
+    "date": "2025-11-11",
+    "uuid": "2e0512e4-3ad4-4da6-958c-a468a1af949e",
+    "slug": "november-11-2025-kb5068861-os-builds-26200-7171-and-26100-7171-2e0512e4-3ad4-4da6-958c-a468a1af949e",
+    "url": "https://support.microsoft.com/help/5068861"
   }
 }
