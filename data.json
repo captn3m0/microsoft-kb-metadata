@@ -24196,5 +24196,143 @@
     "uuid": "2e0512e4-3ad4-4da6-958c-a468a1af949e",
     "slug": "november-11-2025-kb5068861-os-builds-26200-7171-and-26100-7171-2e0512e4-3ad4-4da6-958c-a468a1af949e",
     "url": "https://support.microsoft.com/help/5068861"
+  },
+  "5002811": {
+    "date": "2016-11-11",
+    "uuid": "161f2f34-c2e2-41ad-ba1f-40be200ac879",
+    "slug": "description-of-the-security-update-for-excel-2016-november-11-2025-kb5002811-161f2f34-c2e2-41ad-ba1f-40be200ac879",
+    "url": "https://support.microsoft.com/help/5002811"
+  },
+  "5002810": {
+    "date": "2016-11-11",
+    "uuid": "a87cc4fd-a169-4b4f-935d-edd9a5dfcd7d",
+    "slug": "description-of-the-security-update-for-office-2016-november-11-2025-kb5002810-a87cc4fd-a169-4b4f-935d-edd9a5dfcd7d",
+    "url": "https://support.microsoft.com/help/5002810"
+  },
+  "5002809": {
+    "date": "2016-11-11",
+    "uuid": "186936bc-3661-4476-9bc0-a297870d3cec",
+    "slug": "description-of-the-security-update-for-office-2016-november-11-2025-kb5002809-186936bc-3661-4476-9bc0-a297870d3cec",
+    "url": "https://support.microsoft.com/help/5002809"
+  },
+  "5071102": {
+    "date": "2025-11-01",
+    "uuid": "cd14b2b4-6f49-4cfc-9296-1d4da1f8904a",
+    "slug": "november-2025-updates-for-microsoft-office-cd14b2b4-6f49-4cfc-9296-1d4da1f8904a",
+    "url": "https://support.microsoft.com/help/5071102"
+  },
+  "5002800": {
+    "date": "2025-11-11",
+    "uuid": "b12617b2-61ed-45d9-9577-bbd40c46e68c",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-november-11-2025-kb5002800-b12617b2-61ed-45d9-9577-bbd40c46e68c",
+    "url": "https://support.microsoft.com/help/5002800"
+  },
+  "5002803": {
+    "date": "2019-11-11",
+    "uuid": "50c02f9c-e1b0-47c4-9c19-093d135869d8",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-november-11-2025-kb5002803-50c02f9c-e1b0-47c4-9c19-093d135869d8",
+    "url": "https://support.microsoft.com/help/5002803"
+  },
+  "5002805": {
+    "date": "2016-11-11",
+    "uuid": "317991a4-6723-4634-986a-b4d3d582569f",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2016-november-11-2025-kb5002805-317991a4-6723-4634-986a-b4d3d582569f",
+    "url": "https://support.microsoft.com/help/5002805"
+  },
+  "5068407": {
+    "date": "2025-11-11",
+    "uuid": "52e373a1-05fd-48b1-bbd8-1c935f055237",
+    "slug": "kb5068407-description-of-the-security-update-for-sql-server-2022-gdr-november-11-2025-52e373a1-05fd-48b1-bbd8-1c935f055237",
+    "url": "https://support.microsoft.com/help/5068407"
+  },
+  "5068406": {
+    "date": "2025-11-11",
+    "uuid": "7403d389-606b-4176-a1d5-b0960fb7dc50",
+    "slug": "kb5068406-description-of-the-security-update-for-sql-server-2022-cu21-november-11-2025-7403d389-606b-4176-a1d5-b0960fb7dc50",
+    "url": "https://support.microsoft.com/help/5068406"
+  },
+  "5068405": {
+    "date": "2025-11-11",
+    "uuid": "b71b43ae-edf6-4f94-b3ee-b3bf96ef8f96",
+    "slug": "kb5068405-description-of-the-security-update-for-sql-server-2019-gdr-november-11-2025-b71b43ae-edf6-4f94-b3ee-b3bf96ef8f96",
+    "url": "https://support.microsoft.com/help/5068405"
+  },
+  "5068404": {
+    "date": "2025-11-11",
+    "uuid": "c203bfbf-036e-46d2-bc10-6c01200dc48a",
+    "slug": "kb5068404-description-of-the-security-update-for-sql-server-2019-cu32-november-11-2025-c203bfbf-036e-46d2-bc10-6c01200dc48a",
+    "url": "https://support.microsoft.com/help/5068404"
+  },
+  "5068403": {
+    "date": "2025-11-11",
+    "uuid": "439abdce-89c6-47eb-a2e9-34ef48955a3d",
+    "slug": "kb5068403-description-of-the-security-update-for-sql-server-2017-gdr-november-11-2025-439abdce-89c6-47eb-a2e9-34ef48955a3d",
+    "url": "https://support.microsoft.com/help/5068403"
+  },
+  "5068402": {
+    "date": "2025-11-11",
+    "uuid": "1be08efe-ad14-4b95-a0de-ecbbf2703114",
+    "slug": "kb5068402-description-of-the-security-update-for-sql-server-2017-cu31-november-11-2025-1be08efe-ad14-4b95-a0de-ecbbf2703114",
+    "url": "https://support.microsoft.com/help/5068402"
+  },
+  "5068400": {
+    "date": "2025-11-11",
+    "uuid": "9ea222c4-2d64-4b8d-aaf0-2fae80392540",
+    "slug": "kb5068400-description-of-the-security-update-for-sql-server-2016-sp3-azure-connect-feature-pack-november-11-2025-9ea222c4-2d64-4b8d-aaf0-2fae80392540",
+    "url": "https://support.microsoft.com/help/5068400"
+  },
+  "5068401": {
+    "date": "2025-11-11",
+    "uuid": "59a59fc0-f673-45c2-b8de-492b95c0e423",
+    "slug": "kb5068401-description-of-the-security-update-for-sql-server-2016-sp3-gdr-november-11-2025-59a59fc0-f673-45c2-b8de-492b95c0e423",
+    "url": "https://support.microsoft.com/help/5068401"
+  },
+  "5068781": {
+    "date": "2025-11-11",
+    "uuid": "7fe13257-9079-49af-9369-e0e6242701dd",
+    "slug": "november-11-2025-kb5068781-os-builds-19044-6575-and-19045-6575-7fe13257-9079-49af-9369-e0e6242701dd",
+    "url": "https://support.microsoft.com/help/5068781"
+  },
+  "5068791": {
+    "date": "2025-11-11",
+    "uuid": "485c3175-0dc0-45c6-8328-553863ea2cbc",
+    "slug": "november-11-2025-kb5068791-os-build-17763-8027-485c3175-0dc0-45c6-8328-553863ea2cbc",
+    "url": "https://support.microsoft.com/help/5068791"
+  },
+  "5068864": {
+    "date": "2025-11-11",
+    "uuid": "f8567cc1-3564-471e-aa03-0ef235c8a2af",
+    "slug": "november-11-2025-kb5068864-os-build-14393-8594-f8567cc1-3564-471e-aa03-0ef235c8a2af",
+    "url": "https://support.microsoft.com/help/5068864"
+  },
+  "5071959": {
+    "date": "2025-11-11",
+    "uuid": "565c78a7-5b5f-4cbd-8ca8-2a73a48f4e2b",
+    "slug": "november-11-2025-kb5071959-windows-10-version-22h2-os-build-19045-6466-out-of-band-565c78a7-5b5f-4cbd-8ca8-2a73a48f4e2b",
+    "url": "https://support.microsoft.com/help/5071959"
+  },
+  "5068787": {
+    "date": "2025-11-11",
+    "uuid": "fd671161-51cb-4756-8d25-a3fe4702da31",
+    "slug": "november-11-2025-kb5068787-os-build-20348-4405-fd671161-51cb-4756-8d25-a3fe4702da31",
+    "url": "https://support.microsoft.com/help/5068787"
+  },
+  "5068966": {
+    "date": "2025-11-11",
+    "uuid": "e923cc54-3b4c-4df1-be42-92ae06d12984",
+    "slug": "november-11-2025-hotpatch-kb5068966-os-build-26100-7092-e923cc54-3b4c-4df1-be42-92ae06d12984",
+    "url": "https://support.microsoft.com/help/5068966"
+  },
+  "5068840": {
+    "date": "2025-11-11",
+    "uuid": "6934411e-244d-45f7-83ef-24c471748348",
+    "slug": "november-11-2025-hotpatch-kb5068840-os-build-20348-4346-6934411e-244d-45f7-83ef-24c471748348",
+    "url": "https://support.microsoft.com/help/5068840"
+  },
+  "5068865": {
+    "date": "2025-11-11",
+    "uuid": "29dd610b-25b5-4861-8110-83bfef605c44",
+    "slug": "november-11-2025-kb5068865-os-build-22631-6199-29dd610b-25b5-4861-8110-83bfef605c44",
+    "url": "https://support.microsoft.com/help/5068865"
   }
 }
