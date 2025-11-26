@@ -24340,5 +24340,11 @@
     "uuid": "4c7a1771-0a7d-4652-a5fa-c24b1828faf2",
     "slug": "november-18-2025-kb5072359-os-build-26100-7178-out-of-band-4c7a1771-0a7d-4652-a5fa-c24b1828faf2",
     "url": "https://support.microsoft.com/help/5072359"
+  },
+  "5070312": {
+    "date": "2025-11-20",
+    "uuid": "ac908c2e-c839-46f8-9111-3adfb72caf61",
+    "slug": "november-20-2025-kb5070312-os-build-22631-6276-preview-ac908c2e-c839-46f8-9111-3adfb72caf61",
+    "url": "https://support.microsoft.com/help/5070312"
   }
 }
