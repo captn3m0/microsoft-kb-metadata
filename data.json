@@ -24352,5 +24352,29 @@
     "uuid": "5cd455bf-3291-47fa-b0bf-e5f60d0ea7af",
     "slug": "december-1-2025-kb5070311-os-builds-26200-7309-and-26100-7309-preview-5cd455bf-3291-47fa-b0bf-e5f60d0ea7af",
     "url": "https://support.microsoft.com/help/5070311"
+  },
+  "5071876": {
+    "date": "2025-12-09",
+    "uuid": "70fb7668-2c51-49ab-b7f0-c53f29ca14da",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-subscription-edition-rtm-december-9-2025-kb5071876-70fb7668-2c51-49ab-b7f0-c53f29ca14da",
+    "url": "https://support.microsoft.com/help/5071876"
+  },
+  "5071875": {
+    "date": "2025-12-09",
+    "uuid": "5b597d17-e1af-4a4c-a2cc-3238ee734b89",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-2019-cu15-december-9-2025-kb5071875-5b597d17-e1af-4a4c-a2cc-3238ee734b89",
+    "url": "https://support.microsoft.com/help/5071875"
+  },
+  "5071874": {
+    "date": "2025-12-09",
+    "uuid": "9402eaeb-2a63-4115-93a1-317f78651bf7",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-2019-cu14-december-9-2025-kb5071874-9402eaeb-2a63-4115-93a1-317f78651bf7",
+    "url": "https://support.microsoft.com/help/5071874"
+  },
+  "5071873": {
+    "date": "2025-12-09",
+    "uuid": "b349f70e-69b2-4395-a455-3e23366185ed",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-2016-cu23-december-9-2025-kb5071873-b349f70e-69b2-4395-a455-3e23366185ed",
+    "url": "https://support.microsoft.com/help/5071873"
   }
 }
