@@ -24376,5 +24376,77 @@
     "uuid": "b349f70e-69b2-4395-a455-3e23366185ed",
     "slug": "description-of-the-security-update-for-microsoft-exchange-server-2016-cu23-december-9-2025-kb5071873-b349f70e-69b2-4395-a455-3e23366185ed",
     "url": "https://support.microsoft.com/help/5071873"
+  },
+  "5002812": {
+    "date": "2016-12-09",
+    "uuid": "9ed8f68c-a1c3-44a6-a7ad-971c836d41f1",
+    "slug": "description-of-the-security-update-for-office-2016-december-9-2025-kb5002812-9ed8f68c-a1c3-44a6-a7ad-971c836d41f1",
+    "url": "https://support.microsoft.com/help/5002812"
+  },
+  "5002820": {
+    "date": "2016-12-09",
+    "uuid": "8a885011-0e20-4d6a-9785-5e76d1069675",
+    "slug": "description-of-the-security-update-for-excel-2016-december-9-2025-kb5002820-8a885011-0e20-4d6a-9785-5e76d1069675",
+    "url": "https://support.microsoft.com/help/5002820"
+  },
+  "5002818": {
+    "date": "2016-12-09",
+    "uuid": "f3cd34c4-96b7-422d-9f13-832c195b0019",
+    "slug": "description-of-the-security-update-for-office-2016-december-9-2025-kb5002818-f3cd34c4-96b7-422d-9f13-832c195b0019",
+    "url": "https://support.microsoft.com/help/5002818"
+  },
+  "5002819": {
+    "date": "2016-12-09",
+    "uuid": "2dde37a5-b381-42d0-bc8b-79cc97cfbba1",
+    "slug": "description-of-the-security-update-for-office-2016-december-9-2025-kb5002819-2dde37a5-b381-42d0-bc8b-79cc97cfbba1",
+    "url": "https://support.microsoft.com/help/5002819"
+  },
+  "5002806": {
+    "date": "2016-12-09",
+    "uuid": "41756d80-718a-4f95-8ad7-accd32b597ff",
+    "slug": "description-of-the-security-update-for-word-2016-december-9-2025-kb5002806-41756d80-718a-4f95-8ad7-accd32b597ff",
+    "url": "https://support.microsoft.com/help/5002806"
+  },
+  "5072855": {
+    "date": "2025-12-01",
+    "uuid": "0d6a50d3-c17e-43f9-b807-3f1f22b079b9",
+    "slug": "december-2025-updates-for-microsoft-office-0d6a50d3-c17e-43f9-b807-3f1f22b079b9",
+    "url": "https://support.microsoft.com/help/5072855"
+  },
+  "5002815": {
+    "date": "2025-12-09",
+    "uuid": "c35a1d27-7f0f-4120-9a8b-a2df1d9ffc6c",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-december-9-2025-kb5002815-c35a1d27-7f0f-4120-9a8b-a2df1d9ffc6c",
+    "url": "https://support.microsoft.com/help/5002815"
+  },
+  "5002816": {
+    "date": "2019-12-09",
+    "uuid": "165d4dbb-7322-42e8-b473-f6ea38be2836",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-december-9-2025-kb5002816-165d4dbb-7322-42e8-b473-f6ea38be2836",
+    "url": "https://support.microsoft.com/help/5002816"
+  },
+  "5002802": {
+    "date": "2025-12-09",
+    "uuid": "a3f9c9da-8d0b-4cb5-8748-e3a31abdac20",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-language-pack-december-9-2025-kb5002802-a3f9c9da-8d0b-4cb5-8748-e3a31abdac20",
+    "url": "https://support.microsoft.com/help/5002802"
+  },
+  "5002821": {
+    "date": "2016-12-09",
+    "uuid": "52430693-a4a0-49b0-a354-501171ef4bd3",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2016-december-9-2025-kb5002821-52430693-a4a0-49b0-a354-501171ef4bd3",
+    "url": "https://support.microsoft.com/help/5002821"
+  },
+  "5002804": {
+    "date": "2025-12-09",
+    "uuid": "55450b46-89e6-4591-885a-7fe0ded12e22",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2016-language-pack-december-9-2025-kb5002804-55450b46-89e6-4591-885a-7fe0ded12e22",
+    "url": "https://support.microsoft.com/help/5002804"
+  },
+  "5071543": {
+    "date": "2025-12-09",
+    "uuid": "ec93aa63-f343-4a7e-ab3c-faa096e17395",
+    "slug": "december-9-2025-kb5071543-os-build-14393-8688-ec93aa63-f343-4a7e-ab3c-faa096e17395",
+    "url": "https://support.microsoft.com/help/5071543"
   }
 }
