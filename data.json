@@ -24448,5 +24448,23 @@
     "uuid": "ec93aa63-f343-4a7e-ab3c-faa096e17395",
     "slug": "december-9-2025-kb5071543-os-build-14393-8688-ec93aa63-f343-4a7e-ab3c-faa096e17395",
     "url": "https://support.microsoft.com/help/5071543"
+  },
+  "5072033": {
+    "date": "2025-12-09",
+    "uuid": "0c1a4334-19ba-406d-bb1e-88fcffc87b79",
+    "slug": "december-9-2025-kb5072033-os-builds-26200-7462-and-26100-7462-0c1a4334-19ba-406d-bb1e-88fcffc87b79",
+    "url": "https://support.microsoft.com/help/5072033"
+  },
+  "5071547": {
+    "date": "2025-12-09",
+    "uuid": "7935ca9f-cac3-4d17-93bb-fe8e57c6db32",
+    "slug": "december-9-2025-kb5071547-os-build-20348-4529-7935ca9f-cac3-4d17-93bb-fe8e57c6db32",
+    "url": "https://support.microsoft.com/help/5071547"
+  },
+  "5072014": {
+    "date": "2025-12-09",
+    "uuid": "441a42b9-07ba-460f-a72d-bcfc7dfbc2e9",
+    "slug": "december-9-2025-hotpatch-kb5072014-os-build-26100-7392-441a42b9-07ba-460f-a72d-bcfc7dfbc2e9",
+    "url": "https://support.microsoft.com/help/5072014"
   }
 }
