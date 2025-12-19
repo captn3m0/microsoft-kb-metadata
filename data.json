@@ -24484,5 +24484,53 @@
     "uuid": "8e5806a4-e5e7-47e1-80fd-fe9bf9de9b43",
     "slug": "december-9-2025-hotpatch-kb5071413-os-build-20348-4467-8e5806a4-e5e7-47e1-80fd-fe9bf9de9b43",
     "url": "https://support.microsoft.com/help/5071413"
+  },
+  "5074976": {
+    "date": "2025-12-18",
+    "uuid": "d4f0c02c-4c3d-44e7-bc4b-db0034dd3fac",
+    "slug": "december-18-2025-kb5074976-os-builds-19044-6693-and-19045-6693-out-of-band-d4f0c02c-4c3d-44e7-bc4b-db0034dd3fac",
+    "url": "https://support.microsoft.com/help/5074976"
+  },
+  "5074975": {
+    "date": "2025-12-18",
+    "uuid": "4dc1fb62-aa89-4859-ba1b-618404482c4d",
+    "slug": "december-18-2025-kb5074975-os-build-17763-8148-out-of-band-4dc1fb62-aa89-4859-ba1b-618404482c4d",
+    "url": "https://support.microsoft.com/help/5074975"
+  },
+  "5074974": {
+    "date": "2025-12-18",
+    "uuid": "eea63b9f-4aa1-47e3-9097-197845832fb1",
+    "slug": "december-18-2025-kb5074974-os-build-14393-8692-out-of-band-eea63b9f-4aa1-47e3-9097-197845832fb1",
+    "url": "https://support.microsoft.com/help/5074974"
+  },
+  "5071503": {
+    "date": "2025-12-09",
+    "uuid": "1810cb22-3b6e-41e3-8fc6-5a67b563b0fc",
+    "slug": "december-9-2025-kb5071503-monthly-rollup-1810cb22-3b6e-41e3-8fc6-5a67b563b0fc",
+    "url": "https://support.microsoft.com/help/5071503"
+  },
+  "5074978": {
+    "date": "2025-12-18",
+    "uuid": "615b371a-de10-4350-9521-a5cb950052ba",
+    "slug": "december-18-2025-kb5074978-monthly-rollup-out-of-band-615b371a-de10-4350-9521-a5cb950052ba",
+    "url": "https://support.microsoft.com/help/5074978"
+  },
+  "5071505": {
+    "date": "2025-12-09",
+    "uuid": "fde5ea06-698d-450f-a911-405b7555e2bd",
+    "slug": "december-9-2025-kb5071505-monthly-rollup-fde5ea06-698d-450f-a911-405b7555e2bd",
+    "url": "https://support.microsoft.com/help/5071505"
+  },
+  "5074980": {
+    "date": "2025-12-18",
+    "uuid": "8908c178-0446-42b0-9b19-cd36e5a4d54f",
+    "slug": "december-18-2025-kb5074980-monthly-rollup-out-of-band-8908c178-0446-42b0-9b19-cd36e5a4d54f",
+    "url": "https://support.microsoft.com/help/5074980"
+  },
+  "5071417": {
+    "date": "2025-12-09",
+    "uuid": "5b7b15d8-96a2-4c8f-a61d-b5e1bc9618f8",
+    "slug": "december-9-2025-kb5071417-os-build-22631-6345-5b7b15d8-96a2-4c8f-a61d-b5e1bc9618f8",
+    "url": "https://support.microsoft.com/help/5071417"
   }
 }
