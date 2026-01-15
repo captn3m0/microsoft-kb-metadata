@@ -24610,5 +24610,41 @@
     "uuid": "c483559a-57d8-4c72-a010-5792bb668dc8",
     "slug": "kb5072936-description-of-the-security-update-for-sql-server-2022-cu22-january-13-2026-c483559a-57d8-4c72-a010-5792bb668dc8",
     "url": "https://support.microsoft.com/help/5072936"
+  },
+  "5073724": {
+    "date": "2026-01-13",
+    "uuid": "bd960b49-050e-432f-a9d5-2454cb377fed",
+    "slug": "january-13-2026-kb5073724-os-builds-19045-6809-and-19044-6809-bd960b49-050e-432f-a9d5-2454cb377fed",
+    "url": "https://support.microsoft.com/help/5073724"
+  },
+  "5073723": {
+    "date": "2026-01-13",
+    "uuid": "cc521cb1-c774-41da-b7fa-6906c9450230",
+    "slug": "january-13-2026-kb5073723-os-build-17763-8276-cc521cb1-c774-41da-b7fa-6906c9450230",
+    "url": "https://support.microsoft.com/help/5073723"
+  },
+  "5073722": {
+    "date": "2026-01-13",
+    "uuid": "562abb73-5dcd-4fb9-b350-fc6e5eb1417b",
+    "slug": "january-13-2026-kb5073722-os-build-14393-8783-562abb73-5dcd-4fb9-b350-fc6e5eb1417b",
+    "url": "https://support.microsoft.com/help/5073722"
+  },
+  "5073455": {
+    "date": "2026-01-13",
+    "uuid": "2b25841a-1d56-4e3d-9331-6f79872efea4",
+    "slug": "january-13-2026-kb5073455-os-build-22631-6491-2b25841a-1d56-4e3d-9331-6f79872efea4",
+    "url": "https://support.microsoft.com/help/5073455"
+  },
+  "5073457": {
+    "date": "2026-01-13",
+    "uuid": "d4d057c8-29c3-48a5-8d98-ce86b77ee570",
+    "slug": "january-13-2026-kb5073457-os-build-20348-4648-d4d057c8-29c3-48a5-8d98-ce86b77ee570",
+    "url": "https://support.microsoft.com/help/5073457"
+  },
+  "5073379": {
+    "date": "2026-01-13",
+    "uuid": "a6021fd2-b3b7-45a7-b68e-35c28a2a77da",
+    "slug": "january-13-2026-kb5073379-os-build-26100-32230-a6021fd2-b3b7-45a7-b68e-35c28a2a77da",
+    "url": "https://support.microsoft.com/help/5073379"
   }
 }
