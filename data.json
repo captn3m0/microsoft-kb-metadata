@@ -24682,5 +24682,11 @@
     "uuid": "58c4a80a-0d1c-4684-b828-5f33ef3892e4",
     "slug": "january-17-2026-kb5077793-os-build-26100-32234-out-of-band-58c4a80a-0d1c-4684-b828-5f33ef3892e4",
     "url": "https://support.microsoft.com/help/5077793"
+  },
+  "5078127": {
+    "date": "2026-01-24",
+    "uuid": "cf5777f6-bb4e-4adb-b9cd-2b64df577491",
+    "slug": "january-24-2026-kb5078127-os-builds-26200-7628-and-26100-7628-out-of-band-cf5777f6-bb4e-4adb-b9cd-2b64df577491",
+    "url": "https://support.microsoft.com/help/5078127"
   }
 }
