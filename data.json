@@ -24688,5 +24688,53 @@
     "uuid": "cf5777f6-bb4e-4adb-b9cd-2b64df577491",
     "slug": "january-24-2026-kb5078127-os-builds-26200-7628-and-26100-7628-out-of-band-cf5777f6-bb4e-4adb-b9cd-2b64df577491",
     "url": "https://support.microsoft.com/help/5078127"
+  },
+  "5078129": {
+    "date": "2026-01-24",
+    "uuid": "cfbdbb30-81eb-49ff-ada2-c2af09aa7c1e",
+    "slug": "january-24-2026-kb5078129-os-builds-19045-6812-and-19044-6812-out-of-band-cfbdbb30-81eb-49ff-ada2-c2af09aa7c1e",
+    "url": "https://support.microsoft.com/help/5078129"
+  },
+  "5078132": {
+    "date": "2026-01-24",
+    "uuid": "ae8525fd-a0a8-4b9b-bba9-c647ea5dc8dd",
+    "slug": "january-24-2026-kb5078132-os-build-22631-6495-out-of-band-ae8525fd-a0a8-4b9b-bba9-c647ea5dc8dd",
+    "url": "https://support.microsoft.com/help/5078132"
+  },
+  "5078136": {
+    "date": "2026-01-24",
+    "uuid": "7475a7eb-ac13-4624-89ee-ec027ed15f54",
+    "slug": "january-24-2026-kb5078136-os-build-20348-4651-out-of-band-7475a7eb-ac13-4624-89ee-ec027ed15f54",
+    "url": "https://support.microsoft.com/help/5078136"
+  },
+  "5078135": {
+    "date": "2026-01-24",
+    "uuid": "1dd50b78-08e5-4e13-ae0f-a0c4ff61a2e5",
+    "slug": "january-24-2026-kb5078135-os-build-26100-32236-out-of-band-1dd50b78-08e5-4e13-ae0f-a0c4ff61a2e5",
+    "url": "https://support.microsoft.com/help/5078135"
+  },
+  "5078131": {
+    "date": "2026-01-24",
+    "uuid": "8a3f489a-2ce0-49d0-b28d-ee2acf9dfa0d",
+    "slug": "january-24-2026-kb5078131-os-build-17763-8281-out-of-band-8a3f489a-2ce0-49d0-b28d-ee2acf9dfa0d",
+    "url": "https://support.microsoft.com/help/5078131"
+  },
+  "5078167": {
+    "date": "2026-01-24",
+    "uuid": "f8945d60-f87a-4ebb-9392-f32efd33872b",
+    "slug": "january-24-2026-hotpatch-kb5078167-os-builds-26200-7634-and-26100-7634-out-of-band-f8945d60-f87a-4ebb-9392-f32efd33872b",
+    "url": "https://support.microsoft.com/help/5078167"
+  },
+  "5078133": {
+    "date": "2026-01-24",
+    "uuid": "4bd7a904-b975-4c15-aaa9-f7328bda58ce",
+    "slug": "january-24-2026-kb5078133-os-build-25398-2097-out-of-band-4bd7a904-b975-4c15-aaa9-f7328bda58ce",
+    "url": "https://support.microsoft.com/help/5078133"
+  },
+  "5078238": {
+    "date": "2026-01-24",
+    "uuid": "de61df2c-02b4-4393-9f0c-272d6034f3d7",
+    "slug": "january-24-2026-hotpatch-kb5078238-os-build-20348-4655-out-of-band-de61df2c-02b4-4393-9f0c-272d6034f3d7",
+    "url": "https://support.microsoft.com/help/5078238"
   }
 }
