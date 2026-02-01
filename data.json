@@ -24736,5 +24736,11 @@
     "uuid": "de61df2c-02b4-4393-9f0c-272d6034f3d7",
     "slug": "january-24-2026-hotpatch-kb5078238-os-build-20348-4655-out-of-band-de61df2c-02b4-4393-9f0c-272d6034f3d7",
     "url": "https://support.microsoft.com/help/5078238"
+  },
+  "5074105": {
+    "date": "2026-01-29",
+    "uuid": "85bd25de-894a-43eb-a19b-9a59d10f194b",
+    "slug": "january-29-2026-kb5074105-os-builds-26200-7705-and-26100-7705-preview-85bd25de-894a-43eb-a19b-9a59d10f194b",
+    "url": "https://support.microsoft.com/help/5074105"
   }
 }
