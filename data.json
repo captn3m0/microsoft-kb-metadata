@@ -24742,5 +24742,35 @@
     "uuid": "85bd25de-894a-43eb-a19b-9a59d10f194b",
     "slug": "january-29-2026-kb5074105-os-builds-26200-7705-and-26100-7705-preview-85bd25de-894a-43eb-a19b-9a59d10f194b",
     "url": "https://support.microsoft.com/help/5074105"
+  },
+  "5074992": {
+    "date": "2026-02-10",
+    "uuid": "00c99e72-6a3b-4ac8-9eec-5369cd6c9526",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-subscription-edition-rtm-february-10-2026-kb5074992-00c99e72-6a3b-4ac8-9eec-5369cd6c9526",
+    "url": "https://support.microsoft.com/help/5074992"
+  },
+  "5074993": {
+    "date": "2026-02-10",
+    "uuid": "8a7f2e49-2f91-4c18-a1c6-959ac7e2b1dd",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-2019-cu15-february-10-2026-kb5074993-8a7f2e49-2f91-4c18-a1c6-959ac7e2b1dd",
+    "url": "https://support.microsoft.com/help/5074993"
+  },
+  "5074994": {
+    "date": "2026-02-10",
+    "uuid": "d8e48d53-292c-4f70-90db-3d0e2446e529",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-2019-cu14-february-10-2026-kb5074994-d8e48d53-292c-4f70-90db-3d0e2446e529",
+    "url": "https://support.microsoft.com/help/5074994"
+  },
+  "5074995": {
+    "date": "2026-02-10",
+    "uuid": "6f19ac7f-fd49-46b9-bd21-66528203a41d",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-2016-cu23-february-10-2026-kb5074995-6f19ac7f-fd49-46b9-bd21-66528203a41d",
+    "url": "https://support.microsoft.com/help/5074995"
+  },
+  "5077181": {
+    "date": "2026-02-10",
+    "uuid": "f0fa9e54-a22a-4a06-96b6-bf5b2aded506",
+    "slug": "february-10-2026-kb5077181-os-builds-26200-7840-and-26100-7840-f0fa9e54-a22a-4a06-96b6-bf5b2aded506",
+    "url": "https://support.microsoft.com/help/5077181"
   }
 }
