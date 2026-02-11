@@ -24772,5 +24772,113 @@
     "uuid": "f0fa9e54-a22a-4a06-96b6-bf5b2aded506",
     "slug": "february-10-2026-kb5077181-os-builds-26200-7840-and-26100-7840-f0fa9e54-a22a-4a06-96b6-bf5b2aded506",
     "url": "https://support.microsoft.com/help/5077181"
+  },
+  "5002837": {
+    "date": "2016-02-10",
+    "uuid": "85e54114-226f-419b-82ec-e3e42028b9f8",
+    "slug": "description-of-the-security-update-for-excel-2016-february-10-2026-kb5002837-85e54114-226f-419b-82ec-e3e42028b9f8",
+    "url": "https://support.microsoft.com/help/5002837"
+  },
+  "5002713": {
+    "date": "2016-01-26",
+    "uuid": "32ec881d-a3b5-470c-b9a5-513cc46bc77e",
+    "slug": "description-of-the-security-update-for-office-2016-january-26-2026-kb5002713-32ec881d-a3b5-470c-b9a5-513cc46bc77e",
+    "url": "https://support.microsoft.com/help/5002713"
+  },
+  "5002839": {
+    "date": "2016-02-10",
+    "uuid": "18f054c0-34dc-4e7b-ac31-b8a625c1f8e2",
+    "slug": "description-of-the-security-update-for-word-2016-february-10-2026-kb5002839-18f054c0-34dc-4e7b-ac31-b8a625c1f8e2",
+    "url": "https://support.microsoft.com/help/5002839"
+  },
+  "5078231": {
+    "date": "2026-02-01",
+    "uuid": "e942a20a-8288-407a-ad91-878a7fc09805",
+    "slug": "february-2026-updates-for-microsoft-office-e942a20a-8288-407a-ad91-878a7fc09805",
+    "url": "https://support.microsoft.com/help/5078231"
+  },
+  "5002833": {
+    "date": "2026-02-10",
+    "uuid": "cf0b6188-f404-40a6-95d1-44db0e693401",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-february-10-2026-kb5002833-cf0b6188-f404-40a6-95d1-44db0e693401",
+    "url": "https://support.microsoft.com/help/5002833"
+  },
+  "5002834": {
+    "date": "2019-02-10",
+    "uuid": "e378f663-2437-494e-aca0-dc0550d1a56b",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-february-10-2026-kb5002834-e378f663-2437-494e-aca0-dc0550d1a56b",
+    "url": "https://support.microsoft.com/help/5002834"
+  },
+  "5002836": {
+    "date": "2026-02-10",
+    "uuid": "3baba2e5-499a-4b98-a8a5-fe4a0a2c0b75",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-language-pack-february-10-2026-kb5002836-3baba2e5-499a-4b98-a8a5-fe4a0a2c0b75",
+    "url": "https://support.microsoft.com/help/5002836"
+  },
+  "5002841": {
+    "date": "2016-02-10",
+    "uuid": "05ea99b5-463d-4927-9703-6e74561d022b",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2016-february-10-2026-kb5002841-05ea99b5-463d-4927-9703-6e74561d022b",
+    "url": "https://support.microsoft.com/help/5002841"
+  },
+  "5002840": {
+    "date": "2026-02-10",
+    "uuid": "1bf243a3-8fdb-4fc0-a2a8-28f8ebf93e57",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2016-language-pack-february-10-2026-kb5002840-1bf243a3-8fdb-4fc0-a2a8-28f8ebf93e57",
+    "url": "https://support.microsoft.com/help/5002840"
+  },
+  "5075904": {
+    "date": "2026-02-10",
+    "uuid": "af421f86-5818-42bf-8875-b6e39988ccb3",
+    "slug": "february-10-2026-kb5075904-os-build-17763-8389-af421f86-5818-42bf-8875-b6e39988ccb3",
+    "url": "https://support.microsoft.com/help/5075904"
+  },
+  "5075999": {
+    "date": "2026-02-10",
+    "uuid": "640ac4ff-7447-4805-b0f6-ce3049375fcb",
+    "slug": "february-10-2026-kb5075999-os-build-14393-8868-640ac4ff-7447-4805-b0f6-ce3049375fcb",
+    "url": "https://support.microsoft.com/help/5075999"
+  },
+  "5075912": {
+    "date": "2026-02-10",
+    "uuid": "df558259-6b48-41ef-8601-6e75bb790e0e",
+    "slug": "february-10-2026-kb5075912-os-builds-19045-6937-and-19044-6937-df558259-6b48-41ef-8601-6e75bb790e0e",
+    "url": "https://support.microsoft.com/help/5075912"
+  },
+  "5075899": {
+    "date": "2026-02-10",
+    "uuid": "ffae9df3-05c5-439c-9087-e034985c1b2e",
+    "slug": "february-10-2026-kb5075899-os-build-26100-32370-ffae9df3-05c5-439c-9087-e034985c1b2e",
+    "url": "https://support.microsoft.com/help/5075899"
+  },
+  "5075906": {
+    "date": "2026-02-10",
+    "uuid": "404c5d3d-104e-4dd8-b274-d4246c80bdde",
+    "slug": "february-10-2026-kb5075906-os-build-20348-4773-404c5d3d-104e-4dd8-b274-d4246c80bdde",
+    "url": "https://support.microsoft.com/help/5075906"
+  },
+  "5075943": {
+    "date": "2026-02-10",
+    "uuid": "88a3a172-3ef2-4027-b978-83861df746e7",
+    "slug": "february-10-2026-hotpatch-kb5075943-os-build-20348-4711-88a3a172-3ef2-4027-b978-83861df746e7",
+    "url": "https://support.microsoft.com/help/5075943"
+  },
+  "5077179": {
+    "date": "2026-02-10",
+    "uuid": "74e81d2f-48db-4322-8bd7-8633f8d4d079",
+    "slug": "february-10-2026-kb5077179-os-build-28000-1575-74e81d2f-48db-4322-8bd7-8633f8d4d079",
+    "url": "https://support.microsoft.com/help/5077179"
+  },
+  "5075941": {
+    "date": "2026-02-10",
+    "uuid": "25716be6-475b-4e2e-9ece-499d218c3b8e",
+    "slug": "february-10-2026-kb5075941-os-build-22631-6649-25716be6-475b-4e2e-9ece-499d218c3b8e",
+    "url": "https://support.microsoft.com/help/5075941"
+  },
+  "5077212": {
+    "date": "2026-02-10",
+    "uuid": "722c74c5-ea30-4622-8436-6b8dcb975b2b",
+    "slug": "february-10-2026-hotpatch-kb5077212-os-builds-26200-7781-and-26100-7781-722c74c5-ea30-4622-8436-6b8dcb975b2b",
+    "url": "https://support.microsoft.com/help/5077212"
   }
 }
