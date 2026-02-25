@@ -24880,5 +24880,11 @@
     "uuid": "722c74c5-ea30-4622-8436-6b8dcb975b2b",
     "slug": "february-10-2026-hotpatch-kb5077212-os-builds-26200-7781-and-26100-7781-722c74c5-ea30-4622-8436-6b8dcb975b2b",
     "url": "https://support.microsoft.com/help/5077212"
+  },
+  "5077241": {
+    "date": "2026-02-24",
+    "uuid": "b8cc7bc8-d640-4f18-9437-3ee59298b970",
+    "slug": "february-24-2026-kb5077241-os-builds-26200-7922-and-26100-7922-preview-b8cc7bc8-d640-4f18-9437-3ee59298b970",
+    "url": "https://support.microsoft.com/help/5077241"
   }
 }
