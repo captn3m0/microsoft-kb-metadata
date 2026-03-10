@@ -24898,5 +24898,65 @@
     "uuid": "606518e5-28d2-4ebe-be25-26287e2fc703",
     "slug": "march-2-2026-kb5082314-os-build-20348-4776-out-of-band-606518e5-28d2-4ebe-be25-26287e2fc703",
     "url": "https://support.microsoft.com/help/5082314"
+  },
+  "5077468": {
+    "date": "2026-03-10",
+    "uuid": "27982bf4-65a6-4204-94f3-0427c5b750da",
+    "slug": "kb5077468-description-of-the-security-update-for-sql-server-2025-gdr-march-10-2026-27982bf4-65a6-4204-94f3-0427c5b750da",
+    "url": "https://support.microsoft.com/help/5077468"
+  },
+  "5077466": {
+    "date": "2026-03-10",
+    "uuid": "e09ecd69-b429-47e8-835c-3bcd107330e5",
+    "slug": "kb5077466-description-of-the-security-update-for-sql-server-2025-cu2-march-10-2026-e09ecd69-b429-47e8-835c-3bcd107330e5",
+    "url": "https://support.microsoft.com/help/5077466"
+  },
+  "5077465": {
+    "date": "2026-03-10",
+    "uuid": "c8f80978-e707-45d3-b924-6a168bd8e3c0",
+    "slug": "kb5077465-description-of-the-security-update-for-sql-server-2022-gdr-march-10-2026-c8f80978-e707-45d3-b924-6a168bd8e3c0",
+    "url": "https://support.microsoft.com/help/5077465"
+  },
+  "5077464": {
+    "date": "2026-03-10",
+    "uuid": "b57d8bd7-e9f5-48a8-8a6f-2a52d3ad29f0",
+    "slug": "kb5077464-description-of-the-security-update-for-sql-server-2022-cu23-march-10-2026-b57d8bd7-e9f5-48a8-8a6f-2a52d3ad29f0",
+    "url": "https://support.microsoft.com/help/5077464"
+  },
+  "5077470": {
+    "date": "2026-03-10",
+    "uuid": "8dab7c88-a13d-4ae8-9ae8-bdcfa4e455c9",
+    "slug": "kb5077470-description-of-the-security-update-for-sql-server-2019-gdr-march-10-2026-8dab7c88-a13d-4ae8-9ae8-bdcfa4e455c9",
+    "url": "https://support.microsoft.com/help/5077470"
+  },
+  "5077469": {
+    "date": "2026-03-10",
+    "uuid": "5ec2c609-35cb-483d-aa80-5e66821e5c97",
+    "slug": "kb5077469-description-of-the-security-update-for-sql-server-2019-cu32-march-10-2026-5ec2c609-35cb-483d-aa80-5e66821e5c97",
+    "url": "https://support.microsoft.com/help/5077469"
+  },
+  "5077472": {
+    "date": "2026-03-10",
+    "uuid": "9f69c593-034d-4743-95e1-3eb71acf724f",
+    "slug": "kb5077472-description-of-the-security-update-for-sql-server-2017-gdr-march-10-2026-9f69c593-034d-4743-95e1-3eb71acf724f",
+    "url": "https://support.microsoft.com/help/5077472"
+  },
+  "5077471": {
+    "date": "2026-03-10",
+    "uuid": "f020d5eb-e356-42e8-a9ba-0ef061430b15",
+    "slug": "kb5077471-description-of-the-security-update-for-sql-server-2017-cu31-march-10-2026-f020d5eb-e356-42e8-a9ba-0ef061430b15",
+    "url": "https://support.microsoft.com/help/5077471"
+  },
+  "5077473": {
+    "date": "2026-03-10",
+    "uuid": "037c7860-1e79-4844-aa0d-d6e11449bfa2",
+    "slug": "kb5077473-description-of-the-security-update-for-sql-server-2016-sp3-azure-connect-feature-pack-march-10-2026-037c7860-1e79-4844-aa0d-d6e11449bfa2",
+    "url": "https://support.microsoft.com/help/5077473"
+  },
+  "5077474": {
+    "date": "2026-03-10",
+    "uuid": "3f455bec-1221-4962-b068-0b11bf96b66a",
+    "slug": "kb5077474-description-of-the-security-update-for-sql-server-2016-sp3-gdr-march-10-2026-3f455bec-1221-4962-b068-0b11bf96b66a",
+    "url": "https://support.microsoft.com/help/5077474"
   }
 }
