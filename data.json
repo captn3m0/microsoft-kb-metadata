@@ -24958,5 +24958,53 @@
     "uuid": "3f455bec-1221-4962-b068-0b11bf96b66a",
     "slug": "kb5077474-description-of-the-security-update-for-sql-server-2016-sp3-gdr-march-10-2026-3f455bec-1221-4962-b068-0b11bf96b66a",
     "url": "https://support.microsoft.com/help/5077474"
+  },
+  "5002718": {
+    "date": "2016-03-10",
+    "uuid": "106131ac-7328-4187-ac16-cef937a6e23d",
+    "slug": "description-of-the-security-update-for-office-2016-march-10-2026-kb5002718-106131ac-7328-4187-ac16-cef937a6e23d",
+    "url": "https://support.microsoft.com/help/5002718"
+  },
+  "5002849": {
+    "date": "2016-03-10",
+    "uuid": "dc7285ce-cfe7-42ed-b57b-c2ed4134551c",
+    "slug": "description-of-the-security-update-for-excel-2016-march-10-2026-kb5002849-dc7285ce-cfe7-42ed-b57b-c2ed4134551c",
+    "url": "https://support.microsoft.com/help/5002849"
+  },
+  "5002838": {
+    "date": "2016-03-10",
+    "uuid": "de57438f-2790-4e9b-98a8-c102f1628191",
+    "slug": "description-of-the-security-update-for-office-2016-march-10-2026-kb5002838-de57438f-2790-4e9b-98a8-c102f1628191",
+    "url": "https://support.microsoft.com/help/5002838"
+  },
+  "5002848": {
+    "date": "2016-03-10",
+    "uuid": "ef20ce79-ccf1-4a13-b9ea-fc8e763e92a4",
+    "slug": "description-of-the-security-update-for-word-2016-march-10-2026-kb5002848-ef20ce79-ccf1-4a13-b9ea-fc8e763e92a4",
+    "url": "https://support.microsoft.com/help/5002848"
+  },
+  "5081416": {
+    "date": "2026-03-01",
+    "uuid": "c8ddfa76-20b4-482a-8412-8b2bf6363fa7",
+    "slug": "march-2026-updates-for-microsoft-office-c8ddfa76-20b4-482a-8412-8b2bf6363fa7",
+    "url": "https://support.microsoft.com/help/5081416"
+  },
+  "5002845": {
+    "date": "2019-03-10",
+    "uuid": "250afc17-2bfc-4031-9fc3-6f05cfa0f763",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-march-10-2026-kb5002845-250afc17-2bfc-4031-9fc3-6f05cfa0f763",
+    "url": "https://support.microsoft.com/help/5002845"
+  },
+  "5002847": {
+    "date": "2026-03-10",
+    "uuid": "c364d400-380d-4cb4-a293-12208400c3ea",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-language-pack-march-10-2026-kb5002847-c364d400-380d-4cb4-a293-12208400c3ea",
+    "url": "https://support.microsoft.com/help/5002847"
+  },
+  "5002850": {
+    "date": "2016-03-10",
+    "uuid": "c3e9d3c3-446b-4164-845e-32b59cfdf16e",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2016-march-10-2026-kb5002850-c3e9d3c3-446b-4164-845e-32b59cfdf16e",
+    "url": "https://support.microsoft.com/help/5002850"
   }
 }
