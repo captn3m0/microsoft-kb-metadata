@@ -25006,5 +25006,17 @@
     "uuid": "c3e9d3c3-446b-4164-845e-32b59cfdf16e",
     "slug": "description-of-the-security-update-for-sharepoint-server-2016-march-10-2026-kb5002850-c3e9d3c3-446b-4164-845e-32b59cfdf16e",
     "url": "https://support.microsoft.com/help/5002850"
+  },
+  "5002843": {
+    "date": "2026-03-10",
+    "uuid": "2c74a0ca-ec09-41e7-b755-e243cc10b9e7",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-march-10-2026-kb5002843-2c74a0ca-ec09-41e7-b755-e243cc10b9e7",
+    "url": "https://support.microsoft.com/help/5002843"
+  },
+  "5079466": {
+    "date": "2026-03-10",
+    "uuid": "dd4f1c26-f8ac-4803-8ea7-059f0335a1f9",
+    "slug": "march-10-2026-kb5079466-os-build-28000-1719-dd4f1c26-f8ac-4803-8ea7-059f0335a1f9",
+    "url": "https://support.microsoft.com/help/5079466"
   }
 }
