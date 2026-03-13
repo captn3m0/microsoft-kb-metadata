@@ -25018,5 +25018,35 @@
     "uuid": "dd4f1c26-f8ac-4803-8ea7-059f0335a1f9",
     "slug": "march-10-2026-kb5079466-os-build-28000-1719-dd4f1c26-f8ac-4803-8ea7-059f0335a1f9",
     "url": "https://support.microsoft.com/help/5079466"
+  },
+  "5002851": {
+    "date": "2026-03-10",
+    "uuid": "b0b76304-f556-4097-9786-6647246fc44c",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2016-language-pack-march-10-2026-kb5002851-b0b76304-f556-4097-9786-6647246fc44c",
+    "url": "https://support.microsoft.com/help/5002851"
+  },
+  "5078938": {
+    "date": "2026-03-10",
+    "uuid": "afab3f41-c79b-4800-9ac4-7df4a50aa1b2",
+    "slug": "march-10-2026-kb5078938-os-build-14393-8957-afab3f41-c79b-4800-9ac4-7df4a50aa1b2",
+    "url": "https://support.microsoft.com/help/5078938"
+  },
+  "5079473": {
+    "date": "2026-03-10",
+    "uuid": "9c222a8e-cc02-40d4-a1f8-ad86be1bc8b6",
+    "slug": "march-10-2026-kb5079473-os-builds-26200-8037-and-26100-8037-9c222a8e-cc02-40d4-a1f8-ad86be1bc8b6",
+    "url": "https://support.microsoft.com/help/5079473"
+  },
+  "5078883": {
+    "date": "2026-03-10",
+    "uuid": "7019f7bc-a58f-40dc-b1b0-ab187f433675",
+    "slug": "march-10-2026-kb5078883-os-build-22631-6783-7019f7bc-a58f-40dc-b1b0-ab187f433675",
+    "url": "https://support.microsoft.com/help/5078883"
+  },
+  "5079420": {
+    "date": "2026-03-10",
+    "uuid": "752485e9-41c1-4628-ad1a-7538dba503e3",
+    "slug": "march-10-2026-hotpatch-kb5079420-os-builds-26200-7979-and-26100-7979-752485e9-41c1-4628-ad1a-7538dba503e3",
+    "url": "https://support.microsoft.com/help/5079420"
   }
 }
