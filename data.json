@@ -25048,5 +25048,35 @@
     "uuid": "752485e9-41c1-4628-ad1a-7538dba503e3",
     "slug": "march-10-2026-hotpatch-kb5079420-os-builds-26200-7979-and-26100-7979-752485e9-41c1-4628-ad1a-7538dba503e3",
     "url": "https://support.microsoft.com/help/5079420"
+  },
+  "5078885": {
+    "date": "2026-03-10",
+    "uuid": "5738282d-0b7f-426e-a42b-bd7698ab6dbb",
+    "slug": "march-10-2026-kb5078885-os-builds-19045-7058-and-19044-7058-5738282d-0b7f-426e-a42b-bd7698ab6dbb",
+    "url": "https://support.microsoft.com/help/5078885"
+  },
+  "5078752": {
+    "date": "2026-03-10",
+    "uuid": "3b1a75ee-23dc-4c80-9f0d-dc807cca842a",
+    "slug": "march-10-2026-kb5078752-os-build-17763-8511-3b1a75ee-23dc-4c80-9f0d-dc807cca842a",
+    "url": "https://support.microsoft.com/help/5078752"
+  },
+  "5078766": {
+    "date": "2026-03-10",
+    "uuid": "fa3ee26a-0877-47d7-a4b2-9dd632ea8cea",
+    "slug": "march-10-2026-kb5078766-os-build-20348-4893-fa3ee26a-0877-47d7-a4b2-9dd632ea8cea",
+    "url": "https://support.microsoft.com/help/5078766"
+  },
+  "5078740": {
+    "date": "2026-03-10",
+    "uuid": "fea85758-f53d-4e3e-bbbf-62d9998f92bd",
+    "slug": "march-10-2026-kb5078740-os-build-26100-32522-fea85758-f53d-4e3e-bbbf-62d9998f92bd",
+    "url": "https://support.microsoft.com/help/5078740"
+  },
+  "5078737": {
+    "date": "2026-03-10",
+    "uuid": "c3e0f4b0-62ac-4f92-9a7c-1831d02dc155",
+    "slug": "march-10-2026-hotpatch-kb5078737-os-build-20348-4830-c3e0f4b0-62ac-4f92-9a7c-1831d02dc155",
+    "url": "https://support.microsoft.com/help/5078737"
   }
 }
