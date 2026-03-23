@@ -25078,5 +25078,11 @@
     "uuid": "c3e0f4b0-62ac-4f92-9a7c-1831d02dc155",
     "slug": "march-10-2026-hotpatch-kb5078737-os-build-20348-4830-c3e0f4b0-62ac-4f92-9a7c-1831d02dc155",
     "url": "https://support.microsoft.com/help/5078737"
+  },
+  "5085516": {
+    "date": "2026-03-21",
+    "uuid": "09e85404-1cb6-4ed4-9ca5-3e40d74307b9",
+    "slug": "march-21-2026-kb5085516-os-builds-26200-8039-and-26100-8039-out-of-band-09e85404-1cb6-4ed4-9ca5-3e40d74307b9",
+    "url": "https://support.microsoft.com/help/5085516"
   }
 }
