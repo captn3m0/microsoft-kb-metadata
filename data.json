@@ -25096,5 +25096,113 @@
     "uuid": "cd374a56-9657-43fb-9ebe-40cb693d8d10",
     "slug": "march-26-2026-kb5079489-os-build-28000-1764-preview-cd374a56-9657-43fb-9ebe-40cb693d8d10",
     "url": "https://support.microsoft.com/help/5079489"
+  },
+  "5002860": {
+    "date": "2016-04-14",
+    "uuid": "23b25a44-1ba9-4d73-bd0c-a5ce6353f25d",
+    "slug": "description-of-the-security-update-for-excel-2016-april-14-2026-kb5002860-23b25a44-1ba9-4d73-bd0c-a5ce6353f25d",
+    "url": "https://support.microsoft.com/help/5002860"
+  },
+  "5002859": {
+    "date": "2016-04-14",
+    "uuid": "db4ef4ed-7932-4491-9847-01ff366c4f23",
+    "slug": "description-of-the-security-update-for-office-2016-april-14-2026-kb5002859-db4ef4ed-7932-4491-9847-01ff366c4f23",
+    "url": "https://support.microsoft.com/help/5002859"
+  },
+  "5086350": {
+    "date": "2026-04-01",
+    "uuid": "f9397970-d11a-4335-922a-77561a8a68cb",
+    "slug": "april-2026-updates-for-microsoft-office-f9397970-d11a-4335-922a-77561a8a68cb",
+    "url": "https://support.microsoft.com/help/5086350"
+  },
+  "5002853": {
+    "date": "2026-04-14",
+    "uuid": "e94b0185-7824-4613-b926-78a7029afe77",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-april-14-2026-kb5002853-e94b0185-7824-4613-b926-78a7029afe77",
+    "url": "https://support.microsoft.com/help/5002853"
+  },
+  "5002854": {
+    "date": "2019-04-14",
+    "uuid": "b04dcb31-fe82-4f68-85fe-df0eeea5bdde",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-april-14-2026-kb5002854-b04dcb31-fe82-4f68-85fe-df0eeea5bdde",
+    "url": "https://support.microsoft.com/help/5002854"
+  },
+  "5002856": {
+    "date": "2026-04-14",
+    "uuid": "5f8776b0-2a13-4d94-bd0a-de80286d3646",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-language-pack-april-14-2026-kb5002856-5f8776b0-2a13-4d94-bd0a-de80286d3646",
+    "url": "https://support.microsoft.com/help/5002856"
+  },
+  "5002861": {
+    "date": "2016-04-14",
+    "uuid": "72812748-bde3-45c5-963b-8fa642dcec4c",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2016-april-14-2026-kb5002861-72812748-bde3-45c5-963b-8fa642dcec4c",
+    "url": "https://support.microsoft.com/help/5002861"
+  },
+  "5002862": {
+    "date": "2026-04-14",
+    "uuid": "114215cd-142b-4b66-acc4-9057d6437381",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2016-language-pack-april-14-2026-kb5002862-114215cd-142b-4b66-acc4-9057d6437381",
+    "url": "https://support.microsoft.com/help/5002862"
+  },
+  "5084814": {
+    "date": "2026-04-14",
+    "uuid": "76d03c3f-d5ff-4031-b075-b4a83c9b5898",
+    "slug": "kb5084814-description-of-the-security-update-for-sql-server-2025-gdr-april-14-2026-76d03c3f-d5ff-4031-b075-b4a83c9b5898",
+    "url": "https://support.microsoft.com/help/5084814"
+  },
+  "5083245": {
+    "date": "2026-04-14",
+    "uuid": "05c1d543-9323-4484-9b11-23093088cd76",
+    "slug": "kb5083245-description-of-the-security-update-for-sql-server-2025-cu3-april-14-2026-05c1d543-9323-4484-9b11-23093088cd76",
+    "url": "https://support.microsoft.com/help/5083245"
+  },
+  "5084815": {
+    "date": "2026-04-14",
+    "uuid": "1e220d0c-53c6-4fab-bc61-b12b4126accb",
+    "slug": "kb5084815-description-of-the-security-update-for-sql-server-2022-gdr-april-14-2026-1e220d0c-53c6-4fab-bc61-b12b4126accb",
+    "url": "https://support.microsoft.com/help/5084815"
+  },
+  "5083252": {
+    "date": "2026-04-14",
+    "uuid": "0c8d572b-de26-4592-9ddc-09270c2a303c",
+    "slug": "kb5083252-description-of-the-security-update-for-sql-server-2022-cu24-april-14-2026-0c8d572b-de26-4592-9ddc-09270c2a303c",
+    "url": "https://support.microsoft.com/help/5083252"
+  },
+  "5084817": {
+    "date": "2026-04-14",
+    "uuid": "0bcc8d0b-9f7b-4855-8ad4-10a8aa888580",
+    "slug": "kb5084817-description-of-the-security-update-for-sql-server-2019-gdr-april-14-2026-0bcc8d0b-9f7b-4855-8ad4-10a8aa888580",
+    "url": "https://support.microsoft.com/help/5084817"
+  },
+  "5084816": {
+    "date": "2026-04-14",
+    "uuid": "b135e76b-1601-4477-9185-0520debd95a6",
+    "slug": "kb5084816-description-of-the-security-update-for-sql-server-2019-cu32-april-14-2026-b135e76b-1601-4477-9185-0520debd95a6",
+    "url": "https://support.microsoft.com/help/5084816"
+  },
+  "5084819": {
+    "date": "2026-04-14",
+    "uuid": "d1bb00b1-4f67-4197-a2d7-b6f80ef10d24",
+    "slug": "kb5084819-description-of-the-security-update-for-sql-server-2017-gdr-april-14-2026-d1bb00b1-4f67-4197-a2d7-b6f80ef10d24",
+    "url": "https://support.microsoft.com/help/5084819"
+  },
+  "5084818": {
+    "date": "2026-04-14",
+    "uuid": "0ddfecfe-673e-4f3e-8ffd-8dfeb66f97e4",
+    "slug": "kb5084818-description-of-the-security-update-for-sql-server-2017-cu31-april-14-2026-0ddfecfe-673e-4f3e-8ffd-8dfeb66f97e4",
+    "url": "https://support.microsoft.com/help/5084818"
+  },
+  "5084820": {
+    "date": "2026-04-14",
+    "uuid": "bc8bf4cb-40c2-470b-9316-33faefe75916",
+    "slug": "kb5084820-description-of-the-security-update-for-sql-server-2016-sp3-azure-connect-feature-pack-april-14-2026-bc8bf4cb-40c2-470b-9316-33faefe75916",
+    "url": "https://support.microsoft.com/help/5084820"
+  },
+  "5084821": {
+    "date": "2026-04-14",
+    "uuid": "825c8bb5-cf16-4265-b2db-10ce404287de",
+    "slug": "kb5084821-description-of-the-security-update-for-sql-server-2016-sp3-gdr-april-14-2026-825c8bb5-cf16-4265-b2db-10ce404287de",
+    "url": "https://support.microsoft.com/help/5084821"
   }
 }
