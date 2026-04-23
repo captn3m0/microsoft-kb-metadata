@@ -25204,5 +25204,83 @@
     "uuid": "825c8bb5-cf16-4265-b2db-10ce404287de",
     "slug": "kb5084821-description-of-the-security-update-for-sql-server-2016-sp3-gdr-april-14-2026-825c8bb5-cf16-4265-b2db-10ce404287de",
     "url": "https://support.microsoft.com/help/5084821"
+  },
+  "5082200": {
+    "date": "2026-04-14",
+    "uuid": "4fa6421d-5c52-4aa1-ace0-647647282000",
+    "slug": "april-14-2026-kb5082200-os-builds-19045-7184-and-19044-7184-4fa6421d-5c52-4aa1-ace0-647647282000",
+    "url": "https://support.microsoft.com/help/5082200"
+  },
+  "5091573": {
+    "date": "2026-04-19",
+    "uuid": "08263e6c-c20a-423f-8d75-9c6d77a0c75e",
+    "slug": "april-19-2026-kb5091573-os-build-17763-8647-out-of-band-08263e6c-c20a-423f-8d75-9c6d77a0c75e",
+    "url": "https://support.microsoft.com/help/5091573"
+  },
+  "5082198": {
+    "date": "2026-04-14",
+    "uuid": "9c1c628a-9294-4ac3-bbf0-05bbba21a6ef",
+    "slug": "april-14-2026-kb5082198-os-build-14393-9060-9c1c628a-9294-4ac3-bbf0-05bbba21a6ef",
+    "url": "https://support.microsoft.com/help/5082198"
+  },
+  "5091572": {
+    "date": "2026-04-19",
+    "uuid": "5df74339-4bd0-4fd0-af74-45972f072abb",
+    "slug": "april-19-2026-kb5091572-os-build-14393-9062-out-of-band-5df74339-4bd0-4fd0-af74-45972f072abb",
+    "url": "https://support.microsoft.com/help/5091572"
+  },
+  "5082123": {
+    "date": "2026-04-14",
+    "uuid": "539c4d59-373c-462e-b31d-de708c4ed156",
+    "slug": "april-14-2026-kb5082123-os-build-17763-8644-539c4d59-373c-462e-b31d-de708c4ed156",
+    "url": "https://support.microsoft.com/help/5082123"
+  },
+  "5082142": {
+    "date": "2026-04-14",
+    "uuid": "6217e03b-0ee3-488e-9f10-90a1e17e620e",
+    "slug": "april-14-2026-kb5082142-os-build-20348-5020-6217e03b-0ee3-488e-9f10-90a1e17e620e",
+    "url": "https://support.microsoft.com/help/5082142"
+  },
+  "5091575": {
+    "date": "2026-04-19",
+    "uuid": "4a5a784e-e50a-4358-8093-b1654aecdbd1",
+    "slug": "april-19-2026-kb5091575-os-build-20348-5024-out-of-band-4a5a784e-e50a-4358-8093-b1654aecdbd1",
+    "url": "https://support.microsoft.com/help/5091575"
+  },
+  "5091576": {
+    "date": "2026-04-19",
+    "uuid": "5b2259b9-a15f-4cc4-b18f-f4f2c3b6b184",
+    "slug": "april-19-2026-hotpatch-kb5091576-os-build-20348-5029-out-of-band-5b2259b9-a15f-4cc4-b18f-f4f2c3b6b184",
+    "url": "https://support.microsoft.com/help/5091576"
+  },
+  "5082063": {
+    "date": "2026-04-14",
+    "uuid": "c57e289d-27c9-47cd-a183-72fabc62c5d7",
+    "slug": "april-14-2026-kb5082063-os-build-26100-32690-c57e289d-27c9-47cd-a183-72fabc62c5d7",
+    "url": "https://support.microsoft.com/help/5082063"
+  },
+  "5091157": {
+    "date": "2026-04-19",
+    "uuid": "13ab53cc-ccc8-4a00-89d2-823b58fa03ec",
+    "slug": "april-19-2026-kb5091157-os-build-26100-32698-out-of-band-13ab53cc-ccc8-4a00-89d2-823b58fa03ec",
+    "url": "https://support.microsoft.com/help/5091157"
+  },
+  "5091470": {
+    "date": "2026-04-19",
+    "uuid": "b09952e2-f7e1-4af0-a479-ecf2c427af56",
+    "slug": "april-19-2026-hotpatch-kb5091470-os-build-26100-32704-out-of-band-b09952e2-f7e1-4af0-a479-ecf2c427af56",
+    "url": "https://support.microsoft.com/help/5091470"
+  },
+  "5091571": {
+    "date": "2026-04-19",
+    "uuid": "db7efe26-a313-449c-8b87-f9e9d99b4365",
+    "slug": "april-19-2026-kb5091571-os-build-25398-2276-out-of-band-db7efe26-a313-449c-8b87-f9e9d99b4365",
+    "url": "https://support.microsoft.com/help/5091571"
+  },
+  "5083769": {
+    "date": "2026-04-14",
+    "uuid": "22f90ae5-9f26-40ac-9134-6a586a71163b",
+    "slug": "april-14-2026-kb5083769-os-builds-26200-8246-and-26100-8246-22f90ae5-9f26-40ac-9134-6a586a71163b",
+    "url": "https://support.microsoft.com/help/5083769"
   }
 }
