@@ -25300,5 +25300,11 @@
     "uuid": "45cc1666-b34f-4ea6-bc93-f67defff8c38",
     "slug": "march-31-2026-kb5086672-os-builds-26200-8117-and-26100-8117-out-of-band-45cc1666-b34f-4ea6-bc93-f67defff8c38",
     "url": "https://support.microsoft.com/help/5086672"
+  },
+  "5081755": {
+    "date": "2026-05-07",
+    "uuid": "234ea476-6123-4493-ba18-a608b0a3a5ef",
+    "slug": "hotfix-update-for-exchange-server-subscription-edition-rtm-hu6-may-7-2026-kb5081755-234ea476-6123-4493-ba18-a608b0a3a5ef",
+    "url": "https://support.microsoft.com/help/5081755"
   }
 }
