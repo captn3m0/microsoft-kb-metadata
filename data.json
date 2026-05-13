@@ -25384,5 +25384,47 @@
     "uuid": "f56e03d6-ea3a-4fe4-a028-c7b9dbf0c441",
     "slug": "april-30-2026-kb5083806-os-build-28000-1896-preview-f56e03d6-ea3a-4fe4-a028-c7b9dbf0c441",
     "url": "https://support.microsoft.com/help/5083806"
+  },
+  "5002865": {
+    "date": "2016-05-12",
+    "uuid": "399c99bc-e62c-464e-971c-a2514b53d04c",
+    "slug": "description-of-the-security-update-for-excel-2016-may-12-2026-kb5002865-399c99bc-e62c-464e-971c-a2514b53d04c",
+    "url": "https://support.microsoft.com/help/5002865"
+  },
+  "5002866": {
+    "date": "2016-05-12",
+    "uuid": "cef94511-1b8d-47a1-8988-ef72a218806e",
+    "slug": "description-of-the-security-update-for-office-2016-may-12-2026-kb5002866-cef94511-1b8d-47a1-8988-ef72a218806e",
+    "url": "https://support.microsoft.com/help/5002866"
+  },
+  "5002858": {
+    "date": "2016-05-12",
+    "uuid": "42b9ef39-54e6-45e3-8184-192b6fbb802f",
+    "slug": "description-of-the-security-update-for-word-2016-may-12-2026-kb5002858-42b9ef39-54e6-45e3-8184-192b6fbb802f",
+    "url": "https://support.microsoft.com/help/5002858"
+  },
+  "5002863": {
+    "date": "2026-05-12",
+    "uuid": "91158c5e-7155-47f8-86c2-9f8924cbfa12",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-may-12-2026-kb5002863-91158c5e-7155-47f8-86c2-9f8924cbfa12",
+    "url": "https://support.microsoft.com/help/5002863"
+  },
+  "5002872": {
+    "date": "2026-05-12",
+    "uuid": "915274b9-5d96-41d6-b2f7-414eacc9c9f4",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-language-pack-may-12-2026-kb5002872-915274b9-5d96-41d6-b2f7-414eacc9c9f4",
+    "url": "https://support.microsoft.com/help/5002872"
+  },
+  "5090408": {
+    "date": "2026-05-12",
+    "uuid": "f8d265b3-38e7-4b11-8870-f903185d88d9",
+    "slug": "kb5090408-description-of-the-security-update-for-sql-server-2019-gdr-may-12-2026-f8d265b3-38e7-4b11-8870-f903185d88d9",
+    "url": "https://support.microsoft.com/help/5090408"
+  },
+  "5089270": {
+    "date": "2026-05-12",
+    "uuid": "289f3e3e-a52b-4da2-b733-cf3ddf68a988",
+    "slug": "kb5089270-description-of-the-security-update-for-sql-server-2016-sp3-azure-connect-feature-pack-may-12-2026-289f3e3e-a52b-4da2-b733-cf3ddf68a988",
+    "url": "https://support.microsoft.com/help/5089270"
   }
 }
