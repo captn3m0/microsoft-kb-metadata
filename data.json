@@ -25426,5 +25426,47 @@
     "uuid": "289f3e3e-a52b-4da2-b733-cf3ddf68a988",
     "slug": "kb5089270-description-of-the-security-update-for-sql-server-2016-sp3-azure-connect-feature-pack-may-12-2026-289f3e3e-a52b-4da2-b733-cf3ddf68a988",
     "url": "https://support.microsoft.com/help/5089270"
+  },
+  "5087539": {
+    "date": "2026-05-12",
+    "uuid": "fe3fd635-23fc-41bd-b7a7-00e57c1c4f91",
+    "slug": "may-12-2026-kb5087539-os-build-26100-32860-fe3fd635-23fc-41bd-b7a7-00e57c1c4f91",
+    "url": "https://support.microsoft.com/help/5087539"
+  },
+  "5087538": {
+    "date": "2026-05-12",
+    "uuid": "d46cf25a-18fd-4909-aac7-05a490880901",
+    "slug": "may-12-2026-kb5087538-os-build-17763-8755-d46cf25a-18fd-4909-aac7-05a490880901",
+    "url": "https://support.microsoft.com/help/5087538"
+  },
+  "5089548": {
+    "date": "2026-05-12",
+    "uuid": "5c764ec5-ab8d-41ca-aad4-c3630305f6ac",
+    "slug": "may-12-2026-kb5089548-os-build-28000-2113-5c764ec5-ab8d-41ca-aad4-c3630305f6ac",
+    "url": "https://support.microsoft.com/help/5089548"
+  },
+  "5089549": {
+    "date": "2026-05-12",
+    "uuid": "28ec2a99-4bbe-481d-a340-5c6cf18d9acb",
+    "slug": "may-12-2026-kb5089549-os-builds-26200-8457-and-26100-8457-28ec2a99-4bbe-481d-a340-5c6cf18d9acb",
+    "url": "https://support.microsoft.com/help/5089549"
+  },
+  "5087420": {
+    "date": "2026-05-12",
+    "uuid": "69e3e7a8-715f-4a0b-a139-e4829503283d",
+    "slug": "may-12-2026-kb5087420-os-build-22631-7079-69e3e7a8-715f-4a0b-a139-e4829503283d",
+    "url": "https://support.microsoft.com/help/5087420"
+  },
+  "5083631": {
+    "date": "2026-04-30",
+    "uuid": "db6b5d64-ff7e-4fea-8f47-bde66c97d759",
+    "slug": "april-30-2026-kb5083631-os-builds-26200-8328-and-26100-8328-preview-db6b5d64-ff7e-4fea-8f47-bde66c97d759",
+    "url": "https://support.microsoft.com/help/5083631"
+  },
+  "5089466": {
+    "date": "2026-05-12",
+    "uuid": "8a0dd60b-c2fb-45d6-95f2-2609df309a9a",
+    "slug": "may-12-2026-hotpatch-kb5089466-os-builds-26200-8390-and-26100-8390-8a0dd60b-c2fb-45d6-95f2-2609df309a9a",
+    "url": "https://support.microsoft.com/help/5089466"
   }
 }
