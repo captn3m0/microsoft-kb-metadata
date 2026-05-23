@@ -25468,5 +25468,17 @@
     "uuid": "8a0dd60b-c2fb-45d6-95f2-2609df309a9a",
     "slug": "may-12-2026-hotpatch-kb5089466-os-builds-26200-8390-and-26100-8390-8a0dd60b-c2fb-45d6-95f2-2609df309a9a",
     "url": "https://support.microsoft.com/help/5089466"
+  },
+  "5087544": {
+    "date": "2026-05-12",
+    "uuid": "579dfaac-2664-45cc-9bd8-e6999fcc8836",
+    "slug": "may-12-2026-kb5087544-os-builds-19045-7291-and-19044-7291-579dfaac-2664-45cc-9bd8-e6999fcc8836",
+    "url": "https://support.microsoft.com/help/5087544"
+  },
+  "5087537": {
+    "date": "2026-05-12",
+    "uuid": "2ef98591-73f0-4517-9fa0-12764b51858f",
+    "slug": "may-12-2026-kb5087537-os-build-14393-9140-2ef98591-73f0-4517-9fa0-12764b51858f",
+    "url": "https://support.microsoft.com/help/5087537"
   }
 }
