@@ -25480,5 +25480,11 @@
     "uuid": "2ef98591-73f0-4517-9fa0-12764b51858f",
     "slug": "may-12-2026-kb5087537-os-build-14393-9140-2ef98591-73f0-4517-9fa0-12764b51858f",
     "url": "https://support.microsoft.com/help/5087537"
+  },
+  "5087545": {
+    "date": "2026-05-12",
+    "uuid": "6aed2a73-37f9-468c-8bdc-4bae674797cf",
+    "slug": "may-12-2026-kb5087545-os-build-20348-5139-6aed2a73-37f9-468c-8bdc-4bae674797cf",
+    "url": "https://support.microsoft.com/help/5087545"
   }
 }
