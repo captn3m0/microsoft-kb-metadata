@@ -25492,5 +25492,11 @@
     "uuid": "f378c8ae-0170-47c9-a1e9-dfef978c8e17",
     "slug": "may-26-2026-kb5089573-os-builds-26200-8524-and-26100-8524-preview-f378c8ae-0170-47c9-a1e9-dfef978c8e17",
     "url": "https://support.microsoft.com/help/5089573"
+  },
+  "5089570": {
+    "date": "2026-05-26",
+    "uuid": "89993979-7bd9-4e57-aa33-588c7780addb",
+    "slug": "may-26-2026-kb5089570-os-build-28000-2179-preview-89993979-7bd9-4e57-aa33-588c7780addb",
+    "url": "https://support.microsoft.com/help/5089570"
   }
 }
