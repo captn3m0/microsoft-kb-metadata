@@ -25498,5 +25498,95 @@
     "uuid": "89993979-7bd9-4e57-aa33-588c7780addb",
     "slug": "may-26-2026-kb5089570-os-build-28000-2179-preview-89993979-7bd9-4e57-aa33-588c7780addb",
     "url": "https://support.microsoft.com/help/5089570"
+  },
+  "5094139": {
+    "date": "2026-06-09",
+    "uuid": "d9713301-1e65-40f9-a14a-2c7b8ae711d1",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-subscription-edition-rtm-june-09-2026-kb5094139-d9713301-1e65-40f9-a14a-2c7b8ae711d1",
+    "url": "https://support.microsoft.com/help/5094139"
+  },
+  "5094140": {
+    "date": "2026-06-09",
+    "uuid": "87cde12f-2657-4c21-b587-15383cab1137",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-2019-cu15-june-09-2026-kb5094140-87cde12f-2657-4c21-b587-15383cab1137",
+    "url": "https://support.microsoft.com/help/5094140"
+  },
+  "5094142": {
+    "date": "2026-06-09",
+    "uuid": "199c2365-df8e-4dfe-9f43-fc741c13949d",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-2019-cu14-june-09-2026-kb5094142-199c2365-df8e-4dfe-9f43-fc741c13949d",
+    "url": "https://support.microsoft.com/help/5094142"
+  },
+  "5094144": {
+    "date": "2026-06-09",
+    "uuid": "5c4aee4a-6c0e-42af-a2ed-fc23a10ce543",
+    "slug": "description-of-the-security-update-for-microsoft-exchange-server-2016-cu23-june-09-2026-kb5094144-5c4aee4a-6c0e-42af-a2ed-fc23a10ce543",
+    "url": "https://support.microsoft.com/help/5094144"
+  },
+  "5002877": {
+    "date": "2016-06-09",
+    "uuid": "bca1344e-015d-46d9-a708-49cd74b75b74",
+    "slug": "description-of-the-security-update-for-excel-2016-june-9-2026-kb5002877-bca1344e-015d-46d9-a708-49cd74b75b74",
+    "url": "https://support.microsoft.com/help/5002877"
+  },
+  "5002878": {
+    "date": "2016-06-09",
+    "uuid": "53a32fbd-b930-4511-94d4-fa5d8c87bd65",
+    "slug": "description-of-the-security-update-for-office-2016-june-9-2026-kb5002878-53a32fbd-b930-4511-94d4-fa5d8c87bd65",
+    "url": "https://support.microsoft.com/help/5002878"
+  },
+  "5002852": {
+    "date": "2016-06-09",
+    "uuid": "380d2dcf-ef68-4ff1-affe-eee56ace0bc9",
+    "slug": "description-of-the-security-update-for-office-2016-june-9-2026-kb5002852-380d2dcf-ef68-4ff1-affe-eee56ace0bc9",
+    "url": "https://support.microsoft.com/help/5002852"
+  },
+  "5002578": {
+    "date": "2016-06-09",
+    "uuid": "502695a2-263e-49f4-a777-f2d26fc25403",
+    "slug": "description-of-the-security-update-for-office-2016-june-9-2023-kb5002578-502695a2-263e-49f4-a777-f2d26fc25403",
+    "url": "https://support.microsoft.com/help/5002578"
+  },
+  "5002879": {
+    "date": "2016-06-09",
+    "uuid": "1708731d-5c88-45a9-adae-1d09c56b6b92",
+    "slug": "description-of-the-security-update-for-word-2016-june-9-2026-kb5002879-1708731d-5c88-45a9-adae-1d09c56b6b92",
+    "url": "https://support.microsoft.com/help/5002879"
+  },
+  "5098670": {
+    "date": "2026-06-01",
+    "uuid": "0a7978da-f46a-428c-9632-5b690a27e20a",
+    "slug": "june-2026-updates-for-microsoft-office-0a7978da-f46a-428c-9632-5b690a27e20a",
+    "url": "https://support.microsoft.com/help/5098670"
+  },
+  "5002873": {
+    "date": "2026-06-09",
+    "uuid": "748a1c50-e53b-48ce-b71a-44c39a02922e",
+    "slug": "description-of-the-security-update-for-sharepoint-server-subscription-edition-june-9-2026-kb5002873-748a1c50-e53b-48ce-b71a-44c39a02922e",
+    "url": "https://support.microsoft.com/help/5002873"
+  },
+  "5002874": {
+    "date": "2019-06-09",
+    "uuid": "ddd2ad8c-f1e6-4285-8d09-1eeeaaabab3a",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-june-9-2026-kb5002874-ddd2ad8c-f1e6-4285-8d09-1eeeaaabab3a",
+    "url": "https://support.microsoft.com/help/5002874"
+  },
+  "5002876": {
+    "date": "2026-06-09",
+    "uuid": "7c0bd9eb-9fef-4304-82c4-8dce193988b4",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2019-language-pack-june-9-2026-kb5002876-7c0bd9eb-9fef-4304-82c4-8dce193988b4",
+    "url": "https://support.microsoft.com/help/5002876"
+  },
+  "5002880": {
+    "date": "2016-06-09",
+    "uuid": "acd28b53-ca87-48da-8d49-786546e630cf",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2016-june-9-2026-kb5002880-acd28b53-ca87-48da-8d49-786546e630cf",
+    "url": "https://support.microsoft.com/help/5002880"
+  },
+  "5002881": {
+    "date": "2026-06-09",
+    "uuid": "35b42a79-f6e7-4119-b04c-dbbb1ea35bcb",
+    "slug": "description-of-the-security-update-for-sharepoint-server-2016-language-pack-june-9-2026-kb5002881-35b42a79-f6e7-4119-b04c-dbbb1ea35bcb",
+    "url": "https://support.microsoft.com/help/5002881"
   }
 }
