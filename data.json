@@ -25588,5 +25588,35 @@
     "uuid": "35b42a79-f6e7-4119-b04c-dbbb1ea35bcb",
     "slug": "description-of-the-security-update-for-sharepoint-server-2016-language-pack-june-9-2026-kb5002881-35b42a79-f6e7-4119-b04c-dbbb1ea35bcb",
     "url": "https://support.microsoft.com/help/5002881"
+  },
+  "5094125": {
+    "date": "2026-06-09",
+    "uuid": "e28b3956-9a5a-4b4d-bc2c-fb1bdc5d3709",
+    "slug": "june-9-2026-kb5094125-os-build-26100-32995-e28b3956-9a5a-4b4d-bc2c-fb1bdc5d3709",
+    "url": "https://support.microsoft.com/help/5094125"
+  },
+  "5094123": {
+    "date": "2026-06-09",
+    "uuid": "19adceff-e266-40ec-8a10-df4bb0e320ea",
+    "slug": "june-9-2026-kb5094123-os-build-17763-8880-19adceff-e266-40ec-8a10-df4bb0e320ea",
+    "url": "https://support.microsoft.com/help/5094123"
+  },
+  "5095051": {
+    "date": "2026-06-09",
+    "uuid": "08941082-395f-4fb3-963e-5ca0ef067856",
+    "slug": "june-9-2026-kb5095051-os-build-28000-2269-08941082-395f-4fb3-963e-5ca0ef067856",
+    "url": "https://support.microsoft.com/help/5095051"
+  },
+  "5094126": {
+    "date": "2026-06-09",
+    "uuid": "1a9bcba6-5f53-4075-8156-fe11ac631737",
+    "slug": "june-9-2026-kb5094126-os-builds-26200-8655-and-26100-8655-1a9bcba6-5f53-4075-8156-fe11ac631737",
+    "url": "https://support.microsoft.com/help/5094126"
+  },
+  "5093998": {
+    "date": "2026-06-09",
+    "uuid": "25b5758b-e03d-44d5-a163-6a102ac785b4",
+    "slug": "june-9-2026-kb5093998-os-build-22631-7219-25b5758b-e03d-44d5-a163-6a102ac785b4",
+    "url": "https://support.microsoft.com/help/5093998"
   }
 }
