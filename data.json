@@ -25618,5 +25618,17 @@
     "uuid": "25b5758b-e03d-44d5-a163-6a102ac785b4",
     "slug": "june-9-2026-kb5093998-os-build-22631-7219-25b5758b-e03d-44d5-a163-6a102ac785b4",
     "url": "https://support.microsoft.com/help/5093998"
+  },
+  "5094128": {
+    "date": "2026-06-09",
+    "uuid": "56823f3e-e2a4-4839-ab01-b9de5ec4cbed",
+    "slug": "june-9-2026-kb5094128-os-build-20348-5256-56823f3e-e2a4-4839-ab01-b9de5ec4cbed",
+    "url": "https://support.microsoft.com/help/5094128"
+  },
+  "5094122": {
+    "date": "2026-06-09",
+    "uuid": "e1f06a86-1ecc-497e-a024-6cb3471b57dd",
+    "slug": "june-9-2026-kb5094122-os-build-14393-9234-e1f06a86-1ecc-497e-a024-6cb3471b57dd",
+    "url": "https://support.microsoft.com/help/5094122"
   }
 }
