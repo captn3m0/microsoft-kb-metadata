@@ -25636,5 +25636,17 @@
     "uuid": "bf1073f3-e317-40ac-94c7-4c23c080c7cf",
     "slug": "june-9-2026-kb5094127-os-builds-19045-7417-and-19044-7417-bf1073f3-e317-40ac-94c7-4c23c080c7cf",
     "url": "https://support.microsoft.com/help/5094127"
+  },
+  "5094041": {
+    "date": "2026-06-09",
+    "uuid": "e749f25c-0646-4154-ac30-a2e3afb721aa",
+    "slug": "june-9-2026-kb5094041-monthly-rollup-e749f25c-0646-4154-ac30-a2e3afb721aa",
+    "url": "https://support.microsoft.com/help/5094041"
+  },
+  "5094042": {
+    "date": "2026-06-09",
+    "uuid": "65b94b84-99da-44c2-b604-c6bf0977614a",
+    "slug": "june-9-2026-kb5094042-monthly-rollup-65b94b84-99da-44c2-b604-c6bf0977614a",
+    "url": "https://support.microsoft.com/help/5094042"
   }
 }
