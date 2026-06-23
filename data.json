@@ -25648,5 +25648,11 @@
     "uuid": "65b94b84-99da-44c2-b604-c6bf0977614a",
     "slug": "june-9-2026-kb5094042-monthly-rollup-65b94b84-99da-44c2-b604-c6bf0977614a",
     "url": "https://support.microsoft.com/help/5094042"
+  },
+  "5095093": {
+    "date": "2026-06-23",
+    "uuid": "0e2a20f2-cf9e-46f8-9f08-e6996220882d",
+    "slug": "june-23-2026-kb5095093-os-builds-26200-8737-and-26100-8737-preview-0e2a20f2-cf9e-46f8-9f08-e6996220882d",
+    "url": "https://support.microsoft.com/help/5095093"
   }
 }
