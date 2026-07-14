@@ -25660,5 +25660,59 @@
     "uuid": "255237ff-1236-4ad7-a087-251eb0cf8869",
     "slug": "june-23-2026-kb5095091-os-build-28000-2340-preview-255237ff-1236-4ad7-a087-251eb0cf8869",
     "url": "https://support.microsoft.com/help/5095091"
+  },
+  "5099535": {
+    "date": "2026-07-14",
+    "uuid": "4-2026-kb5099535-os-build-14393-9339",
+    "slug": "july-14-2026-kb5099535-os-build-14393-9339",
+    "url": "https://support.microsoft.com/help/5099535"
+  },
+  "5099538": {
+    "date": "2026-07-14",
+    "uuid": "4-2026-kb5099538-os-build-17763-9020",
+    "slug": "july-14-2026-kb5099538-os-build-17763-9020",
+    "url": "https://support.microsoft.com/help/5099538"
+  },
+  "5099539": {
+    "date": "2026-07-14",
+    "uuid": "-os-builds-19045-7548-and-19044-7548",
+    "slug": "july-14-2026-kb5099539-os-builds-19045-7548-and-19044-7548",
+    "url": "https://support.microsoft.com/help/5099539"
+  },
+  "5099414": {
+    "date": "2026-07-14",
+    "uuid": "4-2026-kb5099414-os-build-22631-7376",
+    "slug": "july-14-2026-kb5099414-os-build-22631-7376",
+    "url": "https://support.microsoft.com/help/5099414"
+  },
+  "5099444": {
+    "date": "2026-07-14",
+    "uuid": "uly-14-2026-kb5099444-monthly-rollup",
+    "slug": "july-14-2026-kb5099444-monthly-rollup",
+    "url": "https://support.microsoft.com/help/5099444"
+  },
+  "5099445": {
+    "date": "2026-07-14",
+    "uuid": "uly-14-2026-kb5099445-monthly-rollup",
+    "slug": "july-14-2026-kb5099445-monthly-rollup",
+    "url": "https://support.microsoft.com/help/5099445"
+  },
+  "5099540": {
+    "date": "2026-07-14",
+    "uuid": "4-2026-kb5099540-os-build-20348-5386",
+    "slug": "july-14-2026-kb5099540-os-build-20348-5386",
+    "url": "https://support.microsoft.com/help/5099540"
+  },
+  "5099536": {
+    "date": "2026-07-14",
+    "uuid": "-2026-kb5099536-os-build-26100-33158",
+    "slug": "july-14-2026-kb5099536-os-build-26100-33158",
+    "url": "https://support.microsoft.com/help/5099536"
+  },
+  "5101650": {
+    "date": "2026-07-14",
+    "uuid": "-os-builds-26200-8875-and-26100-8875",
+    "slug": "july-14-2026-kb5101650-os-builds-26200-8875-and-26100-8875",
+    "url": "https://support.microsoft.com/help/5101650"
   }
 }
