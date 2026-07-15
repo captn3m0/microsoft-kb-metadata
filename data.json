@@ -25714,5 +25714,11 @@
     "uuid": "-os-builds-26200-8875-and-26100-8875",
     "slug": "july-14-2026-kb5101650-os-builds-26200-8875-and-26100-8875",
     "url": "https://support.microsoft.com/help/5101650"
+  },
+  "5002808": {
+    "date": "2016-04-14",
+    "uuid": "019d2703-1b22-4237-8960-497157464ee9",
+    "slug": "description-of-the-security-update-for-powerpoint-2016-april-14-2026-kb5002808-019d2703-1b22-4237-8960-497157464ee9",
+    "url": "https://support.microsoft.com/help/5002808"
   }
 }
