@@ -25720,5 +25720,11 @@
     "uuid": "019d2703-1b22-4237-8960-497157464ee9",
     "slug": "description-of-the-security-update-for-powerpoint-2016-april-14-2026-kb5002808-019d2703-1b22-4237-8960-497157464ee9",
     "url": "https://support.microsoft.com/help/5002808"
+  },
+  "5101649": {
+    "date": "2026-07-14",
+    "uuid": "4-2026-kb5101649-os-build-28000-2525",
+    "slug": "july-14-2026-kb5101649-os-build-28000-2525",
+    "url": "https://support.microsoft.com/help/5101649"
   }
 }
