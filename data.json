@@ -25726,5 +25726,11 @@
     "uuid": "4-2026-kb5101649-os-build-28000-2525",
     "slug": "july-14-2026-kb5101649-os-build-28000-2525",
     "url": "https://support.microsoft.com/help/5101649"
+  },
+  "5101684": {
+    "date": "2026-07-28",
+    "uuid": "july-28-2026-kb5101684-preview",
+    "slug": "july-28-2026-kb5101684-preview",
+    "url": "https://support.microsoft.com/help/5101684"
   }
 }
