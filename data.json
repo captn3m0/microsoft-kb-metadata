@@ -25762,5 +25762,113 @@
     "uuid": "2984f4af-5751-411c-9a0b-78f05dc8d5d0",
     "slug": "may-12-2026-hotpatch-kb5087424-os-build-20348-5074-2984f4af-5751-411c-9a0b-78f05dc8d5d0",
     "url": "https://support.microsoft.com/help/5087424"
+  },
+  "4093109": {
+    "date": "2018-04-10",
+    "uuid": "a8ebe9db-7bf8-6876-4f9d-7abd7e9e91b3",
+    "slug": "april-10-2018-kb4093109-os-build-10586-1540-a8ebe9db-7bf8-6876-4f9d-7abd7e9e91b3",
+    "url": "https://support.microsoft.com/help/4093109"
+  },
+  "4088779": {
+    "date": "2018-03-13",
+    "uuid": "da7a0208-6858-6884-e940-fea80d6e58e9",
+    "slug": "march-13-2018-kb4088779-os-build-10586-1478-da7a0208-6858-6884-e940-fea80d6e58e9",
+    "url": "https://support.microsoft.com/help/4088779"
+  },
+  "4074591": {
+    "date": "2018-02-13",
+    "uuid": "acc76763-ce2f-3f52-81ae-6c68cf3faaf3",
+    "slug": "february-13-2018-kb4074591-os-build-10586-1417-acc76763-ce2f-3f52-81ae-6c68cf3faaf3",
+    "url": "https://support.microsoft.com/help/4074591"
+  },
+  "4075200": {
+    "date": "2018-01-18",
+    "uuid": "00bc2e53-72c8-071d-66ed-60bccbda4ae9",
+    "slug": "january-18-2018-kb4075200-os-build-10586-1358-00bc2e53-72c8-071d-66ed-60bccbda4ae9",
+    "url": "https://support.microsoft.com/help/4075200"
+  },
+  "4056888": {
+    "date": "2018-01-03",
+    "uuid": "95085eaa-5315-9622-763a-5bddc397d049",
+    "slug": "january-3-2018-kb4056888-os-build-10586-1356-95085eaa-5315-9622-763a-5bddc397d049",
+    "url": "https://support.microsoft.com/help/4056888"
+  },
+  "4053578": {
+    "date": "2017-12-12",
+    "uuid": "6285a434-2fa1-14d7-fc16-3082f97ad32c",
+    "slug": "december-12-2017-kb4053578-os-build-10586-1295-6285a434-2fa1-14d7-fc16-3082f97ad32c",
+    "url": "https://support.microsoft.com/help/4053578"
+  },
+  "4048952": {
+    "date": "2017-11-14",
+    "uuid": "8d3fe358-3e72-e7e1-f41c-9033e3a981c6",
+    "slug": "november-14-2017-kb4048952-os-build-10586-1232-8d3fe358-3e72-e7e1-f41c-9033e3a981c6",
+    "url": "https://support.microsoft.com/help/4048952"
+  },
+  "4052232": {
+    "date": "2017-11-02",
+    "uuid": "ac895629-ed09-bf19-c884-bcf596883fa1",
+    "slug": "november-2-2017-kb4052232-os-build-10586-1177-ac895629-ed09-bf19-c884-bcf596883fa1",
+    "url": "https://support.microsoft.com/help/4052232"
+  },
+  "4041689": {
+    "date": "2017-10-10",
+    "uuid": "b57942bd-a962-b924-9342-4a8128757e96",
+    "slug": "october-10-2017-kb4041689-os-build-10586-1176-b57942bd-a962-b924-9342-4a8128757e96",
+    "url": "https://support.microsoft.com/help/4041689"
+  },
+  "4038783": {
+    "date": "2017-09-12",
+    "uuid": "26339283-9b8c-48b2-bad7-79e413a1d50c",
+    "slug": "september-12-2017-kb4038783-os-build-10586-1106-26339283-9b8c-48b2-bad7-79e413a1d50c",
+    "url": "https://support.microsoft.com/help/4038783"
+  },
+  "4034660": {
+    "date": "2017-08-08",
+    "uuid": "b0314504-441f-501e-6925-2636d4b5cb9a",
+    "slug": "august-8-2017-kb4034660-os-build-10586-1045-b0314504-441f-501e-6925-2636d4b5cb9a",
+    "url": "https://support.microsoft.com/help/4034660"
+  },
+  "4025344": {
+    "date": "2017-07-11",
+    "uuid": "df4b5360-f733-4ea0-4a8b-0cdf62fb9344",
+    "slug": "july-11-2017-kb4025344-os-build-10586-1007-df4b5360-f733-4ea0-4a8b-0cdf62fb9344",
+    "url": "https://support.microsoft.com/help/4025344"
+  },
+  "4032693": {
+    "date": "2017-06-27",
+    "uuid": "b055611b-3298-7edd-783c-45efefd69af4",
+    "slug": "june-27-2017-kb4032693-os-build-10586-965-b055611b-3298-7edd-783c-45efefd69af4",
+    "url": "https://support.microsoft.com/help/4032693"
+  },
+  "4022714": {
+    "date": "2017-06-13",
+    "uuid": "41c22949-dc3b-4f15-f970-41adc51ef964",
+    "slug": "june-13-2017-kb4022714-os-build-10586-962-41c22949-dc3b-4f15-f970-41adc51ef964",
+    "url": "https://support.microsoft.com/help/4022714"
+  },
+  "4019473": {
+    "date": "2017-05-09",
+    "uuid": "30075421-04b2-4921-b52c-8617365376d8",
+    "slug": "may-9-2017-kb4019473-os-build-10586-916-30075421-04b2-4921-b52c-8617365376d8",
+    "url": "https://support.microsoft.com/help/4019473"
+  },
+  "4015219": {
+    "date": "2017-04-11",
+    "uuid": "68b8e379-aafa-ea6c-6b29-56d19785e657",
+    "slug": "april-11-2017-kb4015219-os-build-10586-873-68b8e379-aafa-ea6c-6b29-56d19785e657",
+    "url": "https://support.microsoft.com/help/4015219"
+  },
+  "4013198": {
+    "date": "2017-03-14",
+    "uuid": "b30e879e-52b2-7746-f690-719984e1b9f4",
+    "slug": "march-14-2017-kb4013198-os-build-10586-839-b30e879e-52b2-7746-f690-719984e1b9f4",
+    "url": "https://support.microsoft.com/help/4013198"
+  },
+  "3210721": {
+    "date": "2017-01-10",
+    "uuid": "10-2017-kb3210721-os-build-10586-753",
+    "slug": "january-10-2017-kb3210721-os-build-10586-753",
+    "url": "https://support.microsoft.com/help/3210721"
   }
 }
